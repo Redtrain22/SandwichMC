@@ -186,11 +186,6 @@ hash = "99f336d0eb2c9ce4c5ca5c2cc1f8cf94d0cdfa414c6190e6ca9571aa0fa9b0ed"
 metafile = true
 
 [[files]]
-file = "mods/majruszs-progressive-difficulty.pw.toml"
-hash = "cfdd978eb3f941f5b61e9f4c1e8d1da2137d1286d2a27fb9251beb4fe5a9d181"
-metafile = true
-
-[[files]]
 file = "mods/medieval-music.pw.toml"
 hash = "e49271edb0a9de4c9d1c713d03abb4e4930a8677e2514ce7d741b461e35a3302"
 metafile = true
