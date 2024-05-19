@@ -1,13 +1,13 @@
 name = "Enhanced AI"
-filename = "EnhancedAI-2.4.3-mc1.20.1.jar"
+filename = "EnhancedAI-2.4.2-mc1.20.1.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/TDdoftI1/versions/X6qXUJQf/EnhancedAI-2.4.2-mc1.20.1.jar"
 hash-format = "sha1"
-hash = "0b955196c0dfd835eaca18e830b8725632d95071"
-mode = "metadata:curseforge"
+hash = "8ab9b9d606e64cc77b8d61da16b43cb69ba3da6f"
 
 [update]
-[update.curseforge]
-file-id = 5247343
-project-id = 515276
+[update.modrinth]
+mod-id = "TDdoftI1"
+version = "X6qXUJQf"
