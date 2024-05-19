@@ -1,0 +1,4 @@
+.git*
+.cpanel.yml
+
+*.disabled

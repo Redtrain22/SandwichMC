@@ -1,0 +1,12 @@
+##### Custom Deploy Tasks for cpanel ######
+---
+deployment:
+  tasks:
+    - export DEPLOY_PATH=~/media.redtrain.me/uploads/SandwichMC
+    - /bin/mkdir -p $DEPLOY_PATH
+    - /bin/rm -rf $DEPLOY_PATH/mods # Remove mods directory so that removed mods don't maintain a toml file here
+    - /bin/cp index.toml $DEPLOY_PATH
+    - /bin/cp pack.toml $DEPLOY_PATH
+    - /bin/cp -R mods $DEPLOY_PATH
+    - /bin/cp -R config $DEPLOY_PATH
+    - ~/go/bin/packwiz mr export -o $DEPLOY_PATH/SandwichMC.mrpack
