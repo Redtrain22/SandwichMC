@@ -1,0 +1,13 @@
+name = "Furnitura"
+filename = "furnitura-1.12-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ddcffb3c8dd6091a4989ee33559ad5e3db4f7ff9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5219732
+project-id = 949061

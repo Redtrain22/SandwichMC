@@ -1,0 +1,13 @@
+name = "Neighborly"
+filename = "neighborly-1.X.0-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "98d3f512e55da768fcbc33b221f179c74b6d0f2f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5244305
+project-id = 935770

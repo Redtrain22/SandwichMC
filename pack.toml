@@ -1,0 +1,12 @@
+name = "SandwichMC"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "fbfb946561ca9dfd00b379f955350ba7c1cc910bc5a3a9dd15a46fd2508f5902"
+
+[versions]
+forge = "47.2.23"
+minecraft = "1.20.1"
