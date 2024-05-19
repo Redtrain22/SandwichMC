@@ -1,6 +1,6 @@
 name = "Death Counter"
 filename = "death_counter_v2.0_1.20.1_[FORGE].jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/i0c8eDuu/versions/hnNjci1D/death_counter_v2.0_1.20.1_%5BFORGE%5D.jar"
