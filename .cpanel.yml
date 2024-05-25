@@ -9,4 +9,5 @@ deployment:
     - /bin/cp pack.toml $DEPLOY_PATH
     - /bin/cp servers.dat $DEPLOY_PATH
     - /bin/cp -R mods $DEPLOY_PATH
+    - /bin/cp -R config $DEPLOY_PATH
     - ~/go/bin/packwiz mr export -o $DEPLOY_PATH/SandwichMC.mrpack
