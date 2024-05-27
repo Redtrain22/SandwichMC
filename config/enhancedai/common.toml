@@ -6,5 +6,5 @@
 #  "Better Path Finding" = false
 
 [Mobs.Anti-Cheese]
-  "Prevent Boating & Minecarting" = true
+  "Prevent Boating & Minecarting" = false
   "Break trapping vehicles" = false
