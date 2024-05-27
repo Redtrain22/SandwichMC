@@ -1,12 +1,50 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/adaptive_performance_tweaks/spawn/MinecraftSpawn.toml"
+hash = "2e05f6ed1410876ef40d4f4fa741722ec8f319db91f8c4154b9c29a3fc0950ee"
+
+[[files]]
 file = "config/enhancedai/common.toml"
-hash = "04dc0d606cc7e751e0db761aa5b3fe7240aa6347f338f7a30d12305e47bcb43b"
+hash = "551f4e50bd0c5d402ba6d16b59a18fb550511afe68f75ed127ea16db48ae839d"
+
+[[files]]
+file = "config/incontrol/spawn.json"
+hash = "1a5508d7d9464350f32f9335f4e89b250cb276f13e2e25a6aa63d0f413bbe261"
 
 [[files]]
 file = "config/refinedstorage-server.toml"
 hash = "0fd2c0424c3f15f32179b9d4def3dcf6f3e881a80721698b6641f7b6e5cb11e7"
+
+[[files]]
+file = "mods/adaptive-performance-tweaks-core.pw.toml"
+hash = "002733123169ef288cadeba3364fe00a63cf183ea3217f9972b72e84b318620b"
+metafile = true
+
+[[files]]
+file = "mods/adaptive-performance-tweaks-gamerules.pw.toml"
+hash = "06ea16cbcfe022c8e4615b2725105e20d9d961bcb0b7e777b9565f4469189bfe"
+metafile = true
+
+[[files]]
+file = "mods/adaptive-performance-tweaks-items.pw.toml"
+hash = "6f9f440c3434d445fbd01130cf8c938a82e89a80c3ef3148cffe22cb16ec1774"
+metafile = true
+
+[[files]]
+file = "mods/adaptive-performance-tweaks-player.pw.toml"
+hash = "70c63b75bc3f224c4e9377258ed3fabe81b4c27be6c84bae2eb4cc048940dbeb"
+metafile = true
+
+[[files]]
+file = "mods/adaptive-performance-tweaks-spawn.pw.toml"
+hash = "625b35cecb2a734b4660e54162d794693e5e68d837c08b929a36977152e55792"
+metafile = true
+
+[[files]]
+file = "mods/adaptive-performance-tweaks.pw.toml"
+hash = "5c459231e73051891eedb001f475493fbfd2fffafeaaef6fbb10ed33390230a0"
+metafile = true
 
 [[files]]
 file = "mods/ags-death-counter.pw.toml"
@@ -244,6 +282,11 @@ hash = "21767a26f0b81ce406431c8e7bef0be3d0f1b8b109b9748a5ebbda1a18417aec"
 metafile = true
 
 [[files]]
+file = "mods/grieflogger.pw.toml"
+hash = "15b1a9e5e39e904e4a668da8a048485fac5fd7cd259fc6999aedbf05fb6c3fe4"
+metafile = true
+
+[[files]]
 file = "mods/hardcore-revival.pw.toml"
 hash = "262952066bfcef293318fd2773f6f2372083a72a1736cc5a0a74a0fc574828ac"
 metafile = true
@@ -251,6 +294,11 @@ metafile = true
 [[files]]
 file = "mods/ice-and-fire-dragons.pw.toml"
 hash = "5cddb71ac06974f13689c1d9b0ff4d9ba0edfbb12ce974228f3383a77228a596"
+metafile = true
+
+[[files]]
+file = "mods/in-control.pw.toml"
+hash = "37a9b627d18e23f433022804f50e513ef24833807fb4dd2cb79605e343a009ff"
 metafile = true
 
 [[files]]
@@ -451,6 +499,11 @@ metafile = true
 [[files]]
 file = "mods/structure-gel-api.pw.toml"
 hash = "5dfd5e42573659ad84a5d870082aae38aaa8469aba2655e5b2cb14de4ca4cbdd"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "fb0ec93bfbee412229b63a9154abc992ee7e274a84fe569e077f250e6c77abbd"
 metafile = true
 
 [[files]]

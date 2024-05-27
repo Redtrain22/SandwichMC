@@ -1,2 +1,10 @@
 [Mobs.Spawning]
   "Min Monsters Despawning Distance" = 32
+
+#[Mobs.Targeting]
+#  # Testing disabling this due to server lag.
+#  "Better Path Finding" = false
+
+[Mobs.Anti-Cheese]
+  "Prevent Boating & Minecarting" = true
+  "Break trapping vehicles" = false
