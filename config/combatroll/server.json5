@@ -1,0 +1,10 @@
+{
+	// The number of game ticks players become invulnerable upon rolling
+	"invulnerable_ticks_upon_roll": 10,
+
+    // Allows combat roll while the player has its weapon on cooldown
+	"allow_rolling_while_weapon_cooldown": true,
+
+    // The amount of food level above which players can do a roll
+	"food_level_required": 3.0,
+}
