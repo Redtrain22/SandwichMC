@@ -284,11 +284,6 @@ hash = "778c439157789567aee72046542e479c558f9482629b8958f4165ac0c8476ac7"
 metafile = true
 
 [[files]]
-file = "mods/endrem.pw.toml"
-hash = "5f64aa9d7e7e9411c1b9a6388c249da8782d911f790146b057a5be615fa8bacc"
-metafile = true
-
-[[files]]
 file = "mods/enhanced-ai.pw.toml"
 hash = "fc41906243aae005af812052dad31fbbeaaf6d257837de141d5e885dfee5ce58"
 metafile = true
