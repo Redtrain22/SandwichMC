@@ -429,6 +429,11 @@ hash = "fab49ce0c16fa78f71c7b39d23a4318055598f1cee0a964781f3b56801e2ed44"
 metafile = true
 
 [[files]]
+file = "mods/macaws-windows.pw.toml"
+hash = "db40389c09775cc7ac7837ca14fa9ebfd8e6ed073918a451e758c3fe3a67d9f7"
+metafile = true
+
+[[files]]
 file = "mods/majrusz-library.pw.toml"
 hash = "8f3914e1aa937218f917f43e847edbb1d21a4c16ce1704d421d130341f1bc3e2"
 metafile = true
