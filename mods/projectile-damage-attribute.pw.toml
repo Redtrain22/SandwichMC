@@ -1,6 +1,7 @@
 name = "Projectile Damage Attribute"
 filename = "projectile_damage-forge-3.2.2+1.20.1.jar"
 side = "both"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/AOyJhFvl/versions/KgTLAkfq/projectile_damage-forge-3.2.2%2B1.20.1.jar"
