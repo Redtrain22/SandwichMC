@@ -1,13 +1,13 @@
 name = "Structure Expansion"
-filename = "structure-expansion-2.0.1-build.11.jar"
+filename = "structure-expansion-2.0.0-build.10.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/IKJL3zrR/versions/p0bi47kc/structure-expansion-2.0.0-build.10.jar"
 hash-format = "sha1"
-hash = "1dd23d541f123ec74c02b2adf2bbc9843899c56f"
-mode = "metadata:curseforge"
+hash = "7f29fba046293822c363920255c8527cfcd6bd79"
 
 [update]
-[update.curseforge]
-file-id = 4680798
-project-id = 398430
+[update.modrinth]
+mod-id = "IKJL3zrR"
+version = "p0bi47kc"
