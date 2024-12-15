@@ -10,7 +10,7 @@ hash = "16ed93a325b3bd4a73566704724f904561e0e580c692635bd812de6e6793d651"
 
 [[files]]
 file = "config/combatroll/server.json5"
-hash = "a1b6d0ba74ade8fe5168aec1ddfa42e97960ef08fa4f76c29dce73a52c89bfb6"
+hash = "15cc90f5eab6dfdf24465bc1407071c5f88bc373135a1c19c070940ec0026929"
 
 [[files]]
 file = "config/enhancedai/common.toml"
