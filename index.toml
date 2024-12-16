@@ -287,6 +287,11 @@ hash = "0e8ff70ce45d65043877f550cf93b124d5391a036944eb5f8bd929c654bdc0a5"
 metafile = true
 
 [[files]]
+file = "mods/default-skill-trees.pw.toml"
+hash = "51d581fbb788c18fd26a98824a43281dbf5b325c302e4ee1e0e26dab0a0e0f2c"
+metafile = true
+
+[[files]]
 file = "mods/dramatic-doors.pw.toml"
 hash = "f087ca76bf8bca15fcb67227296ca6ad48405aeaa10bad8b74b230a9e106197e"
 metafile = true
