@@ -682,6 +682,11 @@ hash = "28c4f7857f82a6196ca44d3ee66b2d93cda47990e9d1feae82297a0cf0d2c717"
 metafile = true
 
 [[files]]
+file = "mods/packwiz-server-updater.pw.toml"
+hash = "9be08252118ddcbdc62b019055eeddd1a5bb8e2e2940e56346f55aa4f5caaf63"
+metafile = true
+
+[[files]]
 file = "mods/passive-skill-tree.pw.toml"
 hash = "b1b64fa46d74b4457d316d7eef6465f1280a224f86f28c4c8bf880e1dacfe9a8"
 metafile = true
