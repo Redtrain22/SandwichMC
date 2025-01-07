@@ -1,0 +1,13 @@
+name = "Beautiful Enchanted Books"
+filename = "Beautiful_Enchanted_Books_3.0.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/VDTtLGSV/versions/nstcq2cr/Beautiful_Enchanted_Books_3.0.0.zip"
+hash-format = "sha1"
+hash = "3ca3b0715b8967ab222980ac773d2e805d730051"
+
+[update]
+[update.modrinth]
+mod-id = "VDTtLGSV"
+version = "nstcq2cr"

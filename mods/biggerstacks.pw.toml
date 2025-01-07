@@ -1,0 +1,13 @@
+name = "Bigger Stacks"
+filename = "biggerstacks-1.20.1-1.0.0-all.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hcK0pdrI/versions/VYj64So8/biggerstacks-1.20.1-1.0.0-all.jar"
+hash-format = "sha1"
+hash = "f3f0f80b38f453dc21bc336e10a93170dea88596"
+
+[update]
+[update.modrinth]
+mod-id = "hcK0pdrI"
+version = "VYj64So8"

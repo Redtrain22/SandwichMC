@@ -22,6 +22,8 @@
 
 #Configs regarding mobs spawning with equipment
 [equipment]
+#Blacklist items from whole mods. Add modid to prevent items from that mod being equipped. (For individual items use the equipment.json)
+"Item Blacklist" = ["minecraft:fishingrod", "minecraft:enderpearl"]
 #Base chance that a mob can have one piece of armor
 #Range: 0.0 ~ 1.0
 "Equipment Chance" = 0.30000001192092896
@@ -63,7 +65,7 @@
 "Round HP" = 0.5
 #Damage will be multiplied by 1 + difficulty*0.008*x. Set to 0 to disable
 #Range: 0.0 ~ 1.7976931348623157E308
-"Damage Increase Multiplier" = 0.015
+"Damage Increase Multiplier" = 0.033624179
 #Damage will be multiplied by at maximum this. Set to 0 means no limit
 #Range: 0.0 ~ 1.7976931348623157E308
 "Max Damage Increase" = 6.0

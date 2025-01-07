@@ -1,0 +1,14 @@
+[Dragons]
+[Dragons.Attributes]
+
+#Max dragon health. Health is scaled to this
+#Range: 1.0 ~ 100000.0
+"Dragon Health" = 2000.0
+
+[Items]
+	#Default durability value of dragonsteel tools.
+	#Range: > 1
+	"Dragonsteel Base Durability" = 99999
+	#Default durability value of dragonsteel equipment.
+	#Range: > 1
+	"Dragonsteel Base Durability Equipment" = 99999
