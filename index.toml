@@ -862,8 +862,8 @@ hash = "bd294726639dc8e4be6ea5c8c69ee6691a5d9554246b6ee5f5c23dc21d4f4b52"
 metafile = true
 
 [[files]]
-file = "mods/thefarlanders.pw.toml"
-hash = "448f592e0bd53bea330a8951df2a5f1519e13e8c51456d5dc87ebd44a5ba7142"
+file = "mods/the-farlanders.pw.toml"
+hash = "18ad3515c0660a4febc21742a0e8aea593d0cbd3bb7afe5abc6926f89f71e3da"
 metafile = true
 
 [[files]]
@@ -924,11 +924,6 @@ metafile = true
 [[files]]
 file = "mods/yungs-api.pw.toml"
 hash = "e59b1afad3abcd2656cb958ee423fa36f6f6a5ec4acd7e2df47865fb9582da66"
-metafile = true
-
-[[files]]
-file = "mods/yungs-better-end-island.pw.toml"
-hash = "7e9f9d03e9777945478efb8eedc7e3b23d8986c6f3275cba4e3d6ffb65adb13e"
 metafile = true
 
 [[files]]
