@@ -386,6 +386,11 @@ hash = "b6a2eece281f73726473d67ae7de5010886a6bf82a75ea3049620851f70c11b1"
 metafile = true
 
 [[files]]
+file = "mods/easy-villagers.pw.toml"
+hash = "4307123d496ca1dd9f94edcf4502e78a5d1d4d3dc9d4c30b0a7294252d4015cb"
+metafile = true
+
+[[files]]
 file = "mods/elite-x-quality-guns.pw.toml"
 hash = "3ea88a28225f55b97670083f9a7d0dfaad331fc7cee1335ac49939d451c4a813"
 metafile = true
@@ -641,6 +646,11 @@ hash = "fc3e55fc66fcef7649f0b6ff71af8e00013b1abd7f84cbee8532c4d3fc6d5389"
 metafile = true
 
 [[files]]
+file = "mods/lootr.pw.toml"
+hash = "ee707f80f7f3bc8162719f23245ec51e8ecd732eaf75e11d1a6b42d6a83be2db"
+metafile = true
+
+[[files]]
 file = "mods/lost-souls.pw.toml"
 hash = "9f82d5188ec2fdf97d04e7b4f75241db2e918b9d2c852ed7436d2a519f2924e9"
 metafile = true
@@ -883,6 +893,16 @@ metafile = true
 [[files]]
 file = "mods/smooth-boot-reloaded.pw.toml"
 hash = "e9bf45458454e7ceaa9fc33b271b9f408f27b69d5660652a5f7464fad94bb733"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-backpacks.pw.toml"
+hash = "2552860cae57ab1247570f12dfed136ce19877376d5809fb650d7a9b5c61794f"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core.pw.toml"
+hash = "15cd41a0660bb04c5dde370713f8f8032648920d160f0ef107a32ef7648de214"
 metafile = true
 
 [[files]]
