@@ -691,6 +691,11 @@ hash = "695c51d9c98570cc0d6fcd63acc381abdcc3623a6ecbd71ef7d6047932ea2f66"
 metafile = true
 
 [[files]]
+file = "mods/mekanism.pw.toml"
+hash = "ba7fb148cf449af84492499c53d3e18db9e15e2fcb2c9fa50d049c4da933bcc8"
+metafile = true
+
+[[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "eab12c7fddf20f293b8726f7553d2c0c0b6c578a2ba03ddf59ae40f6e684e2ce"
 metafile = true
@@ -808,6 +813,11 @@ metafile = true
 [[files]]
 file = "mods/polymorph.pw.toml"
 hash = "00322f0c2a1ed0b9e28f823b3c7f5b40d3ede06db32f3d4aa4d1391a994c306a"
+metafile = true
+
+[[files]]
+file = "mods/powah.pw.toml"
+hash = "50ebd6fe1be0d798dd2e4adf42877bd195995a99dfda9101200530319ba93461"
 metafile = true
 
 [[files]]
