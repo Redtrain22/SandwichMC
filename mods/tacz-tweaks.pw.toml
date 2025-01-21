@@ -1,0 +1,13 @@
+name = "TaCZ Tweaks"
+filename = "tacz-tweaks-1.7.6-all.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/H8peNuJG/versions/JZZzLvNv/tacz-tweaks-1.7.6-all.jar"
+hash-format = "sha1"
+hash = "5ade8dbb1097e021dfef25b6803d479eb40539b2"
+
+[update]
+[update.modrinth]
+mod-id = "H8peNuJG"
+version = "JZZzLvNv"

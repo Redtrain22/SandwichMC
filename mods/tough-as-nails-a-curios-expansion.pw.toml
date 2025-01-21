@@ -1,0 +1,13 @@
+name = "Tough As Nails: A Curios Expansion"
+filename = "toughasnails_a_curios_expansion-1.20.1-1.2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/BUivYy9L/versions/kwImHnXz/toughasnails_a_curios_expansion-1.20.1-1.2.1.jar"
+hash-format = "sha1"
+hash = "152e9dc3622a410b3c2e85b22a97b38900fb4a75"
+
+[update]
+[update.modrinth]
+mod-id = "BUivYy9L"
+version = "kwImHnXz"

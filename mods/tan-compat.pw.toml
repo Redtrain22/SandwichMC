@@ -1,0 +1,13 @@
+name = "Tough as Nails Compat"
+filename = "tancompat-forge-1.20.1-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/tBOXLFOa/versions/tGFiZyut/tancompat-forge-1.20.1-1.0.0.jar"
+hash-format = "sha1"
+hash = "6a4039d33ec58eec10e207bb55aa1f21cf5aaf33"
+
+[update]
+[update.modrinth]
+mod-id = "tBOXLFOa"
+version = "tGFiZyut"
