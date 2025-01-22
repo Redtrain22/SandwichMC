@@ -86,6 +86,11 @@ hash = "8838c17fcf3e4fc1c4c1a6713f9e6d3c7267e7ee59dc013e5fe17f6ba86e9b60"
 metafile = true
 
 [[files]]
+file = "mods/amendments.pw.toml"
+hash = "d9b4a00fb278edc50edee3aff85932b2c36f3d91b9e4390afaa0b85800607a6d"
+metafile = true
+
+[[files]]
 file = "mods/animationoverhaul.pw.toml"
 hash = "167892f71b4719a0e068d2377ff65bbf7551713ef03f88ff654d95b638437c69"
 metafile = true
@@ -208,6 +213,11 @@ metafile = true
 [[files]]
 file = "mods/breakingbedrock.pw.toml"
 hash = "7e85b10b60ae32920dd39efda3cc9ba6072038e01b75fb13a293484c17b3d9cc"
+metafile = true
+
+[[files]]
+file = "mods/bucketlib.pw.toml"
+hash = "42f447463eb5b95742fd218685a1f7fee1c8f9cd4f935692afa407e266d4006a"
 metafile = true
 
 [[files]]
@@ -746,6 +756,11 @@ hash = "1ff63ae9b415edabfe8467d67dcd412169b05582ae26c40d6bb6aae7b8809ccb"
 metafile = true
 
 [[files]]
+file = "mods/mrcrayfish-furniture-mod.pw.toml"
+hash = "e855300be1354899595f3e37e3f080647ae0ae0ac84df292441608c3f8327e21"
+metafile = true
+
+[[files]]
 file = "mods/mutant-monsters.pw.toml"
 hash = "6529f55293851714d814fa53a71b8af9182fbaae0f77313efe241f89ca5c485d"
 metafile = true
@@ -886,6 +901,16 @@ hash = "dd7e58c1618dc45240e405ae0fb38765663c157151bec663d1e3ed404e20e77e"
 metafile = true
 
 [[files]]
+file = "mods/simplecore-api.pw.toml"
+hash = "0a54c2837eec1b98c22da607a0f1484c4ae0560a0aa0dacaeaeda1b010d67df5"
+metafile = true
+
+[[files]]
+file = "mods/simpleores.pw.toml"
+hash = "6a1078657f8a68dd716b7f0414716787bb9a69fdfc07e0fbfc3df2f04846cecb"
+metafile = true
+
+[[files]]
 file = "mods/skarts-decorations.pw.toml"
 hash = "3e1ae60a8345a8142acceb00828c025695e3a16fed92212560a6bad753657090"
 metafile = true
@@ -931,6 +956,11 @@ hash = "2a9853875b34252eb21f8dcebc346f8067d1d10421445e8d8059e51add9650d3"
 metafile = true
 
 [[files]]
+file = "mods/storagedrawers.pw.toml"
+hash = "eea01aea227f98f9e05a6c0d7c14d851770b69f872a6eef2eee8be3ed5caed45"
+metafile = true
+
+[[files]]
 file = "mods/structory-towers.pw.toml"
 hash = "7a0f6fb437983dde7a35a8fe6b9e9ee1a55550efb5837e83c75120bbd799086f"
 metafile = true
@@ -948,6 +978,11 @@ metafile = true
 [[files]]
 file = "mods/structure-gel-api.pw.toml"
 hash = "f9966c3e2ba050306b8c96f610ed705931cc48fedca54fb4270af875aa54dff3"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "723383140ebcc04db20bb47a2d5dc5667894ed4f12605ec63488dba9de608eaf"
 metafile = true
 
 [[files]]
