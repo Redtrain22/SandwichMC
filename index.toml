@@ -5,6 +5,10 @@ file = "config/combatroll/server.json5"
 hash = "a1b6d0ba74ade8fe5168aec1ddfa42e97960ef08fa4f76c29dce73a52c89bfb6"
 
 [[files]]
+file = "config/hordes-common.toml"
+hash = "03f06260a479eb3f73c6fc8d5e6646a736492a570c7eaf3b8fff93a400e93b35"
+
+[[files]]
 file = "config/incontrol/spawn.json"
 hash = "1a5508d7d9464350f32f9335f4e89b250cb276f13e2e25a6aa63d0f413bbe261"
 
