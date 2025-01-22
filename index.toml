@@ -121,6 +121,11 @@ hash = "23dfe97464982710b15c7193ab144b01eca103ef6d6389a177fb4bd8f370e49f"
 metafile = true
 
 [[files]]
+file = "mods/atlas-lib.pw.toml"
+hash = "10980f6dcaafe6043277597da2030e687f5999ef63d9019d30ebf00229073ba9"
+metafile = true
+
+[[files]]
 file = "mods/attributefix.pw.toml"
 hash = "258431b158c3adc8e7bf4ac8ea9cec20def2e3c373294488d72c238bcbd7538a"
 metafile = true
@@ -1023,6 +1028,11 @@ metafile = true
 [[files]]
 file = "mods/terralith.pw.toml"
 hash = "bd294726639dc8e4be6ea5c8c69ee6691a5d9554246b6ee5f5c23dc21d4f4b52"
+metafile = true
+
+[[files]]
+file = "mods/the-hordes.pw.toml"
+hash = "73d077f27157acd4dc93aa5930a303c2538f2e0fd1afb1ff3247d39854245d9f"
 metafile = true
 
 [[files]]
