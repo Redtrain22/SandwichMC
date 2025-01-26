@@ -1,0 +1,4 @@
+["Minecraft Spawn Config"]
+	MaxHostileMobsPerPlayer = 4
+
+	MaxHostileMobsPerWorld = 8
