@@ -384,6 +384,11 @@ hash = "b6a2eece281f73726473d67ae7de5010886a6bf82a75ea3049620851f70c11b1"
 metafile = true
 
 [[files]]
+file = "mods/easy-villagers.pw.toml"
+hash = "4307123d496ca1dd9f94edcf4502e78a5d1d4d3dc9d4c30b0a7294252d4015cb"
+metafile = true
+
+[[files]]
 file = "mods/elite-x-quality-guns.pw.toml"
 hash = "93f45902f4ee231093cda848a00798f03273a4a2fb72d578537895c4ca878f6a"
 metafile = true
