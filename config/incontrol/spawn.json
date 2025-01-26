@@ -1,7 +1,0 @@
-[
-  {
-    "mob": "minecraft:creeper",
-    "mincount": 15,
-    "result": "deny"
-  }
-]

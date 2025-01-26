@@ -1,0 +1,13 @@
+name = "Illager Revolution"
+filename = "illagerrevolutionmod-1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/H1wYX09T/versions/aqIiSF2V/illagerrevolutionmod-1.2.jar"
+hash-format = "sha1"
+hash = "49c7538f9b3628dc452741dc0a022f83207b683c"
+
+[update]
+[update.modrinth]
+mod-id = "H1wYX09T"
+version = "aqIiSF2V"

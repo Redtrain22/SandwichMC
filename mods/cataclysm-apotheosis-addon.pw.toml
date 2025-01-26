@@ -1,13 +1,13 @@
 name = "Cataclysm Apotheosis Addon"
-filename = "cataclysm_ut-37 - 1.20.1.jar"
-side = "server"
+filename = "cataclysm_ut-53 - 1.20.1.jar"
+side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/xY5jt711/versions/oEIUvnev/cataclysm_ut-37%20-%201.20.1.jar"
+url = "https://cdn.modrinth.com/data/xY5jt711/versions/nqyV4bhr/cataclysm_ut-53%20-%201.20.1.jar"
 hash-format = "sha1"
-hash = "cdd77374b405d8c7017b215794050325694fc9ec"
+hash = "f7a388bb824a0fe411835518710d9a2b036c9a51"
 
 [update]
 [update.modrinth]
 mod-id = "xY5jt711"
-version = "oEIUvnev"
+version = "nqyV4bhr"

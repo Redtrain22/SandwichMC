@@ -1,0 +1,13 @@
+name = "Illage and Spillage: Respillaged"
+filename = "illageandspillagerespillaged-1.2.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "29ceb900d689a2f1cae9cccdaacd07a8c2666e3a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5871923
+project-id = 1079714

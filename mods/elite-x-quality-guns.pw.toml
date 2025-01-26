@@ -1,0 +1,13 @@
+name = "Elite X Quality Guns (TACZ)"
+filename = "Elite X Quality Guns Forge v3.3 - 1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/X4uLYuhT/versions/HhG7WSDx/Elite%20X%20Quality%20Guns%20Forge%20v3.3%20-%201.20.1.jar"
+hash-format = "sha1"
+hash = "f8794e991d60baee144dd69795bfda28bec9d94e"
+
+[update]
+[update.modrinth]
+mod-id = "X4uLYuhT"
+version = "HhG7WSDx"

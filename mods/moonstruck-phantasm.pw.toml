@@ -1,0 +1,13 @@
+name = "Moonstruck Phantasm"
+filename = "Moonstruck Phantasm 1.0.3 1.20.1 Forge & NeoForge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9nyrybrl/versions/rrYVO2yP/Moonstruck%20Phantasm%201.0.3%201.20.1%20Forge%20%26%20NeoForge.jar"
+hash-format = "sha1"
+hash = "12b784dbb274e7d97edf2570705e3fb2fef37238"
+
+[update]
+[update.modrinth]
+mod-id = "9nyrybrl"
+version = "rrYVO2yP"
