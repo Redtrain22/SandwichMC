@@ -54,6 +54,11 @@ hash = "41841063d7d48feb45e4d36a11f88293184d4c1520930c64d6f399945924e75b"
 metafile = true
 
 [[files]]
+file = "mods/aerlune-rpg-2.pw.toml"
+hash = "6bf370c21fb781b3d1b2308eed823e1df8968cff8b1abd347d6923c38e5ce535"
+metafile = true
+
+[[files]]
 file = "mods/alexs-caves.pw.toml"
 hash = "538975fa938f7435a3c865d32262b8ecc08c47cb4eb3a24f6f3e29e4caf825d3"
 metafile = true
@@ -176,6 +181,11 @@ metafile = true
 [[files]]
 file = "mods/better-combat.pw.toml"
 hash = "ab86c301b50308e58742faa6712c7dc034c0a109a0d4d1d9c21953a79aac3eb8"
+metafile = true
+
+[[files]]
+file = "mods/better-mob-combat.pw.toml"
+hash = "d84d5e54adfd3ef2a801dc83a52426bf83007957833e3387260562dd5cae2b46"
 metafile = true
 
 [[files]]
@@ -604,6 +614,16 @@ hash = "47687b45d137fb1cf6adc9fd5487524e57fc6f4d2342847438da0e453a0287f2"
 metafile = true
 
 [[files]]
+file = "mods/knight-lib.pw.toml"
+hash = "80ffa2a73bb0deec7e98aff55a911355b59f2060dfc5f7fd21965146bc529c93"
+metafile = true
+
+[[files]]
+file = "mods/knight-quest.pw.toml"
+hash = "f5e0f09fd7b4c512235fc3965f89acaa75672d43fdc813430b981053f856e6dd"
+metafile = true
+
+[[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "82ffc26ad624cdd846cbbeb99ed40ef44229ec7006a7ae7e8caa8df6409c20db"
 metafile = true
@@ -691,6 +711,11 @@ metafile = true
 [[files]]
 file = "mods/mmmmmmmmmmmm.pw.toml"
 hash = "576c417264b009f3c01ced746380c84fc5ebeae2598cce3115ca6e0d6c25012d"
+metafile = true
+
+[[files]]
+file = "mods/mob-player-animator.pw.toml"
+hash = "e811841dc205b895e0f20ba0d8a8b063ed7eace673bcafa3b454ef4f88c85b74"
 metafile = true
 
 [[files]]

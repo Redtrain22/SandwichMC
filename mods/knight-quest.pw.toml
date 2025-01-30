@@ -1,0 +1,13 @@
+name = "Knight Quest"
+filename = "knightquest-forge-1.20.1-1.8.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/VEOQ4Jz4/versions/vg3St45V/knightquest-forge-1.20.1-1.8.3.jar"
+hash-format = "sha1"
+hash = "23b663379d1f74f29c436b9ba7c8828151812af9"
+
+[update]
+[update.modrinth]
+mod-id = "VEOQ4Jz4"
+version = "vg3St45V"
