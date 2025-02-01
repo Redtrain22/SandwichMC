@@ -54,11 +54,6 @@ hash = "41841063d7d48feb45e4d36a11f88293184d4c1520930c64d6f399945924e75b"
 metafile = true
 
 [[files]]
-file = "mods/aerlune-rpg-2.pw.toml"
-hash = "6bf370c21fb781b3d1b2308eed823e1df8968cff8b1abd347d6923c38e5ce535"
-metafile = true
-
-[[files]]
 file = "mods/alexs-caves.pw.toml"
 hash = "538975fa938f7435a3c865d32262b8ecc08c47cb4eb3a24f6f3e29e4caf825d3"
 metafile = true
@@ -111,6 +106,11 @@ metafile = true
 [[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "fa34a3117af7f8ed553ec563a7c90c1d6462184c7df5b837c831cb482c6ae582"
+metafile = true
+
+[[files]]
+file = "mods/armor-impact-sounds.pw.toml"
+hash = "c14f592a10e05ac06250d8c2dd26dc56fc15e4fa2297cacfcccd4be896e96423"
 metafile = true
 
 [[files]]
@@ -216,6 +216,11 @@ metafile = true
 [[files]]
 file = "mods/bookshelf-lib.pw.toml"
 hash = "40bab89c8030327eba75a6fe4350d6ac883d4b168a8171d4c0ca3a416efbd318"
+metafile = true
+
+[[files]]
+file = "mods/born-in-chaos.pw.toml"
+hash = "034db9fa861bac9ca63acc69020adf7a17a60e0f81d215acfeed23fdb7cefcf0"
 metafile = true
 
 [[files]]
@@ -639,6 +644,11 @@ hash = "79f696c09f378d5a2127ad7ddcda4c03cb2fe71622860c99addef9aa29c91b74"
 metafile = true
 
 [[files]]
+file = "mods/legendary-monsters.pw.toml"
+hash = "6e4a89d0f7bad695be913cfee0bb3eef8a19f7eb880c2bca6b5cbd97a46c7f8a"
+metafile = true
+
+[[files]]
 file = "mods/lets-do-furniture.pw.toml"
 hash = "b0be8f59134470526cdf811a12321780410461d96f26bb40e6588259228fa8bc"
 metafile = true
@@ -715,7 +725,7 @@ metafile = true
 
 [[files]]
 file = "mods/mob-player-animator.pw.toml"
-hash = "e811841dc205b895e0f20ba0d8a8b063ed7eace673bcafa3b454ef4f88c85b74"
+hash = "e15343bd400ee3d5856586b9f5a1fa1cb868ab7604d619d5576285e1070ce362"
 metafile = true
 
 [[files]]
@@ -746,11 +756,6 @@ metafile = true
 [[files]]
 file = "mods/mowzies-mobs.pw.toml"
 hash = "1ff63ae9b415edabfe8467d67dcd412169b05582ae26c40d6bb6aae7b8809ccb"
-metafile = true
-
-[[files]]
-file = "mods/mutant-iceologer-mod.pw.toml"
-hash = "83dda99dfc5f2b1303cc7921b930f07efcf7f671f479389c559b6df4a7ca84b0"
 metafile = true
 
 [[files]]
@@ -869,13 +874,13 @@ hash = "9a8bc01ac2c21bad372e5b7db21e6d6207c0e1f1d60d1481157a2131ad653a26"
 metafile = true
 
 [[files]]
-file = "mods/saturn.pw.toml"
-hash = "45646ed86d783d82cc2b804466d4aaf06a67e14766928f17134d02558179f3f0"
+file = "mods/riskofrain-mobs.pw.toml"
+hash = "26ee0d8508566112e779004d9cb1c53937f109991d61e89755c020cdaea88fce"
 metafile = true
 
 [[files]]
-file = "mods/sculk-horde.pw.toml"
-hash = "db7635f6cb5f2ff5c84578a2593878e6324901c5f8f909193af8feabe09e266a"
+file = "mods/saturn.pw.toml"
+hash = "45646ed86d783d82cc2b804466d4aaf06a67e14766928f17134d02558179f3f0"
 metafile = true
 
 [[files]]
@@ -999,6 +1004,11 @@ hash = "bd294726639dc8e4be6ea5c8c69ee6691a5d9554246b6ee5f5c23dc21d4f4b52"
 metafile = true
 
 [[files]]
+file = "mods/terramity.pw.toml"
+hash = "5ed3754a60be1d67b3acfe2187ef8905e15339c0b3f89b643c0e8c2780b3d391"
+metafile = true
+
+[[files]]
 file = "mods/the-conjurer.pw.toml"
 hash = "e7c7d4f5233ce10edc53b6e4a4aa02e79428b3d7a044b50510b7b8e8e06dd6b3"
 metafile = true
@@ -1006,6 +1016,11 @@ metafile = true
 [[files]]
 file = "mods/the-farlanders.pw.toml"
 hash = "18ad3515c0660a4febc21742a0e8aea593d0cbd3bb7afe5abc6926f89f71e3da"
+metafile = true
+
+[[files]]
+file = "mods/the-knocker.pw.toml"
+hash = "33c33d9a85b4cd24c82ad26bdd31fc7165d56556bc3eff3742a62ab064f4610e"
 metafile = true
 
 [[files]]
