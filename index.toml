@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/apotheosis/enchantment.cfg"
-hash = "245ba39f0917c4cb779c84955ca7e0ba240a741382a7a2c5bee33d5c223bd7c1"
+hash = "1fb04dd96b2f78bd20767ca5acd177352bcbc35cb86bc0d10fb2ee189b98f22e"
 
 [[files]]
 file = "config/badmobs-common.toml"
@@ -30,19 +30,19 @@ hash = "9f49ef86e16455ab9264d713bc78960bd341fe514d890f30cab2a2131d6ec054"
 
 [[files]]
 file = "config/hardcorerevival-common.toml"
-hash = "cccb2414e507c877da05e2ea8aabab5c9f44b532f4edd8d784c0fb4658e9e984"
+hash = "3291dda753e49f70a0bba84f8076cc6796b7bed61b6cbaa40f7477fd3e1e8eeb"
 
 [[files]]
 file = "config/iceandfire-common.tmol"
 hash = "aaa813c0adfe3bcfba437c39fce67904e62fd4e564933f2e3e5feb6f2107ea16"
 
 [[files]]
-file = "config/improvedmobs/cilent.toml"
-hash = "b0d8b8c7c2e3e2ce4753d917eea772dc40c1820d93aa86247ce723270fc9dc38"
+file = "config/improvedmobs/client.toml"
+hash = "854fab46652839e3a0a3f04654738a5a4eebdf6797c60fb2c244361ea0ceb8b5"
 
 [[files]]
 file = "config/improvedmobs/common.toml"
-hash = "934c384ba79fce6a71081dcad4c3ca205f96a4e7c1df75e7b93419ceeb01770e"
+hash = "28a95f31faccf225cfdbaa00f7aff8e58f1473f1340e95b51481f4c900e3e314"
 
 [[files]]
 file = "config/improvedmobs/equipment.json"
@@ -68,6 +68,11 @@ metafile = true
 [[files]]
 file = "mods/advanced-netherite.pw.toml"
 hash = "41841063d7d48feb45e4d36a11f88293184d4c1520930c64d6f399945924e75b"
+metafile = true
+
+[[files]]
+file = "mods/ae2.pw.toml"
+hash = "115c72b8db51de2939a0e87155d7fc6558bd7d1288b5a19c00d041b01056f023"
 metafile = true
 
 [[files]]
@@ -133,6 +138,11 @@ metafile = true
 [[files]]
 file = "mods/armor-3d.pw.toml"
 hash = "e5f73861d25de5a1063c136cb54b0e1b8fe000c3ac80e4e0c30ac7c321468d7c"
+metafile = true
+
+[[files]]
+file = "mods/armor-damage-limit.pw.toml"
+hash = "ead5dd137effcd1ef308f67bde9b5530c6896504aab44c01be36fe6366b6ec44"
 metafile = true
 
 [[files]]
@@ -293,6 +303,11 @@ metafile = true
 [[files]]
 file = "mods/combat-roll.pw.toml"
 hash = "40ce042b68de9dbfc379edaa04c89b05448916aa715e0ad8829f5cfd85022935"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+hash = "2a50d21837bba88e3c9490c6bb8e0a9b44b052645d5c1481b48a060439c20a3c"
 metafile = true
 
 [[files]]
@@ -491,6 +506,11 @@ hash = "94dadd1e994b259bb3a29c07ba58d1b6986b94e9ac73b1e6a05039d49639e7d5"
 metafile = true
 
 [[files]]
+file = "mods/guideme.pw.toml"
+hash = "19389560563106cd03b4a00fe28460275791417bfa816f4beba5d89292af8b42"
+metafile = true
+
+[[files]]
 file = "mods/hardcore-revival.pw.toml"
 hash = "f4e1ea986c7a4e5fbb06247d607919aedc39d62bae78f845b1f0a272f5ac64c4"
 metafile = true
@@ -661,6 +681,11 @@ hash = "eab12c7fddf20f293b8726f7553d2c0c0b6c578a2ba03ddf59ae40f6e684e2ce"
 metafile = true
 
 [[files]]
+file = "mods/mmmmmmmmmmmm.pw.toml"
+hash = "05719479eacb82bc6c2c31e8df4e1e594d131180832a6a7ab664bd58f821ce3e"
+metafile = true
+
+[[files]]
 file = "mods/mob-player-animator.pw.toml"
 hash = "e15343bd400ee3d5856586b9f5a1fa1cb868ab7604d619d5576285e1070ce362"
 metafile = true
@@ -748,6 +773,11 @@ metafile = true
 [[files]]
 file = "mods/paragliders.pw.toml"
 hash = "d1a4b77413bf8514fb0275683bf9451a3c6336799e86678f600ff9521795a94e"
+metafile = true
+
+[[files]]
+file = "mods/passive-skill-tree.pw.toml"
+hash = "b1b64fa46d74b4457d316d7eef6465f1280a224f86f28c4c8bf880e1dacfe9a8"
 metafile = true
 
 [[files]]
@@ -963,6 +993,11 @@ metafile = true
 [[files]]
 file = "mods/threateningly-mobs.pw.toml"
 hash = "3a819d92dba0de88e5fb92a5e36b5029b93b5398fc9654fb87f0b748744edc6e"
+metafile = true
+
+[[files]]
+file = "mods/toms-storage.pw.toml"
+hash = "e0dd564cc647409e74b579021bd208e9348a58a3c64d290959cb2ccf7e72b8ea"
 metafile = true
 
 [[files]]

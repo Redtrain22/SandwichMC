@@ -14,7 +14,7 @@
 	#So the difficulty increases by 0.01 every 2400 ticks (->0.1 per mc day since a mc day has 24000 ticks) till it reaches a difficulty of 10.
 	#Then it increases by 1 per mc day till it reaches 30 and then stops.
 	#If you want to use negative values use | instead of - as the delimiter.
-	"Difficulty Increase" = ["0.0-0.073", "300.0-0.0"]
+	"Difficulty Increase" = ["0.0-0.2", "1000.0-0.0"]
 	#Wether difficulty should only increase with at least one online players or not
 	"Ignore Players" = false
 	#If true will increase difficulty by the amount of time skipped. Else will only increase difficulty once.
@@ -223,13 +223,13 @@
 	"Equipment Addition" = 0.30000001192092896
 	#Chance for an equipment to have a random armor trim
 	#Range: 0.0 ~ 1.0
-	"Armor Trim Chance" = 0.05000000074505806
+	"Armor Trim Chance" = 0.85000000074505806
 	#Chance for mobs to have a weapon
 	#Range: 0.0 ~ 1.0
 	"Weapon Chance" = 0.1
 	#Adds additional x*difficulty% to base weapon chance
 	#Range: 0.0 ~ 1.7976931348623157E308
-	"Weapon Chance Add" = 0.10000001192092896
+	"Weapon Chance Add" = 0.12000001192092896
 	#Base chance for each armor pieces to get enchanted
 	#Range: 0.0 ~ 1.0
 	"Enchanting Chance" = 0.10000000298023223
@@ -255,19 +255,19 @@
 [attributes]
 	#Health will be multiplied by 1 + difficulty*0.016*x. Set to 0 to disable
 	#Range: 0.0 ~ 1.7976931348623157E308
-	"Health Increase Multiplier" = 1.52
+	"Health Increase Multiplier" = 4.0
 	#Health will be multiplied by at maximum this. Set to 0 means no limit
 	#Range: 0.0 ~ 1.7976931348623157E308
-	"Max Health Increase" = 30.0
+	"Max Health Increase" = 60.0
 	#Round health to the nearest x. Set to 0 to disable
 	#Range: 0.0 ~ 1.7976931348623157E308
 	"Round HP" = 0.5
 	#Damage will be multiplied by 1 + difficulty*0.008*x. Set to 0 to disable
 	#Range: 0.0 ~ 1.7976931348623157E308
-	"Damage Increase Multiplier" = 0.043624179
+	"Damage Increase Multiplier" = 3.383624179
 	#Damage will be multiplied by at maximum this. Set to 0 means no limit
 	#Range: 0.0 ~ 1.7976931348623157E308
-	"Max Damage Increase" = 15.0
+	"Max Damage Increase" = 25.0
 	#Knockback will be increased by difficulty*0.002*x. Set to 0 to disable
 	#Range: 0.0 ~ 1.7976931348623157E308
 	"Knockback Increase" = 0.0
@@ -291,7 +291,7 @@
 	"Speed Increase" = 1.0
 	#Maximum increase in speed
 	#Range: 0.0 ~ 1.0
-	"Max Speed" = 0.1
+	"Max Speed" = 0.11
 	#Magic resistance will be increased by difficulty*0.0016*x. Set to 0 to disable
 	#Range: 0.0 ~ 1.7976931348623157E308
 	"Magic Resistance Increase" = 0.0

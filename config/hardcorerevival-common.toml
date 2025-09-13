@@ -1,12 +1,12 @@
 #The time in ticks in which a player can still be rescued from death. 20 ticks are one second. Set to 0 to disable the timer.
 ticksUntilDeath = 2400
 #The time in ticks it takes to rescue a player. 20 ticks are one second.
-rescueActionTicks = 40
+rescueActionTicks = 35
 #The amount of health to respawn with when a player was rescued, out of 20.
-rescueRespawnHealth = 2
+rescueRespawnHealth = 4
 #The food level to respawn with when a player was rescued, out of 20.
-rescueRespawnFoodLevel = 5
+rescueRespawnFoodLevel = 6.5
 #Effects applied to a player when rescued, in the format "effect|duration|amplifier"
-rescueRespawnEffects = ["minecraft:hunger|300|0", "minecraft:water_breathing|600|0", "minecraft:speed|100|0"]
+rescueRespawnEffects = ["minecraft:water_breathing|260|0", "minecraft:speed|260|1"]
 
 
