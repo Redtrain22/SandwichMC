@@ -256,11 +256,6 @@ hash = "eaa144428b42dedd12beea31db366ca686a621c9945d45a35494dca25846fc63"
 metafile = true
 
 [[files]]
-file = "mods/cataclysm-spellbooks.pw.toml"
-hash = "1ee87d163a5ebb7b262032d7217d31a9727fea18c8814df02ad22b017cdd1e81"
-metafile = true
-
-[[files]]
 file = "mods/cataclysmic-combat.pw.toml"
 hash = "85fa7f8dcac31e73c9a025b9b138fa037fb3a1117c3bcd81072cd0b91214ae2a"
 metafile = true
@@ -691,11 +686,6 @@ hash = "eab12c7fddf20f293b8726f7553d2c0c0b6c578a2ba03ddf59ae40f6e684e2ce"
 metafile = true
 
 [[files]]
-file = "mods/migamigos.pw.toml"
-hash = "19e83f70597962475cf6de3e15d64f52578070b194342f4acb687607c52b5981"
-metafile = true
-
-[[files]]
 file = "mods/mob-player-animator.pw.toml"
 hash = "e811841dc205b895e0f20ba0d8a8b063ed7eace673bcafa3b454ef4f88c85b74"
 metafile = true
@@ -988,11 +978,6 @@ metafile = true
 [[files]]
 file = "mods/the-luminous-mod.pw.toml"
 hash = "e1742e935e0c1a693ee490d96d5ffbeb8e6feb192739a8ccdfc2eddb223a67d1"
-metafile = true
-
-[[files]]
-file = "mods/the-shattered-goddess-mokels-bossfight-saphyra.pw.toml"
-hash = "c8f2181f79f37ce79023619568b84545465c5700c6545b5a7dc247ae7db91db4"
 metafile = true
 
 [[files]]
