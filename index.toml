@@ -752,7 +752,7 @@ metafile = true
 
 [[files]]
 file = "mods/obscure-tooltips-fix.pw.toml"
-hash = "1248fbaa453925ba1ddbb79f869d772b155e0cf96e0ed96da991e9dbdbdfebb8"
+hash = "05a1d0e61ff403528e33294d7bf943e47133d8fc5f2fc58219a25ddbb09f5ae1"
 metafile = true
 
 [[files]]
