@@ -6,7 +6,7 @@ hash = "245ba39f0917c4cb779c84955ca7e0ba240a741382a7a2c5bee33d5c223bd7c1"
 
 [[files]]
 file = "config/badmobs-common.toml"
-hash = "9f6fca34d88026923b73273d61896e4c3d4cb66fe178d1cf2cc3dbba3dea6573"
+hash = "3b31cbdc7701586bbdfd1644b47a8033d752501b502776e110e2d30e199f995b"
 
 [[files]]
 file = "config/bettercombat/server.json.5"
@@ -296,16 +296,6 @@ hash = "40ce042b68de9dbfc379edaa04c89b05448916aa715e0ad8829f5cfd85022935"
 metafile = true
 
 [[files]]
-file = "mods/connector-extras.pw.toml"
-hash = "ca80a80a9a068c01ad3b2d8d484a943897b6e87325ca70e5dea2d59c2eba9160"
-metafile = true
-
-[[files]]
-file = "mods/connector.pw.toml"
-hash = "a71da6b2e8a7654cdc2936e0ac684fbcbed513eb07b32f68f39497c27fe0de1d"
-metafile = true
-
-[[files]]
 file = "mods/corgilib.pw.toml"
 hash = "d59d01c92ab4cd4d94797f5142412113d919f815ef4a57251c2fe25752d23454"
 metafile = true
@@ -476,11 +466,6 @@ hash = "4a73f04a8986129d79ea4f283a0a33ce51af17079b6efa23596af5bc685e1c1e"
 metafile = true
 
 [[files]]
-file = "mods/forgified-fabric-api.pw.toml"
-hash = "fc6bed09bfeae0920968c6a6a723791fe8011d794ab91f27c3f4fad6a3f718b7"
-metafile = true
-
-[[files]]
 file = "mods/friends-and-foes-forge.pw.toml"
 hash = "9b26443d8a0a52727dbea33487145e7f9ad495bfee7fc21a462c815a1f5fc563"
 metafile = true
@@ -552,7 +537,7 @@ metafile = true
 
 [[files]]
 file = "mods/infinity-golem-boss-fight-(beta).pw.toml"
-hash = "a6e09c960b8fe133e833aae8515c73dd4a31c3ac7d37c02da1dee54872de15e4"
+hash = "32c5070c97c8ac94b289e1f3737432e4c8520f4cacc8a1e6fc8f947bbfd030e1"
 metafile = true
 
 [[files]]
@@ -677,7 +662,7 @@ metafile = true
 
 [[files]]
 file = "mods/mob-player-animator.pw.toml"
-hash = "e811841dc205b895e0f20ba0d8a8b063ed7eace673bcafa3b454ef4f88c85b74"
+hash = "e15343bd400ee3d5856586b9f5a1fa1cb868ab7604d619d5576285e1070ce362"
 metafile = true
 
 [[files]]
@@ -722,7 +707,7 @@ metafile = true
 
 [[files]]
 file = "mods/multiplayerbosses.pw.toml"
-hash = "e9baa84667363545b307829f8cba2d03833c2b461b2b8c6d07ad00e91819a64c"
+hash = "295edd8e0b395f0c3b3bb5fca528cb56144ae935000a0bfadf4410ad698a3107"
 metafile = true
 
 [[files]]
