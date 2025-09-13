@@ -241,11 +241,6 @@ hash = "5bbab74e6fba3a7d62f0c4e9f14e3c2030a939ccac483d118cc3c951b4b37b4d"
 metafile = true
 
 [[files]]
-file = "mods/brutality-a-terramity-addon.pw.toml"
-hash = "64a2a563a262525667210bdffc0633921b1402c56c10520a12b9a4bbeeef703c"
-metafile = true
-
-[[files]]
 file = "mods/caelus.pw.toml"
 hash = "eaa144428b42dedd12beea31db366ca686a621c9945d45a35494dca25846fc63"
 metafile = true
