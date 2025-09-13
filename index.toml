@@ -201,11 +201,6 @@ hash = "8a23e4296a01395a24a576c4463ad4541f499857cfc6e3fa494cea54b42636b8"
 metafile = true
 
 [[files]]
-file = "mods/better-combat-x-cataclysm-spellbooks-compatibility.pw.toml"
-hash = "2b280a2a94591cb781a82096a9ece46c689ad8ceb94533ba4d2a4788047fb3b7"
-metafile = true
-
-[[files]]
 file = "mods/better-combat.pw.toml"
 hash = "ab86c301b50308e58742faa6712c7dc034c0a109a0d4d1d9c21953a79aac3eb8"
 metafile = true
