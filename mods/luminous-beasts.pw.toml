@@ -1,0 +1,13 @@
+name = "Luminous: Beasts"
+filename = "Luminous Beasts V1.2.52 - Forge 1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/fGCP5k6m/versions/gV5bigwW/Luminous%20Beasts%20V1.2.52%20-%20Forge%201.20.1.jar"
+hash-format = "sha1"
+hash = "ccf3d436cd4b406e905905c3927d2f5803c874f0"
+
+[update]
+[update.modrinth]
+mod-id = "fGCP5k6m"
+version = "gV5bigwW"

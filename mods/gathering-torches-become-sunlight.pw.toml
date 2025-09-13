@@ -1,0 +1,13 @@
+name = "Gathering Torches Become Sunlight"
+filename = "torchesbecomesunlight-0.4.4-fix.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7fbcf92cfe36621313753edff97b677222a9ebf0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6851335
+project-id = 1115278

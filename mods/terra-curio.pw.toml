@@ -1,0 +1,13 @@
+name = "Terra Curio"
+filename = "TerraCurio-0.1.13-all.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/cylFY5iL/versions/ScJuexsY/TerraCurio-0.1.13-all.jar"
+hash-format = "sha1"
+hash = "8ecab17577d8b340661b7bb945b7f73ae2426069"
+
+[update]
+[update.modrinth]
+mod-id = "cylFY5iL"
+version = "ScJuexsY"

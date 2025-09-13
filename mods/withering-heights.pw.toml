@@ -1,0 +1,13 @@
+name = "Withering Heights: Revamped Wither"
+filename = "withering-heights-alpha-1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/NCPLOWlF/versions/prpDWC8S/withering-heights-alpha-1.jar"
+hash-format = "sha1"
+hash = "8f28b1a715e10995bd241d94381d050f54d960e2"
+
+[update]
+[update.modrinth]
+mod-id = "NCPLOWlF"
+version = "prpDWC8S"

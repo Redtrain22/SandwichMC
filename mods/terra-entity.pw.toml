@@ -1,0 +1,13 @@
+name = "Terra Entity"
+filename = "terra_entity-1.1.17-hotfix-all.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/BZKgbCzw/versions/bF4OwSdx/terra_entity-1.1.17-hotfix-all.jar"
+hash-format = "sha1"
+hash = "f1017e84dc8d437557323d8dd76ec851aec7bb22"
+
+[update]
+[update.modrinth]
+mod-id = "BZKgbCzw"
+version = "bF4OwSdx"

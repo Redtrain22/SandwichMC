@@ -1,0 +1,13 @@
+name = "Migamigos"
+filename = "Migamigos-0.1.1-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2boSKiaE/versions/ChS181dL/Migamigos-0.1.1-1.20.1.jar"
+hash-format = "sha1"
+hash = "822c42940c53de4a5fcc301e478329063132144f"
+
+[update]
+[update.modrinth]
+mod-id = "2boSKiaE"
+version = "ChS181dL"

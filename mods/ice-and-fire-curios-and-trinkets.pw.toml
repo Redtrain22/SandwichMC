@@ -1,0 +1,13 @@
+name = "Ice and Fire: Curios and Trinkets"
+filename = "iceandfire_curios-1.2.0-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/kme4edJZ/versions/IRoNJbqs/iceandfire_curios-1.2.0-forge-1.20.1.jar"
+hash-format = "sha1"
+hash = "eba2152290aea227a8e4183f570892927f0fed9c"
+
+[update]
+[update.modrinth]
+mod-id = "kme4edJZ"
+version = "IRoNJbqs"

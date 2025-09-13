@@ -1,13 +1,13 @@
 name = "Spartan Weaponry Addon Toolkit"
-filename = "spartantoolkit-1.20.1-1.5.1.jar"
+filename = "spartantoolkit-1.20.1-1.6.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/7R2BqYPs/versions/6dRBADMq/spartantoolkit-1.20.1-1.5.1.jar"
+url = "https://cdn.modrinth.com/data/7R2BqYPs/versions/dUvEozRY/spartantoolkit-1.20.1-1.6.1.jar"
 hash-format = "sha1"
-hash = "b89a368ba1197b1e1d55ce85664e0499e265984c"
+hash = "46c73554ce8282057824fae275f4f0cb0220c029"
 
 [update]
 [update.modrinth]
 mod-id = "7R2BqYPs"
-version = "6dRBADMq"
+version = "dUvEozRY"

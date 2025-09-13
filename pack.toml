@@ -1,13 +1,13 @@
 name = "SandwichMC"
 author = "Sando & Redtrain22"
-version = "4.0.0"
+version = "5.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "7eae2bb2495a164f157cc7386bfe3899652d3fe4f5f9f88430bc4e85b63dc6b6"
+hash = "16578311f348f9142f1e160d8183953a1e950eb08a14866da3458f28ee005e5f"
 
 [versions]
-forge = "47.3.12"
+forge = "47.4.0"
 minecraft = "1.20.1"

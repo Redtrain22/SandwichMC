@@ -1,0 +1,13 @@
+name = "The Sound of Rain"
+filename = "soundofrain-0.4a.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/8GRDQ9XB/versions/2cVkyKA6/soundofrain-0.4a.jar"
+hash-format = "sha1"
+hash = "776c09bf922af5f48501818f3dd461d4ef398cc9"
+
+[update]
+[update.modrinth]
+mod-id = "8GRDQ9XB"
+version = "2cVkyKA6"

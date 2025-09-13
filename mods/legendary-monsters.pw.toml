@@ -1,13 +1,13 @@
 name = "Legendary Monsters"
-filename = "legendarymonsters-1.6.2 MC 1.20.1.jar"
+filename = "legendarymonsters-1.9.8 MC 1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/9d9Bkqva/versions/SGOi9JfL/legendarymonsters-1.6.2%20MC%201.20.1.jar"
+url = "https://cdn.modrinth.com/data/9d9Bkqva/versions/LtJURbgf/legendarymonsters-1.9.8%20MC%201.20.1.jar"
 hash-format = "sha1"
-hash = "0147250e3b4d3e48ed02407d60de0e9c7fd92576"
+hash = "bc1b1436b490eccbd3554f86f8151a0803dcb1f3"
 
 [update]
 [update.modrinth]
 mod-id = "9d9Bkqva"
-version = "SGOi9JfL"
+version = "LtJURbgf"

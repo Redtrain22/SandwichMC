@@ -1,0 +1,13 @@
+name = "DarkStarter"
+filename = "darkstarter-forge-1.20.1-1.0.6.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/zylBdVA1/versions/fqatTqVO/darkstarter-forge-1.20.1-1.0.6.jar"
+hash-format = "sha1"
+hash = "afd2d0caeab69845dc1d5b75b7206b4409fe4816"
+
+[update]
+[update.modrinth]
+mod-id = "zylBdVA1"
+version = "fqatTqVO"

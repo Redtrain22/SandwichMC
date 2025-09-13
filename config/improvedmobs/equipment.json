@@ -1,0 +1,4740 @@
+{
+    "__comment": [
+        "Mobs will be able to equip items declared here",
+        "The first number is the weight while the second number is the quality",
+        "Weight is the weight of an item. Higher weight means that the item is more likely to get choosen",
+        "Quality is a modifier applied to the weight. The final weight used is weight + quality * current difficulty"
+    ],
+    "MAINHAND": {
+        "advancednetherite:netherite_diamond_axe": [
+            8977,
+            0.660509
+        ],
+        "advancednetherite:netherite_diamond_sword": [
+            8993,
+            0.626996
+        ],
+        "advancednetherite:netherite_emerald_axe": [
+            9737,
+            0.071943
+        ],
+        "advancednetherite:netherite_emerald_sword": [
+            9784,
+            0.973911
+        ],
+        "advancednetherite:netherite_gold_axe": [
+            10317,
+            0.8634324
+        ],
+        "advancednetherite:netherite_gold_sword": [
+            10395,
+            0.701056
+        ],
+        "advancednetherite:netherite_iron_axe": [
+            10413,
+            0.663587
+        ],
+        "advancednetherite:netherite_iron_sword": [
+            10483,
+            0.517878
+        ],
+        "alexscaves:desolate_dagger": [
+            11799,
+            0.753436
+        ],
+        "cataclysm:athame": [
+            14010,
+            0.0469
+        ],
+        "cataclysm:black_steel_axe": [
+            13052,
+            1.6320775
+        ],
+        "cataclysm:black_steel_sword": [
+            13139,
+            1.5193686
+        ],
+        "cataclysm:final_fractal": [
+            2917,
+            0.563541
+        ],
+        "cataclysm:khopesh": [
+            13160,
+            1.4922183
+        ],
+        "cataclysm:zweiender": [
+            2917,
+            0.563541
+        ],
+        "deeperdarker:resonarium_axe": [
+            12299,
+            3.5768492
+        ],
+        "deeperdarker:resonarium_sword": [
+            12361,
+            3.385685
+        ],
+        "deeperdarker:warden_axe": [
+            9967,
+            0.592401
+        ],
+        "deeperdarker:warden_sword": [
+            10045,
+            0.429875
+        ],
+        "iceandfire:amphithere_macuahuitl": [
+            13585,
+            0.94598794
+        ],
+        "iceandfire:copper_axe": [
+            13904,
+            0.5130528
+        ],
+        "iceandfire:copper_sword": [
+            13942,
+            0.44120392
+        ],
+        "iceandfire:dragonbone_axe": [
+            11468,
+            0.459938
+        ],
+        "iceandfire:dragonbone_sword": [
+            11538,
+            0.311902
+        ],
+        "iceandfire:dragonbone_sword_fire": [
+            10909,
+            0.6307178
+        ],
+        "iceandfire:dragonbone_sword_ice": [
+            10909,
+            0.6307178
+        ],
+        "iceandfire:dragonbone_sword_lightning": [
+            10909,
+            0.6307178
+        ],
+        "iceandfire:dragonsteel_fire_axe": [
+            13,
+            0.865591
+        ],
+        "iceandfire:dragonsteel_fire_sword": [
+            285,
+            0.272722
+        ],
+        "iceandfire:dragonsteel_ice_axe": [
+            13,
+            0.865591
+        ],
+        "iceandfire:dragonsteel_ice_sword": [
+            285,
+            0.272722
+        ],
+        "iceandfire:dragonsteel_lightning_axe": [
+            13,
+            0.865591
+        ],
+        "iceandfire:dragonsteel_lightning_sword": [
+            285,
+            0.272722
+        ],
+        "iceandfire:dread_knight_sword": [
+            12125,
+            0.0215507
+        ],
+        "iceandfire:dread_queen_sword": [
+            285,
+            0.272722
+        ],
+        "iceandfire:dread_sword": [
+            14265,
+            0.021399999
+        ],
+        "iceandfire:ghost_sword": [
+            9149,
+            0.300405
+        ],
+        "iceandfire:hippocampus_slapper": [
+            13624,
+            0.89580816
+        ],
+        "iceandfire:hippogryph_sword": [
+            13552,
+            0.988363
+        ],
+        "iceandfire:myrmex_desert_axe": [
+            13369,
+            0.2230678
+        ],
+        "iceandfire:myrmex_desert_sword": [
+            13415,
+            0.1640399
+        ],
+        "iceandfire:myrmex_desert_sword_venom": [
+            13415,
+            0.1640399
+        ],
+        "iceandfire:myrmex_jungle_axe": [
+            13369,
+            0.2230678
+        ],
+        "iceandfire:myrmex_jungle_sword": [
+            13415,
+            0.1640399
+        ],
+        "iceandfire:myrmex_jungle_sword_venom": [
+            13415,
+            0.1640399
+        ],
+        "iceandfire:silver_axe": [
+            13607,
+            0.91769844
+        ],
+        "iceandfire:silver_sword": [
+            13653,
+            0.8583848
+        ],
+        "iceandfire:stymphalian_bird_dagger": [
+            13564,
+            0.9729605
+        ],
+        "iceandfire:troll_weapon_axe": [
+            13655,
+            0.8557993
+        ],
+        "iceandfire:troll_weapon_column": [
+            13655,
+            0.8557993
+        ],
+        "iceandfire:troll_weapon_column_forest": [
+            13655,
+            0.8557993
+        ],
+        "iceandfire:troll_weapon_column_frost": [
+            13655,
+            0.8557993
+        ],
+        "iceandfire:troll_weapon_hammer": [
+            13655,
+            0.8557993
+        ],
+        "iceandfire:troll_weapon_trunk": [
+            13655,
+            0.8557993
+        ],
+        "iceandfire:troll_weapon_trunk_frost": [
+            13655,
+            0.8557993
+        ],
+        "mcdw:axe_anchor": [
+            13824,
+            0.6319829
+        ],
+        "mcdw:axe_axe": [
+            13902,
+            0.51635593
+        ],
+        "mcdw:axe_encrusted_anchor": [
+            11590,
+            5.201559
+        ],
+        "mcdw:axe_firebrand": [
+            11707,
+            4.951788
+        ],
+        "mcdw:axe_highland": [
+            13964,
+            0.37663084
+        ],
+        "mcdw:dagger_backstabber": [
+            11782,
+            4.790248
+        ],
+        "mcdw:dagger_chill_gale_knife": [
+            11761,
+            4.8356147
+        ],
+        "mcdw:dagger_dagger": [
+            14027,
+            0.045199998
+        ],
+        "mcdw:dagger_fangs_of_frost": [
+            14027,
+            0.045199998
+        ],
+        "mcdw:dagger_moon": [
+            14027,
+            0.045199998
+        ],
+        "mcdw:dagger_resolute_tempest_knife": [
+            14010,
+            0.0469
+        ],
+        "mcdw:dagger_shear_dagger": [
+            14040,
+            0.043899998
+        ],
+        "mcdw:dagger_swift_striker": [
+            10962,
+            6.5202
+        ],
+        "mcdw:dagger_tempest_knife": [
+            14010,
+            0.0469
+        ],
+        "mcdw:dagger_the_beginning": [
+            10962,
+            6.5202
+        ],
+        "mcdw:dagger_the_end": [
+            10962,
+            6.5202
+        ],
+        "mcdw:dagger_void_touched_blade": [
+            11782,
+            4.790248
+        ],
+        "mcdw:double_axe_cursed": [
+            13865,
+            0.57356006
+        ],
+        "mcdw:double_axe_double": [
+            13902,
+            0.51635593
+        ],
+        "mcdw:double_axe_whirlwind": [
+            13902,
+            0.51635593
+        ],
+        "mcdw:gauntlet_gauntlet": [
+            14040,
+            0.043899998
+        ],
+        "mcdw:gauntlet_maulers": [
+            11782,
+            4.790248
+        ],
+        "mcdw:gauntlet_soul_fists": [
+            10983,
+            6.476395
+        ],
+        "mcdw:glaive_cackling_broom": [
+            13935,
+            0.45638117
+        ],
+        "mcdw:glaive_glaive": [
+            13935,
+            0.45638117
+        ],
+        "mcdw:glaive_grave_bane": [
+            13902,
+            0.51635593
+        ],
+        "mcdw:glaive_venom_glaive": [
+            13902,
+            0.51635593
+        ],
+        "mcdw:hammer_bone_cudgel": [
+            10791,
+            6.876611
+        ],
+        "mcdw:hammer_boneclub": [
+            13865,
+            0.57356006
+        ],
+        "mcdw:hammer_flail": [
+            13935,
+            0.45638117
+        ],
+        "mcdw:hammer_gravity": [
+            11637,
+            5.1015
+        ],
+        "mcdw:hammer_great_hammer": [
+            13902,
+            0.51635593
+        ],
+        "mcdw:hammer_mace": [
+            13935,
+            0.45638117
+        ],
+        "mcdw:hammer_stormlander": [
+            11596,
+            5.1888037
+        ],
+        "mcdw:hammer_suns_grace": [
+            11707,
+            4.951788
+        ],
+        "mcdw:scythe_frost_scythe": [
+            11707,
+            4.951788
+        ],
+        "mcdw:scythe_jailors_scythe": [
+            13964,
+            0.37663084
+        ],
+        "mcdw:scythe_skull_scythe": [
+            11707,
+            4.951788
+        ],
+        "mcdw:scythe_soul_scythe": [
+            11736,
+            4.889481
+        ],
+        "mcdw:sickle_last_laugh_gold": [
+            14010,
+            0.0469
+        ],
+        "mcdw:sickle_last_laugh_silver": [
+            14010,
+            0.0469
+        ],
+        "mcdw:sickle_nightmares_bite": [
+            14010,
+            0.0469
+        ],
+        "mcdw:sickle_sickle": [
+            14027,
+            0.045199998
+        ],
+        "mcdw:soul_dagger_eternal_knife": [
+            10875,
+            6.701589
+        ],
+        "mcdw:soul_dagger_soul_knife": [
+            13964,
+            0.37663084
+        ],
+        "mcdw:soul_dagger_truthseeker": [
+            10908,
+            6.632802
+        ],
+        "mcdw:staff_battlestaff": [
+            14365,
+            0.011399999
+        ],
+        "mcdw:staff_battlestaff_of_terror": [
+            13935,
+            0.45638117
+        ],
+        "mcdw:staff_growing_staff": [
+            13935,
+            0.45638117
+        ],
+        "mcdw:sword_beestinger": [
+            14040,
+            0.043899998
+        ],
+        "mcdw:sword_broadsword": [
+            13935,
+            0.45638117
+        ],
+        "mcdw:sword_broken_sawblade": [
+            13989,
+            0.049
+        ],
+        "mcdw:sword_claymore": [
+            13865,
+            0.57356006
+        ],
+        "mcdw:sword_coral_blade": [
+            13989,
+            0.049
+        ],
+        "mcdw:sword_cutlass": [
+            14010,
+            0.0469
+        ],
+        "mcdw:sword_dancers_sword": [
+            13989,
+            0.049
+        ],
+        "mcdw:sword_dark_katana": [
+            10875,
+            6.701589
+        ],
+        "mcdw:sword_diamond_sword_var": [
+            11736,
+            4.889481
+        ],
+        "mcdw:sword_freezing_foil": [
+            14027,
+            0.045199998
+        ],
+        "mcdw:sword_frost_slayer": [
+            11637,
+            5.1015
+        ],
+        "mcdw:sword_great_axeblade": [
+            13865,
+            0.57356006
+        ],
+        "mcdw:sword_hawkbrand": [
+            13902,
+            0.51635593
+        ],
+        "mcdw:sword_heartstealer": [
+            11637,
+            5.1015
+        ],
+        "mcdw:sword_iron_sword_var": [
+            13989,
+            0.049
+        ],
+        "mcdw:sword_katana": [
+            13964,
+            0.37663084
+        ],
+        "mcdw:sword_masters_katana": [
+            11707,
+            4.951788
+        ],
+        "mcdw:sword_mechanized_sawblade": [
+            11736,
+            4.889481
+        ],
+        "mcdw:sword_nameless_blade": [
+            13964,
+            0.37663084
+        ],
+        "mcdw:sword_obsidian_claymore": [
+            10797,
+            6.8641124
+        ],
+        "mcdw:sword_rapier": [
+            14040,
+            0.043899998
+        ],
+        "mcdw:sword_sinister": [
+            13902,
+            0.51635593
+        ],
+        "mcdw:sword_sponge_striker": [
+            11736,
+            4.889481
+        ],
+        "mcdw:sword_the_starless_night": [
+            10797,
+            6.8641124
+        ],
+        "minecraft:diamond_axe": [
+            11674,
+            5.022479
+        ],
+        "minecraft:diamond_sword": [
+            11736,
+            4.889481
+        ],
+        "minecraft:enchanted_book": [
+            12879,
+            1.8573177
+        ],
+        "minecraft:golden_axe": [
+            14335,
+            0.014399999
+        ],
+        "minecraft:golden_sword": [
+            14398,
+            0.0081
+        ],
+        "minecraft:iron_axe": [
+            13902,
+            0.51635593
+        ],
+        "minecraft:iron_sword": [
+            13989,
+            0.049
+        ],
+        "minecraft:lingering_potion{Potion:\"minecraft:harming\"}": [
+            12979,
+            1.7269388
+        ],
+        "minecraft:netherite_axe": [
+            10838,
+            0.778693
+        ],
+        "minecraft:netherite_sword": [
+            10908,
+            0.632802
+        ],
+        "minecraft:snowball": [
+            1,
+            1.0E-5
+        ],
+        "minecraft:splash_potion{Potion:\"minecraft:harming\"}": [
+            12979,
+            0.0
+        ],
+        "minecraft:stone_axe": [
+            14105,
+            0.0374
+        ],
+        "minecraft:stone_sword": [
+            14213,
+            0.026599998
+        ],
+        "minecraft:tnt": [
+            12779,
+            1.9881918
+        ],
+        "minecraft:trident": [
+            1,
+            1.0E-5
+        ],
+        "minecraft:wooden_axe": [
+            14289,
+            0.019
+        ],
+        "minecraft:wooden_sword": [
+            14352,
+            0.0127
+        ],
+        "simplyswords:arcanethyst": [
+            8674,
+            11.295764
+        ],
+        "simplyswords:awakened_lichblade": [
+            8674,
+            11.295764
+        ],
+        "simplyswords:bramblethorn": [
+            8768,
+            11.098565
+        ],
+        "simplyswords:brimstone_claymore": [
+            8684,
+            11.274778
+        ],
+        "simplyswords:caelestis": [
+            8684,
+            11.274778
+        ],
+        "simplyswords:decaying_relic": [
+            8731,
+            11.176172
+        ],
+        "simplyswords:diamond_chakram": [
+            11761,
+            4.8356147
+        ],
+        "simplyswords:diamond_claymore": [
+            11674,
+            5.022479
+        ],
+        "simplyswords:diamond_cutlass": [
+            11736,
+            4.889481
+        ],
+        "simplyswords:diamond_glaive": [
+            11736,
+            4.889481
+        ],
+        "simplyswords:diamond_greataxe": [
+            11637,
+            5.1015
+        ],
+        "simplyswords:diamond_greathammer": [
+            11596,
+            5.1888037
+        ],
+        "simplyswords:diamond_halberd": [
+            11637,
+            5.1015
+        ],
+        "simplyswords:diamond_katana": [
+            11736,
+            4.889481
+        ],
+        "simplyswords:diamond_longsword": [
+            11736,
+            4.889481
+        ],
+        "simplyswords:diamond_rapier": [
+            11761,
+            4.8356147
+        ],
+        "simplyswords:diamond_sai": [
+            11799,
+            4.753436
+        ],
+        "simplyswords:diamond_scythe": [
+            11707,
+            4.951788
+        ],
+        "simplyswords:diamond_spear": [
+            11736,
+            4.889481
+        ],
+        "simplyswords:diamond_twinblade": [
+            11736,
+            4.889481
+        ],
+        "simplyswords:diamond_warglaive": [
+            11736,
+            4.889481
+        ],
+        "simplyswords:dormant_relic": [
+            8768,
+            11.098565
+        ],
+        "simplyswords:dreadtide": [
+            8768,
+            11.098565
+        ],
+        "simplyswords:emberblade": [
+            8768,
+            11.098565
+        ],
+        "simplyswords:emberlash": [
+            8855,
+            10.916151
+        ],
+        "simplyswords:enigma": [
+            8674,
+            11.295764
+        ],
+        "simplyswords:flamewind": [
+            8768,
+            11.098565
+        ],
+        "simplyswords:frostfall": [
+            8690,
+            11.26219
+        ],
+        "simplyswords:gold_chakram": [
+            14411,
+            0.0068
+        ],
+        "simplyswords:gold_claymore": [
+            14360,
+            0.011899999
+        ],
+        "simplyswords:gold_cutlass": [
+            14398,
+            0.0081
+        ],
+        "simplyswords:gold_glaive": [
+            14398,
+            0.0081
+        ],
+        "simplyswords:gold_greataxe": [
+            14335,
+            0.014399999
+        ],
+        "simplyswords:gold_greathammer": [
+            14306,
+            0.0173
+        ],
+        "simplyswords:gold_halberd": [
+            14335,
+            0.014399999
+        ],
+        "simplyswords:gold_katana": [
+            14398,
+            0.0081
+        ],
+        "simplyswords:gold_longsword": [
+            14398,
+            0.0081
+        ],
+        "simplyswords:gold_rapier": [
+            14411,
+            0.0068
+        ],
+        "simplyswords:gold_sai": [
+            14425,
+            0.0053999997
+        ],
+        "simplyswords:gold_scythe": [
+            14381,
+            0.009799999
+        ],
+        "simplyswords:gold_spear": [
+            14398,
+            0.0081
+        ],
+        "simplyswords:gold_twinblade": [
+            14398,
+            0.0081
+        ],
+        "simplyswords:gold_warglaive": [
+            14398,
+            0.0081
+        ],
+        "simplyswords:harbinger": [
+            8768,
+            11.098565
+        ],
+        "simplyswords:hearthflame": [
+            8662,
+            11.320946
+        ],
+        "simplyswords:hiveheart": [
+            8674,
+            11.295764
+        ],
+        "simplyswords:icewhisper": [
+            8674,
+            11.295764
+        ],
+        "simplyswords:iron_chakram": [
+            14010,
+            0.0469
+        ],
+        "simplyswords:iron_claymore": [
+            13935,
+            0.45638117
+        ],
+        "simplyswords:iron_cutlass": [
+            13989,
+            0.049
+        ],
+        "simplyswords:iron_glaive": [
+            13989,
+            0.049
+        ],
+        "simplyswords:iron_greataxe": [
+            13902,
+            0.51635593
+        ],
+        "simplyswords:iron_greathammer": [
+            13865,
+            0.57356006
+        ],
+        "simplyswords:iron_halberd": [
+            13902,
+            0.51635593
+        ],
+        "simplyswords:iron_katana": [
+            13989,
+            0.049
+        ],
+        "simplyswords:iron_longsword": [
+            13989,
+            0.049
+        ],
+        "simplyswords:iron_rapier": [
+            14010,
+            0.0469
+        ],
+        "simplyswords:iron_sai": [
+            14040,
+            0.043899998
+        ],
+        "simplyswords:iron_scythe": [
+            13964,
+            0.37663084
+        ],
+        "simplyswords:iron_spear": [
+            13989,
+            0.049
+        ],
+        "simplyswords:iron_twinblade": [
+            13989,
+            0.049
+        ],
+        "simplyswords:iron_warglaive": [
+            13989,
+            0.049
+        ],
+        "simplyswords:livyatan": [
+            8731,
+            11.176172
+        ],
+        "simplyswords:magiblade": [
+            8768,
+            11.098565
+        ],
+        "simplyswords:magiscythe": [
+            8731,
+            11.176172
+        ],
+        "simplyswords:magispear": [
+            8731,
+            11.176172
+        ],
+        "simplyswords:mjolnir": [
+            8768,
+            11.098565
+        ],
+        "simplyswords:molten_edge": [
+            8731,
+            11.176172
+        ],
+        "simplyswords:netherite_chakram": [
+            10937,
+            0.5723376
+        ],
+        "simplyswords:netherite_claymore": [
+            10838,
+            0.778693
+        ],
+        "simplyswords:netherite_cutlass": [
+            10908,
+            0.632802
+        ],
+        "simplyswords:netherite_glaive": [
+            10908,
+            0.632802
+        ],
+        "simplyswords:netherite_greataxe": [
+            10797,
+            0.8641124
+        ],
+        "simplyswords:netherite_greathammer": [
+            10791,
+            0.876611
+        ],
+        "simplyswords:netherite_halberd": [
+            10797,
+            0.8641124
+        ],
+        "simplyswords:netherite_katana": [
+            10908,
+            0.632802
+        ],
+        "simplyswords:netherite_longsword": [
+            10908,
+            0.632802
+        ],
+        "simplyswords:netherite_rapier": [
+            10937,
+            0.5723376
+        ],
+        "simplyswords:netherite_sai": [
+            10983,
+            0.476395
+        ],
+        "simplyswords:netherite_scythe": [
+            10875,
+            0.701589
+        ],
+        "simplyswords:netherite_spear": [
+            10908,
+            0.632802
+        ],
+        "simplyswords:netherite_twinblade": [
+            10908,
+            0.632802
+        ],
+        "simplyswords:netherite_warglaive": [
+            10908,
+            0.632802
+        ],
+        "simplyswords:ribboncleaver": [
+            8674,
+            0.295764
+        ],
+        "simplyswords:righteous_relic": [
+            8768,
+            0.098565
+        ],
+        "simplyswords:runic_chakram": [
+            10908,
+            0.632802
+        ],
+        "simplyswords:runic_claymore": [
+            10797,
+            0.8641124
+        ],
+        "simplyswords:runic_cutlass": [
+            10875,
+            0.701589
+        ],
+        "simplyswords:runic_glaive": [
+            10875,
+            0.701589
+        ],
+        "simplyswords:runic_greataxe": [
+            10791,
+            0.876611
+        ],
+        "simplyswords:runic_greathammer": [
+            10781,
+            0.8974404
+        ],
+        "simplyswords:runic_halberd": [
+            10791,
+            0.876611
+        ],
+        "simplyswords:runic_katana": [
+            10875,
+            0.701589
+        ],
+        "simplyswords:runic_longsword": [
+            10875,
+            0.701589
+        ],
+        "simplyswords:runic_rapier": [
+            10908,
+            0.632802
+        ],
+        "simplyswords:runic_sai": [
+            10962,
+            0.5202
+        ],
+        "simplyswords:runic_scythe": [
+            10838,
+            0.778693
+        ],
+        "simplyswords:runic_spear": [
+            10875,
+            0.701589
+        ],
+        "simplyswords:runic_twinblade": [
+            10875,
+            0.701589
+        ],
+        "simplyswords:runic_warglaive": [
+            10875,
+            0.701589
+        ],
+        "simplyswords:shadowsting": [
+            8893,
+            0.836505
+        ],
+        "simplyswords:slumbering_lichblade": [
+            8674,
+            0.295764
+        ],
+        "simplyswords:soulkeeper": [
+            8662,
+            0.320946
+        ],
+        "simplyswords:soulpyre": [
+            8674,
+            0.295764
+        ],
+        "simplyswords:soulrender": [
+            8731,
+            0.176172
+        ],
+        "simplyswords:soulstealer": [
+            8855,
+            0.916151
+        ],
+        "simplyswords:stars_edge": [
+            8768,
+            0.098565
+        ],
+        "simplyswords:stormbringer": [
+            8768,
+            0.098565
+        ],
+        "simplyswords:storms_edge": [
+            8768,
+            0.098565
+        ],
+        "simplyswords:sunfire": [
+            8768,
+            0.098565
+        ],
+        "simplyswords:sword_on_a_stick": [
+            14314,
+            0.0165
+        ],
+        "simplyswords:tainted_relic": [
+            8768,
+            0.098565
+        ],
+        "simplyswords:tempest": [
+            8855,
+            0.916151
+        ],
+        "simplyswords:thunderbrand": [
+            8674,
+            0.295764
+        ],
+        "simplyswords:toxic_longsword": [
+            8768,
+            0.098565
+        ],
+        "simplyswords:twisted_blade": [
+            8731,
+            0.176172
+        ],
+        "simplyswords:waking_lichblade": [
+            8674,
+            11.295764
+        ],
+        "simplyswords:watcher_claymore": [
+            8684,
+            11.274778
+        ],
+        "simplyswords:watching_warglaive": [
+            8768,
+            11.098565
+        ],
+        "simplyswords:waxweaver": [
+            8684,
+            11.274778
+        ],
+        "simplyswords:whisperwind": [
+            8768,
+            11.098565
+        ],
+        "simplyswords:wickpiercer": [
+            8731,
+            11.176172
+        ],
+        "soulsweapons:bloodthirster": [
+            10988,
+            6.4659643
+        ],
+        "soulsweapons:bluemoon_greatsword": [
+            11375,
+            5.655892
+        ],
+        "soulsweapons:bluemoon_shortsword": [
+            11404,
+            5.594865
+        ],
+        "soulsweapons:blunderbuss": [
+            10879,
+            6.693252
+        ],
+        "soulsweapons:comet_spear": [
+            11375,
+            5.655892
+        ],
+        "soulsweapons:crucible_sword": [
+            11342,
+            5.725262
+        ],
+        "soulsweapons:darkin_blade": [
+            10877,
+            6.697421
+        ],
+        "soulsweapons:darkin_scythe": [
+            11258,
+            5.9015265
+        ],
+        "soulsweapons:darkin_scythe_pre": [
+            11342,
+            5.725262
+        ],
+        "soulsweapons:dawnbreaker": [
+            11375,
+            5.655892
+        ],
+        "soulsweapons:dragon_staff": [
+            11375,
+            0.655892
+        ],
+        "soulsweapons:dragonslayer_swordspear": [
+            11375,
+            5.655892
+        ],
+        "soulsweapons:draugr": [
+            11494,
+            5.405014
+        ],
+        "soulsweapons:draupnir_spear": [
+            11375,
+            5.655892
+        ],
+        "soulsweapons:empowered_dawnbreaker": [
+            11305,
+            5.802954
+        ],
+        "soulsweapons:featherlight": [
+            11375,
+            5.655892
+        ],
+        "soulsweapons:forlorn_scythe": [
+            13692,
+            0.8078281
+        ],
+        "soulsweapons:freyr_sword": [
+            11404,
+            5.594865
+        ],
+        "soulsweapons:frostmourne": [
+            11264,
+            5.88895
+        ],
+        "soulsweapons:galeforce": [
+            10079,
+            8.359047
+        ],
+        "soulsweapons:guts_sword": [
+            11678,
+            5.0139213
+        ],
+        "soulsweapons:holy_greatsword": [
+            11748,
+            4.8636436
+        ],
+        "soulsweapons:holy_moonlight_greatsword": [
+            11305,
+            5.802954
+        ],
+        "soulsweapons:holy_moonlight_sword": [
+            11404,
+            5.594865
+        ],
+        "soulsweapons:hunter_cannon": [
+            10179,
+            8.150767
+        ],
+        "soulsweapons:kirkhammer": [
+            11715,
+            4.934618
+        ],
+        "soulsweapons:kraken_slayer": [
+            10163,
+            8.184088
+        ],
+        "soulsweapons:leviathan_axe": [
+            11305,
+            5.802954
+        ],
+        "soulsweapons:lich_bane": [
+            11404,
+            5.594865
+        ],
+        "soulsweapons:master_sword": [
+            11375,
+            5.655892
+        ],
+        "soulsweapons:mjolnir": [
+            11342,
+            5.725262
+        ],
+        "soulsweapons:moonlight_greatsword": [
+            11342,
+            5.725262
+        ],
+        "soulsweapons:moonlight_shortsword": [
+            11375,
+            5.655892
+        ],
+        "soulsweapons:moonstone_axe": [
+            11402,
+            5.599076
+        ],
+        "soulsweapons:nightfall": [
+            11637,
+            5.1015
+        ],
+        "soulsweapons:nights_edge_item": [
+            11305,
+            5.802954
+        ],
+        "soulsweapons:pure_moonlight_greatsword": [
+            11264,
+            5.88895
+        ],
+        "soulsweapons:rageblade": [
+            11404,
+            5.594865
+        ],
+        "soulsweapons:shadow_assassin_scythe": [
+            11258,
+            5.9015265
+        ],
+        "soulsweapons:silver_sword": [
+            11802,
+            4.746931
+        ],
+        "soulsweapons:skofnung": [
+            11375,
+            5.655892
+        ],
+        "soulsweapons:soul_reaper": [
+            11264,
+            5.88895
+        ],
+        "soulsweapons:sting": [
+            11429,
+            5.542202
+        ],
+        "soulsweapons:translucent_double_greatsword": [
+            13803,
+            0.66083413
+        ],
+        "soulsweapons:translucent_glaive": [
+            13832,
+            0.6208355
+        ],
+        "soulsweapons:translucent_sword": [
+            13857,
+            0.5852517
+        ],
+        "soulsweapons:whirligig_sawblade": [
+            11748,
+            4.8636436
+        ],
+        "soulsweapons:withered_wabbajack": [
+            11375,
+            5.655892
+        ],
+        "spartanweaponry:aluminum_battle_hammer": [
+            13732,
+            0.7555575
+        ],
+        "spartanweaponry:aluminum_battleaxe": [
+            13732,
+            0.7555575
+        ],
+        "spartanweaponry:aluminum_dagger": [
+            13732,
+            0.7555575
+        ],
+        "spartanweaponry:aluminum_flanged_mace": [
+            13732,
+            0.7555575
+        ],
+        "spartanweaponry:aluminum_glaive": [
+            13732,
+            0.7555575
+        ],
+        "spartanweaponry:aluminum_greatsword": [
+            13732,
+            0.7555575
+        ],
+        "spartanweaponry:aluminum_halberd": [
+            13732,
+            0.7555575
+        ],
+        "spartanweaponry:aluminum_katana": [
+            13732,
+            0.7555575
+        ],
+        "spartanweaponry:aluminum_lance": [
+            13732,
+            0.7555575
+        ],
+        "spartanweaponry:aluminum_longsword": [
+            13732,
+            0.7555575
+        ],
+        "spartanweaponry:aluminum_parrying_dagger": [
+            13732,
+            0.7555575
+        ],
+        "spartanweaponry:aluminum_pike": [
+            13732,
+            0.7555575
+        ],
+        "spartanweaponry:aluminum_quarterstaff": [
+            13732,
+            0.7555575
+        ],
+        "spartanweaponry:aluminum_rapier": [
+            13732,
+            0.7555575
+        ],
+        "spartanweaponry:aluminum_saber": [
+            13732,
+            0.7555575
+        ],
+        "spartanweaponry:aluminum_scythe": [
+            13732,
+            0.7555575
+        ],
+        "spartanweaponry:aluminum_spear": [
+            13732,
+            0.7555575
+        ],
+        "spartanweaponry:aluminum_warhammer": [
+            13732,
+            0.7555575
+        ],
+        "spartanweaponry:bronze_battle_hammer": [
+            13870,
+            0.56615794
+        ],
+        "spartanweaponry:bronze_battleaxe": [
+            13870,
+            0.56615794
+        ],
+        "spartanweaponry:bronze_dagger": [
+            13870,
+            0.56615794
+        ],
+        "spartanweaponry:bronze_flanged_mace": [
+            13870,
+            0.56615794
+        ],
+        "spartanweaponry:bronze_glaive": [
+            13870,
+            0.56615794
+        ],
+        "spartanweaponry:bronze_greatsword": [
+            13870,
+            0.56615794
+        ],
+        "spartanweaponry:bronze_halberd": [
+            13870,
+            0.56615794
+        ],
+        "spartanweaponry:bronze_katana": [
+            13870,
+            0.56615794
+        ],
+        "spartanweaponry:bronze_lance": [
+            13870,
+            0.56615794
+        ],
+        "spartanweaponry:bronze_longsword": [
+            13870,
+            0.56615794
+        ],
+        "spartanweaponry:bronze_parrying_dagger": [
+            13870,
+            0.56615794
+        ],
+        "spartanweaponry:bronze_pike": [
+            13870,
+            0.56615794
+        ],
+        "spartanweaponry:bronze_quarterstaff": [
+            13870,
+            0.56615794
+        ],
+        "spartanweaponry:bronze_rapier": [
+            13870,
+            0.56615794
+        ],
+        "spartanweaponry:bronze_saber": [
+            13870,
+            0.56615794
+        ],
+        "spartanweaponry:bronze_scythe": [
+            13870,
+            0.56615794
+        ],
+        "spartanweaponry:bronze_spear": [
+            13870,
+            0.56615794
+        ],
+        "spartanweaponry:bronze_warhammer": [
+            13870,
+            0.56615794
+        ],
+        "spartanweaponry:cestus": [
+            14235,
+            0.0244
+        ],
+        "spartanweaponry:constantan_battle_hammer": [
+            13899,
+            0.5212574
+        ],
+        "spartanweaponry:constantan_battleaxe": [
+            13899,
+            0.5212574
+        ],
+        "spartanweaponry:constantan_dagger": [
+            13899,
+            0.5212574
+        ],
+        "spartanweaponry:constantan_flanged_mace": [
+            13899,
+            0.5212574
+        ],
+        "spartanweaponry:constantan_glaive": [
+            13899,
+            0.5212574
+        ],
+        "spartanweaponry:constantan_greatsword": [
+            13899,
+            0.5212574
+        ],
+        "spartanweaponry:constantan_halberd": [
+            13899,
+            0.5212574
+        ],
+        "spartanweaponry:constantan_katana": [
+            13899,
+            0.5212574
+        ],
+        "spartanweaponry:constantan_lance": [
+            13899,
+            0.5212574
+        ],
+        "spartanweaponry:constantan_longsword": [
+            13899,
+            0.5212574
+        ],
+        "spartanweaponry:constantan_parrying_dagger": [
+            13899,
+            0.5212574
+        ],
+        "spartanweaponry:constantan_pike": [
+            13899,
+            0.5212574
+        ],
+        "spartanweaponry:constantan_quarterstaff": [
+            13899,
+            0.5212574
+        ],
+        "spartanweaponry:constantan_rapier": [
+            13899,
+            0.5212574
+        ],
+        "spartanweaponry:constantan_saber": [
+            13899,
+            0.5212574
+        ],
+        "spartanweaponry:constantan_scythe": [
+            13899,
+            0.5212574
+        ],
+        "spartanweaponry:constantan_spear": [
+            13899,
+            0.5212574
+        ],
+        "spartanweaponry:constantan_warhammer": [
+            13899,
+            0.5212574
+        ],
+        "spartanweaponry:copper_battle_hammer": [
+            14085,
+            0.039399996
+        ],
+        "spartanweaponry:copper_battleaxe": [
+            14085,
+            0.039399996
+        ],
+        "spartanweaponry:copper_dagger": [
+            14085,
+            0.039399996
+        ],
+        "spartanweaponry:copper_flanged_mace": [
+            14085,
+            0.039399996
+        ],
+        "spartanweaponry:copper_glaive": [
+            14085,
+            0.039399996
+        ],
+        "spartanweaponry:copper_greatsword": [
+            14085,
+            0.039399996
+        ],
+        "spartanweaponry:copper_halberd": [
+            14085,
+            0.039399996
+        ],
+        "spartanweaponry:copper_katana": [
+            14085,
+            0.039399996
+        ],
+        "spartanweaponry:copper_lance": [
+            14085,
+            0.039399996
+        ],
+        "spartanweaponry:copper_longsword": [
+            14085,
+            0.039399996
+        ],
+        "spartanweaponry:copper_parrying_dagger": [
+            14085,
+            0.039399996
+        ],
+        "spartanweaponry:copper_pike": [
+            14085,
+            0.039399996
+        ],
+        "spartanweaponry:copper_quarterstaff": [
+            14085,
+            0.039399996
+        ],
+        "spartanweaponry:copper_rapier": [
+            14085,
+            0.039399996
+        ],
+        "spartanweaponry:copper_saber": [
+            14085,
+            0.039399996
+        ],
+        "spartanweaponry:copper_scythe": [
+            14085,
+            0.039399996
+        ],
+        "spartanweaponry:copper_spear": [
+            14085,
+            0.039399996
+        ],
+        "spartanweaponry:copper_warhammer": [
+            14085,
+            0.039399996
+        ],
+        "spartanweaponry:diamond_battle_hammer": [
+            11736,
+            4.889481
+        ],
+        "spartanweaponry:diamond_battleaxe": [
+            11736,
+            4.889481
+        ],
+        "spartanweaponry:diamond_dagger": [
+            11736,
+            4.889481
+        ],
+        "spartanweaponry:diamond_flanged_mace": [
+            11736,
+            4.889481
+        ],
+        "spartanweaponry:diamond_glaive": [
+            11736,
+            4.889481
+        ],
+        "spartanweaponry:diamond_greatsword": [
+            11736,
+            4.889481
+        ],
+        "spartanweaponry:diamond_halberd": [
+            11736,
+            4.889481
+        ],
+        "spartanweaponry:diamond_katana": [
+            11736,
+            4.889481
+        ],
+        "spartanweaponry:diamond_lance": [
+            11736,
+            4.889481
+        ],
+        "spartanweaponry:diamond_longsword": [
+            11736,
+            4.889481
+        ],
+        "spartanweaponry:diamond_parrying_dagger": [
+            11736,
+            4.889481
+        ],
+        "spartanweaponry:diamond_pike": [
+            11736,
+            4.889481
+        ],
+        "spartanweaponry:diamond_quarterstaff": [
+            11736,
+            4.889481
+        ],
+        "spartanweaponry:diamond_rapier": [
+            11736,
+            4.889481
+        ],
+        "spartanweaponry:diamond_saber": [
+            11736,
+            4.889481
+        ],
+        "spartanweaponry:diamond_scythe": [
+            11736,
+            4.889481
+        ],
+        "spartanweaponry:diamond_spear": [
+            11736,
+            4.889481
+        ],
+        "spartanweaponry:diamond_warhammer": [
+            11736,
+            4.889481
+        ],
+        "spartanweaponry:electrum_battle_hammer": [
+            14108,
+            0.0371
+        ],
+        "spartanweaponry:electrum_battleaxe": [
+            14108,
+            0.0371
+        ],
+        "spartanweaponry:electrum_dagger": [
+            14108,
+            0.0371
+        ],
+        "spartanweaponry:electrum_flanged_mace": [
+            14108,
+            0.0371
+        ],
+        "spartanweaponry:electrum_glaive": [
+            14108,
+            0.0371
+        ],
+        "spartanweaponry:electrum_greatsword": [
+            14108,
+            0.0371
+        ],
+        "spartanweaponry:electrum_halberd": [
+            14108,
+            0.0371
+        ],
+        "spartanweaponry:electrum_katana": [
+            14108,
+            0.0371
+        ],
+        "spartanweaponry:electrum_lance": [
+            14108,
+            0.0371
+        ],
+        "spartanweaponry:electrum_longsword": [
+            14108,
+            0.0371
+        ],
+        "spartanweaponry:electrum_parrying_dagger": [
+            14108,
+            0.0371
+        ],
+        "spartanweaponry:electrum_pike": [
+            14108,
+            0.0371
+        ],
+        "spartanweaponry:electrum_quarterstaff": [
+            14108,
+            0.0371
+        ],
+        "spartanweaponry:electrum_rapier": [
+            14108,
+            0.0371
+        ],
+        "spartanweaponry:electrum_saber": [
+            14108,
+            0.0371
+        ],
+        "spartanweaponry:electrum_scythe": [
+            14108,
+            0.0371
+        ],
+        "spartanweaponry:electrum_spear": [
+            14108,
+            0.0371
+        ],
+        "spartanweaponry:electrum_warhammer": [
+            14108,
+            0.0371
+        ],
+        "spartanweaponry:golden_battle_hammer": [
+            14398,
+            0.0081
+        ],
+        "spartanweaponry:golden_battleaxe": [
+            14398,
+            0.0081
+        ],
+        "spartanweaponry:golden_dagger": [
+            14398,
+            0.0081
+        ],
+        "spartanweaponry:golden_flanged_mace": [
+            14398,
+            0.0081
+        ],
+        "spartanweaponry:golden_glaive": [
+            14398,
+            0.0081
+        ],
+        "spartanweaponry:golden_greatsword": [
+            14398,
+            0.0081
+        ],
+        "spartanweaponry:golden_halberd": [
+            14398,
+            0.0081
+        ],
+        "spartanweaponry:golden_katana": [
+            14398,
+            0.0081
+        ],
+        "spartanweaponry:golden_lance": [
+            14398,
+            0.0081
+        ],
+        "spartanweaponry:golden_longsword": [
+            14398,
+            0.0081
+        ],
+        "spartanweaponry:golden_parrying_dagger": [
+            14398,
+            0.0081
+        ],
+        "spartanweaponry:golden_pike": [
+            14398,
+            0.0081
+        ],
+        "spartanweaponry:golden_quarterstaff": [
+            14398,
+            0.0081
+        ],
+        "spartanweaponry:golden_rapier": [
+            14398,
+            0.0081
+        ],
+        "spartanweaponry:golden_saber": [
+            14398,
+            0.0081
+        ],
+        "spartanweaponry:golden_scythe": [
+            14398,
+            0.0081
+        ],
+        "spartanweaponry:golden_spear": [
+            14398,
+            0.0081
+        ],
+        "spartanweaponry:golden_warhammer": [
+            14398,
+            0.0081
+        ],
+        "spartanweaponry:invar_battle_hammer": [
+            13661,
+            0.8480387
+        ],
+        "spartanweaponry:invar_battleaxe": [
+            13661,
+            0.8480387
+        ],
+        "spartanweaponry:invar_dagger": [
+            13661,
+            0.8480387
+        ],
+        "spartanweaponry:invar_flanged_mace": [
+            13661,
+            0.8480387
+        ],
+        "spartanweaponry:invar_glaive": [
+            13661,
+            0.8480387
+        ],
+        "spartanweaponry:invar_greatsword": [
+            13661,
+            0.8480387
+        ],
+        "spartanweaponry:invar_halberd": [
+            13661,
+            0.8480387
+        ],
+        "spartanweaponry:invar_katana": [
+            13661,
+            0.8480387
+        ],
+        "spartanweaponry:invar_lance": [
+            13661,
+            0.8480387
+        ],
+        "spartanweaponry:invar_longsword": [
+            13661,
+            0.8480387
+        ],
+        "spartanweaponry:invar_parrying_dagger": [
+            13661,
+            0.8480387
+        ],
+        "spartanweaponry:invar_pike": [
+            13661,
+            0.8480387
+        ],
+        "spartanweaponry:invar_quarterstaff": [
+            13661,
+            0.8480387
+        ],
+        "spartanweaponry:invar_rapier": [
+            13661,
+            0.8480387
+        ],
+        "spartanweaponry:invar_saber": [
+            13661,
+            0.8480387
+        ],
+        "spartanweaponry:invar_scythe": [
+            13661,
+            0.8480387
+        ],
+        "spartanweaponry:invar_spear": [
+            13661,
+            0.8480387
+        ],
+        "spartanweaponry:invar_warhammer": [
+            13661,
+            0.8480387
+        ],
+        "spartanweaponry:iron_battle_hammer": [
+            13989,
+            0.049
+        ],
+        "spartanweaponry:iron_battleaxe": [
+            13989,
+            0.049
+        ],
+        "spartanweaponry:iron_dagger": [
+            13989,
+            0.049
+        ],
+        "spartanweaponry:iron_flanged_mace": [
+            13989,
+            0.049
+        ],
+        "spartanweaponry:iron_glaive": [
+            13989,
+            0.049
+        ],
+        "spartanweaponry:iron_greatsword": [
+            13989,
+            0.049
+        ],
+        "spartanweaponry:iron_halberd": [
+            13989,
+            0.049
+        ],
+        "spartanweaponry:iron_katana": [
+            13989,
+            0.049
+        ],
+        "spartanweaponry:iron_lance": [
+            13989,
+            0.049
+        ],
+        "spartanweaponry:iron_longsword": [
+            13989,
+            0.049
+        ],
+        "spartanweaponry:iron_parrying_dagger": [
+            13989,
+            0.049
+        ],
+        "spartanweaponry:iron_pike": [
+            13989,
+            0.049
+        ],
+        "spartanweaponry:iron_quarterstaff": [
+            13989,
+            0.049
+        ],
+        "spartanweaponry:iron_rapier": [
+            13989,
+            0.049
+        ],
+        "spartanweaponry:iron_saber": [
+            13989,
+            0.049
+        ],
+        "spartanweaponry:iron_scythe": [
+            13989,
+            0.049
+        ],
+        "spartanweaponry:iron_spear": [
+            13989,
+            0.049
+        ],
+        "spartanweaponry:iron_warhammer": [
+            13989,
+            0.049
+        ],
+        "spartanweaponry:lead_battle_hammer": [
+            14006,
+            0.0473
+        ],
+        "spartanweaponry:lead_battleaxe": [
+            14006,
+            0.0473
+        ],
+        "spartanweaponry:lead_dagger": [
+            14006,
+            0.0473
+        ],
+        "spartanweaponry:lead_flanged_mace": [
+            14006,
+            0.0473
+        ],
+        "spartanweaponry:lead_glaive": [
+            14006,
+            0.0473
+        ],
+        "spartanweaponry:lead_greatsword": [
+            14006,
+            0.0473
+        ],
+        "spartanweaponry:lead_halberd": [
+            14006,
+            0.0473
+        ],
+        "spartanweaponry:lead_katana": [
+            14006,
+            0.0473
+        ],
+        "spartanweaponry:lead_lance": [
+            14006,
+            0.0473
+        ],
+        "spartanweaponry:lead_longsword": [
+            14006,
+            0.0473
+        ],
+        "spartanweaponry:lead_parrying_dagger": [
+            14006,
+            0.0473
+        ],
+        "spartanweaponry:lead_pike": [
+            14006,
+            0.0473
+        ],
+        "spartanweaponry:lead_quarterstaff": [
+            14006,
+            0.0473
+        ],
+        "spartanweaponry:lead_rapier": [
+            14006,
+            0.0473
+        ],
+        "spartanweaponry:lead_saber": [
+            14006,
+            0.0473
+        ],
+        "spartanweaponry:lead_scythe": [
+            14006,
+            0.0473
+        ],
+        "spartanweaponry:lead_spear": [
+            14006,
+            0.0473
+        ],
+        "spartanweaponry:lead_warhammer": [
+            14006,
+            0.0473
+        ],
+        "spartanweaponry:netherite_battle_hammer": [
+            10908,
+            0.632802
+        ],
+        "spartanweaponry:netherite_battleaxe": [
+            10908,
+            0.632802
+        ],
+        "spartanweaponry:netherite_dagger": [
+            10908,
+            0.632802
+        ],
+        "spartanweaponry:netherite_flanged_mace": [
+            10908,
+            0.632802
+        ],
+        "spartanweaponry:netherite_glaive": [
+            10908,
+            0.632802
+        ],
+        "spartanweaponry:netherite_greatsword": [
+            10908,
+            0.632802
+        ],
+        "spartanweaponry:netherite_halberd": [
+            10908,
+            0.632802
+        ],
+        "spartanweaponry:netherite_katana": [
+            10908,
+            0.632802
+        ],
+        "spartanweaponry:netherite_lance": [
+            10908,
+            0.632802
+        ],
+        "spartanweaponry:netherite_longsword": [
+            10908,
+            0.632802
+        ],
+        "spartanweaponry:netherite_parrying_dagger": [
+            10908,
+            0.632802
+        ],
+        "spartanweaponry:netherite_pike": [
+            10908,
+            0.632802
+        ],
+        "spartanweaponry:netherite_quarterstaff": [
+            10908,
+            0.632802
+        ],
+        "spartanweaponry:netherite_rapier": [
+            10908,
+            0.632802
+        ],
+        "spartanweaponry:netherite_saber": [
+            10908,
+            0.632802
+        ],
+        "spartanweaponry:netherite_scythe": [
+            10908,
+            0.632802
+        ],
+        "spartanweaponry:netherite_spear": [
+            10908,
+            0.632802
+        ],
+        "spartanweaponry:netherite_warhammer": [
+            10908,
+            0.632802
+        ],
+        "spartanweaponry:nickel_battle_hammer": [
+            14074,
+            0.040499996
+        ],
+        "spartanweaponry:nickel_battleaxe": [
+            14074,
+            0.040499996
+        ],
+        "spartanweaponry:nickel_dagger": [
+            14074,
+            0.040499996
+        ],
+        "spartanweaponry:nickel_flanged_mace": [
+            14074,
+            0.040499996
+        ],
+        "spartanweaponry:nickel_glaive": [
+            14074,
+            0.040499996
+        ],
+        "spartanweaponry:nickel_greatsword": [
+            14074,
+            0.040499996
+        ],
+        "spartanweaponry:nickel_halberd": [
+            14074,
+            0.040499996
+        ],
+        "spartanweaponry:nickel_katana": [
+            14074,
+            0.040499996
+        ],
+        "spartanweaponry:nickel_lance": [
+            14074,
+            0.040499996
+        ],
+        "spartanweaponry:nickel_longsword": [
+            14074,
+            0.040499996
+        ],
+        "spartanweaponry:nickel_parrying_dagger": [
+            14074,
+            0.040499996
+        ],
+        "spartanweaponry:nickel_pike": [
+            14074,
+            0.040499996
+        ],
+        "spartanweaponry:nickel_quarterstaff": [
+            14074,
+            0.040499996
+        ],
+        "spartanweaponry:nickel_rapier": [
+            14074,
+            0.040499996
+        ],
+        "spartanweaponry:nickel_saber": [
+            14074,
+            0.040499996
+        ],
+        "spartanweaponry:nickel_scythe": [
+            14074,
+            0.040499996
+        ],
+        "spartanweaponry:nickel_spear": [
+            14074,
+            0.040499996
+        ],
+        "spartanweaponry:nickel_warhammer": [
+            14074,
+            0.040499996
+        ],
+        "spartanweaponry:platinum_battle_hammer": [
+            12635,
+            2.1775014
+        ],
+        "spartanweaponry:platinum_battleaxe": [
+            12635,
+            2.1775014
+        ],
+        "spartanweaponry:platinum_dagger": [
+            12635,
+            2.1775014
+        ],
+        "spartanweaponry:platinum_flanged_mace": [
+            12635,
+            2.1775014
+        ],
+        "spartanweaponry:platinum_glaive": [
+            12635,
+            2.1775014
+        ],
+        "spartanweaponry:platinum_greatsword": [
+            12635,
+            2.1775014
+        ],
+        "spartanweaponry:platinum_halberd": [
+            12635,
+            2.1775014
+        ],
+        "spartanweaponry:platinum_katana": [
+            12635,
+            2.1775014
+        ],
+        "spartanweaponry:platinum_lance": [
+            12635,
+            2.1775014
+        ],
+        "spartanweaponry:platinum_longsword": [
+            12635,
+            2.1775014
+        ],
+        "spartanweaponry:platinum_parrying_dagger": [
+            12635,
+            2.1775014
+        ],
+        "spartanweaponry:platinum_pike": [
+            12635,
+            2.1775014
+        ],
+        "spartanweaponry:platinum_quarterstaff": [
+            12635,
+            2.1775014
+        ],
+        "spartanweaponry:platinum_rapier": [
+            12635,
+            2.1775014
+        ],
+        "spartanweaponry:platinum_saber": [
+            12635,
+            2.1775014
+        ],
+        "spartanweaponry:platinum_scythe": [
+            12635,
+            2.1775014
+        ],
+        "spartanweaponry:platinum_spear": [
+            12635,
+            2.1775014
+        ],
+        "spartanweaponry:platinum_warhammer": [
+            12635,
+            2.1775014
+        ],
+        "spartanweaponry:silver_battle_hammer": [
+            14344,
+            0.0135
+        ],
+        "spartanweaponry:silver_battleaxe": [
+            14344,
+            0.0135
+        ],
+        "spartanweaponry:silver_dagger": [
+            14344,
+            0.0135
+        ],
+        "spartanweaponry:silver_flanged_mace": [
+            14344,
+            0.0135
+        ],
+        "spartanweaponry:silver_glaive": [
+            14344,
+            0.0135
+        ],
+        "spartanweaponry:silver_greatsword": [
+            14344,
+            0.0135
+        ],
+        "spartanweaponry:silver_halberd": [
+            14344,
+            0.0135
+        ],
+        "spartanweaponry:silver_katana": [
+            14344,
+            0.0135
+        ],
+        "spartanweaponry:silver_lance": [
+            14344,
+            0.0135
+        ],
+        "spartanweaponry:silver_longsword": [
+            14344,
+            0.0135
+        ],
+        "spartanweaponry:silver_parrying_dagger": [
+            14344,
+            0.0135
+        ],
+        "spartanweaponry:silver_pike": [
+            14344,
+            0.0135
+        ],
+        "spartanweaponry:silver_quarterstaff": [
+            14344,
+            0.0135
+        ],
+        "spartanweaponry:silver_rapier": [
+            14344,
+            0.0135
+        ],
+        "spartanweaponry:silver_saber": [
+            14344,
+            0.0135
+        ],
+        "spartanweaponry:silver_scythe": [
+            14344,
+            0.0135
+        ],
+        "spartanweaponry:silver_spear": [
+            14344,
+            0.0135
+        ],
+        "spartanweaponry:silver_warhammer": [
+            14344,
+            0.0135
+        ],
+        "spartanweaponry:steel_battle_hammer": [
+            13586,
+            0.9447028
+        ],
+        "spartanweaponry:steel_battleaxe": [
+            13586,
+            0.9447028
+        ],
+        "spartanweaponry:steel_dagger": [
+            13586,
+            0.9447028
+        ],
+        "spartanweaponry:steel_flanged_mace": [
+            13586,
+            0.9447028
+        ],
+        "spartanweaponry:steel_glaive": [
+            13586,
+            0.9447028
+        ],
+        "spartanweaponry:steel_greatsword": [
+            13586,
+            0.9447028
+        ],
+        "spartanweaponry:steel_halberd": [
+            13586,
+            0.9447028
+        ],
+        "spartanweaponry:steel_katana": [
+            13586,
+            0.9447028
+        ],
+        "spartanweaponry:steel_lance": [
+            13586,
+            0.9447028
+        ],
+        "spartanweaponry:steel_longsword": [
+            13586,
+            0.9447028
+        ],
+        "spartanweaponry:steel_parrying_dagger": [
+            13586,
+            0.9447028
+        ],
+        "spartanweaponry:steel_pike": [
+            13586,
+            0.9447028
+        ],
+        "spartanweaponry:steel_quarterstaff": [
+            13586,
+            0.9447028
+        ],
+        "spartanweaponry:steel_rapier": [
+            13586,
+            0.9447028
+        ],
+        "spartanweaponry:steel_saber": [
+            13586,
+            0.9447028
+        ],
+        "spartanweaponry:steel_scythe": [
+            13586,
+            0.9447028
+        ],
+        "spartanweaponry:steel_spear": [
+            13586,
+            0.9447028
+        ],
+        "spartanweaponry:steel_warhammer": [
+            13586,
+            0.9447028
+        ],
+        "spartanweaponry:stone_battle_hammer": [
+            14213,
+            0.026599998
+        ],
+        "spartanweaponry:stone_battleaxe": [
+            14213,
+            0.026599998
+        ],
+        "spartanweaponry:stone_dagger": [
+            14213,
+            0.026599998
+        ],
+        "spartanweaponry:stone_flanged_mace": [
+            14213,
+            0.026599998
+        ],
+        "spartanweaponry:stone_glaive": [
+            14213,
+            0.026599998
+        ],
+        "spartanweaponry:stone_greatsword": [
+            14213,
+            0.026599998
+        ],
+        "spartanweaponry:stone_halberd": [
+            14213,
+            0.026599998
+        ],
+        "spartanweaponry:stone_katana": [
+            14213,
+            0.026599998
+        ],
+        "spartanweaponry:stone_lance": [
+            14213,
+            0.026599998
+        ],
+        "spartanweaponry:stone_longsword": [
+            14213,
+            0.026599998
+        ],
+        "spartanweaponry:stone_parrying_dagger": [
+            14213,
+            0.026599998
+        ],
+        "spartanweaponry:stone_pike": [
+            14213,
+            0.026599998
+        ],
+        "spartanweaponry:stone_quarterstaff": [
+            14213,
+            0.026599998
+        ],
+        "spartanweaponry:stone_rapier": [
+            14213,
+            0.026599998
+        ],
+        "spartanweaponry:stone_saber": [
+            14213,
+            0.026599998
+        ],
+        "spartanweaponry:stone_scythe": [
+            14213,
+            0.026599998
+        ],
+        "spartanweaponry:stone_spear": [
+            14213,
+            0.026599998
+        ],
+        "spartanweaponry:stone_warhammer": [
+            14213,
+            0.026599998
+        ],
+        "spartanweaponry:studded_cestus": [
+            13989,
+            0.049
+        ],
+        "spartanweaponry:studded_club": [
+            13989,
+            0.049
+        ],
+        "spartanweaponry:tin_battle_hammer": [
+            14114,
+            0.0365
+        ],
+        "spartanweaponry:tin_battleaxe": [
+            14114,
+            0.0365
+        ],
+        "spartanweaponry:tin_dagger": [
+            14114,
+            0.0365
+        ],
+        "spartanweaponry:tin_flanged_mace": [
+            14114,
+            0.0365
+        ],
+        "spartanweaponry:tin_glaive": [
+            14114,
+            0.0365
+        ],
+        "spartanweaponry:tin_greatsword": [
+            14114,
+            0.0365
+        ],
+        "spartanweaponry:tin_halberd": [
+            14114,
+            0.0365
+        ],
+        "spartanweaponry:tin_katana": [
+            14114,
+            0.0365
+        ],
+        "spartanweaponry:tin_lance": [
+            14114,
+            0.0365
+        ],
+        "spartanweaponry:tin_longsword": [
+            14114,
+            0.0365
+        ],
+        "spartanweaponry:tin_parrying_dagger": [
+            14114,
+            0.0365
+        ],
+        "spartanweaponry:tin_pike": [
+            14114,
+            0.0365
+        ],
+        "spartanweaponry:tin_quarterstaff": [
+            14114,
+            0.0365
+        ],
+        "spartanweaponry:tin_rapier": [
+            14114,
+            0.0365
+        ],
+        "spartanweaponry:tin_saber": [
+            14114,
+            0.0365
+        ],
+        "spartanweaponry:tin_scythe": [
+            14114,
+            0.0365
+        ],
+        "spartanweaponry:tin_spear": [
+            14114,
+            0.0365
+        ],
+        "spartanweaponry:tin_warhammer": [
+            14114,
+            0.0365
+        ],
+        "spartanweaponry:wooden_battle_hammer": [
+            14352,
+            0.0127
+        ],
+        "spartanweaponry:wooden_battleaxe": [
+            14352,
+            0.0127
+        ],
+        "spartanweaponry:wooden_club": [
+            14352,
+            0.0127
+        ],
+        "spartanweaponry:wooden_dagger": [
+            14352,
+            0.0127
+        ],
+        "spartanweaponry:wooden_flanged_mace": [
+            14352,
+            0.0127
+        ],
+        "spartanweaponry:wooden_glaive": [
+            14352,
+            0.0127
+        ],
+        "spartanweaponry:wooden_greatsword": [
+            14352,
+            0.0127
+        ],
+        "spartanweaponry:wooden_halberd": [
+            14352,
+            0.0127
+        ],
+        "spartanweaponry:wooden_katana": [
+            14352,
+            0.0127
+        ],
+        "spartanweaponry:wooden_lance": [
+            14352,
+            0.0127
+        ],
+        "spartanweaponry:wooden_longsword": [
+            14352,
+            0.0127
+        ],
+        "spartanweaponry:wooden_parrying_dagger": [
+            14352,
+            0.0127
+        ],
+        "spartanweaponry:wooden_pike": [
+            14352,
+            0.0127
+        ],
+        "spartanweaponry:wooden_quarterstaff": [
+            14352,
+            0.0127
+        ],
+        "spartanweaponry:wooden_rapier": [
+            14352,
+            0.0127
+        ],
+        "spartanweaponry:wooden_saber": [
+            14352,
+            0.0127
+        ],
+        "spartanweaponry:wooden_scythe": [
+            14352,
+            0.0127
+        ],
+        "spartanweaponry:wooden_spear": [
+            14352,
+            0.0127
+        ],
+        "spartanweaponry:wooden_warhammer": [
+            14352,
+            0.0127
+        ]
+    },
+    "OFFHAND": {
+        "alexscaves:resistor_shield": [
+            1897,
+            4.9045377
+        ],
+        "cataclysm:black_steel_targe": [
+            2217,
+            4.1986494
+        ],
+        "mcdw:shield_royal_guard": [
+            275,
+            8.30072
+        ],
+        "mcdw:shield_tower_guard": [
+            275,
+            8.30072
+        ],
+        "mcdw:shield_vanguard": [
+            275,
+            8.30072
+        ],
+        "minecraft:ender_pearl": [
+            3547,
+            0.0
+        ],
+        "minecraft:flint_and_steel": [
+            3519,
+            1.2461817
+        ],
+        "minecraft:lava_bucket": [
+            3147,
+            0.0
+        ],
+        "minecraft:shield": [
+            3225,
+            1.6255897
+        ]
+    },
+    "FEET": {
+        "advancednetherite:netherite_diamond_boots": [
+            2766,
+            0.060683
+        ],
+        "advancednetherite:netherite_emerald_boots": [
+            3201,
+            0.1441197
+        ],
+        "advancednetherite:netherite_gold_boots": [
+            3190,
+            5.167534
+        ],
+        "advancednetherite:netherite_iron_boots": [
+            3643,
+            4.175677
+        ],
+        "alexscaves:diving_boots": [
+            5035,
+            1.1178746
+        ],
+        "alexscaves:gingerbread_boots": [
+            5289,
+            0.79089624
+        ],
+        "alexscaves:hazmat_boots": [
+            5236,
+            0.85967726
+        ],
+        "alexscaves:rainbounce_boots": [
+            5676,
+            0.0387
+        ],
+        "cataclysm:cursium_boots": [
+            2417,
+            6.789111
+        ],
+        "cataclysm:ignitium_boots": [
+            1207,
+            9.309818
+        ],
+        "deeperdarker:resonarium_boots": [
+            4507,
+            1.7998894
+        ],
+        "deeperdarker:warden_boots": [
+            3222,
+            5.0993676
+        ],
+        "eldritch_end:etyrite_boots": [
+            4061,
+            2.3839326
+        ],
+        "iceandfire:armor_amythest_boots": [
+            3028,
+            5.510578
+        ],
+        "iceandfire:armor_black_boots": [
+            3028,
+            5.510578
+        ],
+        "iceandfire:armor_blue_boots": [
+            3028,
+            5.510578
+        ],
+        "iceandfire:armor_bronze_boots": [
+            3028,
+            5.510578
+        ],
+        "iceandfire:armor_copper_boots": [
+            3028,
+            5.510578
+        ],
+        "iceandfire:armor_copper_metal_boots": [
+            5573,
+            0.049
+        ],
+        "iceandfire:armor_electric_boots": [
+            3028,
+            5.510578
+        ],
+        "iceandfire:armor_gray_boots": [
+            3028,
+            5.510578
+        ],
+        "iceandfire:armor_green_boots": [
+            3028,
+            5.510578
+        ],
+        "iceandfire:armor_red_boots": [
+            3028,
+            5.510578
+        ],
+        "iceandfire:armor_sapphire_boots": [
+            3028,
+            5.510578
+        ],
+        "iceandfire:armor_silver_boots": [
+            3028,
+            5.510578
+        ],
+        "iceandfire:armor_silver_metal_boots": [
+            5282,
+            0.80001926
+        ],
+        "iceandfire:armor_white_boots": [
+            3028,
+            5.510578
+        ],
+        "iceandfire:deathworm_red_boots": [
+            4776,
+            1.4508864
+        ],
+        "iceandfire:deathworm_white_boots": [
+            4776,
+            1.4508864
+        ],
+        "iceandfire:deathworm_yellow_boots": [
+            4776,
+            1.4508864
+        ],
+        "iceandfire:dragonsteel_fire_boots": [
+            61,
+            0.709396
+        ],
+        "iceandfire:dragonsteel_ice_boots": [
+            61,
+            0.709396
+        ],
+        "iceandfire:dragonsteel_lightning_boots": [
+            61,
+            0.709396
+        ],
+        "iceandfire:forest_troll_leather_boots": [
+            4717,
+            0.5271299
+        ],
+        "iceandfire:frost_troll_leather_boots": [
+            4717,
+            0.5271299
+        ],
+        "iceandfire:mountain_troll_leather_boots": [
+            4717,
+            0.5271299
+        ],
+        "iceandfire:myrmex_desert_boots": [
+            4248,
+            2.1392972
+        ],
+        "iceandfire:myrmex_jungle_boots": [
+            4248,
+            2.1392972
+        ],
+        "iceandfire:sheep_boots": [
+            5757,
+            0.030599998
+        ],
+        "iceandfire:tide_blue_boots": [
+            3605,
+            4.262535
+        ],
+        "iceandfire:tide_bronze_boots": [
+            3605,
+            4.262535
+        ],
+        "iceandfire:tide_deepblue_boots": [
+            3605,
+            4.262535
+        ],
+        "iceandfire:tide_green_boots": [
+            3605,
+            4.262535
+        ],
+        "iceandfire:tide_purple_boots": [
+            3605,
+            4.262535
+        ],
+        "iceandfire:tide_red_boots": [
+            3605,
+            4.262535
+        ],
+        "iceandfire:tide_teal_boots": [
+            3605,
+            4.262535
+        ],
+        "mcda:archers_boots": [
+            5108,
+            1.0242822
+        ],
+        "mcda:arctic_fox_armor_boots": [
+            5108,
+            1.0242822
+        ],
+        "mcda:beehive_armor_boots": [
+            5028,
+            1.1268497
+        ],
+        "mcda:beenest_armor_boots": [
+            5252,
+            0.83897644
+        ],
+        "mcda:black_wolf_armor_boots": [
+            4992,
+            1.173019
+        ],
+        "mcda:blue_mystery_armor_boots": [
+            4155,
+            2.2619522
+        ],
+        "mcda:cauldron_armor_boots": [
+            3448,
+            4.611874
+        ],
+        "mcda:cave_crawler_boots": [
+            4992,
+            1.173019
+        ],
+        "mcda:champions_armor_boots": [
+            4156,
+            2.2606313
+        ],
+        "mcda:climbing_gear_boots": [
+            5216,
+            0.8854958
+        ],
+        "mcda:curious_armor_boots": [
+            4525,
+            1.776424
+        ],
+        "mcda:dark_armor_boots": [
+            4156,
+            2.2606313
+        ],
+        "mcda:emerald_gear_boots": [
+            4520,
+            1.7829406
+        ],
+        "mcda:entertainer_garb_boots": [
+            5422,
+            0.6124069
+        ],
+        "mcda:fox_armor_boots": [
+            5108,
+            1.0242822
+        ],
+        "mcda:frost_armor_boots": [
+            4525,
+            1.776424
+        ],
+        "mcda:frost_bite_armor_boots": [
+            4561,
+            1.7295414
+        ],
+        "mcda:full_metal_armor_boots": [
+            3439,
+            4.6315594
+        ],
+        "mcda:ghost_kindler_boots": [
+            5028,
+            1.1268497
+        ],
+        "mcda:ghostly_armor_boots": [
+            5252,
+            0.83897644
+        ],
+        "mcda:gilded_glory_boots": [
+            4177,
+            2.2329009
+        ],
+        "mcda:glow_squid_armor_boots": [
+            5108,
+            1.0242822
+        ],
+        "mcda:goat_gear_boots": [
+            4885,
+            1.3104446
+        ],
+        "mcda:golden_piglin_armor_boots": [
+            4948,
+            1.2294873
+        ],
+        "mcda:gourdian_armor_boots": [
+            4531,
+            1.7686057
+        ],
+        "mcda:green_mystery_armor_boots": [
+            4155,
+            2.2619522
+        ],
+        "mcda:grim_armor_boots": [
+            5073,
+            1.069158
+        ],
+        "mcda:guards_armor_boots": [
+            4529,
+            1.7712115
+        ],
+        "mcda:heros_armor_boots": [
+            3398,
+            4.7208867
+        ],
+        "mcda:highland_armor_boots": [
+            5028,
+            1.1268497
+        ],
+        "mcda:hungry_horror_boots": [
+            4525,
+            1.776424
+        ],
+        "mcda:living_vines_armor_boots": [
+            5582,
+            0.0481
+        ],
+        "mcda:mercenary_armor_boots": [
+            4668,
+            1.5905781
+        ],
+        "mcda:nimble_turtle_armor_boots": [
+            4561,
+            1.7295414
+        ],
+        "mcda:ocelot_armor_boots": [
+            5492,
+            0.5063543
+        ],
+        "mcda:opulent_armor_boots": [
+            4216,
+            2.1814556
+        ],
+        "mcda:phantom_armor_boots": [
+            5073,
+            1.069158
+        ],
+        "mcda:piglin_armor_boots": [
+            5586,
+            0.0477
+        ],
+        "mcda:plate_armor_boots": [
+            4155,
+            2.2619522
+        ],
+        "mcda:purple_mystery_armor_boots": [
+            4155,
+            2.2619522
+        ],
+        "mcda:red_mystery_armor_boots": [
+            4155,
+            2.2619522
+        ],
+        "mcda:reinforced_mail_boots": [
+            4669,
+            1.589282
+        ],
+        "mcda:renegade_armor_boots": [
+            4667,
+            1.5918742
+        ],
+        "mcda:royal_guard_armor_boots": [
+            4155,
+            2.2619522
+        ],
+        "mcda:rugged_climbing_gear_boots": [
+            4992,
+            1.173019
+        ],
+        "mcda:scale_mail_boots": [
+            5252,
+            0.83897644
+        ],
+        "mcda:shadow_walker_armor_boots": [
+            5108,
+            1.0242822
+        ],
+        "mcda:shulker_armor_boots": [
+            4485,
+            1.8285915
+        ],
+        "mcda:snow_armor_boots": [
+            4525,
+            1.776424
+        ],
+        "mcda:soul_robe_boots": [
+            5226,
+            0.8725937
+        ],
+        "mcda:souldancer_robe_boots": [
+            5002,
+            1.1601919
+        ],
+        "mcda:spelunker_armor_boots": [
+            5108,
+            1.0242822
+        ],
+        "mcda:spider_armor_boots": [
+            5280,
+            0.8026233
+        ],
+        "mcda:sprout_armor_boots": [
+            5582,
+            0.0481
+        ],
+        "mcda:squid_armor_boots": [
+            5492,
+            0.5063543
+        ],
+        "mcda:stalwart_armor_boots": [
+            4529,
+            1.7712115
+        ],
+        "mcda:sturdy_shulker_armor_boots": [
+            3979,
+            3.2605066
+        ],
+        "mcda:sweet_tooth_boots": [
+            5028,
+            1.1268497
+        ],
+        "mcda:teleportation_robe_boots": [
+            5422,
+            0.6124069
+        ],
+        "mcda:thief_armor_boots": [
+            5280,
+            0.8026233
+        ],
+        "mcda:titans_shroud_boots": [
+            4152,
+            2.2659154
+        ],
+        "mcda:troubadour_armor_boots": [
+            5006,
+            1.1550616
+        ],
+        "mcda:turtle_armor_boots": [
+            5073,
+            1.069158
+        ],
+        "mcda:unstable_robe_boots": [
+            5006,
+            1.1550616
+        ],
+        "mcda:white_mystery_armor_boots": [
+            4155,
+            2.2619522
+        ],
+        "mcda:wither_armor_boots": [
+            4561,
+            1.7295414
+        ],
+        "mcda:wolf_armor_boots": [
+            5216,
+            0.8854958
+        ],
+        "minecraft:chainmail_boots": [
+            5471,
+            0.540316
+        ],
+        "minecraft:diamond_boots": [
+            4555,
+            1.7373508
+        ],
+        "minecraft:golden_boots": [
+            5537,
+            0.4136078
+        ],
+        "minecraft:iron_boots": [
+            5223,
+            0.8764657
+        ],
+        "minecraft:leather_boots": [
+            5819,
+            0.0244
+        ],
+        "minecraft:netherite_boots": [
+            4428,
+            1.9030677
+        ],
+        "mutantmonsters:mutant_skeleton_boots": [
+            5118,
+            1.0114565
+        ],
+        "soulsweapons:forlorn_boots": [
+            4219,
+            2.1775014
+        ],
+        "soulsweapons:soul_ingot_boots": [
+            4529,
+            1.7712115
+        ],
+        "soulsweapons:soul_robes_boots": [
+            5257,
+            0.83249766
+        ]
+    },
+    "LEGS": {
+        "advancednetherite:netherite_diamond_leggings": [
+            2766,
+            0.060683
+        ],
+        "advancednetherite:netherite_emerald_leggings": [
+            3201,
+            0.1441197
+        ],
+        "advancednetherite:netherite_gold_leggings": [
+            3190,
+            0.167534
+        ],
+        "advancednetherite:netherite_iron_leggings": [
+            3643,
+            0.175677
+        ],
+        "alexscaves:diving_leggings": [
+            5007,
+            1.1537791
+        ],
+        "alexscaves:gingerbread_leggings": [
+            5276,
+            0.8078281
+        ],
+        "alexscaves:hazmat_leggings": [
+            5208,
+            0.89580816
+        ],
+        "alexscaves:primordial_pants": [
+            5298,
+            0.7791448
+        ],
+        "cataclysm:cursium_leggings": [
+            2417,
+            6.789111
+        ],
+        "cataclysm:ignitium_leggings": [
+            1207,
+            9.309818
+        ],
+        "deeperdarker:resonarium_leggings": [
+            4507,
+            1.7998894
+        ],
+        "deeperdarker:warden_leggings": [
+            3222,
+            5.0993676
+        ],
+        "eldritch_end:etyrite_leggings": [
+            4001,
+            3.1634672
+        ],
+        "iceandfire:armor_amythest_leggings": [
+            3028,
+            5.510578
+        ],
+        "iceandfire:armor_black_leggings": [
+            3028,
+            5.510578
+        ],
+        "iceandfire:armor_blue_leggings": [
+            3028,
+            5.510578
+        ],
+        "iceandfire:armor_bronze_leggings": [
+            3028,
+            5.510578
+        ],
+        "iceandfire:armor_copper_leggings": [
+            3028,
+            5.510578
+        ],
+        "iceandfire:armor_copper_metal_leggings": [
+            5573,
+            0.049
+        ],
+        "iceandfire:armor_electric_leggings": [
+            3028,
+            5.510578
+        ],
+        "iceandfire:armor_gray_leggings": [
+            3028,
+            5.510578
+        ],
+        "iceandfire:armor_green_leggings": [
+            3028,
+            5.510578
+        ],
+        "iceandfire:armor_red_leggings": [
+            3028,
+            5.510578
+        ],
+        "iceandfire:armor_sapphire_leggings": [
+            3028,
+            5.510578
+        ],
+        "iceandfire:armor_silver_leggings": [
+            3028,
+            5.510578
+        ],
+        "iceandfire:armor_silver_metal_leggings": [
+            5282,
+            0.80001926
+        ],
+        "iceandfire:armor_white_leggings": [
+            3028,
+            5.510578
+        ],
+        "iceandfire:deathworm_red_leggings": [
+            4776,
+            1.4508864
+        ],
+        "iceandfire:deathworm_white_leggings": [
+            4776,
+            1.4508864
+        ],
+        "iceandfire:deathworm_yellow_leggings": [
+            4776,
+            1.4508864
+        ],
+        "iceandfire:dragonsteel_fire_leggings": [
+            61,
+            0.709396
+        ],
+        "iceandfire:dragonsteel_ice_leggings": [
+            61,
+            0.709396
+        ],
+        "iceandfire:dragonsteel_lightning_leggings": [
+            61,
+            0.709396
+        ],
+        "iceandfire:forest_troll_leather_leggings": [
+            4717,
+            1.5271299
+        ],
+        "iceandfire:frost_troll_leather_leggings": [
+            4717,
+            1.5271299
+        ],
+        "iceandfire:mountain_troll_leather_leggings": [
+            4717,
+            1.5271299
+        ],
+        "iceandfire:myrmex_desert_leggings": [
+            4248,
+            2.1392972
+        ],
+        "iceandfire:myrmex_jungle_leggings": [
+            4248,
+            2.1392972
+        ],
+        "iceandfire:sheep_leggings": [
+            5757,
+            0.030599998
+        ],
+        "iceandfire:tide_blue_leggings": [
+            3605,
+            4.262535
+        ],
+        "iceandfire:tide_bronze_leggings": [
+            3605,
+            4.262535
+        ],
+        "iceandfire:tide_deepblue_leggings": [
+            3605,
+            4.262535
+        ],
+        "iceandfire:tide_green_leggings": [
+            3605,
+            4.262535
+        ],
+        "iceandfire:tide_purple_leggings": [
+            3605,
+            4.262535
+        ],
+        "iceandfire:tide_red_leggings": [
+            3605,
+            4.262535
+        ],
+        "iceandfire:tide_teal_leggings": [
+            3605,
+            4.262535
+        ],
+        "mcda:archers_leggings": [
+            5106,
+            1.026847
+        ],
+        "mcda:arctic_fox_armor_leggings": [
+            5106,
+            1.026847
+        ],
+        "mcda:battle_robe_leggings": [
+            5710,
+            0.035299998
+        ],
+        "mcda:beehive_armor_leggings": [
+            5027,
+            1.1281319
+        ],
+        "mcda:beenest_armor_leggings": [
+            5251,
+            0.84027165
+        ],
+        "mcda:black_wolf_armor_leggings": [
+            4990,
+            1.1755847
+        ],
+        "mcda:blue_mystery_armor_leggings": [
+            4152,
+            2.2659154
+        ],
+        "mcda:cauldron_armor_leggings": [
+            3445,
+            4.6184387
+        ],
+        "mcda:cave_crawler_leggings": [
+            4990,
+            1.1755847
+        ],
+        "mcda:champions_armor_leggings": [
+            4153,
+            2.2645943
+        ],
+        "mcda:climbing_gear_leggings": [
+            5214,
+            0.8880746
+        ],
+        "mcda:curious_armor_leggings": [
+            4522,
+            1.7803338
+        ],
+        "mcda:dark_armor_leggings": [
+            4153,
+            2.2645943
+        ],
+        "mcda:ember_robe_leggings": [
+            5650,
+            0.0413
+        ],
+        "mcda:emerald_gear_leggings": [
+            4517,
+            1.7868512
+        ],
+        "mcda:entertainer_garb_leggings": [
+            5422,
+            0.6124069
+        ],
+        "mcda:evocation_robe_leggings": [
+            5650,
+            0.0413
+        ],
+        "mcda:fox_armor_leggings": [
+            5106,
+            1.026847
+        ],
+        "mcda:frost_armor_leggings": [
+            4522,
+            1.7803338
+        ],
+        "mcda:frost_bite_armor_leggings": [
+            4559,
+            1.7321444
+        ],
+        "mcda:full_metal_armor_leggings": [
+            3436,
+            4.6381145
+        ],
+        "mcda:ghost_kindler_leggings": [
+            5027,
+            1.1281319
+        ],
+        "mcda:ghostly_armor_leggings": [
+            5251,
+            0.84027165
+        ],
+        "mcda:gilded_glory_leggings": [
+            4174,
+            2.236861
+        ],
+        "mcda:glow_squid_armor_leggings": [
+            5106,
+            1.026847
+        ],
+        "mcda:goat_gear_leggings": [
+            4883,
+            1.3130171
+        ],
+        "mcda:golden_piglin_armor_leggings": [
+            4947,
+            1.2307714
+        ],
+        "mcda:gourdian_armor_leggings": [
+            4529,
+            1.7712115
+        ],
+        "mcda:green_mystery_armor_leggings": [
+            4152,
+            2.2659154
+        ],
+        "mcda:grim_armor_leggings": [
+            5071,
+            1.071722
+        ],
+        "mcda:guards_armor_leggings": [
+            4526,
+            1.7751209
+        ],
+        "mcda:heros_armor_leggings": [
+            3395,
+            4.7274013
+        ],
+        "mcda:highland_armor_leggings": [
+            5027,
+            1.1281319
+        ],
+        "mcda:hungry_horror_leggings": [
+            4522,
+            1.7803338
+        ],
+        "mcda:living_vines_armor_leggings": [
+            5582,
+            0.0481
+        ],
+        "mcda:mercenary_armor_leggings": [
+            4665,
+            1.5944664
+        ],
+        "mcda:nimble_turtle_armor_leggings": [
+            4559,
+            1.7321444
+        ],
+        "mcda:ocelot_armor_leggings": [
+            5490,
+            0.50971955
+        ],
+        "mcda:opulent_armor_leggings": [
+            4213,
+            2.1854107
+        ],
+        "mcda:phantom_armor_leggings": [
+            5071,
+            1.071722
+        ],
+        "mcda:piglin_armor_leggings": [
+            5586,
+            0.0477
+        ],
+        "mcda:plate_armor_leggings": [
+            4152,
+            2.2659154
+        ],
+        "mcda:purple_mystery_armor_leggings": [
+            4152,
+            2.2659154
+        ],
+        "mcda:red_mystery_armor_leggings": [
+            4152,
+            2.2659154
+        ],
+        "mcda:reinforced_mail_leggings": [
+            4666,
+            1.5931703
+        ],
+        "mcda:renegade_armor_leggings": [
+            4664,
+            1.5957627
+        ],
+        "mcda:royal_guard_armor_leggings": [
+            4152,
+            2.2659154
+        ],
+        "mcda:rugged_climbing_gear_leggings": [
+            4990,
+            1.1755847
+        ],
+        "mcda:scale_mail_leggings": [
+            5251,
+            0.84027165
+        ],
+        "mcda:shadow_walker_armor_leggings": [
+            5106,
+            1.026847
+        ],
+        "mcda:shulker_armor_leggings": [
+            4482,
+            1.8325073
+        ],
+        "mcda:snow_armor_leggings": [
+            4522,
+            1.7803338
+        ],
+        "mcda:soul_robe_leggings": [
+            5226,
+            0.8725937
+        ],
+        "mcda:souldancer_robe_leggings": [
+            5002,
+            1.1601919
+        ],
+        "mcda:spelunker_armor_leggings": [
+            5106,
+            1.026847
+        ],
+        "mcda:spider_armor_leggings": [
+            5280,
+            0.8026233
+        ],
+        "mcda:splendid_robe_leggings": [
+            5582,
+            0.0481
+        ],
+        "mcda:sprout_armor_leggings": [
+            5582,
+            0.0481
+        ],
+        "mcda:squid_armor_leggings": [
+            5490,
+            0.50971955
+        ],
+        "mcda:stalwart_armor_leggings": [
+            4526,
+            1.7751209
+        ],
+        "mcda:sturdy_shulker_armor_leggings": [
+            3976,
+            3.2725234
+        ],
+        "mcda:sweet_tooth_leggings": [
+            5027,
+            1.1281319
+        ],
+        "mcda:teleportation_robe_leggings": [
+            5422,
+            0.6124069
+        ],
+        "mcda:thief_armor_leggings": [
+            5280,
+            0.8026233
+        ],
+        "mcda:titans_shroud_leggings": [
+            4149,
+            2.269879
+        ],
+        "mcda:troubadour_armor_leggings": [
+            5006,
+            1.1550616
+        ],
+        "mcda:turtle_armor_leggings": [
+            5071,
+            1.071722
+        ],
+        "mcda:unstable_robe_leggings": [
+            5006,
+            1.1550616
+        ],
+        "mcda:vanguard_armor_leggings": [
+            5251,
+            0.84027165
+        ],
+        "mcda:verdant_robe_leggings": [
+            5650,
+            0.0413
+        ],
+        "mcda:white_mystery_armor_leggings": [
+            4152,
+            2.2659154
+        ],
+        "mcda:wither_armor_leggings": [
+            4559,
+            1.7321444
+        ],
+        "mcda:wolf_armor_leggings": [
+            5214,
+            0.8880746
+        ],
+        "minecraft:chainmail_leggings": [
+            5471,
+            0.540316
+        ],
+        "minecraft:diamond_leggings": [
+            4555,
+            1.7373508
+        ],
+        "minecraft:golden_leggings": [
+            5537,
+            0.4136078
+        ],
+        "minecraft:iron_leggings": [
+            5223,
+            0.8764657
+        ],
+        "minecraft:leather_leggings": [
+            5819,
+            0.0244
+        ],
+        "minecraft:netherite_leggings": [
+            4428,
+            1.9030677
+        ],
+        "mutantmonsters:mutant_skeleton_leggings": [
+            5118,
+            1.0114565
+        ],
+        "soulsweapons:forlorn_leggings": [
+            4218,
+            2.1788192
+        ],
+        "soulsweapons:soul_ingot_leggings": [
+            4526,
+            1.7751209
+        ],
+        "soulsweapons:soul_robes_leggings": [
+            5239,
+            0.8557993
+        ]
+    },
+    "CHEST": {
+        "advancednetherite:netherite_diamond_chestplate": [
+            2766,
+            0.060683
+        ],
+        "advancednetherite:netherite_emerald_chestplate": [
+            3201,
+            0.1441197
+        ],
+        "advancednetherite:netherite_gold_chestplate": [
+            3190,
+            0.167534
+        ],
+        "advancednetherite:netherite_iron_chestplate": [
+            3643,
+            0.175677
+        ],
+        "alexscaves:cloak_of_darkness": [
+            5360,
+            0.6972618
+        ],
+        "alexscaves:diving_chestplate": [
+            5023,
+            1.1332608
+        ],
+        "alexscaves:gingerbread_chestplate": [
+            5284,
+            0.7974141
+        ],
+        "alexscaves:hazmat_chestplate": [
+            5225,
+            0.87388456
+        ],
+        "alexscaves:primordial_tunic": [
+            5315,
+            0.7568712
+        ],
+        "cataclysm:bloom_stone_pauldrons": [
+            4028,
+            3.0056863
+        ],
+        "cataclysm:bone_reptile_chestplate": [
+            2248,
+            7.1410875
+        ],
+        "cataclysm:cursium_chestplate": [
+            2417,
+            6.789111
+        ],
+        "cataclysm:ignitium_chestplate": [
+            1207,
+            9.309818
+        ],
+        "cataclysm:ignitium_elytra_chestplate": [
+            1207,
+            9.309818
+        ],
+        "deeperdarker:resonarium_chestplate": [
+            4507,
+            1.7998894
+        ],
+        "deeperdarker:warden_chestplate": [
+            3222,
+            5.0993676
+        ],
+        "eldritch_end:etyrite_chestplate": [
+            4037,
+            2.9321702
+        ],
+        "iceandfire:armor_amythest_chestplate": [
+            3028,
+            5.510578
+        ],
+        "iceandfire:armor_black_chestplate": [
+            3028,
+            5.510578
+        ],
+        "iceandfire:armor_blue_chestplate": [
+            3028,
+            5.510578
+        ],
+        "iceandfire:armor_bronze_chestplate": [
+            3028,
+            5.510578
+        ],
+        "iceandfire:armor_copper_chestplate": [
+            3028,
+            5.510578
+        ],
+        "iceandfire:armor_copper_metal_chestplate": [
+            5573,
+            0.049
+        ],
+        "iceandfire:armor_electric_chestplate": [
+            3028,
+            5.510578
+        ],
+        "iceandfire:armor_gray_chestplate": [
+            3028,
+            5.510578
+        ],
+        "iceandfire:armor_green_chestplate": [
+            3028,
+            5.510578
+        ],
+        "iceandfire:armor_red_chestplate": [
+            3028,
+            5.510578
+        ],
+        "iceandfire:armor_sapphire_chestplate": [
+            3028,
+            5.510578
+        ],
+        "iceandfire:armor_silver_chestplate": [
+            3028,
+            5.510578
+        ],
+        "iceandfire:armor_silver_metal_chestplate": [
+            5282,
+            0.80001926
+        ],
+        "iceandfire:armor_white_chestplate": [
+            3028,
+            5.510578
+        ],
+        "iceandfire:deathworm_red_chestplate": [
+            4776,
+            1.4508864
+        ],
+        "iceandfire:deathworm_white_chestplate": [
+            4776,
+            1.4508864
+        ],
+        "iceandfire:deathworm_yellow_chestplate": [
+            4776,
+            1.4508864
+        ],
+        "iceandfire:dragonsteel_fire_chestplate": [
+            61,
+            0.709396
+        ],
+        "iceandfire:dragonsteel_ice_chestplate": [
+            61,
+            0.709396
+        ],
+        "iceandfire:dragonsteel_lightning_chestplate": [
+            61,
+            0.709396
+        ],
+        "iceandfire:forest_troll_leather_chestplate": [
+            4717,
+            1.5271299
+        ],
+        "iceandfire:frost_troll_leather_chestplate": [
+            4717,
+            1.5271299
+        ],
+        "iceandfire:mountain_troll_leather_chestplate": [
+            4717,
+            1.5271299
+        ],
+        "iceandfire:myrmex_desert_chestplate": [
+            4248,
+            2.1392972
+        ],
+        "iceandfire:myrmex_jungle_chestplate": [
+            4248,
+            2.1392972
+        ],
+        "iceandfire:sheep_chestplate": [
+            5757,
+            0.030599998
+        ],
+        "iceandfire:tide_blue_chestplate": [
+            3605,
+            4.262535
+        ],
+        "iceandfire:tide_bronze_chestplate": [
+            3605,
+            4.262535
+        ],
+        "iceandfire:tide_deepblue_chestplate": [
+            3605,
+            4.262535
+        ],
+        "iceandfire:tide_green_chestplate": [
+            3605,
+            4.262535
+        ],
+        "iceandfire:tide_purple_chestplate": [
+            3605,
+            4.262535
+        ],
+        "iceandfire:tide_red_chestplate": [
+            3605,
+            4.262535
+        ],
+        "iceandfire:tide_teal_chestplate": [
+            3605,
+            4.262535
+        ],
+        "mcda:archers_chestplate": [
+            5106,
+            1.026847
+        ],
+        "mcda:arctic_fox_armor_chestplate": [
+            5106,
+            1.026847
+        ],
+        "mcda:battle_robe_chestplate": [
+            5710,
+            0.035299998
+        ],
+        "mcda:beehive_armor_chestplate": [
+            5027,
+            1.1281319
+        ],
+        "mcda:beenest_armor_chestplate": [
+            5251,
+            0.84027165
+        ],
+        "mcda:black_wolf_armor_chestplate": [
+            4990,
+            1.1755847
+        ],
+        "mcda:blue_mystery_armor_chestplate": [
+            4151,
+            2.2672367
+        ],
+        "mcda:cauldron_armor_chestplate": [
+            3444,
+            4.6206264
+        ],
+        "mcda:cave_crawler_chestplate": [
+            4990,
+            1.1755847
+        ],
+        "mcda:champions_armor_chestplate": [
+            4152,
+            2.2659154
+        ],
+        "mcda:climbing_gear_chestplate": [
+            5214,
+            0.8880746
+        ],
+        "mcda:curious_armor_chestplate": [
+            4522,
+            1.7803338
+        ],
+        "mcda:dark_armor_chestplate": [
+            4152,
+            2.2659154
+        ],
+        "mcda:ember_robe_chestplate": [
+            5650,
+            0.0413
+        ],
+        "mcda:emerald_gear_chestplate": [
+            4517,
+            1.7868512
+        ],
+        "mcda:entertainer_garb_chestplate": [
+            5422,
+            0.6124069
+        ],
+        "mcda:evocation_robe_chestplate": [
+            5650,
+            0.0413
+        ],
+        "mcda:fox_armor_chestplate": [
+            5106,
+            1.026847
+        ],
+        "mcda:frost_armor_chestplate": [
+            4522,
+            1.7803338
+        ],
+        "mcda:frost_bite_armor_chestplate": [
+            4558,
+            1.7334458
+        ],
+        "mcda:full_metal_armor_chestplate": [
+            3435,
+            4.6402984
+        ],
+        "mcda:ghost_kindler_chestplate": [
+            5027,
+            1.1281319
+        ],
+        "mcda:ghostly_armor_chestplate": [
+            5251,
+            0.84027165
+        ],
+        "mcda:gilded_glory_chestplate": [
+            4173,
+            2.2381814
+        ],
+        "mcda:glow_squid_armor_chestplate": [
+            5106,
+            1.026847
+        ],
+        "mcda:goat_gear_chestplate": [
+            4883,
+            1.3130171
+        ],
+        "mcda:golden_piglin_armor_chestplate": [
+            4947,
+            1.2307714
+        ],
+        "mcda:gourdian_armor_chestplate": [
+            4528,
+            1.7725146
+        ],
+        "mcda:green_mystery_armor_chestplate": [
+            4151,
+            2.2672367
+        ],
+        "mcda:grim_armor_chestplate": [
+            5070,
+            1.0730039
+        ],
+        "mcda:guards_armor_chestplate": [
+            4526,
+            1.7751209
+        ],
+        "mcda:heros_armor_chestplate": [
+            3394,
+            4.7295723
+        ],
+        "mcda:highland_armor_chestplate": [
+            5027,
+            1.1281319
+        ],
+        "mcda:hungry_horror_chestplate": [
+            4522,
+            1.7803338
+        ],
+        "mcda:hunters_chestplate": [
+            5694,
+            0.0369
+        ],
+        "mcda:living_vines_armor_chestplate": [
+            5582,
+            0.0481
+        ],
+        "mcda:mercenary_armor_chestplate": [
+            4665,
+            1.5944664
+        ],
+        "mcda:nimble_turtle_armor_chestplate": [
+            4558,
+            1.7334458
+        ],
+        "mcda:ocelot_armor_chestplate": [
+            5490,
+            0.50971955
+        ],
+        "mcda:opulent_armor_chestplate": [
+            4213,
+            2.1854107
+        ],
+        "mcda:phantom_armor_chestplate": [
+            5070,
+            1.0730039
+        ],
+        "mcda:piglin_armor_chestplate": [
+            5586,
+            0.0477
+        ],
+        "mcda:plate_armor_chestplate": [
+            4151,
+            2.2672367
+        ],
+        "mcda:purple_mystery_armor_chestplate": [
+            4151,
+            2.2672367
+        ],
+        "mcda:red_mystery_armor_chestplate": [
+            4151,
+            2.2672367
+        ],
+        "mcda:reinforced_mail_chestplate": [
+            4666,
+            1.5931703
+        ],
+        "mcda:renegade_armor_chestplate": [
+            4664,
+            1.5957627
+        ],
+        "mcda:royal_guard_armor_chestplate": [
+            4151,
+            2.2672367
+        ],
+        "mcda:rugged_climbing_gear_chestplate": [
+            4990,
+            1.1755847
+        ],
+        "mcda:scale_mail_chestplate": [
+            5251,
+            0.84027165
+        ],
+        "mcda:shadow_walker_armor_chestplate": [
+            5106,
+            1.026847
+        ],
+        "mcda:shulker_armor_chestplate": [
+            4481,
+            1.8338127
+        ],
+        "mcda:snow_armor_chestplate": [
+            4522,
+            1.7803338
+        ],
+        "mcda:soul_robe_chestplate": [
+            5226,
+            0.8725937
+        ],
+        "mcda:souldancer_robe_chestplate": [
+            5002,
+            1.1601919
+        ],
+        "mcda:spelunker_armor_chestplate": [
+            5106,
+            1.026847
+        ],
+        "mcda:spider_armor_chestplate": [
+            5280,
+            0.8026233
+        ],
+        "mcda:splendid_robe_chestplate": [
+            5582,
+            0.0481
+        ],
+        "mcda:sprout_armor_chestplate": [
+            5582,
+            0.0481
+        ],
+        "mcda:squid_armor_chestplate": [
+            5490,
+            0.50971955
+        ],
+        "mcda:stalwart_armor_chestplate": [
+            4526,
+            1.7751209
+        ],
+        "mcda:sturdy_shulker_armor_chestplate": [
+            3975,
+            3.276478
+        ],
+        "mcda:sweet_tooth_chestplate": [
+            5027,
+            1.1281319
+        ],
+        "mcda:teleportation_robe_chestplate": [
+            5422,
+            0.6124069
+        ],
+        "mcda:thief_armor_chestplate": [
+            5280,
+            0.8026233
+        ],
+        "mcda:titans_shroud_chestplate": [
+            4148,
+            2.2712004
+        ],
+        "mcda:troubadour_armor_chestplate": [
+            5006,
+            1.1550616
+        ],
+        "mcda:turtle_armor_chestplate": [
+            5070,
+            1.0730039
+        ],
+        "mcda:unstable_robe_chestplate": [
+            5006,
+            1.1550616
+        ],
+        "mcda:vanguard_armor_chestplate": [
+            5251,
+            0.84027165
+        ],
+        "mcda:verdant_robe_chestplate": [
+            5650,
+            0.0413
+        ],
+        "mcda:white_mystery_armor_chestplate": [
+            4151,
+            2.2672367
+        ],
+        "mcda:wither_armor_chestplate": [
+            4558,
+            1.7334458
+        ],
+        "mcda:wolf_armor_chestplate": [
+            5214,
+            0.8880746
+        ],
+        "minecraft:chainmail_chestplate": [
+            5471,
+            0.540316
+        ],
+        "minecraft:diamond_chestplate": [
+            4555,
+            1.7373508
+        ],
+        "minecraft:golden_chestplate": [
+            5537,
+            0.4136078
+        ],
+        "minecraft:iron_chestplate": [
+            5223,
+            0.8764657
+        ],
+        "minecraft:leather_chestplate": [
+            5819,
+            0.0244
+        ],
+        "minecraft:netherite_chestplate": [
+            4428,
+            1.9030677
+        ],
+        "mutantmonsters:mutant_skeleton_chestplate": [
+            5118,
+            1.0114565
+        ],
+        "quark:backpack": [
+            5819,
+            0.0244
+        ],
+        "soulsweapons:arkenplate": [
+            2635,
+            6.334477
+        ],
+        "soulsweapons:chaos_robes": [
+            5351,
+            0.7092771
+        ],
+        "soulsweapons:enhanced_arkenplate": [
+            2635,
+            6.334477
+        ],
+        "soulsweapons:enhanced_withered_chest": [
+            2635,
+            6.334477
+        ],
+        "soulsweapons:forlorn_chestplate": [
+            4200,
+            2.2025528
+        ],
+        "soulsweapons:soul_ingot_chestplate": [
+            4507,
+            1.7998894
+        ],
+        "soulsweapons:soul_robes_chestplate": [
+            5215,
+            0.88678515
+        ],
+        "soulsweapons:withered_chest": [
+            2635,
+            6.334477
+        ]
+    },
+    "HEAD": {
+        "advancednetherite:netherite_diamond_helmet": [
+            2742,
+            0.060683
+        ],
+        "advancednetherite:netherite_emerald_helmet": [
+            3177,
+            0.1441197
+        ],
+        "advancednetherite:netherite_gold_helmet": [
+            3166,
+            0.167534
+        ],
+        "advancednetherite:netherite_iron_helmet": [
+            3619,
+            0.175677
+        ],
+        "alexscaves:diving_helmet": [
+            4968,
+            1.173019
+        ],
+        "alexscaves:gingerbread_helmet": [
+            5245,
+            0.8169267
+        ],
+        "alexscaves:hazmat_mask": [
+            5170,
+            0.91383743
+        ],
+        "alexscaves:hood_of_darkness": [
+            5312,
+            0.7291897
+        ],
+        "alexscaves:primordial_helmet": [
+            5260,
+            0.7974141
+        ],
+        "cataclysm:bone_reptile_helmet": [
+            2224,
+            7.1410875
+        ],
+        "cataclysm:cursium_helmet": [
+            2393,
+            6.789111
+        ],
+        "cataclysm:ignitium_helmet": [
+            1183,
+            9.309818
+        ],
+        "cataclysm:monstrous_helm": [
+            4404,
+            1.9030677
+        ],
+        "deeperdarker:resonarium_helmet": [
+            4483,
+            1.7998894
+        ],
+        "deeperdarker:warden_helmet": [
+            3198,
+            5.0993676
+        ],
+        "eldritch_end:etyrite_helmet": [
+            3946,
+            3.2958906
+        ],
+        "friendsandfoes:wildfire_crown": [
+            4896,
+            1.2654512
+        ],
+        "iceandfire:armor_amythest_helmet": [
+            3004,
+            5.510578
+        ],
+        "iceandfire:armor_black_helmet": [
+            3004,
+            5.510578
+        ],
+        "iceandfire:armor_blue_helmet": [
+            3004,
+            5.510578
+        ],
+        "iceandfire:armor_bronze_helmet": [
+            3004,
+            5.510578
+        ],
+        "iceandfire:armor_copper_helmet": [
+            3004,
+            5.510578
+        ],
+        "iceandfire:armor_copper_metal_helmet": [
+            5549,
+            0.049
+        ],
+        "iceandfire:armor_electric_helmet": [
+            3004,
+            5.510578
+        ],
+        "iceandfire:armor_gray_helmet": [
+            3004,
+            5.510578
+        ],
+        "iceandfire:armor_green_helmet": [
+            3004,
+            5.510578
+        ],
+        "iceandfire:armor_red_helmet": [
+            3004,
+            5.510578
+        ],
+        "iceandfire:armor_sapphire_helmet": [
+            3004,
+            5.510578
+        ],
+        "iceandfire:armor_silver_helmet": [
+            3004,
+            5.510578
+        ],
+        "iceandfire:armor_silver_metal_helmet": [
+            5258,
+            0.80001926
+        ],
+        "iceandfire:armor_white_helmet": [
+            3004,
+            5.510578
+        ],
+        "iceandfire:blindfold": [
+            5890,
+            0.0149
+        ],
+        "iceandfire:deathworm_red_helmet": [
+            4752,
+            1.4508864
+        ],
+        "iceandfire:deathworm_white_helmet": [
+            4752,
+            1.4508864
+        ],
+        "iceandfire:deathworm_yellow_helmet": [
+            4752,
+            1.4508864
+        ],
+        "iceandfire:dragonsteel_fire_helmet": [
+            37,
+            0.709396
+        ],
+        "iceandfire:dragonsteel_ice_helmet": [
+            37,
+            0.709396
+        ],
+        "iceandfire:dragonsteel_lightning_helmet": [
+            37,
+            0.709396
+        ],
+        "iceandfire:earplugs": [
+            5890,
+            0.0149
+        ],
+        "iceandfire:forest_troll_leather_helmet": [
+            4693,
+            1.5271299
+        ],
+        "iceandfire:frost_troll_leather_helmet": [
+            4693,
+            1.5271299
+        ],
+        "iceandfire:mountain_troll_leather_helmet": [
+            4693,
+            1.5271299
+        ],
+        "iceandfire:myrmex_desert_helmet": [
+            4224,
+            2.1392972
+        ],
+        "iceandfire:myrmex_jungle_helmet": [
+            4224,
+            2.1392972
+        ],
+        "iceandfire:sheep_helmet": [
+            5733,
+            0.030599998
+        ],
+        "iceandfire:tide_blue_helmet": [
+            3581,
+            4.262535
+        ],
+        "iceandfire:tide_bronze_helmet": [
+            3581,
+            4.262535
+        ],
+        "iceandfire:tide_deepblue_helmet": [
+            3581,
+            4.262535
+        ],
+        "iceandfire:tide_green_helmet": [
+            3581,
+            4.262535
+        ],
+        "iceandfire:tide_purple_helmet": [
+            3581,
+            4.262535
+        ],
+        "iceandfire:tide_red_helmet": [
+            3581,
+            4.262535
+        ],
+        "iceandfire:tide_teal_helmet": [
+            3581,
+            4.262535
+        ],
+        "mcda:archers_helmet": [
+            5085,
+            1.0229998
+        ],
+        "mcda:arctic_fox_armor_helmet": [
+            5085,
+            1.0229998
+        ],
+        "mcda:beehive_armor_helmet": [
+            5005,
+            1.1255676
+        ],
+        "mcda:beenest_armor_helmet": [
+            5229,
+            0.8376811
+        ],
+        "mcda:black_wolf_armor_helmet": [
+            4969,
+            1.1717362
+        ],
+        "mcda:blue_mystery_armor_helmet": [
+            4134,
+            2.2579892
+        ],
+        "mcda:cauldron_armor_helmet": [
+            3427,
+            4.6053057
+        ],
+        "mcda:cave_crawler_helmet": [
+            4969,
+            1.1717362
+        ],
+        "mcda:champions_armor_helmet": [
+            4135,
+            2.2566686
+        ],
+        "mcda:climbing_gear_helmet": [
+            5193,
+            0.8842061
+        ],
+        "mcda:curious_armor_helmet": [
+            4504,
+            1.7725146
+        ],
+        "mcda:dark_armor_helmet": [
+            4135,
+            2.2566686
+        ],
+        "mcda:ember_robe_helmet": [
+            5627,
+            0.041199997
+        ],
+        "mcda:emerald_gear_helmet": [
+            4499,
+            1.7790304
+        ],
+        "mcda:entertainer_garb_helmet": [
+            5399,
+            0.610996
+        ],
+        "mcda:evocation_robe_helmet": [
+            5627,
+            0.041199997
+        ],
+        "mcda:fox_armor_helmet": [
+            5085,
+            1.0229998
+        ],
+        "mcda:frost_armor_helmet": [
+            4504,
+            1.7725146
+        ],
+        "mcda:frost_bite_armor_helmet": [
+            4539,
+            1.7269388
+        ],
+        "mcda:full_metal_armor_helmet": [
+            3418,
+            4.6250005
+        ],
+        "mcda:ghost_kindler_helmet": [
+            5005,
+            1.1255676
+        ],
+        "mcda:ghostly_armor_helmet": [
+            5229,
+            0.8376811
+        ],
+        "mcda:gilded_glory_helmet": [
+            4156,
+            2.228941
+        ],
+        "mcda:glow_squid_armor_helmet": [
+            5085,
+            1.0229998
+        ],
+        "mcda:goat_gear_helmet": [
+            4862,
+            1.3091584
+        ],
+        "mcda:golden_piglin_armor_helmet": [
+            4925,
+            1.2282034
+        ],
+        "mcda:gourdian_armor_helmet": [
+            4509,
+            1.766
+        ],
+        "mcda:green_mystery_armor_helmet": [
+            4134,
+            2.2579892
+        ],
+        "mcda:grim_armor_helmet": [
+            5051,
+            1.066594
+        ],
+        "mcda:guards_armor_helmet": [
+            4508,
+            1.7673029
+        ],
+        "mcda:heros_armor_helmet": [
+            3377,
+            4.7143683
+        ],
+        "mcda:highland_armor_helmet": [
+            5005,
+            1.1255676
+        ],
+        "mcda:hungry_horror_helmet": [
+            4504,
+            1.7725146
+        ],
+        "mcda:living_vines_armor_helmet": [
+            5559,
+            0.047999997
+        ],
+        "mcda:mercenary_armor_helmet": [
+            4647,
+            1.5866901
+        ],
+        "mcda:nimble_turtle_armor_helmet": [
+            4539,
+            1.7269388
+        ],
+        "mcda:ocelot_armor_helmet": [
+            5469,
+            0.5046589
+        ],
+        "mcda:opulent_armor_helmet": [
+            4195,
+            2.1775014
+        ],
+        "mcda:phantom_armor_helmet": [
+            5051,
+            1.066594
+        ],
+        "mcda:piglin_armor_helmet": [
+            5563,
+            0.047599997
+        ],
+        "mcda:plate_armor_helmet": [
+            4134,
+            2.2579892
+        ],
+        "mcda:purple_mystery_armor_helmet": [
+            4134,
+            2.2579892
+        ],
+        "mcda:red_mystery_armor_helmet": [
+            4134,
+            2.2579892
+        ],
+        "mcda:reinforced_mail_helmet": [
+            4648,
+            1.5853943
+        ],
+        "mcda:renegade_armor_helmet": [
+            4646,
+            1.587986
+        ],
+        "mcda:royal_guard_armor_helmet": [
+            4134,
+            2.2579892
+        ],
+        "mcda:rugged_climbing_gear_helmet": [
+            4969,
+            1.1717362
+        ],
+        "mcda:shadow_walker_armor_helmet": [
+            5085,
+            1.0229998
+        ],
+        "mcda:shulker_armor_helmet": [
+            4464,
+            1.8246763
+        ],
+        "mcda:snow_armor_helmet": [
+            4504,
+            1.7725146
+        ],
+        "mcda:soul_robe_helmet": [
+            5203,
+            0.87130266
+        ],
+        "mcda:souldancer_robe_helmet": [
+            4979,
+            1.1589093
+        ],
+        "mcda:spelunker_armor_helmet": [
+            5085,
+            1.0229998
+        ],
+        "mcda:spider_armor_helmet": [
+            5257,
+            0.8013214
+        ],
+        "mcda:sprout_armor_helmet": [
+            5559,
+            0.047999997
+        ],
+        "mcda:squid_armor_helmet": [
+            5469,
+            0.5046589
+        ],
+        "mcda:stalwart_armor_helmet": [
+            4508,
+            1.7673029
+        ],
+        "mcda:sturdy_shulker_armor_helmet": [
+            3958,
+            3.2482448
+        ],
+        "mcda:sweet_tooth_helmet": [
+            5005,
+            1.1255676
+        ],
+        "mcda:teleportation_robe_helmet": [
+            5399,
+            0.610996
+        ],
+        "mcda:thief_armor_helmet": [
+            5257,
+            0.8013214
+        ],
+        "mcda:titans_shroud_helmet": [
+            4131,
+            2.2619522
+        ],
+        "mcda:troubadour_armor_helmet": [
+            4983,
+            1.1537791
+        ],
+        "mcda:turtle_armor_helmet": [
+            5051,
+            1.066594
+        ],
+        "mcda:unstable_robe_helmet": [
+            4983,
+            1.1537791
+        ],
+        "mcda:vanguard_armor_helmet": [
+            5229,
+            0.8376811
+        ],
+        "mcda:verdant_robe_helmet": [
+            5627,
+            0.041199997
+        ],
+        "mcda:white_mystery_armor_helmet": [
+            4134,
+            2.2579892
+        ],
+        "mcda:wither_armor_helmet": [
+            4539,
+            1.7269388
+        ],
+        "mcda:wolf_armor_helmet": [
+            5193,
+            0.8842061
+        ],
+        "minecraft:chainmail_helmet": [
+            5447,
+            0.540316
+        ],
+        "minecraft:diamond_helmet": [
+            4531,
+            1.7373508
+        ],
+        "minecraft:golden_helmet": [
+            5513,
+            0.4136078
+        ],
+        "minecraft:iron_helmet": [
+            5199,
+            0.8764657
+        ],
+        "minecraft:leather_helmet": [
+            5795,
+            0.0244
+        ],
+        "minecraft:netherite_helmet": [
+            4404,
+            1.9030677
+        ],
+        "minecraft:turtle_helmet": [
+            5143,
+            0.948558
+        ],
+        "quark:forgotten_hat": [
+            5795,
+            0.0244
+        ],
+        "soulsweapons:chaos_crown": [
+            5335,
+            0.69859964
+        ],
+        "soulsweapons:chaos_helmet": [
+            2598,
+            6.361618
+        ],
+        "soulsweapons:forlorn_helmet": [
+            4196,
+            2.1761835
+        ],
+        "soulsweapons:soul_ingot_helmet": [
+            4452,
+            1.8403403
+        ],
+        "soulsweapons:soul_robes_helmet": [
+            5199,
+            0.8764657
+        ]
+    }
+}

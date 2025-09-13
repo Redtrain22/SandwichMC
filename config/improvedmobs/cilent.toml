@@ -1,0 +1,6 @@
+#Gui Configs
+[gui]
+	#Range: > 0
+	"Gui X" = 3
+	#Range: > 0
+	"Gui Y" = 3

@@ -1,13 +1,13 @@
 name = "MonoLib"
-filename = "monolib-forge-1.20.1-1.4.1.jar"
+filename = "monolib-forge-1.20.1-2.1.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/9leXt4A5/versions/XzmhSfq6/monolib-forge-1.20.1-1.4.1.jar"
+url = "https://cdn.modrinth.com/data/9leXt4A5/versions/ogfsiWTJ/monolib-forge-1.20.1-2.1.0.jar"
 hash-format = "sha1"
-hash = "264fe33624f07779fd903a60d65ac44f5e31fd90"
+hash = "b600741540e7a417ff851d5fe3add8014dc43f0f"
 
 [update]
 [update.modrinth]
 mod-id = "9leXt4A5"
-version = "XzmhSfq6"
+version = "ogfsiWTJ"

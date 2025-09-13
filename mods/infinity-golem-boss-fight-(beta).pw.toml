@@ -1,0 +1,13 @@
+name = "Infinity Golem Boss Fight"
+filename = "infinitygolem-1.0.0-forge-1.20.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/gajeT6A2/versions/PVtJCgqt/infinitygolem-1.0.0-forge-1.20.1.jar"
+hash-format = "sha1"
+hash = "65cddff15269a86220a0803c0a22d91c0ab08f0a"
+
+[update]
+[update.modrinth]
+mod-id = "gajeT6A2"
+version = "PVtJCgqt"

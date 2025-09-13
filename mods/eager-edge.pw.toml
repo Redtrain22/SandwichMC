@@ -1,0 +1,13 @@
+name = "Eager Edge Destiny 2"
+filename = "eageredge-1.2.3-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/HzDHaNbX/versions/7U4JZ3r4/eageredge-1.2.3-forge-1.20.1.jar"
+hash-format = "sha1"
+hash = "c31f6e61c86d15594134425bf9be0c472f6c96f4"
+
+[update]
+[update.modrinth]
+mod-id = "HzDHaNbX"
+version = "7U4JZ3r4"

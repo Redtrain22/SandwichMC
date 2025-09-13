@@ -1,13 +1,13 @@
 name = "Forgified Fabric API"
-filename = "fabric-api-0.92.2+1.11.9+1.20.1.jar"
+filename = "fabric-api-0.92.6+1.11.14+1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Aqlf1Shp/versions/2Jm6cdbX/fabric-api-0.92.2%2B1.11.9%2B1.20.1.jar"
+url = "https://cdn.modrinth.com/data/Aqlf1Shp/versions/XweDEycJ/fabric-api-0.92.6%2B1.11.14%2B1.20.1.jar"
 hash-format = "sha1"
-hash = "c3e2030ca7652d3cb05c688c0cb37cccffb93363"
+hash = "285c22b2567b9fdf98ef9808eceb5557de9611d3"
 
 [update]
 [update.modrinth]
 mod-id = "Aqlf1Shp"
-version = "2Jm6cdbX"
+version = "XweDEycJ"

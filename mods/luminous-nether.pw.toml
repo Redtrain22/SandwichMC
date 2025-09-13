@@ -1,0 +1,13 @@
+name = "Luminous: Nether"
+filename = "Luminous Nether V1.3.1 - Forge 1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2CL6BDdJ/versions/wOrWncEN/Luminous%20Nether%20V1.3.1%20-%20Forge%201.20.1.jar"
+hash-format = "sha1"
+hash = "f36b85e6ca61edf397bb57f61a1b1e348e712006"
+
+[update]
+[update.modrinth]
+mod-id = "2CL6BDdJ"
+version = "wOrWncEN"

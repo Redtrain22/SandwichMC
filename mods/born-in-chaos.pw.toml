@@ -1,13 +1,13 @@
 name = "Born in Chaos"
-filename = "born_in_chaos_[Forge]1.20.1_1.6.2_chilling-horror-event.jar"
+filename = "born_in_chaos_[Forge]1.20.1_1.7.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "da26ef9e41a004adf1366e1fdd7e4bad7b6d17c3"
+hash = "a8bda4c4fc29a190221877ea60820b60a1cc186f"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6053249
+file-id = 6833957
 project-id = 686437
