@@ -1,0 +1,13 @@
+name = "Apotheosis Nerf"
+filename = "apotheosis_nerf.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/QOcNm0eq/versions/QkSHcq6i/apotheosis_nerf.zip"
+hash-format = "sha512"
+hash = "630ac172687214bfe49d6f8fb864d16cc0bc2a08b77f9243a1d524058e830f6624f463ebc06e15cbf743f4ad0f87e3ff403965b5b418d78316fdbe41a4954a3c"
+
+[update]
+[update.modrinth]
+mod-id = "QOcNm0eq"
+version = "QkSHcq6i"

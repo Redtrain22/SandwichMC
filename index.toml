@@ -57,6 +57,11 @@ file = "config/mowziesmobs-common.toml"
 hash = "a7d133be4fe237b2e00b824f62c7103aae32c52f490cf6ca6132f0cb22f710c0"
 
 [[files]]
+file = "config/openloader/data/apotheosis-nerf.pw.toml"
+hash = "de516ef71d0eec66321e9e81a9170a3288acaa5d9147ace5f6c7856f2e198127"
+metafile = true
+
+[[files]]
 file = "config/skilltree-common.toml"
 hash = "152786d9143968469d5f698426ed44b829432c131b89d22232b4dd4c8e878de3"
 
@@ -767,6 +772,11 @@ metafile = true
 [[files]]
 file = "mods/oculus.pw.toml"
 hash = "5f5ee7f47eb5f9b136ad86085a97c742b3a3365524f26cc6477fa44d6d4c9381"
+metafile = true
+
+[[files]]
+file = "mods/open-loader.pw.toml"
+hash = "4e721a3949621080440a950b4aba930b91735455238b1ea4f01e25dba3e59c23"
 metafile = true
 
 [[files]]

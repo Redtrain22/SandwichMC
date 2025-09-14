@@ -6,8 +6,15 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
+<<<<<<< HEAD
 hash = "980ed324408429f5e4fb227a82a089a626e8c8c2be9a6d7bb07f9f6aa0a37dc8"
+=======
+hash = "de15da9be0b6f8e8fec66da093a667eb9b391c99075c609780083b24055fd900"
+>>>>>>> 163bc98ebd7f381a59b4bb8c2ba65d16c72124d8
 
 [versions]
 forge = "47.4.0"
 minecraft = "1.20.1"
+
+[options]
+datapack-folder = "config/openloader/data"
