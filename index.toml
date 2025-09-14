@@ -130,6 +130,11 @@ hash = "010eb7f381ba6e7568b3a5b1bd9061374e9fd1dffb9eb53a41a63079c65dae80"
 metafile = true
 
 [[files]]
+file = "mods/appleskin.pw.toml"
+hash = "0a1d5aeaae3975eaa4bb3a98e91852f797a5095794af70df41d50841c57ca347"
+metafile = true
+
+[[files]]
 file = "mods/aqua-combat.pw.toml"
 hash = "265c483e2a620b06c6bb134c2fbff4a1266ec58e0cb05a2590b642cc70c817ff"
 metafile = true
