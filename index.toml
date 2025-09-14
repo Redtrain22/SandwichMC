@@ -67,7 +67,7 @@ hash = "152786d9143968469d5f698426ed44b829432c131b89d22232b4dd4c8e878de3"
 
 [[files]]
 file = "config/zeta-common.toml"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+hash = "ec86bc5daeaf20e86bd077351fda362b6557e134c283e27f8f08eeb4619a56e2"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -810,6 +810,11 @@ hash = "0fd5b27087ffe34d22dbdbdec6cae53f0a58b839ab8e4c423a5255f2b406e27b"
 metafile = true
 
 [[files]]
+file = "mods/pickup-filter.pw.toml"
+hash = "fd66d910f9354da3693d28a3e3c46e75b870fe3f336b1537fe610464af67ff00"
+metafile = true
+
+[[files]]
 file = "mods/placebo.pw.toml"
 hash = "045d582e2c534c5bb96d7336b4ae2cd12692c6de29b19ae5f1dbfd8759c03b03"
 metafile = true
@@ -1126,7 +1131,7 @@ metafile = true
 
 [[files]]
 file = "servers.dat"
-hash = "610588a3a14fb809876f4839496f635fe38b38d89fcf61046a0e57c454af97dd"
+hash = "dcb678011adfb3c69ecb006538c0f2fb0ab14782cb6c28f3fb979b9e009e0f60"
 
 [[files]]
 file = "shaderpacks/complementary-unbound.pw.toml"

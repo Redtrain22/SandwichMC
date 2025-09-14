@@ -1,0 +1,13 @@
+name = "Pickup Filter"
+filename = "itemfilter-2.3.0+1.20.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/wQDIDWsx/versions/7EOzIjSV/itemfilter-2.3.0%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "ccbb8e7d3267ceedd126989070fdd966d1a71cfd"
+
+[update]
+[update.modrinth]
+mod-id = "wQDIDWsx"
+version = "7EOzIjSV"
