@@ -61,6 +61,10 @@ file = "config/skilltree-common.toml"
 hash = "152786d9143968469d5f698426ed44b829432c131b89d22232b4dd4c8e878de3"
 
 [[files]]
+file = "config/zeta-common.toml"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "f5146bea7ed4456f06601067aa67d4db0b6a56fa75f30310c0083e1a205f9aec"
 metafile = true
