@@ -1045,11 +1045,6 @@ hash = "c881beb8f2f13ab54bbea70a162dd184d68d3404680c2ce964d97057d1ae3410"
 metafile = true
 
 [[files]]
-file = "mods/txnilib.pw.toml"
-hash = "77c5bf0d72f21521fa00452124d4f59f535633aaee1785e4da470602dde454ab"
-metafile = true
-
-[[files]]
 file = "mods/ultris.pw.toml"
 hash = "fbae272c03e36e382e39939f410fd5b9ae771a7b6f956890512f71c5a6a2d159"
 metafile = true
