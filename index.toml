@@ -295,11 +295,6 @@ hash = "4191b1dc1a4a03fd2b489bcb030a819db122eefecd7d04d31973f2c4fa19db75"
 metafile = true
 
 [[files]]
-file = "mods/cliffbranch.pw.toml"
-hash = "2d43913e5889133e0c7d3f7269aa6da83ba1160491f02128152e752bded5a240"
-metafile = true
-
-[[files]]
 file = "mods/clifftree.pw.toml"
 hash = "6d3cee01c1409125e03d48294995572e4784b195b4b9e94c47df0179de1d7fd6"
 metafile = true
