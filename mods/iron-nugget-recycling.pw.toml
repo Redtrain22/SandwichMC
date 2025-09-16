@@ -1,0 +1,13 @@
+name = "Iron Nugget Recycling"
+filename = "iron-nugget-recycling-1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/knuQzrab/versions/tLRx8Pjn/iron-nugget-recycling-1.0.jar"
+hash-format = "sha1"
+hash = "c7b38903fd051c8ed0edb0d7092a774079ececb5"
+
+[update]
+[update.modrinth]
+mod-id = "knuQzrab"
+version = "tLRx8Pjn"
