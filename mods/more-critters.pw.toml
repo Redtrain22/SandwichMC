@@ -1,0 +1,13 @@
+name = "More Critters"
+filename = "More Critters 1.1.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/iRZ6t3qQ/versions/oXUfUOTA/More%20Critters%201.1.6.jar"
+hash-format = "sha1"
+hash = "f6062fe1111b40dd55dccf6ab599b5f151cb10d6"
+
+[update]
+[update.modrinth]
+mod-id = "iRZ6t3qQ"
+version = "oXUfUOTA"

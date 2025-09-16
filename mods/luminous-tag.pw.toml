@@ -1,0 +1,13 @@
+name = "Luminous Tag"
+filename = "Luminous Tag V1.1 - Forge 1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uX4Rl6YL/versions/9EHxwH4T/Luminous%20Tag%20V1.1%20-%20Forge%201.20.1.jar"
+hash-format = "sha1"
+hash = "f2f068038941f9cfde0225ee659abebb0eb71ff6"
+
+[update]
+[update.modrinth]
+mod-id = "uX4Rl6YL"
+version = "9EHxwH4T"

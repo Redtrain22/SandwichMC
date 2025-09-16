@@ -6,7 +6,7 @@ hash = "1fb04dd96b2f78bd20767ca5acd177352bcbc35cb86bc0d10fb2ee189b98f22e"
 
 [[files]]
 file = "config/badmobs-common.toml"
-hash = "41c0fd9e1e54e18db3b0df1dc9b1a8d45f1b95a2d9eb1f3a4493daa6b62c1564"
+hash = "8132b01331915dbfe32914e33263b4e08af47425c0a4ef0a76633afd0cbbc9f4"
 
 [[files]]
 file = "config/bettercombat/server.json.5"
@@ -30,7 +30,7 @@ hash = "9f49ef86e16455ab9264d713bc78960bd341fe514d890f30cab2a2131d6ec054"
 
 [[files]]
 file = "config/hardcorerevival-common.toml"
-hash = "3291dda753e49f70a0bba84f8076cc6796b7bed61b6cbaa40f7477fd3e1e8eeb"
+hash = "ce973c8a7b1f0cc7031dbb4375c5ff75f9757973bb37f378210c6da5769b63b2"
 
 [[files]]
 file = "config/iceandfire-common.tmol"
@@ -42,7 +42,7 @@ hash = "854fab46652839e3a0a3f04654738a5a4eebdf6797c60fb2c244361ea0ceb8b5"
 
 [[files]]
 file = "config/improvedmobs/common.toml"
-hash = "28a95f31faccf225cfdbaa00f7aff8e58f1473f1340e95b51481f4c900e3e314"
+hash = "8d39581ea78e276027cbb3b3d3fdb53ed0952398b8f1332f740a81293057d824"
 
 [[files]]
 file = "config/improvedmobs/equipment.json"
@@ -68,11 +68,6 @@ hash = "152786d9143968469d5f698426ed44b829432c131b89d22232b4dd4c8e878de3"
 [[files]]
 file = "config/zeta-common.toml"
 hash = "ec86bc5daeaf20e86bd077351fda362b6557e134c283e27f8f08eeb4619a56e2"
-
-[[files]]
-file = "mods/3dskinlayers.pw.toml"
-hash = "f5146bea7ed4456f06601067aa67d4db0b6a56fa75f30310c0083e1a205f9aec"
-metafile = true
 
 [[files]]
 file = "mods/advanced-netherite.pw.toml"
@@ -147,11 +142,6 @@ metafile = true
 [[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "fa34a3117af7f8ed553ec563a7c90c1d6462184c7df5b837c831cb482c6ae582"
-metafile = true
-
-[[files]]
-file = "mods/armor-3d.pw.toml"
-hash = "e5f73861d25de5a1063c136cb54b0e1b8fe000c3ac80e4e0c30ac7c321468d7c"
 metafile = true
 
 [[files]]
@@ -265,6 +255,11 @@ hash = "5bbab74e6fba3a7d62f0c4e9f14e3c2030a939ccac483d118cc3c951b4b37b4d"
 metafile = true
 
 [[files]]
+file = "mods/brutes-drop-scraps.pw.toml"
+hash = "120bec12ee5f1324071b65871cb039372b53c97772121fef3f3ffbda125e9cf5"
+metafile = true
+
+[[files]]
 file = "mods/caelus.pw.toml"
 hash = "eaa144428b42dedd12beea31db366ca686a621c9945d45a35494dca25846fc63"
 metafile = true
@@ -347,6 +342,31 @@ metafile = true
 [[files]]
 file = "mods/craftable-armour-trims.pw.toml"
 hash = "529cb6fcc5d520fd81a1e1f6f78acf5c6b3f5401952d3b672445e1a8240fb027"
+metafile = true
+
+[[files]]
+file = "mods/create-central-kitchen.pw.toml"
+hash = "4f1ef3bd32aae24ee58d0576aa108b3bdb8d29d78f81271a089c775f198d4dc0"
+metafile = true
+
+[[files]]
+file = "mods/create-deco.pw.toml"
+hash = "ed31437039d9afd64d6f0d04b6f41db1b7f042c050956da70d5d1b05bf03bd0b"
+metafile = true
+
+[[files]]
+file = "mods/create-goggles.pw.toml"
+hash = "26ebe3ae5a0989024fe915c8f43878f6c3fa3a37061089955feaf9173793da5a"
+metafile = true
+
+[[files]]
+file = "mods/create-steam-n-rails.pw.toml"
+hash = "baa3ad53a339edcd637e9eab27305381690549361d5e4cbec579deefeaaf5cdc"
+metafile = true
+
+[[files]]
+file = "mods/create.pw.toml"
+hash = "a876aaa9cea285d068b936a8196b231e896ad19b9dde0c1eef03a3e4c7a649c8"
 metafile = true
 
 [[files]]
@@ -670,6 +690,11 @@ hash = "74524020e9a5bdb2959da9dcfe5754d8c8896f6a433a9e0c201eda29e5832f44"
 metafile = true
 
 [[files]]
+file = "mods/luminous-tag.pw.toml"
+hash = "c7b9cf14baf17881f1288c30aabf2ebd546f0a1237e93199ca1ca5b67edbf48b"
+metafile = true
+
+[[files]]
 file = "mods/macabre.pw.toml"
 hash = "c402b3210761ab838fd4e3f7851c56db17446b227e0d5b1b9741ee932dd9d7a5"
 metafile = true
@@ -725,6 +750,11 @@ hash = "2fe57964a82366b0418f7d076ce6fd4367a061a4ce289c04ad74681ec7ea8bea"
 metafile = true
 
 [[files]]
+file = "mods/more-critters.pw.toml"
+hash = "be3b5ebf1e95bb7981dfe7368c9fdcc03997e40254b3186a6363ef3323b6ec40"
+metafile = true
+
+[[files]]
 file = "mods/morechathistory-reforged.pw.toml"
 hash = "70ca9823975083919ef703805fc02dabe1170f398631ee12c4f4142964e0fa87"
 metafile = true
@@ -752,6 +782,16 @@ metafile = true
 [[files]]
 file = "mods/necronomicon.pw.toml"
 hash = "1e6cf7b38e79ed85e8fb4ab6f5ff2add4a32d9bdb4f97451ecff63733f61c093"
+metafile = true
+
+[[files]]
+file = "mods/netherite-compass.pw.toml"
+hash = "2ad908dfab3108a72f855d7241855a4971a2ccd135e45b9c15d6b25f52285deb"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "9a3c80bf6eee8234001d2a1602b3e123ac5706af051902e40f24abe317b86e50"
 metafile = true
 
 [[files]]
@@ -997,6 +1037,11 @@ metafile = true
 [[files]]
 file = "mods/terramity.pw.toml"
 hash = "5ed3754a60be1d67b3acfe2187ef8905e15339c0b3f89b643c0e8c2780b3d391"
+metafile = true
+
+[[files]]
+file = "mods/the-graveyard-forge.pw.toml"
+hash = "d54e2a189320e39820fb2fb75caa2aa99a44393bbd36a9215ee534039f9d64d8"
 metafile = true
 
 [[files]]

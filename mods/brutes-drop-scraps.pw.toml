@@ -1,0 +1,13 @@
+name = "Brutes Drop Scraps"
+filename = "brutes-drop-scraps-1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8ZllcDMw/versions/DWNtAmYX/brutes-drop-scraps-1.1.jar"
+hash-format = "sha1"
+hash = "fa2d24fc8736bea2e452f0241d521e29ef79ad8c"
+
+[update]
+[update.modrinth]
+mod-id = "8ZllcDMw"
+version = "DWNtAmYX"
