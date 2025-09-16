@@ -930,6 +930,11 @@ hash = "35905f57cdb21a2aaa26345f2fabe3137ee2db6ee3bb2149cea206611b11ef69"
 metafile = true
 
 [[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "71637bb33504fbf055fd98dd2452733e07634bf6332ff30a4061d9b2c0a461bf"
+metafile = true
+
+[[files]]
 file = "mods/skills.pw.toml"
 hash = "0eb064f444e48a7721c35b9944260f0fb4bde63fb7f8ddc68a041cf7b281d8cd"
 metafile = true
