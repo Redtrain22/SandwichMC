@@ -37,16 +37,8 @@ file = "config/iceandfire-common.tmol"
 hash = "aaa813c0adfe3bcfba437c39fce67904e62fd4e564933f2e3e5feb6f2107ea16"
 
 [[files]]
-file = "config/improvedmobs/client.toml"
-hash = "854fab46652839e3a0a3f04654738a5a4eebdf6797c60fb2c244361ea0ceb8b5"
-
-[[files]]
-file = "config/improvedmobs/common.toml"
-hash = "8d39581ea78e276027cbb3b3d3fdb53ed0952398b8f1332f740a81293057d824"
-
-[[files]]
-file = "config/improvedmobs/equipment.json"
-hash = "3a42f8afddad3d147e05e943844d7ab9939f165e9b78b73c5a0c47e414e3fc81"
+file = "config/l2_configs/l2hostility-common.toml"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/mcdw/mcdw_stats_config.json5"
@@ -70,8 +62,18 @@ file = "config/zeta-common.toml"
 hash = "ec86bc5daeaf20e86bd077351fda362b6557e134c283e27f8f08eeb4619a56e2"
 
 [[files]]
+file = "mods/advanced-loot-info.pw.toml"
+hash = "9ff47173a2fe0120c72f6fbd3186b6ba41a696fa1e7cf11092489cf28c4bd619"
+metafile = true
+
+[[files]]
 file = "mods/advanced-netherite.pw.toml"
 hash = "41841063d7d48feb45e4d36a11f88293184d4c1520930c64d6f399945924e75b"
+metafile = true
+
+[[files]]
+file = "mods/advancement-plaques.pw.toml"
+hash = "99c133b256051ff18ab958384ddec7f20f424a8fadb6d8087687dbb2972b6094"
 metafile = true
 
 [[files]]
@@ -141,7 +143,12 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "fa34a3117af7f8ed553ec563a7c90c1d6462184c7df5b837c831cb482c6ae582"
+hash = "5e9edd1fd2395f14a0c8a4acbdbdd61e1047be1f0033deb3140d2ce0d093e9d8"
+metafile = true
+
+[[files]]
+file = "mods/armageddonmod.pw.toml"
+hash = "568ae2c9af1733709283fee0d825add6f4ff2c68963f722572e047053953241d"
 metafile = true
 
 [[files]]
@@ -210,6 +217,11 @@ hash = "3c7e90150afd50764f2706c18a55c11012cb2d518531c3ee6ff630ffd561b0df"
 metafile = true
 
 [[files]]
+file = "mods/better-advancements.pw.toml"
+hash = "45bfe44cb3208de7ce385b6a3e98251e7423c5aac8ebec9c13c752b75661d793"
+metafile = true
+
+[[files]]
 file = "mods/better-combat-nbt-fix.pw.toml"
 hash = "8a23e4296a01395a24a576c4463ad4541f499857cfc6e3fa494cea54b42636b8"
 metafile = true
@@ -232,6 +244,11 @@ metafile = true
 [[files]]
 file = "mods/biggerstacks.pw.toml"
 hash = "933be281f0bbab0fbe546924d27c4a481a3021169b62a6c91251c53659e4891d"
+metafile = true
+
+[[files]]
+file = "mods/blahaj-restitched.pw.toml"
+hash = "cd314b5ccfdd436479fe7a40e4159948eb7f60a6725bbc9ae65d285efa4df15d"
 metafile = true
 
 [[files]]
@@ -262,6 +279,11 @@ metafile = true
 [[files]]
 file = "mods/caelus.pw.toml"
 hash = "eaa144428b42dedd12beea31db366ca686a621c9945d45a35494dca25846fc63"
+metafile = true
+
+[[files]]
+file = "mods/carry-on.pw.toml"
+hash = "ded75a2dd4ee0ea57454d080652099f759ff222a17c6f7daa86df944daf5ad04"
 metafile = true
 
 [[files]]
@@ -580,11 +602,6 @@ hash = "072080711b5672765485f7eb772b243b429fd39e32155675090efc46b3cd3d6b"
 metafile = true
 
 [[files]]
-file = "mods/improved-mobs.pw.toml"
-hash = "0b9289d3bb8153846606bfb3327d611651c87bc8a387cd2b15bd83896ed41296"
-metafile = true
-
-[[files]]
 file = "mods/infinity-golem-boss-fight-(beta).pw.toml"
 hash = "32c5070c97c8ac94b289e1f3737432e4c8520f4cacc8a1e6fc8f947bbfd030e1"
 metafile = true
@@ -642,6 +659,21 @@ metafile = true
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "82ffc26ad624cdd846cbbeb99ed40ef44229ec7006a7ae7e8caa8df6409c20db"
+metafile = true
+
+[[files]]
+file = "mods/l2-complements.pw.toml"
+hash = "be2c431cc41c31bf343663b9f1281ee6cb87876321f6cea238ab0b8ebe582241"
+metafile = true
+
+[[files]]
+file = "mods/l2hostility.pw.toml"
+hash = "c5375f79e1a3258f58e02315d6feeb1ffba9cdf0cec07bf2b6452308e468db44"
+metafile = true
+
+[[files]]
+file = "mods/l2library.pw.toml"
+hash = "5b570ff37a28edc00cfe0681cb97cc76b8c63a05bc0251e3ba0877fb712dfe5f"
 metafile = true
 
 [[files]]
@@ -985,6 +1017,11 @@ hash = "704e14ffc45b931acee778ad65f15647034317e52a39d2c966b476e4bc9ea0e5"
 metafile = true
 
 [[files]]
+file = "mods/stonearmor.pw.toml"
+hash = "14f1bd8a2048607a177d812fbcf73b7bfaf61da0c8cc6407b8ba05cb01c8c898"
+metafile = true
+
+[[files]]
 file = "mods/structory-towers.pw.toml"
 hash = "7a0f6fb437983dde7a35a8fe6b9e9ee1a55550efb5837e83c75120bbd799086f"
 metafile = true
@@ -1017,11 +1054,6 @@ metafile = true
 [[files]]
 file = "mods/tense-ambience.pw.toml"
 hash = "93e7c41600a6d2dbe685f89204569ff9fb8c3a26418abe2dac2e97b475339961"
-metafile = true
-
-[[files]]
-file = "mods/tenshilib.pw.toml"
-hash = "55301adfd7f041c429ee6e71cec10c252636727337e6c9cbc12563d828933637"
 metafile = true
 
 [[files]]
@@ -1082,11 +1114,6 @@ metafile = true
 [[files]]
 file = "mods/travelersbackpack.pw.toml"
 hash = "1101e18389374eb24711af4b00e0f59abc8a3558f2584086deb769a78acb6fac"
-metafile = true
-
-[[files]]
-file = "mods/true-ending.pw.toml"
-hash = "c881beb8f2f13ab54bbea70a162dd184d68d3404680c2ce964d97057d1ae3410"
 metafile = true
 
 [[files]]
