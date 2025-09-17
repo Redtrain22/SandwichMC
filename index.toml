@@ -442,6 +442,11 @@ hash = "bdbdfad2c4b157fc18bc7a2eca92c7ce74406b32d55bea19f3510dc2da6b85a5"
 metafile = true
 
 [[files]]
+file = "mods/dropped-buffs.pw.toml"
+hash = "8ada3a1a3851ea38df64186f147e6d7f7bb8df519820fd3524a08436efaa4c3e"
+metafile = true
+
+[[files]]
 file = "mods/dungeon-now-loading.pw.toml"
 hash = "a5c0b0ac50786d555954388c25596998dbe5b947f870f1fd3187cb8057ca651e"
 metafile = true
@@ -534,6 +539,21 @@ metafile = true
 [[files]]
 file = "mods/friends-and-foes-forge.pw.toml"
 hash = "9b26443d8a0a52727dbea33487145e7f9ad495bfee7fc21a462c815a1f5fc563"
+metafile = true
+
+[[files]]
+file = "mods/ftb-library-forge.pw.toml"
+hash = "691798dd9acfd386bc9332249cd4c1291c646af4d97999090ec0528d9bb35c88"
+metafile = true
+
+[[files]]
+file = "mods/ftb-quests-forge.pw.toml"
+hash = "218ceb46f632cbcdef9f1156c9d138ac7ad52e387f7d1cf2fac92952f92f8fd1"
+metafile = true
+
+[[files]]
+file = "mods/ftb-teams-forge.pw.toml"
+hash = "6a0155012732893dae42d8a7dae4df181367eaaea57296e0ca9849567e7b9b4f"
 metafile = true
 
 [[files]]
@@ -747,6 +767,11 @@ hash = "f7d9cb74b54f3d236efe054c57a736b837b5faade1551d30784e4c1ea0d8f4dc"
 metafile = true
 
 [[files]]
+file = "mods/max-health-fix.pw.toml"
+hash = "cca706c9aa0e52dce5194093214082779add0efa8e2e8ef119b5ab3232032449"
+metafile = true
+
+[[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "eab12c7fddf20f293b8726f7553d2c0c0b6c578a2ba03ddf59ae40f6e684e2ce"
 metafile = true
@@ -862,6 +887,11 @@ hash = "a59adb3a70b61f6698666c0b8317602d3dfa547c741f3fbeb4831d2ae5cdffd2"
 metafile = true
 
 [[files]]
+file = "mods/overflowing-bars.pw.toml"
+hash = "9cf64722ecfc9f521522bce0da19afff460129f5a718892ce94e89c2765c82c9"
+metafile = true
+
+[[files]]
 file = "mods/paragliders.pw.toml"
 hash = "d1a4b77413bf8514fb0275683bf9451a3c6336799e86678f600ff9521795a94e"
 metafile = true
@@ -923,7 +953,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "5ca42f4c23aee558ed76923d4fb92ecee736ebacb53790445c09d46bd9ccb27e"
+hash = "910ff4db4838e034b3d792205de05aabb88558a5093cfa1a6f37efb02406ddb0"
 metafile = true
 
 [[files]]
@@ -934,6 +964,11 @@ metafile = true
 [[files]]
 file = "mods/razor-tyrant-the-reign-of-terror.pw.toml"
 hash = "bbbae2e10470be8bcf75af7925f4f9cc00e66e172563371faf6d79bc2795da48"
+metafile = true
+
+[[files]]
+file = "mods/responsiveshields.pw.toml"
+hash = "54ff18d96c835f79f9d15b30d4beeaa3b6b05102dfb247a37076eeaa981f92ff"
 metafile = true
 
 [[files]]
