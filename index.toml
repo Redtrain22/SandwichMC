@@ -38,7 +38,7 @@ hash = "aaa813c0adfe3bcfba437c39fce67904e62fd4e564933f2e3e5feb6f2107ea16"
 
 [[files]]
 file = "config/l2_configs/l2hostility-common.toml"
-hash = "3ef51941f9cbf6837f3eb95f93df7687b2a98285909e0b9be8ab0a8b740a100b"
+hash = "62f1e31aa2a479d3c4a91167dfe2fd8b843110e02bc1f1f2aa096eb3580faa6a"
 
 [[files]]
 file = "config/mcdw/mcdw_stats_config.json5"

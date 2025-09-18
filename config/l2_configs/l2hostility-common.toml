@@ -6,12 +6,12 @@ enableStructureSpecificDatapack = true
 [scaling]
 	#Health factor per level
 	#Range: 0.0 ~ 1000.0
-	healthFactor = 0.2
+	healthFactor = 0.10 
 	#Use exponential health
 	exponentialHealth = false
 	#Damage factor per level
 	#Range: 0.0 ~ 1000.0
-	damageFactor = 0.02
+	damageFactor = 0.01
 	#Use exponential damage
 	exponentialDamage = false
 	#Experience drop factor per level
