@@ -857,6 +857,11 @@ hash = "9a3c80bf6eee8234001d2a1602b3e123ac5706af051902e40f24abe317b86e50"
 metafile = true
 
 [[files]]
+file = "mods/oam-by-choupiclou2007.pw.toml"
+hash = "d014f528919fb8f59927f8dfc43b5583d5f7fa968080768430fe33028f61e1ce"
+metafile = true
+
+[[files]]
 file = "mods/obscure-api.pw.toml"
 hash = "1c4971b54ae5774ba1af7e871371b49f16c6fc6c31a44e6bc096370e6b9f3e17"
 metafile = true

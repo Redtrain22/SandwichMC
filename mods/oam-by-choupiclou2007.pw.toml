@@ -1,0 +1,13 @@
+name = "Ore and more [Forge/Neoforge]"
+filename = "Ore And More for Forge 1.20.1 (v8.0.0).jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "63efc6196c5424ddbd6eaad712faa26bbcf87bd1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6443866
+project-id = 421326
