@@ -6,7 +6,7 @@ enableStructureSpecificDatapack = true
 [scaling]
 	#Health factor per level
 	#Range: 0.0 ~ 1000.0
-	healthFactor = 0.10 
+	healthFactor = 0.05 
 	#Use exponential health
 	exponentialHealth = false
 	#Damage factor per level
@@ -16,7 +16,7 @@ enableStructureSpecificDatapack = true
 	exponentialDamage = false
 	#Experience drop factor per level
 	#Range: 0.0 ~ 1000.0
-	expDropFactor = 0.05
+	expDropFactor = 0.10
 	#Chance per level for drowned to hold trident
 	#Range: 0.0 ~ 1000.0
 	drownedTridentChancePerLevel = 0.001
@@ -71,7 +71,7 @@ enableStructureSpecificDatapack = true
 	#Allow mobs without AI to have levels
 	allowNoAI = false
 	#Allow mobs allied to player to have levels
-	allowPlayerAllies = false
+	allowPlayerAllies = true
 	#Keep traits on mobs tamed by player
 	allowTraitOnOwnable = true
 	#Drop rate of hostility loot from mobs from spawner
@@ -100,7 +100,7 @@ enableStructureSpecificDatapack = true
 	#Allow KeepInventory to keep difficulty as well
 	keepInventoryRuleKeepDifficulty = false
 	#On player death, clear dimension penalty
-	deathDecayDimension = true
+	deathDecayDimension = false
 	#On player death, reduce max trait spawned by 1
 	deathDecayTraitCap = true
 	#Mobs spawned within this range will use lowest player level in range instead of nearest player's level to determine mob level

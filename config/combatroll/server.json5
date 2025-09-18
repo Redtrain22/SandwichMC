@@ -1,6 +1,6 @@
 {
 	// The number of game ticks players become invulnerable upon rolling
-	"invulnerable_ticks_upon_roll": 16,
+	"invulnerable_ticks_upon_roll": 18,
 
     // Allows combat roll while the player has its weapon on cooldown
 	"allow_rolling_while_weapon_cooldown": true,

@@ -10,7 +10,7 @@ hash = "8132b01331915dbfe32914e33263b4e08af47425c0a4ef0a76633afd0cbbc9f4"
 
 [[files]]
 file = "config/bettercombat/server.json.5"
-hash = "30675046eb89076fe202c3a78dcfc9d110bba2f1ebdfef9313a8350e737d2fa5"
+hash = "4a5c8829e36568212498f5e5299c6a7439215bc88c61c3f868b5bba219066c1f"
 
 [[files]]
 file = "config/bettermobcombat/server.json5"
@@ -18,7 +18,7 @@ hash = "223da2321d9f7f3a41f9318df0765ffac07f3702d95f15d9338011c93d706066"
 
 [[files]]
 file = "config/combatroll/server.json5"
-hash = "e468bb4532fed2c19f9295c86cb1620714469fcbb84cbec819c6d95e8b4eddf7"
+hash = "d38a606b74efa70b513b65d2c92c50276cf0669538b5107d6cca7e1ad01a80f8"
 
 [[files]]
 file = "config/enhancedai/common.toml"
@@ -30,15 +30,15 @@ hash = "9f49ef86e16455ab9264d713bc78960bd341fe514d890f30cab2a2131d6ec054"
 
 [[files]]
 file = "config/hardcorerevival-common.toml"
-hash = "ce973c8a7b1f0cc7031dbb4375c5ff75f9757973bb37f378210c6da5769b63b2"
+hash = "343b524adb0c6192a2b16f16dfd1ba2c480505236b96b9aafbfa409441e85e56"
 
 [[files]]
 file = "config/iceandfire-common.tmol"
-hash = "aaa813c0adfe3bcfba437c39fce67904e62fd4e564933f2e3e5feb6f2107ea16"
+hash = "c439ba696cda91028796b66711ceb0b3f62d6234f9f0267418f5edd416458233"
 
 [[files]]
 file = "config/l2_configs/l2hostility-common.toml"
-hash = "62f1e31aa2a479d3c4a91167dfe2fd8b843110e02bc1f1f2aa096eb3580faa6a"
+hash = "6970d2e56a5e198390593d91838d613d31f6e5aef05db3d16c7f51f28cf0038c"
 
 [[files]]
 file = "config/mcdw/mcdw_stats_config.json5"
@@ -55,7 +55,7 @@ metafile = true
 
 [[files]]
 file = "config/skilltree-common.toml"
-hash = "152786d9143968469d5f698426ed44b829432c131b89d22232b4dd4c8e878de3"
+hash = "fc0e7d743b3a3f22741338beabbf50583faebbda11aa5dd3c227e09493d86da8"
 
 [[files]]
 file = "config/zeta-common.toml"
