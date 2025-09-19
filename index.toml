@@ -762,6 +762,11 @@ hash = "f7d9cb74b54f3d236efe054c57a736b837b5faade1551d30784e4c1ea0d8f4dc"
 metafile = true
 
 [[files]]
+file = "mods/mariums-soulslike-weaponry.pw.toml"
+hash = "5d670360925c39317df39f2686c75ea77214ca0e4958fec5931ac4b435d46637"
+metafile = true
+
+[[files]]
 file = "mods/max-health-fix.pw.toml"
 hash = "cca706c9aa0e52dce5194093214082779add0efa8e2e8ef119b5ab3232032449"
 metafile = true
@@ -939,6 +944,11 @@ metafile = true
 [[files]]
 file = "mods/prism-lib.pw.toml"
 hash = "63ca101d88fe4780c0ca6c5091d92d15fe678b89e7859b179b7dab2829222921"
+metafile = true
+
+[[files]]
+file = "mods/projectile-damage-attribute.pw.toml"
+hash = "05516c9ad537a08b28c166fc9e5bc6e723a1786e4e558c41bffbc387945c604b"
 metafile = true
 
 [[files]]
