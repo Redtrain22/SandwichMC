@@ -30,7 +30,7 @@ hash = "9f49ef86e16455ab9264d713bc78960bd341fe514d890f30cab2a2131d6ec054"
 
 [[files]]
 file = "config/hardcorerevival-common.toml"
-hash = "343b524adb0c6192a2b16f16dfd1ba2c480505236b96b9aafbfa409441e85e56"
+hash = "c0a9258b23a9a9e86d26a4919fe7cb383cedec4c03aec85b62e41da2e5b56f59"
 
 [[files]]
 file = "config/iceandfire-common.tmol"
@@ -749,11 +749,6 @@ metafile = true
 [[files]]
 file = "mods/luminous-tag.pw.toml"
 hash = "c7b9cf14baf17881f1288c30aabf2ebd546f0a1237e93199ca1ca5b67edbf48b"
-metafile = true
-
-[[files]]
-file = "mods/macabre.pw.toml"
-hash = "c402b3210761ab838fd4e3f7851c56db17446b227e0d5b1b9741ee932dd9d7a5"
 metafile = true
 
 [[files]]

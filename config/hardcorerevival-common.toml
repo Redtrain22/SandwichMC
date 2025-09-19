@@ -7,6 +7,6 @@ rescueRespawnHealth = 10
 #The food level to respawn with when a player was rescued, out of 20.
 rescueRespawnFoodLevel = 10
 #Effects applied to a player when rescued, in the format "effect|duration|amplifier"
-rescueRespawnEffects = ["minecraft:water_breathing|260|0", "minecraft:resistance|80|255", "minecraft:speed|260|1"]
+rescueRespawnEffects = ["minecraft:water_breathing|260|0", "minecraft:resistance|100|255", "minecraft:speed|260|1"]
 
 
