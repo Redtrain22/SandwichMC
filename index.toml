@@ -22,7 +22,7 @@ hash = "d38a606b74efa70b513b65d2c92c50276cf0669538b5107d6cca7e1ad01a80f8"
 
 [[files]]
 file = "config/enhancedai/common.toml"
-hash = "989bffc29eca462179bf7f2040af4257d26257604cba6068283033d87f2775a6"
+hash = "6680f68c27b6a8be7752b511d279c6c7f3ba41eb61bcf12e1a21d75bbac5fa01"
 
 [[files]]
 file = "config/enhancedai/mobs/Break Anger/break_anger_config.json"
@@ -38,7 +38,7 @@ hash = "c439ba696cda91028796b66711ceb0b3f62d6234f9f0267418f5edd416458233"
 
 [[files]]
 file = "config/l2_configs/l2hostility-common.toml"
-hash = "6970d2e56a5e198390593d91838d613d31f6e5aef05db3d16c7f51f28cf0038c"
+hash = "13ed03bcdb4513d3f90771b2607cc66d3a7ae46b5d5071074770c98bc064c7ca"
 
 [[files]]
 file = "config/mcdw/mcdw_stats_config.json5"

@@ -235,7 +235,7 @@ enableStructureSpecificDatapack = true
 	speedy = 0.2
 	#Regen rate for Regeneration trait per second per level
 	#Range: 0.0 ~ 1000.0
-	regen = 0.02
+	regen = 0.01
 	#Damage factor for Adaptive. Higher means less reduction
 	#Range: 0.0 ~ 1000.0
 	adaptFactor = 0.5
@@ -380,7 +380,7 @@ enableStructureSpecificDatapack = true
 	allow_invisible = true
 	allow_fiery = true
 	allow_regenerate = true
-	allow_adaptive = true
+	allow_adaptive = false
 	allow_reflect = true
 	allow_shulker = true
 	allow_grenade = true

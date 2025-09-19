@@ -525,9 +525,9 @@
 	#Prevent players from abusing some game mechanics to stop mobs. Only mobs in the entity type tag enhancedai:can_use_anti_cheese will be affected by this feature.
 	[Mobs.Anti-Cheese]
 		#If true, 'Enemies' will no longer be able to be Boated and Minecarted.
-		"Prevent Boating & Minecarting" = false
+		"Prevent Boating & Minecarting" = true
 		#If true, 'Enemies' will break boats or minecarts if boated or minecarted.
-		"Break trapping vehicles" = false
+		"Break trapping vehicles" = true
 
 	#Mobs can bite if are attacked with non-weapons. Only mobs in the enhancedai:can_bite entity type tag can bite.
 	[Mobs."Biting Mobs"]
@@ -538,11 +538,11 @@
 		#Chance for a Mob to bite the attacker
 		[Mobs."Biting Mobs".Chance]
 			#Range: 0.0 ~ 1.0
-			"Easy/Peaceful" = 0.2
+			"Easy/Peaceful" = 0.0
 			#Range: 0.0 ~ 1.0
-			Normal = 0.2
+			Normal = 0.0
 			#Range: 0.0 ~ 1.0
-			Hard = 0.3
+			Hard = 0.0
 
 	#Makes mobs ride other mobs
 	[Mobs.Riding]
