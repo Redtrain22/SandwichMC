@@ -1,0 +1,2411 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: "diamond"
+	filename: "journey"
+	group: ""
+	icon: "minecraft:crafting_table"
+	id: "0ED6274B8428FFD4"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			description: ["Welcome to Sando's modpack! Here is where you start your journey! If you need any help, feel free to contact sando"]
+			id: "732D80D1F04C6144"
+			rewards: [{
+				count: 9
+				id: "5EE53BEC73D23E26"
+				item: "minecraft:iron_nugget"
+				type: "item"
+			}]
+			size: 5.0d
+			tasks: [{
+				advancement: "dungeonnowloading:story/root"
+				criterion: ""
+				icon: "minecraft:crafting_table"
+				id: "6AFF8699D48233BE"
+				title: "The Start"
+				type: "advancement"
+			}]
+			title: "The Journey"
+			x: -2.5d
+			y: 0.0d
+		}
+		{
+			id: "1C36BF5381F8C761"
+			rewards: [{
+				count: 8
+				id: "47B243898E2C2CFD"
+				item: "minecraft:iron_nugget"
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "minecraft:story/upgrade_tools"
+				criterion: ""
+				id: "527D9A86B800ABD0"
+				title: "Upgrade"
+				type: "advancement"
+			}]
+			x: 1.0d
+			y: 0.0d
+		}
+		{
+			id: "54B9922789841EEA"
+			rewards: [{
+				count: 2
+				id: "4ECDB2DFBC612A56"
+				item: "minecraft:iron_nugget"
+				type: "item"
+			}]
+			tasks: [{
+				id: "055D58A52E090FEC"
+				item: {
+					Count: 1
+					id: "stonearmor:stone_helmet"
+					tag: {
+						Damage: 0
+						affix_data: {
+							sockets: 1
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: 2.0d
+			y: -2.0d
+		}
+		{
+			id: "6D650C3AEB7889E4"
+			rewards: [{
+				count: 4
+				id: "43BE461E81E94123"
+				item: "minecraft:gold_ingot"
+				type: "item"
+			}]
+			tasks: [{
+				id: "320491D6B20D3620"
+				item: {
+					Count: 1
+					id: "stonearmor:stone_chestplate"
+					tag: {
+						Damage: 0
+						affix_data: {
+							sockets: 1
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: 2.0d
+			y: -1.0d
+		}
+		{
+			id: "40EE7740636CD069"
+			rewards: [{
+				count: 2
+				id: "04F4C29830C53AAC"
+				item: "minecraft:iron_nugget"
+				type: "item"
+			}]
+			tasks: [{
+				id: "38C812DB15A4C222"
+				item: {
+					Count: 1
+					id: "stonearmor:stone_leggings"
+					tag: {
+						Damage: 0
+						affix_data: {
+							sockets: 0
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			id: "4BB317C070678799"
+			rewards: [{
+				count: 2
+				id: "0BC676C8B3F1889F"
+				item: "minecraft:iron_nugget"
+				type: "item"
+			}]
+			tasks: [{
+				id: "52C68255E5765B36"
+				item: {
+					Count: 1
+					id: "stonearmor:stone_boots"
+					tag: {
+						Damage: 0
+						affix_data: {
+							sockets: 1
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: 2.0d
+			y: 1.0d
+		}
+		{
+			id: "10A9FDB3EFFAFBAE"
+			rewards: [{
+				count: 2
+				id: "4CCA986DCC64DB8C"
+				item: "minecraft:iron_nugget"
+				type: "item"
+			}]
+			tasks: [{
+				id: "6360E4B29FDC72C6"
+				item: "minecraft:coal"
+				type: "item"
+			}]
+			x: 1.0d
+			y: -1.0d
+		}
+		{
+			description: ["&aMAKE SURE TO READ L2 BOOK. IT WILL EXPLAIN LEVELING AND ENEMY TRAITS/BANES &r"]
+			id: "2087CD5F541B47F0"
+			rewards: [
+				{
+					count: 5
+					id: "48B497777FFEF49E"
+					item: "minecraft:gold_ingot"
+					type: "item"
+				}
+				{
+					count: 4
+					id: "1F3FDCCE7B27F3E4"
+					item: "minecraft:cooked_chicken"
+					type: "item"
+				}
+				{
+					id: "735AB3B72EF6DB2D"
+					item: {
+						Count: 1
+						id: "patchouli:guide_book"
+						tag: {
+							"patchouli:book": "l2hostility:hostility_guide"
+						}
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "minecraft:adventure/kill_a_mob"
+				criterion: ""
+				id: "1E655136C69D0A35"
+				type: "advancement"
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			description: ["EW"]
+			id: "5DA8ADD5B879EDDC"
+			rewards: [{
+				id: "4476EBF72821D7DE"
+				item: "minecraft:iron_ingot"
+				type: "item"
+			}]
+			tasks: [{
+				id: "57E39DAEE41C6F79"
+				item: "minecraft:raw_copper"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 1.0d
+		}
+		{
+			description: ["Find a tier weapon/armor"]
+			icon: "apotheosis:gem_dust"
+			id: "440A14EC54AA0051"
+			rewards: [{
+				count: 5
+				id: "1A7488496B3F4C97"
+				item: "minecraft:iron_ingot"
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "apotheosis:affix/root"
+				criterion: ""
+				id: "08DA05A1A1FBD00C"
+				type: "advancement"
+			}]
+			x: 3.0d
+			y: -1.0d
+		}
+		{
+			id: "40A63D9BEC7AEA8A"
+			rewards: [{
+				id: "244CC6291BD49BF4"
+				item: "minecraft:iron_ingot"
+				type: "item"
+			}]
+			tasks: [{
+				id: "0E6AEDA0556CA62F"
+				item: {
+					Count: 1
+					id: "minecraft:shield"
+					tag: {
+						Damage: 0
+						affix_data: {
+							sockets: 1
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: 3.0d
+			y: 1.0d
+		}
+		{
+			description: ["Find a gem"]
+			id: "77D1D172D88A3F4F"
+			rewards: [{
+				id: "3671DFB763F7FC30"
+				item: "minecraft:iron_ingot"
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "apotheosis:affix/gem"
+				criterion: ""
+				id: "5E2792B9A04B4956"
+				type: "advancement"
+			}]
+			x: 3.0d
+			y: -2.0d
+		}
+		{
+			id: "1DB100CC45C429F5"
+			rewards: [
+				{
+					id: "0D0DEB9C01FDE899"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+				{
+					count: 5
+					id: "6BDA89E811EA4CEF"
+					item: "minecraft:iron_ingot"
+					type: "item"
+				}
+				{
+					count: 10
+					id: "15F03E116BA942C6"
+					item: "minecraft:cooked_porkchop"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "7B54825C5359980B"
+				points: false
+				type: "xp"
+				value: 5L
+			}]
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			id: "7945E053E661C1FC"
+			rewards: [
+				{
+					id: "0B173B01A56DEC3C"
+					item: "minecraft:iron_ingot"
+					type: "item"
+				}
+				{
+					id: "594CE0DA452F44E3"
+					item: {
+						Count: 1
+						id: "minecraft:crossbow"
+						tag: {
+							Damage: 0
+							affix_data: {
+								sockets: 1
+							}
+						}
+					}
+					type: "item"
+				}
+				{
+					count: 64
+					id: "49D31E9A4D3035D9"
+					item: "minecraft:arrow"
+					type: "item"
+				}
+			]
+			tasks: [{
+				entity: "minecraft:zombie"
+				icon: "minecraft:zombie_head"
+				id: "4FAACA4A5E7AD458"
+				type: "kill"
+				value: 5L
+			}]
+			x: 4.0d
+			y: -1.0d
+		}
+		{
+			id: "0F27B89894D1256E"
+			rewards: [
+				{
+					id: "26EA8332F5E317D0"
+					item: {
+						Count: 1
+						id: "minecraft:bow"
+						tag: {
+							Damage: 0
+							affix_data: {
+								sockets: 1
+							}
+						}
+					}
+					type: "item"
+				}
+				{
+					count: 64
+					id: "3B6213EFBD91E94B"
+					item: "minecraft:arrow"
+					type: "item"
+				}
+			]
+			tasks: [{
+				entity: "irons_spellbooks:dead_king_corpse"
+				icon: "minecraft:skeleton_skull"
+				id: "233DE0FF9DD5D6CA"
+				type: "kill"
+				value: 5L
+			}]
+			x: 4.0d
+			y: -2.0d
+		}
+		{
+			id: "72607D0CF7CFB56B"
+			rewards: [
+				{
+					id: "7C307ED7D9B59482"
+					item: "minecraft:iron_ingot"
+					type: "item"
+				}
+				{
+					count: 5
+					id: "08080B605393F6F3"
+					item: "minecraft:cooked_mutton"
+					type: "item"
+				}
+				{
+					count: 6
+					id: "53EDA0D818033DE5"
+					item: "minecraft:string"
+					type: "item"
+				}
+			]
+			tasks: [{
+				entity: "minecraft:spider"
+				id: "604653552840EFF7"
+				type: "kill"
+				value: 5L
+			}]
+			x: 4.0d
+			y: 1.0d
+		}
+		{
+			id: "2D5E4BD0BD194C45"
+			rewards: [{
+				id: "66C1D2D369F89110"
+				item: "minecraft:iron_ingot"
+				type: "item"
+			}]
+			tasks: [{
+				id: "1FAABAC022D69E6B"
+				item: "spartanweaponry:handle"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 0.0d
+		}
+		{
+			id: "09DEC5DD873FEB05"
+			rewards: [{
+				id: "7854482BA1EB7C90"
+				item: "minecraft:iron_ingot"
+				type: "item"
+			}]
+			tasks: [{
+				id: "14EC02CE6E0C4943"
+				item: "spartanweaponry:pole"
+				type: "item"
+			}]
+			x: 5.0d
+			y: -1.0d
+		}
+		{
+			id: "6C0CDD492113CF5F"
+			rewards: [
+				{
+					count: 5
+					id: "435A3FA80808FBA0"
+					item: "minecraft:iron_ingot"
+					type: "item"
+				}
+				{
+					count: 5
+					id: "5C25D77438F6D284"
+					item: "minecraft:cooked_porkchop"
+					type: "item"
+				}
+			]
+			tasks: [{
+				entity: "minecraft:creeper"
+				id: "6D14B30A9AA00175"
+				type: "kill"
+				value: 5L
+			}]
+			x: 4.0d
+			y: 2.0d
+		}
+		{
+			description: ["Summon boss to access iron. Goodluck and be Prepared! &4Recommend to level up your skill tree and player level.&r"]
+			id: "21D3ED20862898EF"
+			rewards: [
+				{
+					count: 12
+					id: "347A3EA2DD98A3E4"
+					item: "minecraft:cooked_mutton"
+					type: "item"
+				}
+				{
+					id: "008659E4139EDB53"
+					item: "armageddon_mod:colossal_shield"
+					type: "item"
+				}
+				{
+					id: "6B9645B071EC29A9"
+					item: {
+						Count: 1
+						id: "iceandfire:armor_silver_metal_helmet"
+						tag: {
+							Damage: 0
+							affix_data: {
+								sockets: 1
+							}
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "251FABC4A850EAB6"
+					item: {
+						Count: 1
+						id: "iceandfire:armor_silver_metal_chestplate"
+						tag: {
+							Damage: 0
+							affix_data: {
+								sockets: 1
+							}
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "67F24BDBEBA4AF78"
+					item: {
+						Count: 1
+						id: "iceandfire:armor_silver_metal_leggings"
+						tag: {
+							Damage: 0
+							affix_data: {
+								sockets: 0
+							}
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "477A61A1692DA0DD"
+					item: {
+						Count: 1
+						id: "iceandfire:armor_silver_metal_boots"
+						tag: {
+							Damage: 0
+							affix_data: {
+								sockets: 1
+							}
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "7BB5957BFDED86EB"
+					item: {
+						Count: 1
+						id: "spartanweaponry:silver_spear"
+						tag: {
+							Damage: 0
+							affix_data: {
+								sockets: 1
+							}
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5B1869B9931503C1"
+					item: {
+						Count: 1
+						id: "minecraft:shield"
+						tag: {
+							Damage: 0
+							affix_data: {
+								sockets: 1
+							}
+						}
+					}
+					type: "item"
+				}
+				{
+					count: 64
+					id: "5C87D2112FF0BFD4"
+					item: "minecraft:arrow"
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "armageddon_mod:iron_remote_advancement"
+				criterion: ""
+				id: "2C419D70045B9AAC"
+				type: "advancement"
+			}]
+			title: "Defeat Boss to gain access to Iron"
+			x: 6.5d
+			y: 0.0d
+		}
+		{
+			description: ["Difficulty: Hard | Use range weapons/Bows for advantage. Close Melee combat not recommended.  "]
+			icon: {
+				Count: 1
+				id: "advancednetherite:netherite_iron_helmet"
+				tag: {
+					Damage: 0
+					affix_data: {
+						sockets: 1
+					}
+				}
+			}
+			id: "7B0DEAE5C53993F7"
+			rewards: [
+				{
+					id: "4AC70023BAB4B71F"
+					type: "xp_levels"
+					xp_levels: 10
+				}
+				{
+					id: "419CEE3AE65BDA50"
+					item: "minecraft:iron_block"
+					type: "item"
+				}
+				{
+					count: 12
+					id: "27A104B117B9FF76"
+					item: "minecraft:cooked_porkchop"
+					type: "item"
+				}
+			]
+			size: 1.5d
+			tasks: [{
+				advancement: "armageddon_mod:the_iron_keeper"
+				criterion: ""
+				id: "59DFEBE4E991EE82"
+				type: "advancement"
+			}]
+			x: 7.5d
+			y: 0.0d
+		}
+		{
+			description: ["Good job! Now it's time for gold. Leveling up both skill trees will increase your stats. "]
+			id: "45BEFD4EF8C90158"
+			rewards: [{
+				id: "0E09C820C4F1ADA9"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				advancement: "armageddon_mod:iron_colossus_relic_advancement"
+				criterion: ""
+				id: "099FBB3435627D72"
+				type: "advancement"
+			}]
+			x: 9.5d
+			y: 0.0d
+		}
+		{
+			id: "02A84D6737C0CCFC"
+			rewards: [
+				{
+					id: "78A7C36944A350B5"
+					type: "xp_levels"
+					xp_levels: 16
+				}
+				{
+					id: "7F82270B020E4AB0"
+					item: "sophisticatedbackpacks:gold_backpack"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "35A05277A1A2953A"
+				points: false
+				type: "xp"
+				value: 15L
+			}]
+			x: 18.5d
+			y: 0.0d
+		}
+		{
+			description: ["Summon Boss to access gold. Difficulty: Hard | Close range combat recommended. AOE weapons Recommended."]
+			id: "55A8F889F90FD00D"
+			rewards: [
+				{
+					count: 64
+					id: "745D2BE6233592A7"
+					item: "minecraft:arrow"
+					type: "item"
+				}
+				{
+					count: 12
+					id: "6B6982C3B57A8464"
+					item: "minecraft:cooked_porkchop"
+					type: "item"
+				}
+				{
+					id: "71161ED5317146F0"
+					item: {
+						Count: 1
+						id: "minecraft:shield"
+						tag: {
+							Damage: 0
+							affix_data: {
+								sockets: 1
+							}
+						}
+					}
+					type: "item"
+				}
+				{
+					count: 20
+					id: "0EED0131F13917AE"
+					item: "minecraft:leather"
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "armageddon_mod:gilded_coin_advancement"
+				criterion: ""
+				id: "0144F4A9D6C59024"
+				type: "advancement"
+			}]
+			title: "Defeat Boss to gain access to Gold"
+			x: 14.0d
+			y: 0.0d
+		}
+		{
+			description: ["Summon Boss to access gold. Difficulty: Hard | Close range combat recommended. AOE weapons Recommended."]
+			id: "0B490681AD39FE6F"
+			rewards: [
+				{
+					id: "317B5EDBAD01771F"
+					item: "minecraft:gold_block"
+					type: "item"
+				}
+				{
+					count: 12
+					id: "511F7F4FAE461F59"
+					item: "minecraft:cooked_porkchop"
+					type: "item"
+				}
+				{
+					id: "5B848714AE0CDEF0"
+					item: {
+						Count: 1
+						id: "terramity:sapphire_ring_plus"
+						tag: {
+							affix_data: {
+								sockets: 1
+							}
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "195AF2740E5EAF95"
+					item: {
+						Count: 1
+						id: "armageddon_mod:goblin_lord_treasure_bag"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			size: 1.5d
+			tasks: [{
+				advancement: "armageddon_mod:the_gold_keeper"
+				criterion: ""
+				id: "29FD34F700B47915"
+				type: "advancement"
+			}]
+			x: 15.0d
+			y: 0.0d
+		}
+		{
+			id: "7489AECC9E712CE0"
+			rewards: [
+				{
+					count: 10
+					id: "5CD3FE3D323E3713"
+					item: "armageddon_mod:gilded_nugget"
+					type: "item"
+				}
+				{
+					id: "17A053BA740A4F44"
+					item: "armageddon_mod:gilded_plate"
+					type: "item"
+				}
+			]
+			tasks: [{
+				entity: "minecraft:zombie"
+				id: "2075CFC9411D68E1"
+				type: "kill"
+				value: 30L
+			}]
+			x: 18.5d
+			y: -1.0d
+		}
+		{
+			icon: "minecraft:skeleton_spawn_egg"
+			id: "60878033BF4702AF"
+			rewards: [
+				{
+					count: 10
+					id: "5249C7F2776AF466"
+					item: "armageddon_mod:gilded_nugget"
+					type: "item"
+				}
+				{
+					id: "71624075022E93DF"
+					item: "armageddon_mod:gilded_plate"
+					type: "item"
+				}
+			]
+			tasks: [{
+				entity: "irons_spellbooks:dead_king_corpse"
+				icon: "minecraft:skeleton_spawn_egg"
+				id: "4694F98F14B5C5E6"
+				type: "kill"
+				value: 30L
+			}]
+			x: 18.5d
+			y: -2.0d
+		}
+		{
+			id: "7F9D3D160E1B5821"
+			rewards: [
+				{
+					count: 10
+					id: "55FD8EEAE0E760FA"
+					item: "armageddon_mod:gilded_nugget"
+					type: "item"
+				}
+				{
+					id: "3411976E0750E343"
+					item: "armageddon_mod:gilded_plate"
+					type: "item"
+				}
+			]
+			tasks: [{
+				entity: "minecraft:spider"
+				id: "1653AB25E795609C"
+				type: "kill"
+				value: 30L
+			}]
+			x: 18.5d
+			y: 1.0d
+		}
+		{
+			id: "199FD736C81776E1"
+			rewards: [
+				{
+					count: 10
+					id: "4300C1E59FBF340C"
+					item: "armageddon_mod:gilded_nugget"
+					type: "item"
+				}
+				{
+					id: "0D57C7A6467C33EA"
+					item: "armageddon_mod:gilded_plate"
+					type: "item"
+				}
+			]
+			tasks: [{
+				entity: "minecraft:creeper"
+				id: "728CE96C6CDA03DC"
+				type: "kill"
+				value: 15L
+			}]
+			x: 18.5d
+			y: 3.0d
+		}
+		{
+			id: "666FEE4B21D3BC00"
+			rewards: [
+				{
+					count: 10
+					id: "6E83F36D88318731"
+					item: "armageddon_mod:gilded_nugget"
+					type: "item"
+				}
+				{
+					id: "3F23C0FF314D50FD"
+					item: "armageddon_mod:gilded_plate"
+					type: "item"
+				}
+			]
+			tasks: [{
+				entity: "minecraft:enderman"
+				id: "4DF7881B990BB751"
+				type: "kill"
+				value: 5L
+			}]
+			x: 18.5d
+			y: 4.0d
+		}
+		{
+			id: "5110D9F58939E4DA"
+			rewards: [
+				{
+					id: "6B121E6B05A23E6C"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+				{
+					id: "0DE4D5ED429FC7C6"
+					item: "minecraft:emerald"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "7CC469FFCC323C90"
+				item: {
+					Count: 1
+					id: "armageddon_mod:gilded_armor_helmet"
+					tag: {
+						Damage: 0
+						affix_data: {
+							sockets: 1
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: 21.5d
+			y: -2.0d
+		}
+		{
+			id: "5E1EC49340D1E1C6"
+			rewards: [
+				{
+					id: "34EF2025055072C1"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+				{
+					id: "70219F3C00104893"
+					item: "minecraft:emerald"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "53DF9D4A409B8664"
+				item: {
+					Count: 1
+					id: "armageddon_mod:gilded_armor_chestplate"
+					tag: {
+						Damage: 0
+						affix_data: {
+							sockets: 1
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: 21.5d
+			y: -1.0d
+		}
+		{
+			id: "6033AFEE5D6C185A"
+			rewards: [
+				{
+					id: "6F69154C27037997"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+				{
+					id: "535E6799EE13E8C3"
+					item: "minecraft:emerald"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "68C79401FF602F14"
+				item: {
+					Count: 1
+					id: "armageddon_mod:gilded_armor_leggings"
+					tag: {
+						Damage: 0
+						affix_data: {
+							sockets: 0
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: 21.5d
+			y: 0.0d
+		}
+		{
+			id: "31AB5C9C404D5A62"
+			rewards: [
+				{
+					id: "694A6096652689E2"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+				{
+					id: "266F0CB0F599BA6D"
+					item: "minecraft:emerald"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "3050F5E577943049"
+				item: {
+					Count: 1
+					id: "armageddon_mod:gilded_armor_boots"
+					tag: {
+						Damage: 0
+						affix_data: {
+							sockets: 1
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: 21.5d
+			y: 1.0d
+		}
+		{
+			icon: {
+				Count: 1
+				id: "iceandfire:cyclops_eye"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "6C569B8488E8ABF9"
+			rewards: [{
+				count: 10
+				id: "60B1E6619C653280"
+				item: "armageddon_mod:gilded_nugget"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "terra_entity:demon_eye"
+				id: "3A46C8942F5F688E"
+				type: "kill"
+				value: 15L
+			}]
+			x: 18.5d
+			y: 2.0d
+		}
+		{
+			id: "1AC6A9585A846332"
+			rewards: [{
+				count: 2
+				id: "7E005E406174FB9A"
+				item: "armageddon_mod:gilded_plate"
+				type: "item"
+			}]
+			tasks: [{
+				id: "670D2369F2569DC4"
+				item: "minecraft:smithing_table"
+				type: "item"
+			}]
+			x: 20.5d
+			y: 0.0d
+		}
+		{
+			id: "52D5A5B53357C9CF"
+			rewards: [
+				{
+					count: 4
+					id: "723CDAC18CB37A0F"
+					item: "armageddon_mod:gilded_ingot_smithing_template"
+					type: "item"
+				}
+				{
+					id: "0124131DFC04AAEE"
+					item: "armageddon_mod:gilded_plate"
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "minecraft:story/lava_bucket"
+				criterion: ""
+				id: "17DF873817660FC2"
+				type: "advancement"
+			}]
+			x: 19.5d
+			y: 0.0d
+		}
+		{
+			id: "48B1512FB51837A5"
+			rewards: [
+				{
+					id: "2F812A21508CA7B8"
+					type: "xp_levels"
+					xp_levels: 10
+				}
+				{
+					id: "2E9C24144B42F3FE"
+					item: "minecraft:iron_golem_spawn_egg"
+					type: "item"
+				}
+				{
+					id: "2BBE19022BDB7F4C"
+					item: "sophisticatedbackpacks:iron_backpack"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "6B865306E8D55BA1"
+				points: false
+				type: "xp"
+				value: 10L
+			}]
+			x: 10.5d
+			y: 0.0d
+		}
+		{
+			id: "39B9AD462DD78F4A"
+			rewards: [{
+				id: "08DF4362FD0A00D0"
+				item: "minecraft:blaze_rod"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "minecraft:zombie"
+				id: "129C3E5119935C1F"
+				type: "kill"
+				value: 15L
+			}]
+			x: 10.5d
+			y: -1.0d
+		}
+		{
+			id: "00B26A26D65D665A"
+			rewards: [{
+				id: "6B793BFB34A61538"
+				item: "minecraft:blaze_rod"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "irons_spellbooks:dead_king_corpse"
+				icon: "minecraft:skeleton_spawn_egg"
+				id: "0056F6B94CDE8BC1"
+				type: "kill"
+				value: 15L
+			}]
+			x: 10.5d
+			y: -2.0d
+		}
+		{
+			id: "40040BED16858366"
+			tasks: [{
+				id: "7576D5DDDC1B3795"
+				item: {
+					Count: 1
+					id: "minecraft:potion"
+					tag: {
+						Potion: "mowziesmobs:poison_resist"
+					}
+				}
+				type: "item"
+			}]
+			x: 12.5d
+			y: 0.0d
+		}
+		{
+			description: ["&aThe colossal iron ignots can also be brew as Resistance potions. Awkward Potion -> Insert colossal iron ignots -> resistance potions!&r"]
+			id: "606498C10FD507A1"
+			rewards: [{
+				count: 5
+				id: "4A3D9D5930F74E7C"
+				item: "armageddon_mod:colossal_iron_ingot"
+				type: "item"
+			}]
+			tasks: [{
+				id: "65DE3794A999032F"
+				item: "minecraft:brewing_stand"
+				type: "item"
+			}]
+			x: 11.5d
+			y: 0.0d
+		}
+		{
+			id: "1F7EA788EFD06524"
+			rewards: [{
+				count: 10
+				id: "0D61745071BB4B1D"
+				item: "minecraft:nether_wart"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "terra_entity:demon_eye"
+				icon: {
+					Count: 1
+					id: "iceandfire:cyclops_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				id: "615BF3082560EEE2"
+				type: "kill"
+				value: 10L
+			}]
+			x: 10.5d
+			y: 1.0d
+		}
+		{
+			id: "3C58EE13C5CC41F8"
+			rewards: [{
+				count: 10
+				id: "0C3C5D82E114816E"
+				item: "minecraft:nether_wart"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "minecraft:creeper"
+				id: "1F21632EE2B06867"
+				type: "kill"
+				value: 10L
+			}]
+			x: 10.5d
+			y: 2.0d
+		}
+		{
+			description: ["Congrats on killing the Goblin! Now its time to make guilded golden armor and fight the emerald boss. You'll need a gilded smithing template "]
+			id: "32443FA0431036E0"
+			rewards: [{
+				count: 10
+				id: "4A839BCADBF7639F"
+				item: "armageddon_mod:gilded_nugget"
+				type: "item"
+			}]
+			tasks: [{
+				id: "79E4DAC557829085"
+				item: "armageddon_mod:goblin_lord_relic"
+				type: "item"
+			}]
+			x: 17.5d
+			y: 0.0d
+		}
+		{
+			id: "69A01B2346D07AA1"
+			rewards: [
+				{
+					id: "6F2D67BB77E21572"
+					item: "armageddon_mod:gilded_ingot_smithing_template"
+					type: "item"
+				}
+				{
+					id: "12E9EE6ACAC17293"
+					item: "minecraft:emerald"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "4D5CD89758A5F484"
+				item: "armageddon_mod:gilded_shackles"
+				type: "item"
+			}]
+			x: 21.5d
+			y: 2.0d
+		}
+		{
+			id: "6AE7DC915D549C3F"
+			rewards: [{
+				id: "664CD587A406EB8E"
+				item: "minecraft:emerald_block"
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "minecraft:adventure/trade"
+				criterion: ""
+				id: "0A2783A69EE242B2"
+				type: "advancement"
+			}]
+			x: 22.5d
+			y: 0.0d
+		}
+		{
+			description: ["&4IMMUNE TO RANGE. USE COMBAT ROLL TO DODGE CERTAIN ATTACKS.&r"]
+			id: "244E2F103A7B9B60"
+			rewards: [
+				{
+					id: "3208946D9B4A00E7"
+					item: "minecraft:totem_of_undying"
+					type: "item"
+				}
+				{
+					count: 32
+					id: "50E97A28C672533F"
+					item: "minecraft:cooked_porkchop"
+					type: "item"
+				}
+				{
+					id: "4A8CBB84062D4316"
+					item: {
+						Count: 1
+						id: "minecraft:iron_sword"
+						tag: {
+							Damage: 0
+							affix_data: {
+								sockets: 1
+							}
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "385CDE822C2D8F2E"
+					item: "minecraft:golden_apple"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "4FD6ACDE5F518438"
+				item: {
+					Count: 1
+					id: "armageddon_mod:emerald_totem"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "Defeat boss to gain Access to Emeralds"
+			x: 24.0d
+			y: 0.0d
+		}
+		{
+			description: ["&4IMMUNE TO RANGE. USE COMBAT ROLL TO DODGE CERTAIN ATTACKS.&r"]
+			id: "065B40E75304453F"
+			rewards: [
+				{
+					id: "2F66E93DA7BA6875"
+					item: "armageddon_mod:arion_treasurebag"
+					type: "item"
+				}
+				{
+					id: "1EE6AB19C41AE9FD"
+					item: "minecraft:deepslate_emerald_ore"
+					type: "item"
+				}
+				{
+					id: "359175498484CCBB"
+					item: {
+						Count: 1
+						id: "explorerscompass:explorerscompass"
+						tag: { }
+					}
+					type: "item"
+				}
+				{
+					id: "2D18F76E3946FDE5"
+					item: {
+						Count: 1
+						id: "endrem:guardian_eye"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			size: 1.5d
+			tasks: [{
+				advancement: "armageddon_mod:the_emerald_keeper"
+				criterion: ""
+				id: "663CB8BFF185C9AE"
+				type: "advancement"
+			}]
+			x: 25.0d
+			y: 0.0d
+		}
+		{
+			description: ["So... you made it this far! Now it's time to get terramity armor and suit up. It will be in the caves below. Prepare for the the diamond boss! "]
+			id: "63704448A22A0603"
+			rewards: [
+				{
+					id: "4DCAECB8238C34D5"
+					item: {
+						Count: 1
+						id: "travelersbackpack:emerald"
+						tag: {
+							StarterUpgrades: {
+								Items: [{
+									Count: 1b
+									id: "travelersbackpack:tanks_upgrade"
+								}]
+							}
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "3E9E40F067E70972"
+					item: "terramity:topaz_ore"
+					type: "item"
+				}
+				{
+					id: "229869F251424062"
+					item: "terramity:sapphire_ore"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "203E949F9EB3BA60"
+				item: "armageddon_mod:arion_relic"
+				type: "item"
+			}]
+			x: 27.5d
+			y: 0.0d
+		}
+		{
+			icon: {
+				Count: 1
+				id: "alexscaves:hood_of_darkness"
+				tag: {
+					Damage: 0
+					affix_data: {
+						sockets: 1
+					}
+				}
+			}
+			id: "7FF0D71B5E76B509"
+			rewards: [
+				{
+					id: "7AD944FBD3ED34C9"
+					item: {
+						Count: 1
+						id: "armageddon_mod:the_emerald_wrath"
+						tag: {
+							Damage: 0
+							affix_data: {
+								sockets: 1
+							}
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "0B5B3644207DCA07"
+					type: "xp_levels"
+					xp_levels: 20
+				}
+			]
+			tasks: [{
+				entity: "threateningly_mobs:lich_re"
+				icon: {
+					Count: 1
+					id: "alexscaves:hood_of_darkness"
+					tag: {
+						Damage: 0
+						affix_data: {
+							sockets: 1
+						}
+					}
+				}
+				id: "3E70B21B77BE86BF"
+				type: "kill"
+				value: 1L
+			}]
+			x: 30.5d
+			y: 0.0d
+		}
+		{
+			id: "10AD5D21F7E66886"
+			rewards: [
+				{
+					id: "041415207F7B1D5E"
+					item: "terramity:sapphire"
+					type: "item"
+				}
+				{
+					id: "2F4743C203ADCE31"
+					item: "minecraft:cow_spawn_egg"
+					type: "item"
+				}
+				{
+					id: "0D9310FF31A3A3C4"
+					item: "minecraft:pig_spawn_egg"
+					type: "item"
+				}
+				{
+					id: "4439BD97503016B1"
+					item: "minecraft:chicken_spawn_egg"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "1C9390E1EDF5982C"
+				item: "armageddon_mod:arion_heart"
+				type: "item"
+			}]
+			x: 28.5d
+			y: 2.0d
+		}
+		{
+			id: "3AD6F2D4425AD26E"
+			rewards: [{
+				id: "3409712D346AAF6F"
+				item: "terramity:sapphire_block"
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "minecraft:adventure/avoid_vibration"
+				criterion: ""
+				id: "72D0C78F67886ACB"
+				type: "advancement"
+			}]
+			x: 29.5d
+			y: 0.0d
+		}
+		{
+			icon: "minecraft:sculk_shrieker"
+			id: "1B1A8CBD58C35077"
+			rewards: [{
+				id: "63F8EAA6AFD73BCF"
+				item: "terramity:sapphire_block"
+				type: "item"
+			}]
+			tasks: [{
+				id: "085C5478392EA984"
+				structure: "minecraft:ancient_city"
+				type: "structure"
+			}]
+			x: 29.5d
+			y: -1.0d
+		}
+		{
+			id: "61085D744AF70011"
+			rewards: [{
+				id: "4173D8972C96E684"
+				item: "terramity:topaz_block"
+				type: "item"
+			}]
+			tasks: [{
+				id: "1865B5BC78EB6748"
+				item: "minecraft:cake"
+				type: "item"
+			}]
+			title: "The Lie"
+			x: 29.5d
+			y: 1.0d
+		}
+		{
+			id: "414B94621868F9CF"
+			rewards: [{
+				id: "2E6524FD9E9EDEF1"
+				item: "terramity:topaz_block"
+				type: "item"
+			}]
+			tasks: [{
+				count: 20L
+				id: "2CE1A9F07239EFE3"
+				item: "minecraft:golden_carrot"
+				type: "item"
+			}]
+			x: 29.5d
+			y: 2.0d
+		}
+		{
+			id: "44F2F7C94E3CAB81"
+			rewards: [{
+				id: "0A53B444A2312F8B"
+				item: "terramity:topaz_block"
+				type: "item"
+			}]
+			tasks: [{
+				count: 10L
+				id: "5BE9263A2A91E324"
+				item: "minecraft:cookie"
+				type: "item"
+			}]
+			x: 29.5d
+			y: 3.0d
+		}
+		{
+			icon: {
+				Count: 1
+				id: "mowziesmobs:wrought_helmet"
+				tag: {
+					affix_data: {
+						sockets: 1
+					}
+				}
+			}
+			id: "2EFEDCB2DD8E17AA"
+			rewards: [
+				{
+					id: "33FF774424400664"
+					item: {
+						Count: 1
+						id: "confluence:hermes_boots"
+						tag: { }
+					}
+					type: "item"
+				}
+				{
+					id: "1EC286694336AF66"
+					type: "xp_levels"
+					xp_levels: 20
+				}
+			]
+			tasks: [{
+				entity: "mowziesmobs:ferrous_wroughtnaut"
+				id: "172CF6E3D19E5BC8"
+				type: "kill"
+				value: 1L
+			}]
+			x: 30.5d
+			y: 1.0d
+		}
+		{
+			icon: {
+				Count: 1
+				id: "mowziesmobs:umvuthana_mask_misery"
+				tag: {
+					Damage: 0
+					affix_data: {
+						sockets: 1
+					}
+				}
+			}
+			id: "093AA5726E257AEC"
+			rewards: [
+				{
+					id: "54DF32C7E955A2D1"
+					item: "artifacts:feral_claws"
+					type: "item"
+				}
+				{
+					id: "208541993B8736B6"
+					type: "xp_levels"
+					xp_levels: 20
+				}
+			]
+			tasks: [{
+				entity: "mowziesmobs:umvuthi"
+				icon: {
+					Count: 1
+					id: "mowziesmobs:umvuthana_mask_misery"
+					tag: {
+						Damage: 0
+						affix_data: {
+							sockets: 1
+						}
+					}
+				}
+				id: "6ABB15CE8D34B8B6"
+				type: "kill"
+				value: 1L
+			}]
+			x: 30.5d
+			y: -1.0d
+		}
+		{
+			id: "14584AFBFF214E48"
+			rewards: [
+				{
+					id: "5F95E8E46CB86934"
+					item: {
+						Count: 1
+						id: "terramity:xp_remedy_ring"
+						tag: {
+							affix_data: {
+								sockets: 1
+							}
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "22B0263D039FC05E"
+					type: "xp_levels"
+					xp_levels: 20
+				}
+			]
+			tasks: [{
+				entity: "threateningly_mobs:moon_priest"
+				icon: {
+					Count: 1
+					id: "ice_and_fire_spellbooks:ice_dragon_priest_chestplate"
+					tag: {
+						Damage: 0
+						ISB_Spells: {
+							data: [ ]
+							maxSpells: 1
+							mustEquip: 1b
+							spellWheel: 1b
+						}
+						affix_data: {
+							sockets: 1
+						}
+					}
+				}
+				id: "106DE38FC37A83DF"
+				type: "kill"
+				value: 1L
+			}]
+			x: 30.5d
+			y: -2.0d
+		}
+		{
+			icon: "born_in_chaos_v1:nightmare_stalker_skull"
+			id: "78E13110D130CF24"
+			rewards: [
+				{
+					id: "5719DBAA8662F7B4"
+					item: "confluence:cloud_in_a_bottle"
+					type: "item"
+				}
+				{
+					id: "32B637D129CCCE0B"
+					type: "xp_levels"
+					xp_levels: 10
+				}
+			]
+			tasks: [{
+				entity: "born_in_chaos_v1:nightmare_stalker"
+				icon: "born_in_chaos_v1:nightmare_stalker_skull"
+				id: "44973821D0488AD1"
+				type: "kill"
+				value: 3L
+			}]
+			x: 30.5d
+			y: 2.0d
+		}
+		{
+			description: ["Explorer's Compass. Speak to NPC's to access boss"]
+			icon: "torchesbecomesunlight:rosmontis_ipad"
+			id: "721DE4FAA470793D"
+			rewards: [{
+				id: "69658DA276BCF929"
+				type: "xp_levels"
+				xp_levels: 10
+			}]
+			tasks: [{
+				icon: {
+					Count: 1
+					id: "torchesbecomesunlight:rosmontis_embrace"
+					tag: {
+						affix_data: {
+							sockets: 1
+						}
+					}
+				}
+				id: "58578EA6488B811B"
+				structure: "torchesbecomesunlight:rhode_island_office"
+				type: "structure"
+			}]
+			x: 31.5d
+			y: 0.0d
+		}
+		{
+			description: ["&4Multiple People Recommended &r"]
+			icon: "torchesbecomesunlight:rosmontis_embrace"
+			id: "7CDA76B45EAEFA5D"
+			rewards: [
+				{
+					id: "7FFC6ADD773D38D9"
+					type: "xp_levels"
+					xp_levels: 30
+				}
+				{
+					id: "1D1F759208229724"
+					item: "artifacts:crystal_heart"
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "torchesbecomesunlight:rhodes_3_rosmontis"
+				criterion: ""
+				id: "44727510F532D5FC"
+				type: "advancement"
+			}]
+			x: 31.5d
+			y: -1.0d
+		}
+		{
+			id: "301DB88DE32D5501"
+			rewards: [{
+				id: "0DD2F75504B8403B"
+				item: "terramity:sapphire_block"
+				type: "item"
+			}]
+			tasks: [{
+				id: "2F56362A6A3D7F6F"
+				points: false
+				type: "xp"
+				value: 60L
+			}]
+			x: 29.5d
+			y: -2.0d
+		}
+		{
+			id: "26AF11C778934AA6"
+			rewards: [{
+				id: "6746D31437BA4F18"
+				item: "terramity:sapphire_block"
+				type: "item"
+			}]
+			tasks: [{
+				id: "223C20A6751E7775"
+				points: false
+				type: "xp"
+				value: 70L
+			}]
+			x: 29.5d
+			y: -3.0d
+		}
+		{
+			id: "63906C16F9767DBB"
+			rewards: [
+				{
+					id: "7B1E5097B76B6E66"
+					item: "terramity:steel_shell"
+					type: "item"
+				}
+				{
+					id: "60BA8269FEA0BF88"
+					type: "xp_levels"
+					xp_levels: 20
+				}
+			]
+			tasks: [{
+				entity: "iceandfire:cyclops"
+				icon: "iceandfire:cyclops_skull"
+				id: "2E7023B384FC15F2"
+				type: "kill"
+				value: 1L
+			}]
+			x: 30.5d
+			y: 3.0d
+		}
+		{
+			description: ["Defeat this boss to gain access to &bDiamonds and enchantments! &rYou're almost there! Best of luck. Oh yeah. No tips this time :) Well I can give one! Just dodge."]
+			id: "2089274A3278411F"
+			rewards: [
+				{
+					id: "168919E57062A38D"
+					item: "minecraft:porkchop"
+					type: "item"
+				}
+				{
+					id: "3B948E30F5D142D8"
+					item: "minecraft:stick"
+					type: "item"
+				}
+				{
+					id: "370370B8528E562B"
+					item: {
+						Count: 1
+						id: "skilltree:gem"
+						tag: {
+							type: "skilltree:sapphire_5"
+						}
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "1073CD0A7B26170F"
+				item: {
+					Count: 1
+					id: "armageddon_mod:builder_stone"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "Defeat Boss to gain access to Diamond + Enchanments"
+			x: 37.5d
+			y: 0.0d
+		}
+		{
+			description: ["&4Difficulty Extreme. ??? ??? ??? &r"]
+			id: "016EF804C039CDC1"
+			rewards: [
+				{
+					id: "4F0945AFC3CA97B3"
+					item: "sophisticatedbackpacks:diamond_backpack"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "45C406E42E184A14"
+					item: "armageddon_mod:eldorath_treasure_bag"
+					type: "item"
+				}
+				{
+					id: "531B5EB42C498248"
+					item: {
+						Count: 1
+						id: "endrem:exotic_eye"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "0A8410AC4AC07C8C"
+					item: {
+						Count: 1
+						id: "endrem:rogue_eye"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5CF76D5EBBF1EEC3"
+					type: "xp_levels"
+					xp_levels: 100
+				}
+				{
+					count: 10
+					id: "1697F2905A349CC0"
+					item: "minecraft:lapis_block"
+					type: "item"
+				}
+				{
+					count: 64
+					id: "320BAD749CABBAEF"
+					item: "spartanweaponry:diamond_arrow"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "10402FEB48D7A3E0"
+					item: {
+						Count: 1
+						id: "minecraft:enchanted_book"
+						tag: {
+							StoredEnchantments: [{
+								id: "minecraft:protection"
+								lvl: 4s
+							}]
+						}
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "354381DD03CC12CB"
+					item: {
+						Count: 1
+						id: "minecraft:enchanted_book"
+						tag: {
+							StoredEnchantments: [{
+								id: "minecraft:unbreaking"
+								lvl: 3s
+							}]
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "26500E74EC01C81B"
+					item: {
+						Count: 1
+						id: "minecraft:enchanted_book"
+						tag: {
+							StoredEnchantments: [{
+								id: "minecraft:feather_falling"
+								lvl: 3s
+							}]
+						}
+					}
+					type: "item"
+				}
+			]
+			size: 5.0d
+			tasks: [{
+				advancement: "armageddon_mod:eldorath_relic_advancement"
+				criterion: ""
+				icon: "armageddon_mod:eldorath_treasure_bag"
+				id: "67E13737C5AB1364"
+				type: "advancement"
+			}]
+			x: 40.0d
+			y: 0.0d
+		}
+		{
+			id: "4A2BCFD0639B0070"
+			rewards: [{
+				id: "124C14255383481B"
+				item: "terramity:topaz_block"
+				type: "item"
+			}]
+			tasks: [{
+				count: 30L
+				id: "49AE82705F676BED"
+				item: "minecraft:golden_apple"
+				type: "item"
+			}]
+			x: 29.5d
+			y: 4.0d
+		}
+		{
+			id: "0DB8324BA04100D0"
+			rewards: [{
+				id: "407E62E5E4DD2EFC"
+				item: "terramity:sapphire_block"
+				type: "item"
+			}]
+			tasks: [{
+				id: "5D8234776E570EF8"
+				points: false
+				type: "xp"
+				value: 80L
+			}]
+			x: 29.5d
+			y: -4.0d
+		}
+		{
+			id: "11C4FEFFF989C3DD"
+			rewards: [{
+				id: "67EE60AD4A9727E3"
+				item: "terramity:sapphire_block"
+				type: "item"
+			}]
+			tasks: [{
+				id: "24EE8C9DC3A72FD3"
+				points: false
+				type: "xp"
+				value: 80L
+			}]
+			x: 29.5d
+			y: -5.0d
+		}
+		{
+			id: "630BBA93876B7653"
+			rewards: [{
+				id: "330967DD9E658273"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [{
+				id: "3003EC1EC033AE1C"
+				item: {
+					Count: 1
+					id: "oreandmore:emerald_armor_armor_helmet"
+					tag: {
+						Damage: 0
+						affix_data: {
+							sockets: 1
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: 28.5d
+			y: -2.0d
+		}
+		{
+			id: "0A3A175551765EBC"
+			rewards: [{
+				id: "367D3918386FF651"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [{
+				id: "413736C7353F4D85"
+				item: {
+					Count: 1
+					id: "oreandmore:emerald_armor_armor_chestplate"
+					tag: {
+						Damage: 0
+						affix_data: {
+							sockets: 1
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: 28.5d
+			y: -1.0d
+		}
+		{
+			id: "1C70C8E5C1CA7774"
+			rewards: [{
+				id: "3CF1A5B5B81561CA"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [{
+				id: "76852F154A9775EA"
+				item: {
+					Count: 1
+					id: "oreandmore:emerald_armor_armor_leggings"
+					tag: {
+						Damage: 0
+						affix_data: {
+							sockets: 0
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: 28.5d
+			y: 0.0d
+		}
+		{
+			id: "5597B3FC7BD3202A"
+			rewards: [{
+				id: "5E889A52660D8327"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [{
+				id: "28696CB42CCC222F"
+				item: {
+					Count: 1
+					id: "oreandmore:emerald_armor_armor_boots"
+					tag: {
+						Damage: 0
+						affix_data: {
+							sockets: 1
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: 28.5d
+			y: 1.0d
+		}
+		{
+			description: ["&4Dangerous Boss&r"]
+			icon: {
+				Count: 1
+				id: "iceandfire:frost_troll_leather_helmet"
+				tag: {
+					Damage: 0
+					affix_data: {
+						sockets: 1
+					}
+				}
+			}
+			id: "4E276CA9FF3A58EC"
+			rewards: [
+				{
+					id: "2D4ED9AFC3246EE3"
+					type: "xp_levels"
+					xp_levels: 60
+				}
+				{
+					id: "2720310269409560"
+					item: {
+						Count: 1
+						id: "terramity:prismatic_scarf"
+						tag: {
+							affix_data: {
+								sockets: 1
+							}
+						}
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				entity: "mowziesmobs:frostmaw"
+				icon: {
+					Count: 1
+					id: "iceandfire:frost_troll_leather_helmet"
+					tag: {
+						Damage: 0
+						affix_data: {
+							sockets: 1
+						}
+					}
+				}
+				id: "023E97EBC8806706"
+				type: "kill"
+				value: 1L
+			}]
+			x: 30.5d
+			y: -3.0d
+		}
+		{
+			id: "7DDCA54F9238BB60"
+			rewards: [{
+				count: 5
+				id: "203A6E72991AF4CB"
+				item: "minecraft:iron_ingot"
+				type: "item"
+			}]
+			tasks: [{
+				id: "495C04D74DB1B1B9"
+				points: false
+				type: "xp"
+				value: 5L
+			}]
+			x: 5.0d
+			y: -2.0d
+		}
+		{
+			id: "4F9BF0B49CCEC878"
+			rewards: [{
+				count: 5
+				id: "569300E15B8E61E1"
+				item: "minecraft:iron_ingot"
+				type: "item"
+			}]
+			tasks: [{
+				id: "70B15E1F1F0DF5FC"
+				points: false
+				type: "xp"
+				value: 5L
+			}]
+			x: 5.0d
+			y: 1.0d
+		}
+		{
+			id: "4A8E8B935A1E4A23"
+			rewards: [{
+				count: 5
+				id: "537CEA7308C13944"
+				item: "minecraft:iron_ingot"
+				type: "item"
+			}]
+			tasks: [{
+				id: "255ED69DBCFAC327"
+				points: false
+				type: "xp"
+				value: 5L
+			}]
+			x: 5.0d
+			y: 2.0d
+		}
+		{
+			id: "791A11B4252222A0"
+			rewards: [
+				{
+					id: "1E46874463E9B3F2"
+					type: "xp_levels"
+					xp_levels: 30
+				}
+				{
+					id: "116C9B32B67DC28A"
+					item: {
+						Count: 1
+						id: "terramity:focus_scarf"
+						tag: {
+							affix_data: {
+								sockets: 1
+							}
+						}
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "torchesbecomesunlight:main_8_2_patriot"
+				criterion: ""
+				id: "07CAF54C492EEBBE"
+				type: "advancement"
+			}]
+			x: 31.5d
+			y: 1.0d
+		}
+		{
+			id: "4782EE064FFB7B48"
+			rewards: [{
+				id: "6E4BE1AD6FF7C459"
+				item: "illageandspillage:freakager_spawn_egg"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "illageandspillage:freakager_spawn_egg"
+				id: "6D35C6A026040520"
+				points: false
+				type: "xp"
+				value: 10L
+			}]
+			x: 33.0d
+			y: -1.0d
+		}
+		{
+			icon: "spartanweaponry:spider_head"
+			id: "69127E2C5EBAA79C"
+			rewards: [
+				{
+					id: "41F560281ED0AAB6"
+					type: "xp_levels"
+					xp_levels: 30
+				}
+				{
+					id: "62291FDEA2A6B13B"
+					item: "confluence:climbing_claws"
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "illageandspillage:kill_freaky"
+				criterion: ""
+				icon: "spartanweaponry:spider_head"
+				id: "3AE8CD56B7F27CA6"
+				type: "advancement"
+			}]
+			x: 33.5d
+			y: -1.5d
+		}
+		{
+			id: "0F4F735280719354"
+			rewards: [{
+				id: "02A7530237132606"
+				item: "illageandspillage:spiritcaller_spawn_egg"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "illageandspillage:spiritcaller_spawn_egg"
+				id: "24750B78A04B677E"
+				points: false
+				type: "xp"
+				value: 10L
+			}]
+			x: 33.0d
+			y: 1.0d
+		}
+		{
+			id: "5542D0EE86B130F1"
+			rewards: [
+				{
+					id: "76C495E7425684CB"
+					item: "confluence:cloud_in_a_balloon"
+					type: "item"
+				}
+				{
+					id: "4F85A0E7863675BE"
+					type: "xp_levels"
+					xp_levels: 30
+				}
+			]
+			tasks: [{
+				entity: "illageandspillage:spiritcaller"
+				icon: "tenebrus_baubles:angel_wings"
+				id: "22535D06863E30B9"
+				type: "kill"
+				value: 1L
+			}]
+			x: 33.5d
+			y: 1.5d
+		}
+		{
+			id: "70522921C5D07706"
+			rewards: [{
+				id: "0A162C5ABC8122BD"
+				item: "illageandspillage:magispeller_spawn_egg"
+				type: "item"
+			}]
+			tasks: [{
+				id: "51420DA3E0B63CD4"
+				points: false
+				type: "xp"
+				value: 15L
+			}]
+			x: 33.5d
+			y: 0.0d
+		}
+		{
+			dependency_requirement: "one_completed"
+			icon: "spartanweaponry:illager_head"
+			id: "5BC0DA36DB0A4C96"
+			rewards: [
+				{
+					id: "7C1E26A62848AE8A"
+					item: "minecraft:totem_of_undying"
+					type: "item"
+				}
+				{
+					id: "53924FD6DD85939B"
+					type: "xp_levels"
+					xp_levels: 40
+				}
+				{
+					id: "584A557D13CB4F81"
+					item: "tenebrus_baubles:harvesting_scythe"
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					entity: "illageandspillage:magispeller"
+					icon: "spartanweaponry:illager_head"
+					id: "31535DE078874EBD"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "illageandspillage:old_magispeller"
+					icon: "spartanweaponry:illager_head"
+					id: "3DEF109FBFB6DB45"
+					type: "kill"
+					value: 1L
+				}
+			]
+			x: 34.5d
+			y: 0.0d
+		}
+		{
+			id: "2B238EF5D1A1BDC4"
+			rewards: [{
+				id: "5A97DE9986FD2155"
+				item: "minecraft:iron_ingot"
+				type: "item"
+			}]
+			tasks: [{
+				id: "4563267AA2A9CBC0"
+				item: {
+					Count: 1
+					id: "skilltree:copper_ring"
+					tag: {
+						affix_data: {
+							sockets: 1
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: 1.0d
+			y: 2.0d
+		}
+	]
+	title: "Journey"
+}

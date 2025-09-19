@@ -1,0 +1,223 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "the_end"
+	group: ""
+	id: "151DEBCA593849F4"
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			icon: "minecraft:stone_bricks"
+			id: "447B126C09FAEDB1"
+			rewards: [{
+				id: "2D3A2FDF96F5C245"
+				item: "waystones:waystone"
+				type: "item"
+			}]
+			size: 3.0d
+			tasks: [{
+				icon: "minecraft:stone_bricks"
+				id: "5C8CF320F5F5786B"
+				structure: "minecraft:stronghold"
+				type: "structure"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			id: "2D910BBC1F2A0B24"
+			rewards: [{
+				id: "41594288F4F8C88B"
+				item: "waystones:waystone"
+				type: "item"
+			}]
+			size: 3.0d
+			tasks: [{
+				dimension: "minecraft:the_end"
+				icon: "minecraft:ender_eye"
+				id: "27CB07FAC8542F79"
+				type: "dimension"
+			}]
+			x: 0.0d
+			y: -6.0d
+		}
+		{
+			description: ["&aP2W&r"]
+			icon: {
+				Count: 1
+				id: "endrem:cryptic_eye"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "18E4294703C9AAE2"
+			rewards: [
+				{
+					id: "7AED616027CE602C"
+					item: {
+						Count: 1
+						id: "endrem:cold_eye"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "2869D785FC38E0DA"
+					item: {
+						Count: 1
+						id: "endrem:black_eye"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "7735FCC4AF70F3A5"
+					item: {
+						Count: 1
+						id: "endrem:evil_eye"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			size: 2.0d
+			tasks: [{
+				id: "07EAC7E4AD65FB70"
+				points: false
+				type: "xp"
+				value: 300L
+			}]
+			x: 0.0d
+			y: -3.0d
+		}
+		{
+			description: ["&dThe True End?&r"]
+			id: "523DEA282D4785DB"
+			rewards: [
+				{
+					id: "38EBE47F96562599"
+					type: "xp_levels"
+					xp_levels: 500
+				}
+				{
+					id: "18ABE3C39BC83680"
+					item: "armageddon_mod:ender_dragon_relic"
+					type: "item"
+				}
+				{
+					id: "393AFA3214A38967"
+					item: "minecraft:dragon_head"
+					type: "item"
+				}
+				{
+					count: 200
+					id: "66AD22A37069D1BD"
+					item: "minecraft:dragon_breath"
+					type: "item"
+				}
+			]
+			size: 8.0d
+			tasks: [{
+				advancement: "minecraft:end/kill_dragon"
+				criterion: ""
+				id: "57F22B877ABABFE8"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: -12.0d
+		}
+		{
+			id: "2C60774539DF93F7"
+			rewards: [{
+				id: "46A1B04CD3704AB9"
+				item: "waystones:waystone"
+				type: "item"
+			}]
+			size: 2.0d
+			tasks: [{
+				icon: {
+					Count: 1
+					id: "legendary_monsters:shulker_shield"
+					tag: {
+						Damage: 0
+						affix_data: {
+							sockets: 1
+						}
+					}
+				}
+				id: "2389318AFDD85ED6"
+				structure: "minecraft:end_city"
+				type: "structure"
+			}]
+			x: 0.0d
+			y: -17.0d
+		}
+		{
+			id: "7209C80AD3A2943E"
+			rewards: [{
+				id: "1CE9ADD429A1C067"
+				type: "xp_levels"
+				xp_levels: 100
+			}]
+			size: 3.0d
+			tasks: [{
+				advancement: "minecraft:end/elytra"
+				criterion: ""
+				id: "78198B2641B793EC"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: -19.5d
+		}
+		{
+			description: ["&5EAGER EDGE BRAIN ROT&r"]
+			id: "196F5F0A895E4CED"
+			rewards: [
+				{
+					id: "3842FF14CF2618CF"
+					type: "xp_levels"
+					xp_levels: 100
+				}
+				{
+					id: "3A23D39BDF97648F"
+					item: {
+						Count: 1
+						id: "eageredge:half_truths"
+						tag: {
+							Damage: 0
+							affix_data: {
+								sockets: 1
+							}
+						}
+					}
+					type: "item"
+				}
+			]
+			size: 3.0d
+			tasks: [{
+				id: "68A5153AA40E0B40"
+				item: {
+					Count: 1
+					id: "eageredge:the_other_half"
+					tag: {
+						Damage: 0
+						affix_data: {
+							sockets: 1
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: -22.5d
+		}
+	]
+	title: "The End?"
+}

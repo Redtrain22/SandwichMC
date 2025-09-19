@@ -29,6 +29,38 @@ file = "config/enhancedai/mobs/Break Anger/break_anger_config.json"
 hash = "9f49ef86e16455ab9264d713bc78960bd341fe514d890f30cab2a2131d6ec054"
 
 [[files]]
+file = "config/ftbquests/quests/chapter_groups.snbt"
+hash = "e57d8311aec9f524911ed1313cabf138bb7fa5a2d3ba985a00a2a267ff35ef78"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/end_game.snbt"
+hash = "0eb35b01049158d122c948cadeb5cd3ee7e13c5cd89a279e0cabc492e7b46d78"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/journey.snbt"
+hash = "4079842a63e0b4f68ab36ca000e218dcd39b3e5472ba3599c827a7cb430c4e27"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/journey_to_nether.snbt"
+hash = "3796b1bd639195f152414dda5683b3b6d3696daeb2c479426d0dca992bd9d618"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/the_end.snbt"
+hash = "b58652512cfc005127b883459e55f7b4357033e35f9580ea80fd5a3b0ed7edca"
+
+[[files]]
+file = "config/ftbquests/quests/data.snbt"
+hash = "530db8ec8cdd640ef7f6a68c30ae55de4ddbd7d27f3af27e5b43dc97c5b7cc12"
+
+[[files]]
+file = "config/ftbquests/quests/reward_tables/final_reward.snbt"
+hash = "eff529f4c5be0b5c773200c0e86d858ecc4af995b03a84c17c9215275442c640"
+
+[[files]]
+file = "config/ftbquests/quests/reward_tables/helionite_reward.snbt"
+hash = "ae0f5c1baf1169a8324dcfb0b663c269f7e2223c6f2eedde9db0276d3297378f"
+
+[[files]]
 file = "config/hardcorerevival-common.toml"
 hash = "c0a9258b23a9a9e86d26a4919fe7cb383cedec4c03aec85b62e41da2e5b56f59"
 

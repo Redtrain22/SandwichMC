@@ -1,0 +1,1403 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "journey_to_nether"
+	group: ""
+	icon: {
+		Count: 1
+		id: "advancednetherite:netherite_diamond_helmet"
+		tag: {
+			Damage: 0
+			affix_data: {
+				sockets: 1
+			}
+		}
+	}
+	id: "1C5572A409ECC656"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			id: "0E165F1BD6FE752B"
+			rewards: [{
+				id: "46A393472A0367A0"
+				item: "minecraft:flint"
+				type: "item"
+			}]
+			size: 2.0d
+			tasks: [{
+				id: "06E16E3FD100D1F8"
+				item: "minecraft:obsidian"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			id: "0E0567AB61AE58E4"
+			rewards: [{
+				id: "1FAC1F2EC9255D2F"
+				type: "xp_levels"
+				xp_levels: 10
+			}]
+			size: 2.0d
+			tasks: [{
+				dimension: "minecraft:the_nether"
+				id: "5B52870CA5A62BA3"
+				type: "dimension"
+			}]
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			id: "26FEB8A69398F0CD"
+			rewards: [
+				{
+					id: "779E9B7BC6783261"
+					type: "xp_levels"
+					xp_levels: 10
+				}
+				{
+					count: 3
+					id: "27EE320CE747DEDD"
+					item: "iceandfire:witherbone"
+					type: "item"
+				}
+			]
+			tasks: [{
+				entity: "minecraft:wither_skeleton"
+				id: "2E1ADE3BF72E0BE7"
+				type: "kill"
+				value: 10L
+			}]
+			x: 0.0d
+			y: 4.5d
+		}
+		{
+			id: "634DA1829F95F4D9"
+			rewards: [
+				{
+					id: "1AA9CF730B8BF340"
+					type: "xp_levels"
+					xp_levels: 10
+				}
+				{
+					count: 30
+					id: "0617FDF895FB88B2"
+					item: "minecraft:ghast_tear"
+					type: "item"
+				}
+			]
+			tasks: [{
+				entity: "minecraft:ghast"
+				id: "6F1F3FB1811EC9C3"
+				type: "kill"
+				value: 15L
+			}]
+			x: 1.0d
+			y: 4.5d
+		}
+		{
+			id: "556824C137119099"
+			rewards: [
+				{
+					id: "7107C3F6FF257B69"
+					type: "xp_levels"
+					xp_levels: 10
+				}
+				{
+					count: 32
+					id: "287C5BA1344495EC"
+					item: "minecraft:cooked_porkchop"
+					type: "item"
+				}
+			]
+			tasks: [{
+				entity: "minecraft:zombified_piglin"
+				id: "744AF2F9D9851821"
+				type: "kill"
+				value: 20L
+			}]
+			x: -1.0d
+			y: 4.5d
+		}
+		{
+			icon: "minecraft:nether_bricks"
+			id: "2B7A063C3814A3C9"
+			rewards: [{
+				id: "46A178A7E926E5D5"
+				type: "xp_levels"
+				xp_levels: 10
+			}]
+			tasks: [{
+				icon: "minecraft:nether_bricks"
+				id: "5E779DB202F64388"
+				structure: "minecraft:fortress"
+				type: "structure"
+			}]
+			x: 0.0d
+			y: 3.5d
+		}
+		{
+			hide_until_deps_visible: true
+			id: "5E8B7FD313F10F88"
+			rewards: [{
+				id: "35FF896E9114D1E4"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			size: 2.0d
+			tasks: [{
+				id: "6A87572E8F96BD49"
+				item: {
+					Count: 1
+					id: "armageddon_mod:fiery_wither_skull"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "Defeat Boss to gain access to Netherite. "
+			x: 0.0d
+			y: 8.0d
+		}
+		{
+			description: ["&cThe End is Near&r"]
+			id: "6DEABFB2930EBB4E"
+			rewards: [
+				{
+					id: "184E73248377A6F4"
+					type: "xp_levels"
+					xp_levels: 100
+				}
+				{
+					id: "508ED0C19CF0F48F"
+					item: {
+						Count: 1
+						id: "endrem:corrupted_eye"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			size: 3.0d
+			tasks: [{
+				advancement: "armageddon_mod:the_netherite_keeper"
+				criterion: ""
+				icon: {
+					Count: 1
+					id: "armageddon_mod:zoranths_helmet_helmet"
+					tag: {
+						Damage: 0
+						affix_data: {
+							sockets: 1
+						}
+					}
+				}
+				id: "145CB0DA7BD311AB"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 10.5d
+		}
+		{
+			id: "570A9B384A9B8872"
+			rewards: [{
+				id: "0310770C9C475E5B"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "4EE5A5C7DA05C442"
+				item: {
+					Count: 1
+					id: "advancednetherite:netherite_iron_chestplate"
+					tag: {
+						Damage: 0
+						affix_data: {
+							sockets: 1
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: -1.5d
+			y: 17.5d
+		}
+		{
+			id: "43F57B85D3C7093E"
+			rewards: [{
+				id: "0A382F8ECCA96749"
+				type: "xp_levels"
+				xp_levels: 10
+			}]
+			tasks: [{
+				id: "196859B14085D5FD"
+				item: {
+					Count: 1
+					id: "advancednetherite:netherite_gold_chestplate"
+					tag: {
+						Damage: 0
+						affix_data: {
+							sockets: 1
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: -0.5d
+			y: 17.5d
+		}
+		{
+			id: "603FCCA206441AA1"
+			rewards: [{
+				id: "4D103D4B2B73C8D4"
+				type: "xp_levels"
+				xp_levels: 15
+			}]
+			tasks: [{
+				id: "40357493FCAC6BB2"
+				item: {
+					Count: 1
+					id: "advancednetherite:netherite_emerald_chestplate"
+					tag: {
+						Damage: 0
+						affix_data: {
+							sockets: 1
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: 0.5d
+			y: 17.5d
+		}
+		{
+			id: "771DBEBC7E9CB046"
+			rewards: [{
+				id: "12F80BCF02C9E5DA"
+				type: "xp_levels"
+				xp_levels: 50
+			}]
+			tasks: [{
+				id: "018500CB247115E4"
+				item: {
+					Count: 1
+					id: "advancednetherite:netherite_diamond_chestplate"
+					tag: {
+						Damage: 0
+						affix_data: {
+							sockets: 1
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: 1.5d
+			y: 17.5d
+		}
+		{
+			id: "3E63FA3B4C5B9BE7"
+			rewards: [{
+				id: "48493AD603925073"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "482DE889622DE04C"
+				item: {
+					Count: 1
+					id: "advancednetherite:netherite_iron_helmet"
+					tag: {
+						Damage: 0
+						affix_data: {
+							sockets: 1
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: -1.5d
+			y: 16.5d
+		}
+		{
+			id: "73BE9633E9D87A47"
+			rewards: [{
+				id: "3B7E5EAE79B4DE8F"
+				type: "xp_levels"
+				xp_levels: 10
+			}]
+			tasks: [{
+				id: "378DE26211E2A3EB"
+				item: {
+					Count: 1
+					id: "advancednetherite:netherite_gold_helmet"
+					tag: {
+						Damage: 0
+						affix_data: {
+							sockets: 1
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: -0.5d
+			y: 16.5d
+		}
+		{
+			id: "46CCBE3CCEDC4C97"
+			rewards: [{
+				id: "66E81FA7FE82DE62"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "76496E0D77A41AE3"
+				item: {
+					Count: 1
+					id: "advancednetherite:netherite_iron_leggings"
+					tag: {
+						Damage: 0
+						affix_data: {
+							sockets: 0
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: -1.5d
+			y: 18.5d
+		}
+		{
+			id: "2D5116DFD7C7B3EF"
+			rewards: [{
+				id: "764C4FCF8F59659B"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "7AAC8DDAE8885617"
+				item: {
+					Count: 1
+					id: "advancednetherite:netherite_iron_boots"
+					tag: {
+						Damage: 0
+						affix_data: {
+							sockets: 1
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: -1.5d
+			y: 19.5d
+		}
+		{
+			id: "24C1B0A0323946FB"
+			rewards: [{
+				id: "5719B97D628AC57A"
+				type: "xp_levels"
+				xp_levels: 10
+			}]
+			tasks: [{
+				id: "6D5995D6A199B9B0"
+				item: {
+					Count: 1
+					id: "advancednetherite:netherite_gold_leggings"
+					tag: {
+						Damage: 0
+						affix_data: {
+							sockets: 0
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: -0.5d
+			y: 18.5d
+		}
+		{
+			id: "6FA4EE0CE73C9474"
+			rewards: [{
+				id: "62936DAC9661E53E"
+				type: "xp_levels"
+				xp_levels: 10
+			}]
+			tasks: [{
+				id: "60BF19854E93EF34"
+				item: {
+					Count: 1
+					id: "advancednetherite:netherite_gold_boots"
+					tag: {
+						Damage: 0
+						affix_data: {
+							sockets: 1
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: -0.5d
+			y: 19.5d
+		}
+		{
+			id: "41207FE740947021"
+			rewards: [{
+				id: "7F5D3A1C409249AA"
+				type: "xp_levels"
+				xp_levels: 15
+			}]
+			tasks: [{
+				id: "214B02846D709C91"
+				item: {
+					Count: 1
+					id: "advancednetherite:netherite_emerald_helmet"
+					tag: {
+						Damage: 0
+						affix_data: {
+							sockets: 1
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: 0.5d
+			y: 16.5d
+		}
+		{
+			id: "1B43EFAB90AC60EF"
+			rewards: [{
+				id: "3CE3D87801B8FED4"
+				type: "xp_levels"
+				xp_levels: 15
+			}]
+			tasks: [{
+				id: "2FADE972B33EC4FB"
+				item: {
+					Count: 1
+					id: "advancednetherite:netherite_emerald_leggings"
+					tag: {
+						Damage: 0
+						affix_data: {
+							sockets: 0
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: 0.5d
+			y: 18.5d
+		}
+		{
+			id: "22CA232132833AF7"
+			rewards: [{
+				id: "2027FB8FEB0C400A"
+				type: "xp_levels"
+				xp_levels: 15
+			}]
+			tasks: [{
+				id: "0B5362B64FF985A2"
+				item: {
+					Count: 1
+					id: "advancednetherite:netherite_emerald_boots"
+					tag: {
+						Damage: 0
+						affix_data: {
+							sockets: 1
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: 0.5d
+			y: 19.5d
+		}
+		{
+			id: "4B01151E7B980C94"
+			rewards: [{
+				id: "6BF48DE9F156EA54"
+				type: "xp_levels"
+				xp_levels: 50
+			}]
+			tasks: [{
+				id: "5A15B22F28395440"
+				item: {
+					Count: 1
+					id: "advancednetherite:netherite_diamond_helmet"
+					tag: {
+						Damage: 0
+						affix_data: {
+							sockets: 1
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: 1.5d
+			y: 16.5d
+		}
+		{
+			id: "39C3A2E9E53FC430"
+			rewards: [{
+				id: "52DBBF072811DBDB"
+				type: "xp_levels"
+				xp_levels: 50
+			}]
+			tasks: [{
+				id: "465862E2204BE0B3"
+				item: {
+					Count: 1
+					id: "advancednetherite:netherite_diamond_leggings"
+					tag: {
+						Damage: 0
+						affix_data: {
+							sockets: 0
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: 1.5d
+			y: 18.5d
+		}
+		{
+			id: "7981CFE230356D32"
+			rewards: [{
+				id: "1233FFD72C2E7B91"
+				type: "xp_levels"
+				xp_levels: 50
+			}]
+			tasks: [{
+				id: "5F88D49F5CE7431B"
+				item: {
+					Count: 1
+					id: "advancednetherite:netherite_diamond_boots"
+					tag: {
+						Damage: 0
+						affix_data: {
+							sockets: 1
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: 1.5d
+			y: 19.5d
+		}
+		{
+			id: "2C203ED58BD69212"
+			rewards: [{
+				count: 20
+				id: "3D100C7F49C01E25"
+				item: "minecraft:netherite_block"
+				type: "item"
+			}]
+			tasks: [{
+				id: "4B55925994670FF5"
+				item: {
+					Count: 1
+					id: "advancednetherite:netherite_diamond_hoe"
+					tag: {
+						Damage: 0
+						affix_data: {
+							sockets: 0
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: 3.0d
+			y: 18.0d
+		}
+		{
+			id: "40BF4C069B5F211A"
+			rewards: [{
+				count: 10
+				id: "61062AA6B68DAA7E"
+				item: "minecraft:netherite_block"
+				type: "item"
+			}]
+			tasks: [{
+				id: "48C3B37BD993D943"
+				item: "advancednetherite:netherite_diamond_block"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 18.0d
+		}
+		{
+			id: "002AB2A679786C5D"
+			rewards: [{
+				id: "7C89D1B6106CE97D"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "2A20C2B147990594"
+				item: {
+					Count: 1
+					id: "spartanweaponry:netherite_halberd"
+					tag: {
+						Damage: 0
+						affix_data: {
+							sockets: 1
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: -3.0d
+			y: 16.5d
+		}
+		{
+			id: "545E4FA2EB3AD68F"
+			rewards: [{
+				id: "4A093A2202472637"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "23F82A0C35B2CCFE"
+				item: {
+					Count: 1
+					id: "spartanweaponry:netherite_longsword"
+					tag: {
+						Damage: 0
+						affix_data: {
+							sockets: 1
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: -4.0d
+			y: 16.5d
+		}
+		{
+			id: "5200D8D72F4861AD"
+			rewards: [{
+				id: "671A30AB29D87860"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "7532ABD3867BA951"
+				item: {
+					Count: 1
+					id: "spartanweaponry:netherite_greatsword"
+					tag: {
+						Damage: 0
+						affix_data: {
+							sockets: 1
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: -5.0d
+			y: 16.5d
+		}
+		{
+			dependency_requirement: "one_completed"
+			id: "54A13227A6B1B711"
+			rewards: [{
+				id: "14860E81D9837EB8"
+				type: "xp_levels"
+				xp_levels: 20
+			}]
+			tasks: [
+				{
+					id: "103B17DD74C056D2"
+					item: {
+						Count: 1
+						id: "spartanfire:iced_dragon_bone_halberd"
+						tag: {
+							Damage: 0
+							affix_data: {
+								sockets: 1
+							}
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "7F875B14DFF511A4"
+					item: {
+						Count: 1
+						id: "spartanfire:lightning_dragon_bone_halberd"
+						tag: {
+							Damage: 0
+							affix_data: {
+								sockets: 1
+							}
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "4C362497932D777E"
+					item: {
+						Count: 1
+						id: "spartanfire:flamed_dragon_bone_halberd"
+						tag: {
+							Damage: 0
+							affix_data: {
+								sockets: 1
+							}
+						}
+					}
+					type: "item"
+				}
+			]
+			x: -3.0d
+			y: 19.5d
+		}
+		{
+			dependency_requirement: "one_completed"
+			id: "5564B46B891CB04C"
+			rewards: [{
+				id: "426BA0507CBF68C8"
+				type: "xp_levels"
+				xp_levels: 20
+			}]
+			tasks: [
+				{
+					id: "20286B369A32E8A1"
+					item: {
+						Count: 1
+						id: "spartanfire:iced_dragon_bone_longsword"
+						tag: {
+							Damage: 0
+							affix_data: {
+								sockets: 1
+							}
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "2F4272275A3927A5"
+					item: {
+						Count: 1
+						id: "spartanfire:lightning_dragon_bone_longsword"
+						tag: {
+							Damage: 0
+							affix_data: {
+								sockets: 1
+							}
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "258826EC96EBB901"
+					item: {
+						Count: 1
+						id: "spartanfire:flamed_dragon_bone_longsword"
+						tag: {
+							Damage: 0
+							affix_data: {
+								sockets: 1
+							}
+						}
+					}
+					type: "item"
+				}
+			]
+			x: -4.0d
+			y: 19.5d
+		}
+		{
+			dependency_requirement: "one_completed"
+			id: "31A870BEE3F57807"
+			rewards: [{
+				id: "0DF842398FD4F789"
+				type: "xp_levels"
+				xp_levels: 20
+			}]
+			tasks: [
+				{
+					id: "1FE697E29BA7444C"
+					item: {
+						Count: 1
+						id: "spartanfire:iced_dragon_bone_greatsword"
+						tag: {
+							Damage: 0
+							affix_data: {
+								sockets: 1
+							}
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "382881DE0E3237C9"
+					item: {
+						Count: 1
+						id: "spartanfire:lightning_dragon_bone_greatsword"
+						tag: {
+							Damage: 0
+							affix_data: {
+								sockets: 1
+							}
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "4275A152213E53D2"
+					item: {
+						Count: 1
+						id: "spartanfire:flamed_dragon_bone_greatsword"
+						tag: {
+							Damage: 0
+							affix_data: {
+								sockets: 1
+							}
+						}
+					}
+					type: "item"
+				}
+			]
+			x: -5.0d
+			y: 19.5d
+		}
+		{
+			dependency_requirement: "one_completed"
+			id: "508F8F6FFE19A5C9"
+			rewards: [{
+				id: "5BACEC52B03D1592"
+				type: "xp_levels"
+				xp_levels: 20
+			}]
+			tasks: [
+				{
+					id: "406316FC59608DF4"
+					item: {
+						Count: 1
+						id: "spartanfire:iced_dragon_bone_longbow"
+						tag: {
+							Damage: 0
+							affix_data: {
+								sockets: 1
+							}
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "1823BE5B3A6F981C"
+					item: {
+						Count: 1
+						id: "spartanfire:lightning_dragon_bone_longbow"
+						tag: {
+							Damage: 0
+							affix_data: {
+								sockets: 1
+							}
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5FA0417EFFD57019"
+					item: {
+						Count: 1
+						id: "spartanfire:flamed_dragon_bone_longbow"
+						tag: {
+							Damage: 0
+							affix_data: {
+								sockets: 1
+							}
+						}
+					}
+					type: "item"
+				}
+			]
+			x: -6.0d
+			y: 19.5d
+		}
+		{
+			id: "7C59FA1753CE8A2E"
+			rewards: [{
+				id: "7D6BDABCE66131D6"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "234AEB572FC6AE69"
+				item: {
+					Count: 1
+					id: "spartanweaponry:netherite_longbow"
+					tag: {
+						Damage: 0
+						affix_data: {
+							sockets: 1
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: -6.0d
+			y: 16.5d
+		}
+		{
+			dependency_requirement: "one_completed"
+			id: "790C3E2B6E3D71B1"
+			rewards: [{
+				id: "3825DE6CD16465BD"
+				type: "xp_levels"
+				xp_levels: 20
+			}]
+			tasks: [
+				{
+					id: "7994D32C4DE4C5C1"
+					item: {
+						Count: 1
+						id: "spartanfire:iced_dragon_bone_heavy_crossbow"
+						tag: {
+							Damage: 0
+							affix_data: {
+								sockets: 1
+							}
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "03899A9E5CD20E8A"
+					item: {
+						Count: 1
+						id: "spartanfire:lightning_dragon_bone_heavy_crossbow"
+						tag: {
+							Damage: 0
+							affix_data: {
+								sockets: 1
+							}
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5BD4078E158F5FB7"
+					item: {
+						Count: 1
+						id: "spartanfire:flamed_dragon_bone_heavy_crossbow"
+						tag: {
+							Damage: 0
+							affix_data: {
+								sockets: 1
+							}
+						}
+					}
+					type: "item"
+				}
+			]
+			x: -7.0d
+			y: 19.5d
+		}
+		{
+			id: "23C6F790387BF9BB"
+			rewards: [{
+				id: "7F2DBD075376200A"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "3003E04D9035C1FD"
+				item: {
+					Count: 1
+					id: "spartanweaponry:netherite_heavy_crossbow"
+					tag: {
+						Damage: 0
+						affix_data: {
+							sockets: 1
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: -7.0d
+			y: 16.5d
+		}
+		{
+			icon: "minecraft:piglin_head"
+			id: "29E0037470BA3D15"
+			rewards: [{
+				count: 10
+				id: "515C70D044B283C0"
+				item: "minecraft:gilded_blackstone"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "minecraft:piglin_head"
+				id: "535287C31EE7347E"
+				structure: "minecraft:bastion_remnant"
+				type: "structure"
+			}]
+			x: 0.0d
+			y: 5.5d
+		}
+		{
+			id: "7985348ABFC961E4"
+			rewards: [{
+				id: "09BF653977AAF242"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "65D96B11713C43D1"
+				item: {
+					Count: 1
+					id: "create:netherite_diving_helmet"
+					tag: {
+						Damage: 0
+						affix_data: {
+							sockets: 1
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: 12.5d
+		}
+		{
+			id: "751B9C4D90305760"
+			rewards: [{
+				id: "6A65133386524558"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "54BD23CB9C7B1256"
+				item: {
+					Count: 1
+					id: "create:netherite_diving_boots"
+					tag: {
+						Damage: 0
+						affix_data: {
+							sockets: 1
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: 15.5d
+		}
+		{
+			id: "06B27A2E5129E1AA"
+			rewards: [{
+				id: "5A7DE9DA47D5E92A"
+				type: "xp"
+				xp: 5
+			}]
+			tasks: [{
+				id: "65665CC1160B23A2"
+				item: {
+					Count: 1
+					id: "create:netherite_backtank"
+					tag: {
+						Air: 900
+						affix_data: {
+							sockets: 1
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: 13.5d
+		}
+		{
+			id: "6E2A52B47A7856F6"
+			rewards: [{
+				id: "6ABF3F576ED83569"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "63D7E65E8888A3D0"
+				item: {
+					Count: 1
+					id: "minecraft:netherite_leggings"
+					tag: {
+						Damage: 0
+						affix_data: {
+							sockets: 0
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: 14.5d
+		}
+		{
+			id: "33F546A0A71AF264"
+			rewards: [{
+				id: "6B3F6893FBDB3426"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "392D16B429F58671"
+				item: "apotheosis:hellshelf"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 3.5d
+		}
+		{
+			id: "00C74A3000C98162"
+			rewards: [{
+				id: "3CF098DCB249EFE2"
+				type: "xp_levels"
+				xp_levels: 10
+			}]
+			tasks: [{
+				id: "0C7F0A186D036D2F"
+				item: "apotheosis:infused_hellshelf"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 3.5d
+		}
+		{
+			id: "695DD6115CE15AC8"
+			rewards: [{
+				id: "2E5A97023D1035E5"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "309FBC36150B12C3"
+				item: "apotheosis:glowing_hellshelf"
+				type: "item"
+			}]
+			x: -1.0d
+			y: 3.5d
+		}
+		{
+			id: "19DDCE827BC14C83"
+			rewards: [{
+				id: "60238134A30D739F"
+				type: "xp_levels"
+				xp_levels: 10
+			}]
+			tasks: [{
+				id: "14E155D026DB9ABE"
+				item: "apotheosis:sightshelf_t2"
+				type: "item"
+			}]
+			x: -2.0d
+			y: 3.5d
+		}
+		{
+			description: ["&9Defeat a Dragon&r"]
+			id: "1568D4FFCB610629"
+			rewards: [
+				{
+					id: "44FC699563DA9E15"
+					item: "iceandfire:fire_dragon_blood"
+					type: "item"
+				}
+				{
+					id: "0283A54E3D816C6F"
+					item: "iceandfire:ice_dragon_blood"
+					type: "item"
+				}
+				{
+					id: "1B3B651A9F3C1074"
+					item: "iceandfire:lightning_dragon_blood"
+					type: "item"
+				}
+				{
+					count: 5
+					id: "08CBAD17934B7BC9"
+					item: "iceandfire:witherbone"
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "iceandfire:iceandfire/kill_if_dragon"
+				criterion: ""
+				id: "79121F899D35DB5C"
+				type: "advancement"
+			}]
+			x: -5.0d
+			y: 18.0d
+		}
+		{
+			description: ["&4Item found in Fortress. Difficulty: VERY EXTREME&r"]
+			icon: "threateningly_mobs:emperor_handle"
+			id: "57BDE23DD75F24E3"
+			rewards: [
+				{
+					id: "6FC4BB4F30513BBA"
+					type: "xp_levels"
+					xp_levels: 100
+				}
+				{
+					id: "2831034FB7BCE757"
+					item: {
+						Count: 1
+						id: "endrem:old_eye"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "7E9F1CC4D13FE515"
+					item: "tenebrus_baubles:obsidian_skull"
+					type: "item"
+				}
+			]
+			size: 3.0d
+			tasks: [{
+				entity: "torchesbecomesunlight:pursuer"
+				icon: "threateningly_mobs:emperor_handle"
+				id: "57527C72A26E83CC"
+				type: "kill"
+				value: 1L
+			}]
+			x: 0.0d
+			y: 22.5d
+		}
+		{
+			id: "1A37FEFC83B8C8FE"
+			rewards: [{
+				id: "5F6783F53349ABFA"
+				item: "minecraft:netherite_upgrade_smithing_template"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "minecraft:piglin_brute"
+				id: "77FC7E1F9D5E8597"
+				type: "kill"
+				value: 25L
+			}]
+			x: 1.0d
+			y: 5.5d
+		}
+		{
+			id: "1E95EACECA0A5A0D"
+			rewards: [{
+				id: "2C8A5F2F3CD019FA"
+				item: "minecraft:netherite_upgrade_smithing_template"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "minecraft:piglin"
+				id: "481B2902AB4A97F3"
+				type: "kill"
+				value: 100L
+			}]
+			x: -1.0d
+			y: 5.5d
+		}
+		{
+			description: ["&9Milk go brr&r"]
+			icon: "graveyard:wither_skull_on_pike"
+			id: "25030A78B12A47E6"
+			rewards: [
+				{
+					id: "25A7C3D789B86A14"
+					type: "xp_levels"
+					xp_levels: 100
+				}
+				{
+					id: "193D90244A054D02"
+					item: "terramity:experience_sapping_gauntlet"
+					type: "item"
+				}
+			]
+			size: 3.0d
+			tasks: [{
+				entity: "minecraft:wither"
+				id: "74EA3EF3D3CA6BEF"
+				type: "kill"
+				value: 1L
+			}]
+			x: 0.0d
+			y: 25.5d
+		}
+		{
+			icon: {
+				Count: 1
+				id: "advancednetherite:netherite_diamond_helmet"
+				tag: {
+					Damage: 0
+					affix_data: {
+						sockets: 1
+					}
+				}
+			}
+			id: "3AC6BF542C1A0CD9"
+			rewards: [{
+				id: "3B89476642A36DC1"
+				type: "xp_levels"
+				xp_levels: 100
+			}]
+			size: 2.0d
+			tasks: [{
+				advancement: "advancednetherite:nether/netherite_diamond_armor"
+				criterion: ""
+				id: "158D1F3C6F52EF76"
+				type: "advancement"
+			}]
+			x: 5.5d
+			y: 18.0d
+		}
+		{
+			id: "2EEBB18D8B055DB3"
+			rewards: [
+				{
+					id: "4EE1B03C98792C2A"
+					type: "xp_levels"
+					xp_levels: 50
+				}
+				{
+					id: "4DAF8779055FDE7A"
+					item: {
+						Count: 1
+						id: "minecraft:netherite_hoe"
+						tag: {
+							Damage: 0
+							affix_data: {
+								sockets: 0
+							}
+						}
+					}
+					type: "item"
+				}
+			]
+			size: 2.0d
+			tasks: [{
+				advancement: "minecraft:nether/netherite_armor"
+				criterion: ""
+				icon: {
+					Count: 1
+					id: "minecraft:netherite_helmet"
+					tag: {
+						Damage: 0
+						affix_data: {
+							sockets: 1
+						}
+					}
+				}
+				id: "0058C275D6602DCE"
+				type: "advancement"
+			}]
+			x: 2.0d
+			y: 14.0d
+		}
+	]
+	title: "Deep Below"
+}

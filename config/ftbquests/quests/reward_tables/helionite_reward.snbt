@@ -1,0 +1,21 @@
+{
+	id: "36BBC6F7B8126D4A"
+	loot_size: 1
+	order_index: 1
+	rewards: [
+		{
+			item: {
+				Count: 1
+				id: "armageddon_mod:true_helionite_sword"
+				tag: {
+					Damage: 0
+					affix_data: {
+						sockets: 1
+					}
+				}
+			}
+		}
+		{ count: 3, item: "armageddon_mod:helionite_block" }
+	]
+	title: "Helionite Reward"
+}
