@@ -1,0 +1,13 @@
+name = "Item Banning"
+filename = "itemblacklist-1.20.1-1.1.5.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/wjn6tPiY/versions/aAHbns2e/itemblacklist-1.20.1-1.1.5.jar"
+hash-format = "sha1"
+hash = "525a979e44fa4bcf03942960de7475ec0c65f594"
+
+[update]
+[update.modrinth]
+mod-id = "wjn6tPiY"
+version = "aAHbns2e"

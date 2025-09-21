@@ -70,7 +70,7 @@ hash = "c439ba696cda91028796b66711ceb0b3f62d6234f9f0267418f5edd416458233"
 
 [[files]]
 file = "config/l2_configs/l2hostility-common.toml"
-hash = "13ed03bcdb4513d3f90771b2607cc66d3a7ae46b5d5071074770c98bc064c7ca"
+hash = "fc287afc8a46cf267f46511bc0bfc7920b137a75ea78ba9c19c5ff1bc20f2c63"
 
 [[files]]
 file = "config/mcdw/mcdw_stats_config.json5"
@@ -684,6 +684,11 @@ hash = "39ba03545d6f3a34fd0068c1078fb1b89531a521b3105061da0a35b35c65e02e"
 metafile = true
 
 [[files]]
+file = "mods/item-banning.pw.toml"
+hash = "52ad4e9cf95bbc4f4144e5c9e8b8eab57d4df2b4e8476a5634de52447a9f80e3"
+metafile = true
+
+[[files]]
 file = "mods/item-borders.pw.toml"
 hash = "fd247d46bc81fa10cafbc13b414b44b9467bdd4f4f066b214b2378ed81ce9d6f"
 metafile = true
@@ -951,11 +956,6 @@ metafile = true
 [[files]]
 file = "mods/pick-up-notifier.pw.toml"
 hash = "0fd5b27087ffe34d22dbdbdec6cae53f0a58b839ab8e4c423a5255f2b406e27b"
-metafile = true
-
-[[files]]
-file = "mods/pickup-filter.pw.toml"
-hash = "fd66d910f9354da3693d28a3e3c46e75b870fe3f336b1537fe610464af67ff00"
 metafile = true
 
 [[files]]
