@@ -6,7 +6,7 @@ enableStructureSpecificDatapack = true
 [scaling]
 	#Health factor per level
 	#Range: 0.0 ~ 1000.0
-	healthFactor = 0.07
+	healthFactor = 0.073
 	#Use exponential health
 	exponentialHealth = false
 	#Damage factor per level
@@ -93,7 +93,7 @@ enableStructureSpecificDatapack = true
 	maxMobLevel = 10000
 	#Difficulty increment takes this many kills of same level mob
 	#Range: 1 ~ 100000
-	killsPerLevel = 10
+	killsPerLevel = 15
 	#Decay in player difficulty on death
 	#Range: 0.0 ~ 2.0
 	playerDeathDecay = 0.0

@@ -70,7 +70,7 @@ hash = "c439ba696cda91028796b66711ceb0b3f62d6234f9f0267418f5edd416458233"
 
 [[files]]
 file = "config/l2_configs/l2hostility-common.toml"
-hash = "fc287afc8a46cf267f46511bc0bfc7920b137a75ea78ba9c19c5ff1bc20f2c63"
+hash = "de19df439d81b6f4a5f888c10b4aef434e70f918cdaf4519d9a361f5c46e67c7"
 
 [[files]]
 file = "config/mcdw/mcdw_stats_config.json5"
