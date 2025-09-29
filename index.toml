@@ -514,11 +514,6 @@ hash = "7e137cf593c205aacc1cb9b993fb5a00554c8d1fb79a4a20e6814cae9a250638"
 metafile = true
 
 [[files]]
-file = "mods/echoes-of-battle.pw.toml"
-hash = "d7fa9a060f5c8878540280b99a79beb2a38c02e336880dffba7115cbf42cdcd7"
-metafile = true
-
-[[files]]
 file = "mods/elytra-slot.pw.toml"
 hash = "3bb7489e929b16c94210d4e28d9840c9d279193ace74a69234a250f0c429e9e4"
 metafile = true
