@@ -329,11 +329,6 @@ hash = "85fa7f8dcac31e73c9a025b9b138fa037fb3a1117c3bcd81072cd0b91214ae2a"
 metafile = true
 
 [[files]]
-file = "mods/caxton.pw.toml"
-hash = "15f6812e497a5f7bc6742dc7f02730e1c8a742a2536dc1a8cc6aa0e7093d91f3"
-metafile = true
-
-[[files]]
 file = "mods/cerbons-api.pw.toml"
 hash = "2fe60eb291829a88780ba90aca785a5b838caaa4cb3dd8977bbf81f07358c2c2"
 metafile = true
@@ -526,11 +521,6 @@ metafile = true
 [[files]]
 file = "mods/embeddium.pw.toml"
 hash = "2a4e32365b962f7857d6003af7abee398a92919a5b3ddcd2a51ab9359b80865a"
-metafile = true
-
-[[files]]
-file = "mods/embers-text-api.pw.toml"
-hash = "a603fb3f36f52ac2be9ede4c8c6988cc31e14fff8ab691cb43cfe05cb8476cd8"
 metafile = true
 
 [[files]]
