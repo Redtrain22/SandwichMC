@@ -1,0 +1,13 @@
+name = "Echoes of Battle"
+filename = "echoesofbattle-2.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fce93a57f1e184bfcd0f617cdeb766de12d1e19c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7007277
+project-id = 1320014

@@ -139,6 +139,11 @@ hash = "6b2eef488fd40d2660fa363182e88aa8bc0aad55f2b94b457ccc333d03d2fe5d"
 metafile = true
 
 [[files]]
+file = "mods/ames-mobs.pw.toml"
+hash = "7a5213ccbe59dee272579a8b7c702f13db3325d71c71e14032cba3b8d1f0d1cb"
+metafile = true
+
+[[files]]
 file = "mods/animationoverhaul.pw.toml"
 hash = "167892f71b4719a0e068d2377ff65bbf7551713ef03f88ff654d95b638437c69"
 metafile = true
@@ -324,6 +329,11 @@ hash = "85fa7f8dcac31e73c9a025b9b138fa037fb3a1117c3bcd81072cd0b91214ae2a"
 metafile = true
 
 [[files]]
+file = "mods/caxton.pw.toml"
+hash = "15f6812e497a5f7bc6742dc7f02730e1c8a742a2536dc1a8cc6aa0e7093d91f3"
+metafile = true
+
+[[files]]
 file = "mods/cerbons-api.pw.toml"
 hash = "2fe60eb291829a88780ba90aca785a5b838caaa4cb3dd8977bbf81f07358c2c2"
 metafile = true
@@ -499,6 +509,11 @@ hash = "7e137cf593c205aacc1cb9b993fb5a00554c8d1fb79a4a20e6814cae9a250638"
 metafile = true
 
 [[files]]
+file = "mods/echoes-of-battle.pw.toml"
+hash = "d7fa9a060f5c8878540280b99a79beb2a38c02e336880dffba7115cbf42cdcd7"
+metafile = true
+
+[[files]]
 file = "mods/elytra-slot.pw.toml"
 hash = "3bb7489e929b16c94210d4e28d9840c9d279193ace74a69234a250f0c429e9e4"
 metafile = true
@@ -511,6 +526,11 @@ metafile = true
 [[files]]
 file = "mods/embeddium.pw.toml"
 hash = "2a4e32365b962f7857d6003af7abee398a92919a5b3ddcd2a51ab9359b80865a"
+metafile = true
+
+[[files]]
+file = "mods/embers-text-api.pw.toml"
+hash = "a603fb3f36f52ac2be9ede4c8c6988cc31e14fff8ab691cb43cfe05cb8476cd8"
 metafile = true
 
 [[files]]
@@ -1096,6 +1116,11 @@ metafile = true
 [[files]]
 file = "mods/spartan-weaponry.pw.toml"
 hash = "704e14ffc45b931acee778ad65f15647034317e52a39d2c966b476e4bc9ea0e5"
+metafile = true
+
+[[files]]
+file = "mods/species.pw.toml"
+hash = "62edccaa4927727a7aeec441579cb4c026cb24994c5044f3397062c405f4f7f4"
 metafile = true
 
 [[files]]
