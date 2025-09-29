@@ -444,6 +444,11 @@ hash = "d7c9769290ca159f5d6bb81c385d2f308541a6f50b9ddc569c7044119d242fe8"
 metafile = true
 
 [[files]]
+file = "mods/cultivate-the-eternal-realm.pw.toml"
+hash = "c0d93c15637a92fdf26c1895ab3a48771cacb86edf3da304b90ca66b4a73a1be"
+metafile = true
+
+[[files]]
 file = "mods/curios.pw.toml"
 hash = "c1fb4b35943ed603eaaa2999ec0faa3d22a5ea2a95f7ef1b0cd0eae83c945bae"
 metafile = true

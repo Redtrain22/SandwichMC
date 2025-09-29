@@ -1,0 +1,13 @@
+name = "Cultivate the Eternal Realm"
+filename = "waifu_of_god-1.0.0-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "397f43218b24aa5803b37023d81f96ca9c33e1ca"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7035970
+project-id = 1114161
