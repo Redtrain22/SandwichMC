@@ -6,12 +6,12 @@ enableStructureSpecificDatapack = true
 [scaling]
 	#Health factor per level
 	#Range: 0.0 ~ 1000.0
-	healthFactor = 0.073
+	healthFactor = 0.065
 	#Use exponential health
 	exponentialHealth = false
 	#Damage factor per level
 	#Range: 0.0 ~ 1000.0
-	damageFactor = 0.01
+	damageFactor = 0.005
 	#Use exponential damage
 	exponentialDamage = false
 	#Experience drop factor per level
@@ -27,7 +27,7 @@ enableStructureSpecificDatapack = true
 	enchantmentFactor = 0.0
 	#Difficulty bonus per level visited
 	#Range: 0 ~ 1000
-	dimensionFactor = 60
+	dimensionFactor = 5
 	#Difficulty bonus per block from origin
 	#Range: 0.0 ~ 1000.0
 	distanceFactor = 0.005

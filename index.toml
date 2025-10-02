@@ -70,7 +70,7 @@ hash = "c439ba696cda91028796b66711ceb0b3f62d6234f9f0267418f5edd416458233"
 
 [[files]]
 file = "config/l2_configs/l2hostility-common.toml"
-hash = "de19df439d81b6f4a5f888c10b4aef434e70f918cdaf4519d9a361f5c46e67c7"
+hash = "e5a8f56699ef37237645f6e7b4f77dbe5f21db7c4401f5aa9bc15592f0e96d78"
 
 [[files]]
 file = "config/mcdw/mcdw_stats_config.json5"
@@ -574,6 +574,11 @@ hash = "4a73f04a8986129d79ea4f283a0a33ce51af17079b6efa23596af5bc685e1c1e"
 metafile = true
 
 [[files]]
+file = "mods/fragmentum.pw.toml"
+hash = "333f56dc6eef4e329a120146d4fe6ea194ec3abd012970f1ba044d6dbe0590c4"
+metafile = true
+
+[[files]]
 file = "mods/friends-and-foes-forge.pw.toml"
 hash = "9b26443d8a0a52727dbea33487145e7f9ad495bfee7fc21a462c815a1f5fc563"
 metafile = true
@@ -765,7 +770,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "f06c3168fb14adc76493438b9f90fe8205bac148bbef05bfaecf4113d45d57dd"
+hash = "767fdccf063c57fc9abc9b14ace43271ac3b8b0c129a2830e5d00e09354f9e2f"
 metafile = true
 
 [[files]]
