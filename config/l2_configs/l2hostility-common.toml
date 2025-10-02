@@ -27,7 +27,7 @@ enableStructureSpecificDatapack = true
 	enchantmentFactor = 0.0
 	#Difficulty bonus per level visited
 	#Range: 0 ~ 1000
-	dimensionFactor = 5
+	dimensionFactor = 0
 	#Difficulty bonus per block from origin
 	#Range: 0.0 ~ 1000.0
 	distanceFactor = 0.005
@@ -53,10 +53,10 @@ enableStructureSpecificDatapack = true
 	allowExtraEnchantments = true
 	#Default dimension base difficulty for mod dimensions
 	#Range: 0 ~ 1000
-	defaultLevelBase = 200
+	defaultLevelBase = 0
 	#Default dimension difficulty variation for mod dimensions
 	#Range: 0.0 ~ 1000.0
-	defaultLevelVar = 16.0
+	defaultLevelVar = 0.0
 	#Default dimension difficulty scale for mod dimensions
 	#Range: 0.0 ~ 10.0
 	defaultLevelScale = 1.5
@@ -96,7 +96,7 @@ enableStructureSpecificDatapack = true
 	killsPerLevel = 15
 	#Decay in player difficulty on death
 	#Range: 0.0 ~ 2.0
-	playerDeathDecay = 0.0
+	playerDeathDecay = 0.5
 	#Allow KeepInventory to keep difficulty as well
 	keepInventoryRuleKeepDifficulty = false
 	#On player death, clear dimension penalty
@@ -105,7 +105,7 @@ enableStructureSpecificDatapack = true
 	deathDecayTraitCap = false
 	#Mobs spawned within this range will use lowest player level in range instead of nearest player's level to determine mob level
 	#Range: 0 ~ 128
-	newPlayerProtectRange = 0
+	newPlayerProtectRange = 30
 
 [orb_and_spawner]
 	#Allow to use hostility orb
