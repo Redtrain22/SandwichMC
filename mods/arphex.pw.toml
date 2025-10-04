@@ -1,0 +1,13 @@
+name = "Arthropod Phobia Expansions + Horror Bosses / Arachnophobia"
+filename = "ArPhEx-4.7.3-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/k0RPP4IO/versions/FUISh27T/ArPhEx-4.7.3-forge-1.20.1.jar"
+hash-format = "sha1"
+hash = "c7aca91793c1bf6178356cb4c189737f19a7cc79"
+
+[update]
+[update.modrinth]
+mod-id = "k0RPP4IO"
+version = "FUISh27T"

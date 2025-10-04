@@ -407,10 +407,10 @@ enableStructureSpecificDatapack = true
 	allow_slowness = true
 	allow_poison = true
 	allow_wither = true
-	allow_levitation = true
+	allow_levitation = false
 	allow_blindness = true
 	allow_nausea = false
 	allow_soul_burner = true
-	allow_freezing = true
+	allow_freezing = false
 	allow_cursed = true
 

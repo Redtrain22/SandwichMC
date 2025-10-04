@@ -6,7 +6,7 @@ hash = "1fb04dd96b2f78bd20767ca5acd177352bcbc35cb86bc0d10fb2ee189b98f22e"
 
 [[files]]
 file = "config/badmobs-common.toml"
-hash = "f0bd0e9a502284fb198796e2660a0e357de3a61b0e728d3b5043f20b528243b1"
+hash = "ef332f7c0fbf1f680d15c90ab8e140892e40679b33df03abf9587fc512d2e7af"
 
 [[files]]
 file = "config/bettercombat/server.json.5"
@@ -70,7 +70,7 @@ hash = "c439ba696cda91028796b66711ceb0b3f62d6234f9f0267418f5edd416458233"
 
 [[files]]
 file = "config/l2_configs/l2hostility-common.toml"
-hash = "93baffa34fbf598891c0d740db2d767a0f9441254ed6de6e6a0690588a06275b"
+hash = "1cba712405ca1f372119020fb8666c254ab22bbbb37b45b7cdb362e5bce57142"
 
 [[files]]
 file = "config/mcdw/mcdw_stats_config.json5"
@@ -201,6 +201,11 @@ metafile = true
 [[files]]
 file = "mods/armor-trim-item-fix.pw.toml"
 hash = "0f7c6bd4ca02cd76697ebf50a910bfa71a6a2359de4560183cf77794960429b2"
+metafile = true
+
+[[files]]
+file = "mods/arphex.pw.toml"
+hash = "e57ed3a6809914881e46bafe61ba073782871c02a98300d3806a1c966e3b810a"
 metafile = true
 
 [[files]]
@@ -919,6 +924,11 @@ hash = "9a3c80bf6eee8234001d2a1602b3e123ac5706af051902e40f24abe317b86e50"
 metafile = true
 
 [[files]]
+file = "mods/nyfs-spiders.pw.toml"
+hash = "c68c01f2be9eb52a40ed1b51061cfa91676c9830017942642f5afb2c0b239bed"
+metafile = true
+
+[[files]]
 file = "mods/oam-by-choupiclou2007.pw.toml"
 hash = "d014f528919fb8f59927f8dfc43b5583d5f7fa968080768430fe33028f61e1ce"
 metafile = true
@@ -1189,6 +1199,11 @@ hash = "d54e2a189320e39820fb2fb75caa2aa99a44393bbd36a9215ee534039f9d64d8"
 metafile = true
 
 [[files]]
+file = "mods/the-knocker.pw.toml"
+hash = "c8976c9b6bf39018977ee2c8c2340992d325f61677d3bf324fe98fb16f7b4a00"
+metafile = true
+
+[[files]]
 file = "mods/the-luminous-mod.pw.toml"
 hash = "e1742e935e0c1a693ee490d96d5ffbeb8e6feb192739a8ccdfc2eddb223a67d1"
 metafile = true
@@ -1201,6 +1216,11 @@ metafile = true
 [[files]]
 file = "mods/threateningly-mobs.pw.toml"
 hash = "3a819d92dba0de88e5fb92a5e36b5029b93b5398fc9654fb87f0b748744edc6e"
+metafile = true
+
+[[files]]
+file = "mods/timeless-and-classics-zero.pw.toml"
+hash = "bc06d3ab68339e6d288a98039f87d426da55f8724fcaf7fd808a6e9b24accecf"
 metafile = true
 
 [[files]]
