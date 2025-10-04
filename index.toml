@@ -134,6 +134,11 @@ hash = "03943ca452a9eea4784afbf450f0761b09d948cffe1918e623b29db71e8f351a"
 metafile = true
 
 [[files]]
+file = "mods/amber.pw.toml"
+hash = "5232d0072c99f0d7605b0f19e6c0aa1b04cff3b2e2efb79a8c0d23a96c8cb598"
+metafile = true
+
+[[files]]
 file = "mods/ambientsounds.pw.toml"
 hash = "6b2eef488fd40d2660fa363182e88aa8bc0aad55f2b94b457ccc333d03d2fe5d"
 metafile = true
@@ -180,7 +185,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "5e9edd1fd2395f14a0c8a4acbdbdd61e1047be1f0033deb3140d2ce0d093e9d8"
+hash = "fa34a3117af7f8ed553ec563a7c90c1d6462184c7df5b837c831cb482c6ae582"
 metafile = true
 
 [[files]]
@@ -569,6 +574,11 @@ hash = "cf35640e350078e8cd7b29f727c3227aeb0b465f0fba9a266e6cbe15dadc4955"
 metafile = true
 
 [[files]]
+file = "mods/farmers-delight.pw.toml"
+hash = "bcdf0eb4ba4f7b5373a1bc736fd3722d95604bef8390492b2ff4f96676980d21"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "4a73f04a8986129d79ea4f283a0a33ce51af17079b6efa23596af5bc685e1c1e"
 metafile = true
@@ -769,6 +779,11 @@ hash = "24fb3877a720dd3c5d51016bec730672f47356db9983a6920797befb373a147c"
 metafile = true
 
 [[files]]
+file = "mods/liteminer.pw.toml"
+hash = "0ee95a619b2783042ec528848a3f16bfc878a436d07ede969b4518649b0aa2ec"
+metafile = true
+
+[[files]]
 file = "mods/lithostitched.pw.toml"
 hash = "767fdccf063c57fc9abc9b14ace43271ac3b8b0c129a2830e5d00e09354f9e2f"
 metafile = true
@@ -931,11 +946,6 @@ metafile = true
 [[files]]
 file = "mods/open-loader.pw.toml"
 hash = "4e721a3949621080440a950b4aba930b91735455238b1ea4f01e25dba3e59c23"
-metafile = true
-
-[[files]]
-file = "mods/ore-excavation.pw.toml"
-hash = "a59adb3a70b61f6698666c0b8317602d3dfa547c741f3fbeb4831d2ae5cdffd2"
 metafile = true
 
 [[files]]
@@ -1201,6 +1211,11 @@ metafile = true
 [[files]]
 file = "mods/towns-and-towers.pw.toml"
 hash = "dcef73437fec1a74a88df117d55f379860090b4e5dd73d0c19f7874e61cc6bd3"
+metafile = true
+
+[[files]]
+file = "mods/trade-cycling.pw.toml"
+hash = "93bf133244071c79fc363d2205f1d00429fa1543374122dba1d007d10d6347d1"
 metafile = true
 
 [[files]]
