@@ -190,7 +190,7 @@ metafile = true
 
 [[files]]
 file = "mods/armageddonmod.pw.toml"
-hash = "568ae2c9af1733709283fee0d825add6f4ff2c68963f722572e047053953241d"
+hash = "8860f8dc77b2f4ba179721a2d1db1d1a9a4a7f960cd8c8cfa11509cb550ab7f8"
 metafile = true
 
 [[files]]
