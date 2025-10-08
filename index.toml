@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/apotheosis/enchantment.cfg"
-hash = "1fb04dd96b2f78bd20767ca5acd177352bcbc35cb86bc0d10fb2ee189b98f22e"
+hash = "e6c5c73399304c583eda387c5f0f1b5258b903daf9c2ecf827dc1b4b0a1d4f8b"
 
 [[files]]
 file = "config/badmobs-common.toml"
@@ -70,7 +70,7 @@ hash = "c439ba696cda91028796b66711ceb0b3f62d6234f9f0267418f5edd416458233"
 
 [[files]]
 file = "config/l2_configs/l2hostility-common.toml"
-hash = "1cba712405ca1f372119020fb8666c254ab22bbbb37b45b7cdb362e5bce57142"
+hash = "33ef13d4e0d960ceaa5d2a6208758514ef1ff6efcfcea8cdb2a2f8ca783040d4"
 
 [[files]]
 file = "config/mcdw/mcdw_stats_config.json5"
@@ -87,7 +87,7 @@ metafile = true
 
 [[files]]
 file = "config/skilltree-common.toml"
-hash = "fc0e7d743b3a3f22741338beabbf50583faebbda11aa5dd3c227e09493d86da8"
+hash = "7cddcf862559ad634c8b4d85221a332c4b0f8931273490eea767dee21ddde7b1"
 
 [[files]]
 file = "config/zeta-common.toml"

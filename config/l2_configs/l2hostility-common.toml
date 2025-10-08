@@ -11,7 +11,7 @@ enableStructureSpecificDatapack = true
 	exponentialHealth = false
 	#Damage factor per level
 	#Range: 0.0 ~ 1000.0
-	damageFactor = 0.005
+	damageFactor = 0.0045
 	#Use exponential damage
 	exponentialDamage = false
 	#Experience drop factor per level
@@ -76,7 +76,7 @@ enableStructureSpecificDatapack = true
 	allowTraitOnOwnable = false
 	#Drop rate of hostility loot from mobs from spawner
 	#Range: 0.0 ~ 1.0
-	dropRateFromSpawner = 0.2
+	dropRateFromSpawner = 0.3
 	#Drop rate of equipments spawned via hostility
 	#Range: 0.0 ~ 1.0
 	equipmentDropRate = 0.085
@@ -384,7 +384,7 @@ enableStructureSpecificDatapack = true
 	allow_reflect = true
 	allow_shulker = true
 	allow_grenade = true
-	allow_corrosion = true
+	allow_corrosion = false
 	allow_erosion = false
 	allow_growth = true
 	allow_split = true
@@ -394,8 +394,8 @@ enableStructureSpecificDatapack = true
 	allow_moonwalk = true
 	allow_arena = true
 	allow_dementor = true
-	allow_dispell = true
-	allow_undying = true
+	allow_dispell = false
+	allow_undying = false
 	allow_teleport = true
 	allow_repelling = true
 	allow_pulling = true
