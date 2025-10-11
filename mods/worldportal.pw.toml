@@ -1,0 +1,13 @@
+name = "World Portal"
+filename = "worldportal-forge-0.0.9+1.20.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/A2PZGios/versions/hMcJOhkl/worldportal-forge-0.0.9%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "a0adc33f6a8f07eb5d6acd23c38d05ac548b26a9"
+
+[update]
+[update.modrinth]
+mod-id = "A2PZGios"
+version = "hMcJOhkl"

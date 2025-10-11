@@ -1,0 +1,13 @@
+name = "Infinite Abyss"
+filename = "Infinite Abyss 1.20.1 version 1.8.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Lskhd0JT/versions/aL15oCir/Infinite%20Abyss%201.20.1%20version%201.8.5.jar"
+hash-format = "sha1"
+hash = "04de84ead120ee7353a18e449584dff300482c42"
+
+[update]
+[update.modrinth]
+mod-id = "Lskhd0JT"
+version = "aL15oCir"

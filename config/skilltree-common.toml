@@ -1,7 +1,7 @@
 ["Skill Points"]
 	#Range: 1 ~ 1000
-	"Maximum skill points" = 110
+	"Maximum skill points" = 120
 	#Range: > 0
 	"First skill point cost" = 15
 	#Range: > 0
-	"Last skill point cost" = 1400
+	"Last skill point cost" = 1600

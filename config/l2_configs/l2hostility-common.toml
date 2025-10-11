@@ -27,7 +27,7 @@ enableStructureSpecificDatapack = true
 	enchantmentFactor = 0.0
 	#Difficulty bonus per level visited
 	#Range: 0 ~ 1000
-	dimensionFactor = 0
+	dimensionFactor = 5
 	#Difficulty bonus per block from origin
 	#Range: 0.0 ~ 1000.0
 	distanceFactor = 0.005
@@ -53,10 +53,10 @@ enableStructureSpecificDatapack = true
 	allowExtraEnchantments = true
 	#Default dimension base difficulty for mod dimensions
 	#Range: 0 ~ 1000
-	defaultLevelBase = 0
+	defaultLevelBase = 20
 	#Default dimension difficulty variation for mod dimensions
 	#Range: 0.0 ~ 1000.0
-	defaultLevelVar = 0.0
+	defaultLevelVar = 16.0
 	#Default dimension difficulty scale for mod dimensions
 	#Range: 0.0 ~ 10.0
 	defaultLevelScale = 1.5

@@ -1,0 +1,13 @@
+name = "Deeper Caves"
+filename = "DeeperCaves-1.20.1-1.2.7.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/tAzghcaA/versions/Vg7VLTDX/DeeperCaves-1.20.1-1.2.7.jar"
+hash-format = "sha1"
+hash = "6b6e107df6b1cf6ef6d14c8086eecdf8a936e7db"
+
+[update]
+[update.modrinth]
+mod-id = "tAzghcaA"
+version = "Vg7VLTDX"

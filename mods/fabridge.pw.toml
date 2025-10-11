@@ -1,0 +1,13 @@
+name = "Fabridge"
+filename = "fabridge-0.0.4-R-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/E3aKSGBI/versions/hB1EqkDp/fabridge-0.0.4-R-1.20.1.jar"
+hash-format = "sha1"
+hash = "3014653fcc393871d708f56f3ef4f652044cef0a"
+
+[update]
+[update.modrinth]
+mod-id = "E3aKSGBI"
+version = "hB1EqkDp"
