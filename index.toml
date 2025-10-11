@@ -107,7 +107,7 @@ hash = "ac1d3234342e4cfde68355db44cb65295ae2f304215085a5b4c881753a7a0f78"
 
 [[files]]
 file = "config/voidscape-common.toml"
-hash = "66c0353f9490f419aa6d67d27f14a293d4a8e32d334ea3a38b6909adeb67d004"
+hash = "1bd5ea19a5648a07b443f45bdad0b2a85aab22638d0b3176e07263c91c62edb4"
 
 [[files]]
 file = "config/zeta-common.toml"
