@@ -14,7 +14,7 @@
 		}
 	}
 	id: "1C5572A409ECC656"
-	order_index: 1
+	order_index: 2
 	quest_links: [ ]
 	quests: [
 		{
@@ -172,14 +172,9 @@
 					xp_levels: 100
 				}
 				{
-					id: "508ED0C19CF0F48F"
-					item: {
-						Count: 1
-						id: "endrem:corrupted_eye"
-						tag: {
-							Damage: 0
-						}
-					}
+					count: 4
+					id: "74BCAD8E7A4F8E6B"
+					item: "minecraft:netherite_scrap"
 					type: "item"
 				}
 			]
@@ -590,7 +585,7 @@
 		{
 			id: "2C203ED58BD69212"
 			rewards: [{
-				count: 20
+				count: 5
 				id: "3D100C7F49C01E25"
 				item: "minecraft:netherite_block"
 				type: "item"
@@ -1241,17 +1236,6 @@
 					id: "6FC4BB4F30513BBA"
 					type: "xp_levels"
 					xp_levels: 100
-				}
-				{
-					id: "2831034FB7BCE757"
-					item: {
-						Count: 1
-						id: "endrem:old_eye"
-						tag: {
-							Damage: 0
-						}
-					}
-					type: "item"
 				}
 				{
 					id: "7E9F1CC4D13FE515"

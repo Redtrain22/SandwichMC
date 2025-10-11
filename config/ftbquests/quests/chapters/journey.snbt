@@ -570,6 +570,20 @@
 					item: "minecraft:arrow"
 					type: "item"
 				}
+				{
+					id: "7B1674DCE03CFCC7"
+					item: {
+						Count: 1
+						id: "spartanweaponry:silver_warhammer"
+						tag: {
+							Damage: 0
+							affix_data: {
+								sockets: 1
+							}
+						}
+					}
+					type: "item"
+				}
 			]
 			tasks: [{
 				advancement: "armageddon_mod:iron_remote_advancement"
@@ -1332,17 +1346,6 @@
 					}
 					type: "item"
 				}
-				{
-					id: "2D18F76E3946FDE5"
-					item: {
-						Count: 1
-						id: "endrem:guardian_eye"
-						tag: {
-							Damage: 0
-						}
-					}
-					type: "item"
-				}
 			]
 			size: 1.5d
 			tasks: [{
@@ -1872,28 +1875,6 @@
 					type: "item"
 				}
 				{
-					id: "531B5EB42C498248"
-					item: {
-						Count: 1
-						id: "endrem:exotic_eye"
-						tag: {
-							Damage: 0
-						}
-					}
-					type: "item"
-				}
-				{
-					id: "0A8410AC4AC07C8C"
-					item: {
-						Count: 1
-						id: "endrem:rogue_eye"
-						tag: {
-							Damage: 0
-						}
-					}
-					type: "item"
-				}
-				{
 					id: "5CF76D5EBBF1EEC3"
 					type: "xp_levels"
 					xp_levels: 100
@@ -2364,22 +2345,13 @@
 					type: "item"
 				}
 			]
-			tasks: [
-				{
-					entity: "illageandspillage:magispeller"
-					icon: "spartanweaponry:illager_head"
-					id: "31535DE078874EBD"
-					type: "kill"
-					value: 1L
-				}
-				{
-					entity: "illageandspillage:old_magispeller"
-					icon: "spartanweaponry:illager_head"
-					id: "3DEF109FBFB6DB45"
-					type: "kill"
-					value: 1L
-				}
-			]
+			tasks: [{
+				entity: "illageandspillage:magispeller"
+				icon: "spartanweaponry:illager_head"
+				id: "31535DE078874EBD"
+				type: "kill"
+				value: 1L
+			}]
 			x: 34.5d
 			y: 0.0d
 		}
@@ -2404,6 +2376,47 @@
 				type: "item"
 			}]
 			x: 1.0d
+			y: 2.0d
+		}
+		{
+			id: "6F90B734C9C5EAD5"
+			rewards: [{
+				count: 5
+				id: "73308505E0575AB3"
+				item: "waystones:waystone"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "waystones:waystone"
+				id: "348C97EBF36F3436"
+				points: false
+				type: "xp"
+				value: 5L
+			}]
+			x: 3.0d
+			y: 2.0d
+		}
+		{
+			id: "6B5AD4AF292D19F2"
+			rewards: [
+				{
+					id: "1272DCDD9890E0F4"
+					type: "xp_levels"
+					xp_levels: 30
+				}
+				{
+					id: "6CFE9581F190B7B4"
+					item: "terramity:crest_of_the_void"
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "torchesbecomesunlight:partner_frostnova"
+				criterion: ""
+				id: "5732EEC2A4FF60A1"
+				type: "advancement"
+			}]
+			x: 31.5d
 			y: 2.0d
 		}
 	]

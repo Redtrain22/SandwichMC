@@ -1,0 +1,456 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "the_layers"
+	group: ""
+	id: "13FE40B8BDD1A3EA"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			id: "7E66949540225C9A"
+			rewards: [{
+				id: "128F34EF6B420631"
+				item: "waystones:waystone"
+				type: "item"
+			}]
+			size: 3.0d
+			tasks: [{
+				dimension: "minecraft:overworld"
+				icon: "minecraft:grass_block"
+				id: "448D77418A72A793"
+				type: "dimension"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			id: "665D544EB2BAB11E"
+			rewards: [
+				{
+					id: "1131D1847C8A80B4"
+					item: "waystones:mossy_waystone"
+					type: "item"
+				}
+				{
+					id: "19169D886BA7F41C"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+			size: 2.0d
+			tasks: [{
+				dimension: "infinite_abyss:first_layer"
+				icon: "minecraft:cobbled_deepslate"
+				id: "43BB5402CEB2816E"
+				type: "dimension"
+			}]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			id: "15D1B341B94C4FB0"
+			rewards: [
+				{
+					id: "48FDF6B1E531C652"
+					item: "waystones:mossy_waystone"
+					type: "item"
+				}
+				{
+					id: "490F783557D7B12D"
+					type: "xp_levels"
+					xp_levels: 10
+				}
+			]
+			size: 2.0d
+			tasks: [{
+				dimension: "infinite_abyss:second_layer"
+				icon: "minecraft:magma_block"
+				id: "0EDC8237F439BF28"
+				type: "dimension"
+			}]
+			x: 0.0d
+			y: 6.0d
+		}
+		{
+			id: "2581DBFD9BDBBD0F"
+			rewards: [
+				{
+					id: "731A19AE94AFAA5D"
+					item: "waystones:mossy_waystone"
+					type: "item"
+				}
+				{
+					id: "33FA9CED2AF5362C"
+					type: "xp_levels"
+					xp_levels: 15
+				}
+			]
+			size: 2.0d
+			tasks: [{
+				dimension: "minecraft:the_nether"
+				icon: "minecraft:netherrack"
+				id: "7E9B0DC49033A103"
+				type: "dimension"
+			}]
+			x: 0.0d
+			y: 9.0d
+		}
+		{
+			id: "48C2CD50CBB983DA"
+			rewards: [
+				{
+					id: "425E3ADF96B02FDA"
+					item: "waystones:mossy_waystone"
+					type: "item"
+				}
+				{
+					id: "3D6A5A1EEB0DB874"
+					type: "xp_levels"
+					xp_levels: 20
+				}
+			]
+			size: 2.0d
+			tasks: [{
+				dimension: "infinite_abyss:fourth_layer"
+				icon: "infinite_abyss:large_red_mushroom"
+				id: "3B416F8CCA9B50DE"
+				type: "dimension"
+			}]
+			x: 0.0d
+			y: 12.0d
+		}
+		{
+			description: ["&4WARNING DEPTH PRESSURE"]
+			icon: "minecraft:prismarine"
+			id: "4217E8412D7348A8"
+			rewards: [
+				{
+					id: "5D8DEC1B7959CF00"
+					type: "xp_levels"
+					xp_levels: 25
+				}
+				{
+					id: "6E268AE5335D1344"
+					item: "waystones:sandy_waystone"
+					type: "item"
+				}
+			]
+			size: 2.0d
+			tasks: [{
+				dimension: "infinite_abyss:fifth_layer"
+				icon: "minecraft:prismarine"
+				id: "3D1064F90A7414AD"
+				type: "dimension"
+			}]
+			x: 0.0d
+			y: 15.0d
+		}
+		{
+			id: "4103E2E8EFE3C0D8"
+			rewards: [
+				{
+					id: "79C3BD38A201673D"
+					type: "xp_levels"
+					xp_levels: 35
+				}
+				{
+					count: 2
+					id: "209715AF1D90A8E3"
+					item: "waystones:sandy_waystone"
+					type: "item"
+				}
+			]
+			size: 2.0d
+			tasks: [{
+				dimension: "deeperdarker:otherside"
+				icon: "minecraft:sculk"
+				id: "1E2A3EC59AF460FA"
+				type: "dimension"
+			}]
+			x: 0.0d
+			y: 18.0d
+		}
+		{
+			description: ["&4WARNING DEPTH PRESSURE EXTREME + COLD"]
+			id: "1F329D3722AF145B"
+			rewards: [
+				{
+					id: "60F58E9B48F8BEAD"
+					type: "xp_levels"
+					xp_levels: 45
+				}
+				{
+					count: 2
+					id: "5BEF27BC4185C8F0"
+					item: "waystones:sandy_waystone"
+					type: "item"
+				}
+			]
+			size: 2.0d
+			tasks: [{
+				dimension: "infinite_abyss:sixth_layer"
+				icon: "infinite_abyss:light_blue_crystal_block"
+				id: "263E75D37A0D80B7"
+				type: "dimension"
+			}]
+			x: 0.0d
+			y: 21.0d
+		}
+		{
+			description: ["&4WARNING EXTREME DEPTH PRESSURE AND UNKNOWN MOBS"]
+			id: "31C130A5A010942A"
+			rewards: [
+				{
+					id: "5EA194B26B33449C"
+					type: "xp_levels"
+					xp_levels: 50
+				}
+				{
+					count: 2
+					id: "3A6A33D27B9655B6"
+					item: "waystones:sandy_waystone"
+					type: "item"
+				}
+			]
+			size: 2.0d
+			tasks: [{
+				dimension: "infinite_abyss:seventh_layer"
+				icon: "infinite_abyss:sporetower"
+				id: "7E7E14514368C010"
+				type: "dimension"
+			}]
+			x: 0.0d
+			y: 24.0d
+		}
+		{
+			description: ["&4WARNING ???"]
+			id: "32985509FB8A9801"
+			rewards: [
+				{
+					count: 3
+					id: "4A569E9598E2A1F5"
+					item: "waystones:blackstone_waystone"
+					type: "item"
+				}
+				{
+					id: "79D191544D8CAAAA"
+					type: "xp_levels"
+					xp_levels: 60
+				}
+			]
+			size: 3.0d
+			tasks: [{
+				dimension: "macabre:the_pit"
+				icon: {
+					Count: 1
+					id: "macabre:everlurking_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				id: "19FE12CA6C2467AB"
+				type: "dimension"
+			}]
+			x: 0.0d
+			y: 28.5d
+		}
+		{
+			description: ["&9Soon you will see the End"]
+			id: "74C7DED1BF4AF00F"
+			rewards: [
+				{
+					id: "06FF603DD66713AE"
+					type: "xp_levels"
+					xp_levels: 75
+				}
+				{
+					count: 3
+					id: "635F479B569CB709"
+					item: "waystones:deepslate_waystone"
+					type: "item"
+				}
+			]
+			size: 3.0d
+			tasks: [{
+				dimension: "ceilands:the_ceilands"
+				icon: "ceilands:ceiltrunk_sapling"
+				id: "5A0137BE7426EECD"
+				type: "dimension"
+			}]
+			x: 0.0d
+			y: 31.5d
+		}
+		{
+			description: ["&9FREEDOM!"]
+			id: "66730CB9BB5A6A0C"
+			rewards: [
+				{
+					count: 4
+					id: "362389C4A5808033"
+					item: "waystones:deepslate_waystone"
+					type: "item"
+				}
+				{
+					id: "16B42B49B53811D9"
+					type: "xp_levels"
+					xp_levels: 100
+				}
+			]
+			size: 4.0d
+			tasks: [{
+				dimension: "minecraft:the_end"
+				icon: "minecraft:end_stone"
+				id: "3900F196304F1A98"
+				type: "dimension"
+			}]
+			x: 0.0d
+			y: 36.0d
+		}
+		{
+			description: ["&5NULL"]
+			id: "733D5D85E33C355A"
+			invisible: true
+			rewards: [
+				{
+					id: "4346FCB9FA6251AD"
+					item: "terramity:nullifying_dice"
+					type: "item"
+				}
+				{
+					count: 4
+					id: "46CD47A091C824D3"
+					item: "waystones:blackstone_waystone"
+					type: "item"
+				}
+			]
+			size: 4.0d
+			tasks: [{
+				dimension: "immersive_portals:alternate3"
+				icon: "voidscape:null_black"
+				id: "26D2AE5BA53FBCA3"
+				type: "dimension"
+			}]
+			x: 0.0d
+			y: 42.0d
+		}
+		{
+			description: ["&aCongrats you made it to the true end! "]
+			id: "3F9FC5214D45DD5B"
+			invisible: true
+			rewards: [
+				{
+					id: "7DEB405B2D73F5FE"
+					item: "terra_entity:summon_netherite_sword_staff"
+					type: "item"
+				}
+				{
+					count: 4
+					id: "0BDC9075AA5C7D7A"
+					item: "waystones:blackstone_waystone"
+					type: "item"
+				}
+				{
+					id: "5111366C75888216"
+					type: "xp_levels"
+					xp_levels: 100
+				}
+			]
+			size: 4.0d
+			tasks: [{
+				id: "71F5359AFE97590B"
+				item: "voidscape:antirock"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 46.0d
+		}
+		{
+			id: "3EF9FDCB922ABAC7"
+			invisible: true
+			rewards: [
+				{
+					id: "0A84B4381343DBFA"
+					item: {
+						Count: 1
+						id: "voidscape:voidic_crystal_helmet"
+						tag: {
+							Damage: 0
+							affix_data: {
+								sockets: 1
+							}
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "196BF0574E6B97FA"
+					item: {
+						Count: 1
+						id: "voidscape:voidic_crystal_chest"
+						tag: {
+							Damage: 0
+							affix_data: {
+								sockets: 1
+							}
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "7C47C7005FCE8C9E"
+					item: {
+						Count: 1
+						id: "voidscape:voidic_crystal_legs"
+						tag: {
+							Damage: 0
+							affix_data: {
+								sockets: 0
+							}
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5A3DB6502525A37E"
+					item: {
+						Count: 1
+						id: "voidscape:voidic_crystal_boots"
+						tag: {
+							Damage: 0
+							affix_data: {
+								sockets: 1
+							}
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "01D5781E0588A2F1"
+					item: {
+						Count: 1
+						id: "voidscape:voidic_crystal_bow"
+						tag: {
+							Damage: 0
+							affix_data: {
+								sockets: 1
+							}
+						}
+					}
+					type: "item"
+				}
+			]
+			size: 3.0d
+			tasks: [{
+				entity: "alexsmobs:farseer"
+				icon: "alexsmobs:farseer_arm"
+				id: "3FB337282A6C230E"
+				type: "kill"
+				value: 1L
+			}]
+			x: 3.0d
+			y: 46.0d
+		}
+	]
+	title: "The Layers"
+}

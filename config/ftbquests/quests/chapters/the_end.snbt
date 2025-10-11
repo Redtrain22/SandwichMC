@@ -4,7 +4,7 @@
 	filename: "the_end"
 	group: ""
 	id: "151DEBCA593849F4"
-	order_index: 2
+	order_index: 3
 	quest_links: [ ]
 	quests: [
 		{
@@ -38,61 +38,6 @@
 				icon: "minecraft:ender_eye"
 				id: "27CB07FAC8542F79"
 				type: "dimension"
-			}]
-			x: 0.0d
-			y: -6.0d
-		}
-		{
-			description: ["&aP2W&r"]
-			icon: {
-				Count: 1
-				id: "endrem:cryptic_eye"
-				tag: {
-					Damage: 0
-				}
-			}
-			id: "18E4294703C9AAE2"
-			rewards: [
-				{
-					id: "7AED616027CE602C"
-					item: {
-						Count: 1
-						id: "endrem:cold_eye"
-						tag: {
-							Damage: 0
-						}
-					}
-					type: "item"
-				}
-				{
-					id: "2869D785FC38E0DA"
-					item: {
-						Count: 1
-						id: "endrem:black_eye"
-						tag: {
-							Damage: 0
-						}
-					}
-					type: "item"
-				}
-				{
-					id: "7735FCC4AF70F3A5"
-					item: {
-						Count: 1
-						id: "endrem:evil_eye"
-						tag: {
-							Damage: 0
-						}
-					}
-					type: "item"
-				}
-			]
-			size: 2.0d
-			tasks: [{
-				id: "07EAC7E4AD65FB70"
-				points: false
-				type: "xp"
-				value: 300L
 			}]
 			x: 0.0d
 			y: -3.0d
@@ -131,7 +76,7 @@
 				type: "advancement"
 			}]
 			x: 0.0d
-			y: -12.0d
+			y: -8.0d
 		}
 		{
 			id: "2C60774539DF93F7"
@@ -157,7 +102,7 @@
 				type: "structure"
 			}]
 			x: 0.0d
-			y: -17.0d
+			y: -13.0d
 		}
 		{
 			id: "7209C80AD3A2943E"
@@ -174,7 +119,7 @@
 				type: "advancement"
 			}]
 			x: 0.0d
-			y: -19.5d
+			y: -16.5d
 		}
 		{
 			description: ["&5EAGER EDGE BRAIN ROT&r"]
@@ -216,7 +161,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: -22.5d
+			y: -19.5d
 		}
 	]
 	title: "The End?"
