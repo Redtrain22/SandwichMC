@@ -515,7 +515,7 @@ metafile = true
 
 [[files]]
 file = "mods/deeper_caves.pw.toml"
-hash = "593baa7a478b72a3cb9ca5900a81ba05c06ab6ac09ef2a4c501f1f4aa0869098"
+hash = "f021942958fac7632cd39fb2411be69e392252dcec99f25f3ee2490672840a41"
 metafile = true
 
 [[files]]
