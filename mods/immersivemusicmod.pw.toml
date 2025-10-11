@@ -1,13 +1,13 @@
 name = "The Immersive Music Mod"
-filename = "1.0.6-1.21-forge.jar"
+filename = "1.0.6-1.20.1-Forge.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/EgBj3Bnf/versions/tlHQeSwd/1.0.6-1.21-forge.jar"
+url = "https://cdn.modrinth.com/data/EgBj3Bnf/versions/ojNojLDi/1.0.6-1.20.1-Forge.jar"
 hash-format = "sha1"
-hash = "a2b5b6ba88d0ebc9104bd89905d334e2d38da895"
+hash = "8ed9a014cc9fa07afb50589c691eb20bf1816331"
 
 [update]
 [update.modrinth]
 mod-id = "EgBj3Bnf"
-version = "tlHQeSwd"
+version = "ojNojLDi"
