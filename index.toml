@@ -527,11 +527,6 @@ hash = "d0b06b7cd4b618b7cbe316f77ade24a6752a76ae6d2e6b57610fa1c84aa90830"
 metafile = true
 
 [[files]]
-file = "mods/data-anchor.pw.toml"
-hash = "0abffd30e8b2739c87cfd20d5652c28d2995b929a6bfd8d555acd71565bf11a2"
-metafile = true
-
-[[files]]
 file = "mods/dawn-of-the-flood.pw.toml"
 hash = "fc74037240607661dfcb2bdea4dfae62150239030daced35c5b35231dc9ecd3e"
 metafile = true
@@ -649,11 +644,6 @@ metafile = true
 [[files]]
 file = "mods/ends-phantasm.pw.toml"
 hash = "a7d1481cc2a5b5d3926ef9bed6a7a2bf87b78fd8174f4f1c912950fb70b9ebf2"
-metafile = true
-
-[[files]]
-file = "mods/enhanced-celestials.pw.toml"
-hash = "2d4f27e8f799e993464d54573d9ea949908146529fbfc25e7b930213edbe3d34"
 metafile = true
 
 [[files]]
