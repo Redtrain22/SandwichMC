@@ -9,8 +9,12 @@ file = "config/apotheosis/enchantment.cfg"
 hash = "e6c5c73399304c583eda387c5f0f1b5258b903daf9c2ecf827dc1b4b0a1d4f8b"
 
 [[files]]
+file = "config/armageddon_mod_config.toml"
+hash = "95c6a4271f8ee485d10410a1bbd3e9469d3df94958c910dcb759b3396d2f8a99"
+
+[[files]]
 file = "config/badmobs-common.toml"
-hash = "13b98c2c61e4a75b0e7373204bb582e182310c1801e236af861d5eafc162dd25"
+hash = "9dc03003e0ab256d3996c2e68cb657564145dd42190c73b8e8576af7c59c03d1"
 
 [[files]]
 file = "config/bettercombat/server.json.5"
@@ -30,7 +34,7 @@ hash = "d38a606b74efa70b513b65d2c92c50276cf0669538b5107d6cca7e1ad01a80f8"
 
 [[files]]
 file = "config/doft_config.toml"
-hash = "497aaf120555ae743efefe804c22dcf55b27bbdffd61082e1cb7f40651afe9d2"
+hash = "27bbba82b52285c8152e1588c5322d55fc017e7c43f91d511c049b5fdab503ed"
 
 [[files]]
 file = "config/enhancedai/common.toml"
@@ -111,11 +115,16 @@ hash = "ac1d3234342e4cfde68355db44cb65295ae2f304215085a5b4c881753a7a0f78"
 
 [[files]]
 file = "config/voidscape-common.toml"
-hash = "1bd5ea19a5648a07b443f45bdad0b2a85aab22638d0b3176e07263c91c62edb4"
+hash = "68cc6b434030a6819e3f6ba45155cb7e166a9641cceb2d370dd864050b3a8f52"
 
 [[files]]
 file = "config/zeta-common.toml"
 hash = "ec86bc5daeaf20e86bd077351fda362b6557e134c283e27f8f08eeb4619a56e2"
+
+[[files]]
+file = "mods/(mortius)-the-deep-void.pw.toml"
+hash = "fb180c46efba37e6c0e8c27cfe5ee8db3f29e9e97d40af5808a39341e8cd8ca3"
+metafile = true
 
 [[files]]
 file = "mods/aaa-particles.pw.toml"
@@ -503,6 +512,11 @@ hash = "47b850c6419f55fb6e34013948a502917f3cefeaf73789cf7c7b8678edd11be2"
 metafile = true
 
 [[files]]
+file = "mods/daffasarsenal.pw.toml"
+hash = "e71c3737a27f77cb1d8ea42ae912f57a32874cea91720a8c1a1568c6d5b06456"
+metafile = true
+
+[[files]]
 file = "mods/damagenumbers.pw.toml"
 hash = "3d5ee669290446f8adcae3efcd74b9ac56c039b4fe53ae86b27ee2f0466f1464"
 metafile = true
@@ -510,6 +524,11 @@ metafile = true
 [[files]]
 file = "mods/darkstarter.pw.toml"
 hash = "d0b06b7cd4b618b7cbe316f77ade24a6752a76ae6d2e6b57610fa1c84aa90830"
+metafile = true
+
+[[files]]
+file = "mods/data-anchor.pw.toml"
+hash = "0abffd30e8b2739c87cfd20d5652c28d2995b929a6bfd8d555acd71565bf11a2"
 metafile = true
 
 [[files]]
@@ -633,6 +652,11 @@ hash = "a7d1481cc2a5b5d3926ef9bed6a7a2bf87b78fd8174f4f1c912950fb70b9ebf2"
 metafile = true
 
 [[files]]
+file = "mods/enhanced-celestials.pw.toml"
+hash = "2d4f27e8f799e993464d54573d9ea949908146529fbfc25e7b930213edbe3d34"
+metafile = true
+
+[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "60ca9f391d8cc12c7b208b3f0f532aa23be2c2edf62b987f901cc9fe4015f56c"
 metafile = true
@@ -648,6 +672,11 @@ hash = "228412bcf61ddffabafbcccc864ef3d818cfbfa079853fe5a6f15883c3f386ec"
 metafile = true
 
 [[files]]
+file = "mods/epic-paladins.pw.toml"
+hash = "33b8c700a80d7fd91b6456b371ab0a297f7ca20017f31ed5cc214e8b01c36028"
+metafile = true
+
+[[files]]
 file = "mods/explorers-compass.pw.toml"
 hash = "cf35640e350078e8cd7b29f727c3227aeb0b465f0fba9a266e6cbe15dadc4955"
 metafile = true
@@ -660,6 +689,11 @@ metafile = true
 [[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "bcdf0eb4ba4f7b5373a1bc736fd3722d95604bef8390492b2ff4f96676980d21"
+metafile = true
+
+[[files]]
+file = "mods/fdlib.pw.toml"
+hash = "44e8464ef91ddd193815170041601ce1dbc45df05e1c338ff59e0d90e51ef2b5"
 metafile = true
 
 [[files]]
@@ -1135,6 +1169,11 @@ metafile = true
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "910ff4db4838e034b3d792205de05aabb88558a5093cfa1a6f37efb02406ddb0"
+metafile = true
+
+[[files]]
+file = "mods/qliphoth-awakening.pw.toml"
+hash = "89e14f4e72cb391d1144ff8b24bc75fa9a0574fb3ffd4be49a53943da78a2f96"
 metafile = true
 
 [[files]]

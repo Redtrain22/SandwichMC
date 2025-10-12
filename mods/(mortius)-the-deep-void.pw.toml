@@ -1,0 +1,13 @@
+name = "The Deep Void"
+filename = "the_deep_void-1.94.1-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/gFlYdPkO/versions/4YehNgVp/the_deep_void-1.94.1-forge-1.20.1.jar"
+hash-format = "sha1"
+hash = "57c4243d78a7f024d938083ba3ec401120fdb366"
+
+[update]
+[update.modrinth]
+mod-id = "gFlYdPkO"
+version = "4YehNgVp"

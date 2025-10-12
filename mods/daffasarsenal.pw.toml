@@ -1,0 +1,13 @@
+name = "[TACZ Addons] Daffa's Arsenal"
+filename = "daffas_arsenal-2.6.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/11K9aTv9/versions/uN3ZIvkK/daffas_arsenal-2.6.0.jar"
+hash-format = "sha1"
+hash = "58326c4954bcf95b27f737b5b37d6078de8f6bc5"
+
+[update]
+[update.modrinth]
+mod-id = "11K9aTv9"
+version = "uN3ZIvkK"

@@ -474,7 +474,7 @@
 
 ["Mod Structures"]
 	#Default true
-	"Should this config option allow the laboratories to generate as structures?" = true
+	"Should this config option allow the laboratories to generate as structures?" = false
 
 [Others]
 	#Default true
