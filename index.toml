@@ -18,7 +18,7 @@ hash = "34621dc15a1bb4f5dd5014544a42ace9e8a17d47151d8aaf2819d4fee2261805"
 
 [[files]]
 file = "config/badmobs-common.toml"
-hash = "9dc03003e0ab256d3996c2e68cb657564145dd42190c73b8e8576af7c59c03d1"
+hash = "504f3106230cb0c0857758692c8a2fdd51e9bee1e8f90a607e559184cc36f10d"
 
 [[files]]
 file = "config/bettercombat/server.json.5"
