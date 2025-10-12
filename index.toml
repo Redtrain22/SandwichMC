@@ -186,11 +186,6 @@ hash = "7a5213ccbe59dee272579a8b7c702f13db3325d71c71e14032cba3b8d1f0d1cb"
 metafile = true
 
 [[files]]
-file = "mods/amplified-nether.pw.toml"
-hash = "e27e3561bdec0ebe6d3c2d43a62ee42ecaec872fdb00e80634f03dd415390855"
-metafile = true
-
-[[files]]
 file = "mods/animationoverhaul.pw.toml"
 hash = "167892f71b4719a0e068d2377ff65bbf7551713ef03f88ff654d95b638437c69"
 metafile = true
