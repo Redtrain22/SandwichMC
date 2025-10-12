@@ -38,7 +38,7 @@ hash = "d38a606b74efa70b513b65d2c92c50276cf0669538b5107d6cca7e1ad01a80f8"
 
 [[files]]
 file = "config/doft_config.toml"
-hash = "27bbba82b52285c8152e1588c5322d55fc017e7c43f91d511c049b5fdab503ed"
+hash = "85d6867d8f0065775e8fa574aef2324dfd80e476c883438a3c2a18e383ccf3dd"
 
 [[files]]
 file = "config/enhancedai/common.toml"

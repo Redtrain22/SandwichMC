@@ -37,9 +37,9 @@
 		#Default true
 		"Should Human Forms be able to wear armor and take armor on death ( wave needs to be atleast 4 )?" = true
 		#Default true
-		"Should Player Forms be able to wear armor and take your armor on death ( no restrictions )?" = true
+		"Should Player Forms be able to wear armor and take your armor on death ( no restrictions )?" = false
 		#Default true
-		"Should PLAYER Forms break blocks?" = true
+		"Should PLAYER Forms break blocks?" = false
 		#Default true
 		"Should Pillager Forms use Crossbows?" = true
 		#Default true
@@ -72,7 +72,7 @@
 		#Default true
 		"Should Marine Forms climb?" = true
 		#Default true
-		"Should Marine Forms break blocks?" = true
+		"Should Marine Forms break blocks?" = false
 		#Default true
 		"Should Marine Forms use guns?" = true
 		#Default true
@@ -93,7 +93,7 @@
 		#Default true
 		"Should Sangheili Forms climb?" = true
 		#Default true
-		"Should Sangheili Forms break blocks?" = true
+		"Should Sangheili Forms break blocks?" = false
 		#Default true
 		"Should Sangheili Forms make your screen tremble when they walk?" = true
 		#Default true
@@ -120,7 +120,7 @@
 		#Default true
 		"Should Brute Forms climb?" = true
 		#Default true
-		"Should Brute Forms break blocks?" = true
+		"Should Brute Forms break blocks?" = false
 		#Default true
 		"Should Brute Forms make your screen tremble when they walk?" = true
 		#Default true
@@ -145,7 +145,7 @@
 		#Default true
 		"Should Jackal Forms climb?" = true
 		#Default true
-		"Should Jackal Forms break blocks?" = true
+		"Should Jackal Forms break blocks?" = false
 		#Default true
 		"Should Jackal Forms use guns?" = true
 		#Default true
@@ -247,7 +247,7 @@
 		#Range: 10.0 ~ 1.7976931348623157E308
 		"Sets Flooded Golem's Armor" = 30.0
 		#Default true
-		"Should Flooded Golems break blocks?" = true
+		"Should Flooded Golems break blocks?" = false
 		#Default true
 		"Should Flooded Golems NOT despawn after they have seen a target for too long?" = true
 		#Default 5000
@@ -273,7 +273,7 @@
 		#Default true
 		"Should Juggernaut Forms climb?" = true
 		#Default true
-		"Should Juggernaut Forms break blocks?" = true
+		"Should Juggernaut Forms break blocks?" = false
 		#Default true
 		"Should Juggernaut Forms make your screen tremble when they walk?" = true
 
@@ -289,7 +289,7 @@
 		#Default true
 		"Should Tyrant Forms climb?" = true
 		#Default true
-		"Should Tyrant Forms break blocks?" = true
+		"Should Tyrant Forms break blocks?" = false
 		#Default true
 		"Should Tyrant Forms grief blocks (basically throw them around and such)?" = true
 		#Default true
@@ -309,7 +309,7 @@
 		#Default true
 		"Should Tank Forms climb?" = true
 		#Default true
-		"Should Tank Forms break blocks?" = true
+		"Should Tank Forms break blocks?" = false
 		#Default true
 		"Should Tank Forms make your screen tremble when they walk?" = true
 
@@ -334,7 +334,7 @@
 		#Default true
 		"Should Bomber Forms lift the player in the air from time to time?" = true
 		#Default true
-		"Should Bomber Forms break blocks?" = true
+		"Should Bomber Forms break blocks?" = false
 		#Default true
 		"Should Bomber Forms throw bombs?" = true
 
@@ -382,7 +382,7 @@
 		#Default 500
 		"How many points does the death of a player or iron golem by a flood form add to the flood evolution? This number will be multiplied by the number of the wave" = 500
 		#Default true
-		"Should Pod Infectors transform players?" = true
+		"Should Pod Infectors transform players?" = false
 		#Default true
 		"Should Pod Infectors transform zombies?" = true
 		#Default true
@@ -410,7 +410,7 @@
 
 	["Mob Stuff"."Bodies / Corpses"]
 		#Default true
-		"Should corpses of the base forms have a chance to spawn after they get defeated?" = true
+		"Should corpses of the base forms have a chance to spawn after they get defeated?" = false
 		#Default true
 		"Should corpses of the base forms have a shake animation applied to their head?" = true
 		#Default true
@@ -418,7 +418,7 @@
 
 	["Mob Stuff".Spawns]
 		#Default 120
-		MobCap = 120
+		MobCap = 100
 		#Default minecraft:is_overworld
 		"Dictates in what biome the flood forms spawn" = ["minecraft:is_overworld"]
 		"mob|weight|minimum|maximum" = ["dotf:pod_infector|6|4|6", "dotf:human_form|15|1|2", "dotf:player_form|11|1|1", "dotf:villager_form|13|1|2", "dotf:pillager_form|8|1|3", "dotf:vindicator_form|6|1|2", "dotf:carrier_form|12|1|2|", "dotf:sangheili_form|11|1|1|", "dotf:marine_form|20|1|3|", "dotf:enderman_form|5|1|1|", "dotf:maw_form|2|1|1|", "dotf:flood_tadpole|1|1|3|", "dotf:flooded_golem|3|1|1|", "dotf:juggernaut_form|5|1|1|", "dotf:tyrant_form|5|1|1", "dotf:bomber_form|3|1|1", "dotf:brute_form|9|1|1|", "dotf:flooded_creeper|4|1|1|", "dotf:grenadier_form|6|1|1|", "dotf:tank_form|18|1|1|", "dotf:jackal_form|3|1|3|"]
@@ -482,7 +482,7 @@
 	#Default true
 	"If the player should have custom third person animations, VERY GREAT ADDITION BTW" = true
 	#Default true
-	"If the player allow cutscenes to play on his screen, as this is related to daydreaming, visions and horrors that the player has as the flood arrives" = true
+	"If the player allow cutscenes to play on his screen, as this is related to daydreaming, visions and horrors that the player has as the flood arrives" = false
 	#Default true
 	"If the player allow jumpscares to play on his screen, as this is related to daydreaming, visions and horrors that the player has as the flood arrives" = false
 	#Default false
@@ -509,7 +509,7 @@
 	#Default false
 	"If the ship crash should be canceled, the Flood only appearing abruptly" = false
 	#Default true
-	"When the player has the flood fumes, there's a chance that his main hand item will fall on the ground" = true
+	"When the player has the flood fumes, there's a chance that his main hand item will fall on the ground" = false
 	#Default 1.25
 	#Range: 1.0 ~ 1.7976931348623157E308
 	"Multiplier of the base damage of each creature that will be added when the Flood deals damage to any infection mod mob or any other customly added in the option below non-infection mod" = 1.25
