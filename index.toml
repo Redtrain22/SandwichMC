@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/Deep Void Config.toml"
+hash = "035cda6339a29fad0a6e5cc2617e5e2ed8954f6597b2ad211bfeb033a3541ba5"
+
+[[files]]
 file = "config/RazorTyrantModConfigs.toml"
 hash = "87db9b50fe5f775fb4041286df893a01f3881d665d34c7a5b1fcfb91b19e0913"
 
@@ -10,7 +14,7 @@ hash = "e6c5c73399304c583eda387c5f0f1b5258b903daf9c2ecf827dc1b4b0a1d4f8b"
 
 [[files]]
 file = "config/armageddon_mod_config.toml"
-hash = "95c6a4271f8ee485d10410a1bbd3e9469d3df94958c910dcb759b3396d2f8a99"
+hash = "34621dc15a1bb4f5dd5014544a42ace9e8a17d47151d8aaf2819d4fee2261805"
 
 [[files]]
 file = "config/badmobs-common.toml"
@@ -527,6 +531,11 @@ hash = "d0b06b7cd4b618b7cbe316f77ade24a6752a76ae6d2e6b57610fa1c84aa90830"
 metafile = true
 
 [[files]]
+file = "mods/data-anchor.pw.toml"
+hash = "0abffd30e8b2739c87cfd20d5652c28d2995b929a6bfd8d555acd71565bf11a2"
+metafile = true
+
+[[files]]
 file = "mods/dawn-of-the-flood.pw.toml"
 hash = "fc74037240607661dfcb2bdea4dfae62150239030daced35c5b35231dc9ecd3e"
 metafile = true
@@ -644,6 +653,11 @@ metafile = true
 [[files]]
 file = "mods/ends-phantasm.pw.toml"
 hash = "a7d1481cc2a5b5d3926ef9bed6a7a2bf87b78fd8174f4f1c912950fb70b9ebf2"
+metafile = true
+
+[[files]]
+file = "mods/enhanced-celestials.pw.toml"
+hash = "2d4f27e8f799e993464d54573d9ea949908146529fbfc25e7b930213edbe3d34"
 metafile = true
 
 [[files]]

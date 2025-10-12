@@ -1,0 +1,19 @@
+["Generation&World"]
+	#Whether the Cult Temple will be place at 0,0 or not
+	PlaceCultTemple = false
+	#Whether Players will teleport to the Deep Void when jumping in the Void or not
+	PlayersTeleportInVoid = true
+	#Whether Players will teleport to the Deep Void when falling in the Void in the End or not (If PlayersTeleportInVoid is false, this will automatically be false)
+	PlayersTeleportInEnd = true
+	#At which depth does the Player teleport to the dimension (Default -70)
+	TeleportHeight = -70.0
+	#If the Deep Void should have fog or not
+	DeepVoidFog = true
+	#If blocks under specific biomes should generate plants on top of them to make the cave biome (this depends on random tick speed). If the server lags a lot, set this to true
+	StopActiveBlockGeneration = false
+	#If the old structure with the hole to the void should generate in the overworld instead of the new version
+	OldHoleStructure = false
+	#At which Y level should the structure in the Overworld generate (this needs to be at the deepest layer where bedrock generates)
+	HoleStructureY = -64.0
+	#If crumbling bedrock should generate in the overworld
+	CrumblingBedrockGenerate = false
