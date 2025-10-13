@@ -1125,11 +1125,6 @@ hash = "1e6cf7b38e79ed85e8fb4ab6f5ff2add4a32d9bdb4f97451ecff63733f61c093"
 metafile = true
 
 [[files]]
-file = "mods/nether-warlord-boss.pw.toml"
-hash = "55e4c0eebce9b61ecc137cf35f839f121e732c87359a2606520485602fa1cf8c"
-metafile = true
-
-[[files]]
 file = "mods/netherific.pw.toml"
 hash = "7e0b6ce034de9d4f53b11a470ebe3dd2cd6eb3d4746a4966348b9461c8277a3b"
 metafile = true
