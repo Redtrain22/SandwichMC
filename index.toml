@@ -360,6 +360,11 @@ hash = "57b7babd8db6a3c2b95e9d0b400c382feea295ec5d3c214a162eaace47c63d22"
 metafile = true
 
 [[files]]
+file = "mods/bosses-of-mass-destruction-forge.pw.toml"
+hash = "a748351943c09e8cb6e90e56b7419c9420d76072c822a2c8c7b0f7f6f636648c"
+metafile = true
+
+[[files]]
 file = "mods/bossesrise.pw.toml"
 hash = "6d86850e4e65eb126fada2d6b0e6955953524ae06d64d6d92e69abb54a0afcf1"
 metafile = true
@@ -497,6 +502,11 @@ metafile = true
 [[files]]
 file = "mods/create.pw.toml"
 hash = "a876aaa9cea285d068b936a8196b231e896ad19b9dde0c1eef03a3e4c7a649c8"
+metafile = true
+
+[[files]]
+file = "mods/createoplenty.pw.toml"
+hash = "83b340ffd1e5fa14ccc5d0c40db84239dada676fa22b29eda6ee3ffce6cf91d9"
 metafile = true
 
 [[files]]
@@ -1336,7 +1346,7 @@ metafile = true
 
 [[files]]
 file = "mods/smartbrainlib.pw.toml"
-hash = "8ecaeac6f1a8ac1163686bea4795894ee51600f2f49d8b427c395ccd15dcd3a8"
+hash = "640c3885bce6e23c6e86a2cd30d98b234c92194cf78344bd1810d39e35f3e487"
 metafile = true
 
 [[files]]
