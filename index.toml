@@ -769,11 +769,6 @@ hash = "9b26443d8a0a52727dbea33487145e7f9ad495bfee7fc21a462c815a1f5fc563"
 metafile = true
 
 [[files]]
-file = "mods/from-the-shadow-reborn.pw.toml"
-hash = "12c6818d92bbceb56b3b01b0ef1db934676b79d86c17918aa13de0abea1a6aea"
-metafile = true
-
-[[files]]
 file = "mods/ftb-library-forge.pw.toml"
 hash = "691798dd9acfd386bc9332249cd4c1291c646af4d97999090ec0528d9bb35c88"
 metafile = true
@@ -1101,11 +1096,6 @@ metafile = true
 [[files]]
 file = "mods/more-critters.pw.toml"
 hash = "be3b5ebf1e95bb7981dfe7368c9fdcc03997e40254b3186a6363ef3323b6ec40"
-metafile = true
-
-[[files]]
-file = "mods/more-hitboxes.pw.toml"
-hash = "1dc6f2f77074310869d738fb76239c3bade60ed16f3349a488afa096947a0bc2"
 metafile = true
 
 [[files]]
