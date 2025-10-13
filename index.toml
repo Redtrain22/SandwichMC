@@ -790,6 +790,11 @@ hash = "ac86fef725713ab9086d46a024cb98381b6bbf9188ac69a2a758a73182731702"
 metafile = true
 
 [[files]]
+file = "mods/glitchcore.pw.toml"
+hash = "91e0af4b9989dd9a706d43e32ad498184d9400646f89362877bae96c207b7b70"
+metafile = true
+
+[[files]]
 file = "mods/golem-spawn-animation.pw.toml"
 hash = "94dadd1e994b259bb3a29c07ba58d1b6986b94e9ac73b1e6a05039d49639e7d5"
 metafile = true
