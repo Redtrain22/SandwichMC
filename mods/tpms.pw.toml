@@ -1,0 +1,13 @@
+name = "Teleport Master Simplified"
+filename = "TPMSimplified-1.20.1-Forge-20.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/QRjSkuef/versions/NIVCX9p6/TPMSimplified-1.20.1-Forge-20.1.2.jar"
+hash-format = "sha1"
+hash = "5a32547ee445bccea3bb7887f21b133594af4c98"
+
+[update]
+[update.modrinth]
+mod-id = "QRjSkuef"
+version = "NIVCX9p6"
