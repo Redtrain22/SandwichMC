@@ -34,7 +34,7 @@
 	quest_links: [ ]
 	quests: [
 		{
-			description: ["&aAdventure Below to get to the end! Hint:Diamond pickaxe breaks bedrock :3"]
+			description: ["&aAdventure Below to get to the end! Hint:Netherrite pickaxe breaks bedrock :3"]
 			id: "7E66949540225C9A"
 			rewards: [{
 				id: "128F34EF6B420631"
@@ -362,7 +362,7 @@
 			y: 42.0d
 		}
 		{
-			description: ["&aCongrats you made it to the true end! Nothing below at all!!!"]
+			description: ["&aCongrats you made it to the true end?"]
 			id: "3F9FC5214D45DD5B"
 			invisible: true
 			rewards: [

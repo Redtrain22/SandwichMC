@@ -22,7 +22,7 @@ hash = "34621dc15a1bb4f5dd5014544a42ace9e8a17d47151d8aaf2819d4fee2261805"
 
 [[files]]
 file = "config/badmobs-common.toml"
-hash = "504f3106230cb0c0857758692c8a2fdd51e9bee1e8f90a607e559184cc36f10d"
+hash = "3846165cdd4373d8d98470b2a7a7f4adba72628971bcb59bbc504c6ec1b4dda4"
 
 [[files]]
 file = "config/bettercombat/server.json.5"
@@ -34,7 +34,7 @@ hash = "223da2321d9f7f3a41f9318df0765ffac07f3702d95f15d9338011c93d706066"
 
 [[files]]
 file = "config/breakingbedrock.properties"
-hash = "36ba10a40e2877c6d618a7d1efe12729c925485e1ef1057c80bd4f060ac891a7"
+hash = "4ee6cf105b2e03d60124445cdaf121369ba7029c7f865d0ac88040c13d2af76a"
 
 [[files]]
 file = "config/combatroll/server.json5"
@@ -74,7 +74,7 @@ hash = "0a98ab30672ac2dbde3060127870e318cb54f05dc8ac183cd2d59c4f3ccca758"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/the_layers.snbt"
-hash = "b098ccde3ae0f630a1b04196262073f2015121d77b890651af376761da31f7b1"
+hash = "0a0a8ec65fd2e81cc307b8f22005da31956901329fad3d5bd979e9c5454ce1fe"
 
 [[files]]
 file = "config/ftbquests/quests/data.snbt"
@@ -120,6 +120,10 @@ metafile = true
 [[files]]
 file = "config/skilltree-common.toml"
 hash = "ac1d3234342e4cfde68355db44cb65295ae2f304215085a5b4c881753a7a0f78"
+
+[[files]]
+file = "config/torchesbecomesunlight-common.toml"
+hash = "cff1a48601be31738d23e86a303cee5d12e02ac8133c953798187f3c1d45ec63"
 
 [[files]]
 file = "config/voidscape-common.toml"
