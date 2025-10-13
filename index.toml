@@ -10,7 +10,7 @@ hash = "87db9b50fe5f775fb4041286df893a01f3881d665d34c7a5b1fcfb91b19e0913"
 
 [[files]]
 file = "config/apotheosis/adventure.cfg"
-hash = "526f0c55aff695228fa33fa93d84f1c49bb188767a6c318abb8d6d97a83a39ca"
+hash = "b8f07d5bbd824e924ba5ba47b7c98fe8b351569073cde939b4dff1dd6de6cc20"
 
 [[files]]
 file = "config/apotheosis/enchantment.cfg"
