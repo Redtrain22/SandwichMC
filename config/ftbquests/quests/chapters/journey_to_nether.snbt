@@ -1301,6 +1301,12 @@
 					item: "terramity:experience_sapping_gauntlet"
 					type: "item"
 				}
+				{
+					count: 10
+					id: "4AC030E2F3843E4D"
+					item: "apotheosis:epic_material"
+					type: "item"
+				}
 			]
 			size: 3.0d
 			tasks: [{
@@ -1324,11 +1330,19 @@
 				}
 			}
 			id: "3AC6BF542C1A0CD9"
-			rewards: [{
-				id: "3B89476642A36DC1"
-				type: "xp_levels"
-				xp_levels: 100
-			}]
+			rewards: [
+				{
+					id: "3B89476642A36DC1"
+					type: "xp_levels"
+					xp_levels: 100
+				}
+				{
+					count: 10
+					id: "3DCB6013933AB970"
+					item: "apotheosis:epic_material"
+					type: "item"
+				}
+			]
 			size: 2.0d
 			tasks: [{
 				advancement: "advancednetherite:nether/netherite_diamond_armor"
@@ -1380,6 +1394,23 @@
 				type: "advancement"
 			}]
 			x: 2.0d
+			y: 14.0d
+		}
+		{
+			id: "271A9845A4B5C51D"
+			rewards: [{
+				count: 5
+				id: "00BB2AA7170AA060"
+				item: "apotheosis:epic_material"
+				type: "item"
+			}]
+			size: 2.0d
+			tasks: [{
+				id: "603D10BA74BD26AE"
+				item: "apotheosis:reforging_table"
+				type: "item"
+			}]
+			x: -2.0d
 			y: 14.0d
 		}
 	]

@@ -221,12 +221,20 @@
 			description: ["Find a tier weapon/armor"]
 			icon: "apotheosis:gem_dust"
 			id: "440A14EC54AA0051"
-			rewards: [{
-				count: 5
-				id: "1A7488496B3F4C97"
-				item: "minecraft:iron_ingot"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 5
+					id: "1A7488496B3F4C97"
+					item: "minecraft:iron_ingot"
+					type: "item"
+				}
+				{
+					count: 4
+					id: "3974B6C129A408D8"
+					item: "apotheosis:gem_dust"
+					type: "item"
+				}
+			]
 			tasks: [{
 				advancement: "apotheosis:affix/root"
 				criterion: ""
@@ -639,11 +647,30 @@
 		{
 			description: ["Good job! Now it's time for gold. Leveling up both skill trees will increase your stats. "]
 			id: "45BEFD4EF8C90158"
-			rewards: [{
-				id: "0E09C820C4F1ADA9"
-				type: "xp_levels"
-				xp_levels: 5
-			}]
+			rewards: [
+				{
+					id: "0E09C820C4F1ADA9"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+				{
+					count: 5
+					id: "342386CDB05C8309"
+					item: "apotheosis:gem_dust"
+					type: "item"
+				}
+				{
+					id: "4984A3F3D6A9B872"
+					item: "apotheosis:salvaging_table"
+					type: "item"
+				}
+				{
+					count: 10
+					id: "72F90BA01506CAF2"
+					item: "apotheosis:common_material"
+					type: "item"
+				}
+			]
 			tasks: [{
 				advancement: "armageddon_mod:iron_colossus_relic_advancement"
 				criterion: ""
@@ -1044,13 +1071,44 @@
 			y: 2.0d
 		}
 		{
+			description: ["Use smithing tables to apply gems on your armor/gears!"]
 			id: "1AC6A9585A846332"
-			rewards: [{
-				count: 2
-				id: "7E005E406174FB9A"
-				item: "armageddon_mod:gilded_plate"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 2
+					id: "7E005E406174FB9A"
+					item: "armageddon_mod:gilded_plate"
+					type: "item"
+				}
+				{
+					id: "665DD8E5B54865E3"
+					item: {
+						Count: 1
+						id: "apotheosis:gem"
+						tag: {
+							affix_data: {
+								rarity: "apotheosis:uncommon"
+							}
+							gem: "apotheosis:core/lightning"
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "72E9023B05EC68CF"
+					item: {
+						Count: 1
+						id: "apotheosis:gem"
+						tag: {
+							affix_data: {
+								rarity: "apotheosis:uncommon"
+							}
+							gem: "apotheosis:core/breach"
+						}
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "670D2369F2569DC4"
 				item: "minecraft:smithing_table"
@@ -1143,22 +1201,6 @@
 			}]
 			x: 10.5d
 			y: -2.0d
-		}
-		{
-			id: "40040BED16858366"
-			tasks: [{
-				id: "7576D5DDDC1B3795"
-				item: {
-					Count: 1
-					id: "minecraft:potion"
-					tag: {
-						Potion: "mowziesmobs:poison_resist"
-					}
-				}
-				type: "item"
-			}]
-			x: 12.5d
-			y: 0.0d
 		}
 		{
 			description: ["&aThe colossal iron ignots can also be brew as Resistance potions. Awkward Potion -> Insert colossal iron ignots -> resistance potions!&r"]
@@ -1469,6 +1511,16 @@
 				{
 					id: "4439BD97503016B1"
 					item: "minecraft:chicken_spawn_egg"
+					type: "item"
+				}
+				{
+					id: "4312019A725ABAC0"
+					item: "minecraft:sheep_spawn_egg"
+					type: "item"
+				}
+				{
+					id: "02FA27AD991E2356"
+					item: "easy_villagers:villager"
 					type: "item"
 				}
 			]
@@ -1933,6 +1985,12 @@
 							}]
 						}
 					}
+					type: "item"
+				}
+				{
+					count: 9
+					id: "3D2CEC7D0D923401"
+					item: "apotheosis:epic_material"
 					type: "item"
 				}
 			]
@@ -2418,6 +2476,52 @@
 			}]
 			x: 31.5d
 			y: 2.0d
+		}
+		{
+			id: "1E8CC74602BFB643"
+			rewards: [
+				{
+					count: 15
+					id: "5815785ECA65FD5D"
+					item: "apotheosis:rare_material"
+					type: "item"
+				}
+				{
+					count: 20
+					id: "256622E8C30675C3"
+					item: "apotheosis:uncommon_material"
+					type: "item"
+				}
+				{
+					count: 10
+					id: "561C82BB2A0A6442"
+					item: "apotheosis:common_material"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "6BE3C9D57DCE20DD"
+				item: "apotheosis:simple_reforging_table"
+				type: "item"
+			}]
+			x: 12.5d
+			y: 0.0d
+		}
+		{
+			id: "1299C042DA872CFD"
+			rewards: [{
+				count: 5
+				id: "6681A199E796D1E8"
+				item: "apotheosis:gem_dust"
+				type: "item"
+			}]
+			tasks: [{
+				id: "51CF3414F8086B4A"
+				item: "apotheosis:gem_cutting_table"
+				type: "item"
+			}]
+			x: 12.5d
+			y: -1.0d
 		}
 	]
 	title: "Journey"

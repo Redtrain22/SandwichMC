@@ -4,10 +4,37 @@
 	filename: "the_layers"
 	group: ""
 	id: "13FE40B8BDD1A3EA"
+	images: [
+		{
+			height: 1.0d
+			image: "minecraft:block/bedrock"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: 53.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/bedrock"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.0d
+			y: 53.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/bedrock"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: 53.5d
+		}
+	]
 	order_index: 1
 	quest_links: [ ]
 	quests: [
 		{
+			description: ["&aAdventure Below to get to the end! Hint:Diamond pickaxe breaks bedrock :3"]
 			id: "7E66949540225C9A"
 			rewards: [{
 				id: "128F34EF6B420631"
@@ -335,7 +362,7 @@
 			y: 42.0d
 		}
 		{
-			description: ["&aCongrats you made it to the true end! "]
+			description: ["&aCongrats you made it to the true end! Nothing below at all!!!"]
 			id: "3F9FC5214D45DD5B"
 			invisible: true
 			rewards: [
@@ -450,6 +477,51 @@
 			}]
 			x: 3.0d
 			y: 46.0d
+		}
+		{
+			description: ["&4WELCOME HELL MF. "]
+			icon: "terramity:artificial_lava_display"
+			id: "62AF42A1ECD427D2"
+			invisible: true
+			rewards: [
+				{
+					count: 10
+					id: "4F93734DBA10D979"
+					item: "apotheosis:mythic_material"
+					type: "item"
+				}
+				{
+					count: 5
+					id: "1973D9A3C076EBF0"
+					item: "waystones:blackstone_waystone"
+					type: "item"
+				}
+				{
+					id: "55B4556BC7E4DDED"
+					item: {
+						Count: 1
+						id: "armageddon_mod:the_sun_emblem"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "10CE3583F9BE3C42"
+					item: "apotheosis:boss_summoner"
+					type: "item"
+				}
+			]
+			size: 4.0d
+			tasks: [{
+				dimension: "doom:doom_hell"
+				icon: "terramity:artificial_lava_display"
+				id: "3113D569D9230460"
+				type: "dimension"
+			}]
+			x: 0.0d
+			y: 50.5d
 		}
 	]
 	title: "The Layers"

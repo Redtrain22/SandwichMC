@@ -425,6 +425,12 @@
 					item: "armageddon_mod:elvenite_paladin_treasure_bag"
 					type: "item"
 				}
+				{
+					count: 5
+					id: "3E6AC1D7CEB5CB05"
+					item: "apotheosis:epic_material"
+					type: "item"
+				}
 			]
 			size: 2.0d
 			tasks: [{
@@ -574,6 +580,12 @@
 					item: "armageddon_mod:vaedric_treasure_bag"
 					type: "item"
 				}
+				{
+					count: 5
+					id: "77960D4C7354CB61"
+					item: "apotheosis:epic_material"
+					type: "item"
+				}
 			]
 			size: 2.0d
 			tasks: [{
@@ -707,11 +719,19 @@
 		}
 		{
 			id: "4F8303B7539DA556"
-			rewards: [{
-				id: "37E966CEC3CB4EF1"
-				item: "armageddon_mod:the_bringer_of_doom_treasure_bag"
-				type: "item"
-			}]
+			rewards: [
+				{
+					id: "37E966CEC3CB4EF1"
+					item: "armageddon_mod:the_bringer_of_doom_treasure_bag"
+					type: "item"
+				}
+				{
+					count: 10
+					id: "0A444928A9C44750"
+					item: "apotheosis:epic_material"
+					type: "item"
+				}
+			]
 			size: 2.0d
 			tasks: [{
 				id: "4BD13048066064CC"
@@ -744,11 +764,19 @@
 		}
 		{
 			id: "2D1E882F8F16EE2D"
-			rewards: [{
-				id: "72E8B36FD60C7D84"
-				item: "armageddon_mod:the_calamities_treasure_bag"
-				type: "item"
-			}]
+			rewards: [
+				{
+					id: "72E8B36FD60C7D84"
+					item: "armageddon_mod:the_calamities_treasure_bag"
+					type: "item"
+				}
+				{
+					count: 10
+					id: "2CF6DEC8CE7ACA37"
+					item: "apotheosis:epic_material"
+					type: "item"
+				}
+			]
 			size: 2.0d
 			tasks: [{
 				id: "3CB1E402BF34D53A"
@@ -809,11 +837,19 @@
 		}
 		{
 			id: "50BA5F6E0D229CB2"
-			rewards: [{
-				id: "69C8D97B28160F04"
-				item: "armageddon_mod:sanghor_lord_of_blood_treasure_bag"
-				type: "item"
-			}]
+			rewards: [
+				{
+					id: "69C8D97B28160F04"
+					item: "armageddon_mod:sanghor_lord_of_blood_treasure_bag"
+					type: "item"
+				}
+				{
+					count: 15
+					id: "5B5865AF83161AA1"
+					item: "apotheosis:epic_material"
+					type: "item"
+				}
+			]
 			size: 2.0d
 			tasks: [{
 				id: "0135096786C96A89"
@@ -920,6 +956,7 @@
 			y: 1.0d
 		}
 		{
+			description: ["Venture Deep Below the void... "]
 			id: "5BFF0A8BC59984AE"
 			rewards: [
 				{
@@ -977,6 +1014,12 @@
 					id: "39B3482A5404AB2A"
 					table_id: 3943964665940438346L
 					type: "choice"
+				}
+				{
+					count: 5
+					id: "129F077296EB11DD"
+					item: "apotheosis:mythic_material"
+					type: "item"
 				}
 			]
 			size: 3.0d
@@ -1157,6 +1200,12 @@
 					item: "iceandfire_curios:hydra_fangs"
 					type: "item"
 				}
+				{
+					count: 10
+					id: "3ED97CF1E743A889"
+					item: "apotheosis:mythic_material"
+					type: "item"
+				}
 			]
 			size: 4.0d
 			tasks: [{
@@ -1272,6 +1321,12 @@
 					item: "minecraft:netherite_block"
 					type: "item"
 				}
+				{
+					count: 5
+					id: "57554354BA9BA9DC"
+					item: "apotheosis:mythic_material"
+					type: "item"
+				}
 			]
 			size: 2.0d
 			tasks: [{
@@ -1305,6 +1360,12 @@
 					}
 					type: "item"
 				}
+				{
+					count: 5
+					id: "2E48199E20BD2AB9"
+					item: "apotheosis:mythic_material"
+					type: "item"
+				}
 			]
 			size: 2.0d
 			tasks: [{
@@ -1327,6 +1388,12 @@
 				{
 					id: "00613B59F6ABD1C7"
 					item: "confluence:obsidian_water_walking_boots"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "5526DCD2D1D1C3E1"
+					item: "apotheosis:mythic_material"
 					type: "item"
 				}
 			]
@@ -1352,6 +1419,12 @@
 					count: 5
 					id: "5FA8DE987215599F"
 					item: "advancednetherite:netherite_diamond_ingot"
+					type: "item"
+				}
+				{
+					count: 5
+					id: "3CA20B3D643FCC41"
+					item: "apotheosis:mythic_material"
 					type: "item"
 				}
 			]
@@ -1395,6 +1468,12 @@
 					}
 					type: "item"
 				}
+				{
+					count: 10
+					id: "0B931F1823720FC2"
+					item: "apotheosis:mythic_material"
+					type: "item"
+				}
 			]
 			size: 3.0d
 			tasks: [{
@@ -1418,6 +1497,12 @@
 					count: 3
 					id: "64A18CA87E2BAC0A"
 					item: "cataclysm:cursium_block"
+					type: "item"
+				}
+				{
+					count: 20
+					id: "1BF10F5DB9605C13"
+					item: "apotheosis:mythic_material"
 					type: "item"
 				}
 			]
@@ -1463,6 +1548,12 @@
 					type: "xp_levels"
 					xp_levels: 1000
 				}
+				{
+					count: 50
+					id: "61C7D9DB2C5E8E0B"
+					item: "apotheosis:mythic_material"
+					type: "item"
+				}
 			]
 			size: 5.0d
 			tasks: [{
@@ -1493,6 +1584,12 @@
 							}
 						}
 					}
+					type: "item"
+				}
+				{
+					count: 10
+					id: "325D483060EC2606"
+					item: "apotheosis:mythic_material"
 					type: "item"
 				}
 			]
