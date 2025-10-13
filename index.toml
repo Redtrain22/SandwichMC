@@ -764,6 +764,11 @@ hash = "9b26443d8a0a52727dbea33487145e7f9ad495bfee7fc21a462c815a1f5fc563"
 metafile = true
 
 [[files]]
+file = "mods/from-the-shadow-reborn.pw.toml"
+hash = "12c6818d92bbceb56b3b01b0ef1db934676b79d86c17918aa13de0abea1a6aea"
+metafile = true
+
+[[files]]
 file = "mods/ftb-library-forge.pw.toml"
 hash = "691798dd9acfd386bc9332249cd4c1291c646af4d97999090ec0528d9bb35c88"
 metafile = true
@@ -806,11 +811,6 @@ metafile = true
 [[files]]
 file = "mods/guideme.pw.toml"
 hash = "19389560563106cd03b4a00fe28460275791417bfa816f4beba5d89292af8b42"
-metafile = true
-
-[[files]]
-file = "mods/hadean-breathe.pw.toml"
-hash = "939daa89f1d12c53a83d19e7c01a882985660b086c6a3134f4987fa6874666b7"
 metafile = true
 
 [[files]]
@@ -1039,6 +1039,11 @@ hash = "efb6fac6914af06966c261cb2d352a589a7e1c495342706f08707697d39f98c1"
 metafile = true
 
 [[files]]
+file = "mods/mcv-biomes-o-plenty.pw.toml"
+hash = "544ae544d465261d36b08a5b26a38ecd5b88ad8e9ab2cf7fa498bddf1d6e488e"
+metafile = true
+
+[[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "eab12c7fddf20f293b8726f7553d2c0c0b6c578a2ba03ddf59ae40f6e684e2ce"
 metafile = true
@@ -1079,8 +1084,18 @@ hash = "2fe57964a82366b0418f7d076ce6fd4367a061a4ce289c04ad74681ec7ea8bea"
 metafile = true
 
 [[files]]
+file = "mods/more-chest-variants-lieonlion.pw.toml"
+hash = "544922fe82ee1ec581c9ac984cabc9303b96d15389873d802fd931ae6cca2b2c"
+metafile = true
+
+[[files]]
 file = "mods/more-critters.pw.toml"
 hash = "be3b5ebf1e95bb7981dfe7368c9fdcc03997e40254b3186a6363ef3323b6ec40"
+metafile = true
+
+[[files]]
+file = "mods/more-hitboxes.pw.toml"
+hash = "1dc6f2f77074310869d738fb76239c3bade60ed16f3349a488afa096947a0bc2"
 metafile = true
 
 [[files]]
@@ -1246,6 +1261,11 @@ metafile = true
 [[files]]
 file = "mods/qliphoth-awakening.pw.toml"
 hash = "89e14f4e72cb391d1144ff8b24bc75fa9a0574fb3ffd4be49a53943da78a2f96"
+metafile = true
+
+[[files]]
+file = "mods/quad.pw.toml"
+hash = "276ea87d917c188e673d4a8a5ebf58da6e4c0ee6a34b81ad49c0bc53b0b64f2d"
 metafile = true
 
 [[files]]
@@ -1506,11 +1526,6 @@ metafile = true
 [[files]]
 file = "mods/voidscape.pw.toml"
 hash = "607057a50307a9da24c04f8371158698fa0a2d2770b9062035ed88228dc96224"
-metafile = true
-
-[[files]]
-file = "mods/vzlinglib.pw.toml"
-hash = "8cc6507aedd39899a40e9b5b8557ed8cbe53f60fe764f8a243553764a864be78"
 metafile = true
 
 [[files]]
