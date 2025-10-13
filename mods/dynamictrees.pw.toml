@@ -1,0 +1,13 @@
+name = "Dynamic Trees"
+filename = "DynamicTrees-1.20.1-1.4.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vdjF5PL5/versions/JmNKkurv/DynamicTrees-1.20.1-1.4.5.jar"
+hash-format = "sha1"
+hash = "dc4745637e2cc249b166e1c4d882ba8f9961a285"
+
+[update]
+[update.modrinth]
+mod-id = "vdjF5PL5"
+version = "JmNKkurv"

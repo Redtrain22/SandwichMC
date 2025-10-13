@@ -1,0 +1,13 @@
+name = "Infinity With Mending"
+filename = "infwithmend-forge-1.20.x-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/TToG3iVN/versions/14iMIbRe/infwithmend-forge-1.20.x-1.0.2.jar"
+hash-format = "sha1"
+hash = "5abe64f0e912c3efcf9a8f93703b48a8c29de3f1"
+
+[update]
+[update.modrinth]
+mod-id = "TToG3iVN"
+version = "14iMIbRe"

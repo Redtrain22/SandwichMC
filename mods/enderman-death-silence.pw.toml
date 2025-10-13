@@ -1,0 +1,13 @@
+name = "Enderman Death Silence"
+filename = "shut_up_enderman-1.0.0-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/a5BB8U9F/versions/B5BViO8v/shut_up_enderman-1.0.0-forge-1.20.1.jar"
+hash-format = "sha1"
+hash = "59f23fd193ac462b5d1f140d5de93e72053ff5ab"
+
+[update]
+[update.modrinth]
+mod-id = "a5BB8U9F"
+version = "B5BViO8v"

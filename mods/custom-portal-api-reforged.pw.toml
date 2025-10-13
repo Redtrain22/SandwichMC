@@ -1,0 +1,13 @@
+name = "Custom Portal API Reforged"
+filename = "cpapireforged-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/VepYPOdy/versions/l8aUG8oZ/cpapireforged-1.0.2.jar"
+hash-format = "sha1"
+hash = "b000f14519289010bcdbcfc8a4edf0fd56ba50a2"
+
+[update]
+[update.modrinth]
+mod-id = "VepYPOdy"
+version = "l8aUG8oZ"

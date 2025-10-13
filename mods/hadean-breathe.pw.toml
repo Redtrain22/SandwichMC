@@ -1,0 +1,13 @@
+name = "Hadean Breathe"
+filename = "hadean_breathe-0.19-1.20.1-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/oQCVgXIL/versions/oKLUdXyW/hadean_breathe-0.19-1.20.1-forge.jar"
+hash-format = "sha1"
+hash = "073fcdaa6f07f2f11e60d3f8cd9bbe641c08717f"
+
+[update]
+[update.modrinth]
+mod-id = "oQCVgXIL"
+version = "oKLUdXyW"
