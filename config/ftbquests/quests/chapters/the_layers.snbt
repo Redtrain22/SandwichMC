@@ -309,7 +309,7 @@
 			y: 31.5d
 		}
 		{
-			description: ["&9FREEDOM!"]
+			description: ["&9FREEDOM? Perhaps there's more *below* :)"]
 			id: "66730CB9BB5A6A0C"
 			rewards: [
 				{

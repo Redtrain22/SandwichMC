@@ -193,10 +193,18 @@
 				}
 			]
 			tasks: [{
-				advancement: "minecraft:adventure/kill_a_mob"
-				criterion: ""
-				id: "1E655136C69D0A35"
-				type: "advancement"
+				id: "3AFC022E1B1AE675"
+				item: {
+					Count: 1
+					id: "minecraft:stone_sword"
+					tag: {
+						Damage: 0
+						affix_data: {
+							sockets: 1
+						}
+					}
+				}
+				type: "item"
 			}]
 			x: 3.0d
 			y: 0.0d
@@ -345,7 +353,7 @@
 				}
 			]
 			tasks: [{
-				entity: "minecraft:zombie"
+				entity: "specialmobs:zombie"
 				icon: "minecraft:zombie_head"
 				id: "4FAACA4A5E7AD458"
 				type: "kill"
@@ -379,7 +387,7 @@
 				}
 			]
 			tasks: [{
-				entity: "irons_spellbooks:dead_king_corpse"
+				entity: "specialmobs:skeleton"
 				icon: "minecraft:skeleton_skull"
 				id: "233DE0FF9DD5D6CA"
 				type: "kill"
@@ -410,7 +418,7 @@
 				}
 			]
 			tasks: [{
-				entity: "minecraft:spider"
+				entity: "specialmobs:spider"
 				id: "604653552840EFF7"
 				type: "kill"
 				value: 5L
@@ -816,7 +824,7 @@
 				}
 			]
 			tasks: [{
-				entity: "minecraft:zombie"
+				entity: "specialmobs:zombie"
 				id: "2075CFC9411D68E1"
 				type: "kill"
 				value: 30L
@@ -1142,6 +1150,7 @@
 			y: 0.0d
 		}
 		{
+			icon: "sophisticatedbackpacks:backpack"
 			id: "48B1512FB51837A5"
 			rewards: [
 				{
@@ -1177,7 +1186,7 @@
 				type: "item"
 			}]
 			tasks: [{
-				entity: "minecraft:zombie"
+				entity: "specialmobs:zombie"
 				id: "129C3E5119935C1F"
 				type: "kill"
 				value: 15L
@@ -1252,7 +1261,7 @@
 				type: "item"
 			}]
 			tasks: [{
-				entity: "minecraft:creeper"
+				entity: "specialmobs:creeper"
 				id: "1F21632EE2B06867"
 				type: "kill"
 				value: 10L
@@ -1993,6 +2002,27 @@
 					item: "apotheosis:epic_material"
 					type: "item"
 				}
+				{
+					id: "23771359E6BE9418"
+					item: {
+						Count: 1
+						id: "irons_spellbooks:scroll"
+						tag: {
+							ISB_Spells: {
+								data: [{
+									id: "irons_spellbooks:blaze_storm"
+									index: 0
+									level: 7
+									locked: 1b
+								}]
+								maxSpells: 1
+								mustEquip: 0b
+								spellWheel: 0b
+							}
+						}
+					}
+					type: "item"
+				}
 			]
 			size: 5.0d
 			tasks: [{
@@ -2522,6 +2552,40 @@
 			}]
 			x: 12.5d
 			y: -1.0d
+		}
+		{
+			icon: { Count: 10, id: "minecraft:sugar_cane" }
+			id: "63F1011EE788A933"
+			rewards: [{
+				count: 10
+				id: "3A4EB56B5B1922E8"
+				item: "minecraft:sugar_cane"
+				type: "item"
+			}]
+			tasks: [{
+				id: "436CF4600A151F34"
+				points: false
+				type: "xp"
+				value: 5L
+			}]
+			x: 2.0d
+			y: 2.0d
+		}
+		{
+			id: "28D13F5A836A72AD"
+			rewards: [{
+				count: 10
+				id: "73C7DCA611DA765E"
+				item: "apotheosis:gem_dust"
+				type: "item"
+			}]
+			tasks: [{
+				id: "0BC85E73B08EB1D1"
+				item: "apotheosis:salvaging_table"
+				type: "item"
+			}]
+			x: 12.5d
+			y: 1.0d
 		}
 	]
 	title: "Journey"

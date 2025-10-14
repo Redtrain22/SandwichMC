@@ -96,6 +96,11 @@
 					item: "minecraft:enchanted_golden_apple"
 					type: "item"
 				}
+				{
+					id: "61A0CEBB2808EDD3"
+					type: "xp_levels"
+					xp_levels: 500
+				}
 			]
 			size: 3.0d
 			tasks: [{
@@ -992,6 +997,7 @@
 			y: 0.0d
 		}
 		{
+			description: ["&eMY EYES"]
 			id: "7A3C4A1E1754D370"
 			rewards: [
 				{
@@ -1206,6 +1212,20 @@
 					item: "apotheosis:mythic_material"
 					type: "item"
 				}
+				{
+					id: "129B0284700C5C86"
+					item: {
+						Count: 1
+						id: "doom:doom_helmet"
+						tag: {
+							Damage: 0
+							affix_data: {
+								sockets: 1
+							}
+						}
+					}
+					type: "item"
+				}
 			]
 			size: 4.0d
 			tasks: [{
@@ -1375,7 +1395,7 @@
 				type: "advancement"
 			}]
 			x: 0.0d
-			y: -5.0d
+			y: -9.0d
 		}
 		{
 			id: "4C1D53A9DD6840A1"
@@ -1436,7 +1456,7 @@
 				type: "advancement"
 			}]
 			x: 0.0d
-			y: -9.0d
+			y: -5.0d
 		}
 		{
 			id: "00C8695FDB38A070"
@@ -1444,7 +1464,7 @@
 				{
 					id: "6A3C425F3996A072"
 					type: "xp_levels"
-					xp_levels: 300
+					xp_levels: 3000
 				}
 				{
 					count: 5
@@ -1491,7 +1511,7 @@
 				{
 					id: "217C94B92EB52391"
 					type: "xp_levels"
-					xp_levels: 400
+					xp_levels: 5000
 				}
 				{
 					count: 3
@@ -1503,6 +1523,20 @@
 					count: 20
 					id: "1BF10F5DB9605C13"
 					item: "apotheosis:mythic_material"
+					type: "item"
+				}
+				{
+					id: "01A940121872CF56"
+					item: {
+						Count: 1
+						id: "spartanfire:fire_dragonsteel_spear"
+						tag: {
+							Damage: 0
+							affix_data: {
+								sockets: 1
+							}
+						}
+					}
 					type: "item"
 				}
 			]
@@ -1517,6 +1551,16 @@
 			y: -18.0d
 		}
 		{
+			dependencies: [
+				"5B8F60DCAA7DBBEC"
+				"680C2EF1C4722DEF"
+				"4C1D53A9DD6840A1"
+				"00C8695FDB38A070"
+				"26007EE44CF1271D"
+				"7F2152AD7DD47C9A"
+				"3C19664B516394BE"
+			]
+			description: ["&4Defeat Ignis. "]
 			id: "0DE57D577DBC76A6"
 			rewards: [
 				{
@@ -1546,12 +1590,26 @@
 				{
 					id: "3F9BFE12F409D20C"
 					type: "xp_levels"
-					xp_levels: 1000
+					xp_levels: 10000
 				}
 				{
 					count: 50
 					id: "61C7D9DB2C5E8E0B"
 					item: "apotheosis:mythic_material"
+					type: "item"
+				}
+				{
+					id: "6EB93D77D67A3156"
+					item: {
+						Count: 1
+						id: "doom:doom_chestplate"
+						tag: {
+							Damage: 0
+							affix_data: {
+								sockets: 1
+							}
+						}
+					}
 					type: "item"
 				}
 			]
@@ -1571,7 +1629,7 @@
 				{
 					id: "2D4C068ECAF52202"
 					type: "xp_levels"
-					xp_levels: 300
+					xp_levels: 3000
 				}
 				{
 					id: "303F9E670EE75828"
@@ -1592,6 +1650,20 @@
 					item: "apotheosis:mythic_material"
 					type: "item"
 				}
+				{
+					id: "4897A5D48CA2DAE3"
+					item: {
+						Count: 1
+						id: "iceandfire:dragonsteel_lightning_helmet"
+						tag: {
+							Damage: 0
+							affix_data: {
+								sockets: 1
+							}
+						}
+					}
+					type: "item"
+				}
 			]
 			size: 3.0d
 			tasks: [{
@@ -1602,6 +1674,258 @@
 			}]
 			x: 0.0d
 			y: -12.0d
+		}
+		{
+			icon: {
+				Count: 1
+				id: "doom:doom_leggings"
+				tag: {
+					Damage: 0
+					affix_data: {
+						sockets: 0
+					}
+				}
+			}
+			id: "629F878183353190"
+			rewards: [{
+				id: "3BE61F82DE6291B4"
+				item: {
+					Count: 1
+					id: "doom:doom_leggings"
+					tag: {
+						Damage: 0
+						affix_data: {
+							sockets: 0
+						}
+					}
+				}
+				type: "item"
+			}]
+			size: 2.0d
+			tasks: [{
+				id: "20589ECB1A3BF833"
+				points: false
+				type: "xp"
+				value: 50000L
+			}]
+			x: -7.0d
+			y: 0.0d
+		}
+		{
+			description: ["Bosses and Rises mod. Defeat the Knight in the Nether."]
+			id: "020B2A8C8719065F"
+			rewards: [
+				{
+					id: "6837CB1242697924"
+					type: "xp_levels"
+					xp_levels: 2000
+				}
+				{
+					id: "3EE4796F0B3B2FF9"
+					item: {
+						Count: 1
+						id: "irons_spellbooks:scroll"
+						tag: {
+							ISB_Spells: {
+								data: [{
+									id: "irons_spellbooks:devour"
+									index: 0
+									level: 10
+									locked: 1b
+								}]
+								maxSpells: 1
+								mustEquip: 0b
+								spellWheel: 0b
+							}
+						}
+					}
+					type: "item"
+				}
+			]
+			size: 2.0d
+			tasks: [{
+				advancement: "block_factorys_bosses:kill_underworld_knight"
+				criterion: ""
+				id: "5640D4A53205FF3E"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 5.0d
+		}
+		{
+			description: ["Bosses and Rises mod. Defeat the Dragon on top of the tower."]
+			id: "3E954897ECB2A538"
+			rewards: [
+				{
+					id: "4F76463AEB842111"
+					type: "xp_levels"
+					xp_levels: 1000
+				}
+				{
+					id: "4397C774B47976CD"
+					item: {
+						Count: 1
+						id: "irons_spellbooks:scroll"
+						tag: {
+							ISB_Spells: {
+								data: [{
+									id: "irons_spellbooks:blessing_of_life"
+									index: 0
+									level: 9
+									locked: 1b
+								}]
+								maxSpells: 1
+								mustEquip: 0b
+								spellWheel: 0b
+							}
+						}
+					}
+					type: "item"
+				}
+			]
+			size: 2.0d
+			tasks: [{
+				advancement: "block_factorys_bosses:kill_dragon"
+				criterion: ""
+				id: "62A7A60671337581"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			dependencies: [
+				"31A644A82EDA4622"
+				"3E954897ECB2A538"
+				"020B2A8C8719065F"
+			]
+			icon: "fdbosses:chesed_trophy"
+			id: "144011F4BA1F7BC7"
+			rewards: [
+				{
+					id: "47E98E0E14194C16"
+					item: {
+						Count: 1
+						id: "doom:doom_boots"
+						tag: {
+							Damage: 0
+							affix_data: {
+								sockets: 1
+							}
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "01DBFE33CBB03650"
+					type: "xp_levels"
+					xp_levels: 10000
+				}
+				{
+					id: "5B050242400A1350"
+					item: {
+						Count: 1
+						id: "irons_spellbooks:scroll"
+						tag: {
+							ISB_Spells: {
+								data: [{
+									id: "irons_spellbooks:telekinesis"
+									index: 0
+									level: 5
+									locked: 1b
+								}]
+								maxSpells: 1
+								mustEquip: 0b
+								spellWheel: 0b
+							}
+						}
+					}
+					type: "item"
+				}
+			]
+			size: 2.0d
+			tasks: [{
+				id: "233149DABBC865E4"
+				item: "fdbosses:chesed_trophy"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 9.0d
+		}
+		{
+			dependencies: [
+				"3E954897ECB2A538"
+				"020B2A8C8719065F"
+			]
+			id: "31A644A82EDA4622"
+			rewards: [
+				{
+					id: "623682D3D95A0576"
+					type: "xp_levels"
+					xp_levels: 10000
+				}
+				{
+					id: "19B5C5AEAB5FEBF6"
+					item: {
+						Count: 1
+						id: "irons_spellbooks:scroll"
+						tag: {
+							ISB_Spells: {
+								data: [{
+									id: "irons_spellbooks:wither_skull"
+									index: 0
+									level: 10
+									locked: 1b
+								}]
+								maxSpells: 1
+								mustEquip: 0b
+								spellWheel: 0b
+							}
+						}
+					}
+					type: "item"
+				}
+			]
+			size: 2.0d
+			tasks: [{
+				id: "4DCD582DDE56AB43"
+				item: "fdbosses:malkuth_trophy"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 7.0d
+		}
+		{
+			description: ["&dUse the eye to find the boss"]
+			id: "6155FBAAD20E4F82"
+			rewards: [{
+				id: "79F44005800F52E0"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "6A20B998E03E63D9"
+				item: "fdbosses:eye_of_malkuth"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 7.0d
+		}
+		{
+			description: ["&dUse the eye to find the boss"]
+			id: "0BA95EE28027CF8B"
+			rewards: [{
+				id: "373F3DFAB403B055"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "19B5E29F2FFD9255"
+				item: "fdbosses:eye_of_chesed"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 9.0d
 		}
 	]
 	title: "End Game"
