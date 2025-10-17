@@ -154,6 +154,11 @@ hash = "99c133b256051ff18ab958384ddec7f20f424a8fadb6d8087687dbb2972b6094"
 metafile = true
 
 [[files]]
+file = "mods/ae2.pw.toml"
+hash = "f8e07411627996e31c7d6de6d779a234b0f22e910d9dca00cb4c806debff8829"
+metafile = true
+
+[[files]]
 file = "mods/alexs-caves.pw.toml"
 hash = "538975fa938f7435a3c865d32262b8ecc08c47cb4eb3a24f6f3e29e4caf825d3"
 metafile = true
@@ -211,6 +216,11 @@ metafile = true
 [[files]]
 file = "mods/appleskin.pw.toml"
 hash = "0a1d5aeaae3975eaa4bb3a98e91852f797a5095794af70df41d50841c57ca347"
+metafile = true
+
+[[files]]
+file = "mods/applied-energistics-2-wireless-terminals.pw.toml"
+hash = "55da14d7c6dfb753bf1dc17c1ec2a11bac4d964dbcf893fd34129cb70a38c0ac"
 metafile = true
 
 [[files]]
@@ -739,6 +749,16 @@ hash = "cf35640e350078e8cd7b29f727c3227aeb0b465f0fba9a266e6cbe15dadc4955"
 metafile = true
 
 [[files]]
+file = "mods/extended-ae.pw.toml"
+hash = "5cde94db7399e4b0c59721ae219548544e9320a71548afee09639e555e8439c8"
+metafile = true
+
+[[files]]
+file = "mods/extra-disks.pw.toml"
+hash = "0a39440c22e7b213d6bd0a0d93f70c3d8070823d9b1d8c179e6afa094c3fbd8c"
+metafile = true
+
+[[files]]
 file = "mods/fabridge.pw.toml"
 hash = "4e1b768a309cfded190d69d1b31c03d7b3018bd28e6c4e61fc4fc699b7b2a70e"
 metafile = true
@@ -806,6 +826,11 @@ metafile = true
 [[files]]
 file = "mods/glitchcore.pw.toml"
 hash = "91e0af4b9989dd9a706d43e32ad498184d9400646f89362877bae96c207b7b70"
+metafile = true
+
+[[files]]
+file = "mods/glodium.pw.toml"
+hash = "7dd266ba23fc08aade3fe194f1e55af68a80fc81f7a79ede8500a85bb05dc565"
 metafile = true
 
 [[files]]
@@ -1314,6 +1339,11 @@ hash = "4eb683644ee4e38e00b06df946b71ad8fedaa860fcabbd91ec6ceb71c65b8d81"
 metafile = true
 
 [[files]]
+file = "mods/quarry.pw.toml"
+hash = "c29d9a34870470695d0e348e82817a13f29abefcf3f3a643a9dac01c2dc5ef94"
+metafile = true
+
+[[files]]
 file = "mods/razor-tyrant-the-reign-of-terror.pw.toml"
 hash = "bbbae2e10470be8bcf75af7925f4f9cc00e66e172563371faf6d79bc2795da48"
 metafile = true
@@ -1356,6 +1386,11 @@ metafile = true
 [[files]]
 file = "mods/royal-variations.pw.toml"
 hash = "aa7af41f4ccc6e5c1e77453c7fe0db60121fca72fc46e598b4808ab69515ddbd"
+metafile = true
+
+[[files]]
+file = "mods/rsinfinitybooster.pw.toml"
+hash = "211dfc56773f4ed52c796ac844e35ceed81dc117039b66e42d1fb917c3291202"
 metafile = true
 
 [[files]]
@@ -1561,6 +1596,11 @@ metafile = true
 [[files]]
 file = "mods/travelersbackpack.pw.toml"
 hash = "1101e18389374eb24711af4b00e0f59abc8a3558f2584086deb769a78acb6fac"
+metafile = true
+
+[[files]]
+file = "mods/universal-grid.pw.toml"
+hash = "de8c670d1a97c737cb05293075e421045086e36e672c294b6b626c3e14e064cf"
 metafile = true
 
 [[files]]
