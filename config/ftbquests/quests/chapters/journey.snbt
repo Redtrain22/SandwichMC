@@ -473,7 +473,7 @@
 				}
 			]
 			tasks: [{
-				entity: "minecraft:creeper"
+				entity: "specialmobs:creeper"
 				id: "6D14B30A9AA00175"
 				type: "kill"
 				value: 5L
@@ -849,7 +849,7 @@
 				}
 			]
 			tasks: [{
-				entity: "irons_spellbooks:dead_king_corpse"
+				entity: "specialmobs:skeleton"
 				icon: "minecraft:skeleton_spawn_egg"
 				id: "4694F98F14B5C5E6"
 				type: "kill"
@@ -859,6 +859,7 @@
 			y: -2.0d
 		}
 		{
+			icon: "minecraft:spider_spawn_egg"
 			id: "7F9D3D160E1B5821"
 			rewards: [
 				{
@@ -874,7 +875,7 @@
 				}
 			]
 			tasks: [{
-				entity: "minecraft:spider"
+				entity: "specialmobs:spider"
 				id: "1653AB25E795609C"
 				type: "kill"
 				value: 30L
@@ -883,6 +884,7 @@
 			y: 1.0d
 		}
 		{
+			icon: "minecraft:creeper_spawn_egg"
 			id: "199FD736C81776E1"
 			rewards: [
 				{
@@ -898,7 +900,7 @@
 				}
 			]
 			tasks: [{
-				entity: "minecraft:creeper"
+				entity: "specialmobs:creeper"
 				id: "728CE96C6CDA03DC"
 				type: "kill"
 				value: 15L
@@ -922,7 +924,7 @@
 				}
 			]
 			tasks: [{
-				entity: "minecraft:enderman"
+				entity: "specialmobs:enderman"
 				id: "4DF7881B990BB751"
 				type: "kill"
 				value: 5L
@@ -1179,6 +1181,7 @@
 			y: 0.0d
 		}
 		{
+			icon: "minecraft:zombie_spawn_egg"
 			id: "39B9AD462DD78F4A"
 			rewards: [{
 				id: "08DF4362FD0A00D0"
@@ -1253,6 +1256,7 @@
 			y: 1.0d
 		}
 		{
+			icon: "minecraft:creeper_spawn_egg"
 			id: "3C58EE13C5CC41F8"
 			rewards: [{
 				count: 10
@@ -1508,21 +1512,25 @@
 					type: "item"
 				}
 				{
+					count: 2
 					id: "2F4743C203ADCE31"
 					item: "minecraft:cow_spawn_egg"
 					type: "item"
 				}
 				{
+					count: 2
 					id: "0D9310FF31A3A3C4"
 					item: "minecraft:pig_spawn_egg"
 					type: "item"
 				}
 				{
+					count: 2
 					id: "4439BD97503016B1"
 					item: "minecraft:chicken_spawn_egg"
 					type: "item"
 				}
 				{
+					count: 2
 					id: "4312019A725ABAC0"
 					item: "minecraft:sheep_spawn_egg"
 					type: "item"
@@ -1682,20 +1690,10 @@
 				}
 			]
 			tasks: [{
-				entity: "mowziesmobs:umvuthi"
-				icon: {
-					Count: 1
-					id: "mowziesmobs:umvuthana_mask_misery"
-					tag: {
-						Damage: 0
-						affix_data: {
-							sockets: 1
-						}
-					}
-				}
-				id: "6ABB15CE8D34B8B6"
-				type: "kill"
-				value: 1L
+				advancement: "mowziesmobs:kill_umvuthi"
+				criterion: ""
+				id: "36B26D593E71825C"
+				type: "advancement"
 			}]
 			x: 30.5d
 			y: -1.0d
@@ -1870,11 +1868,10 @@
 				}
 			]
 			tasks: [{
-				entity: "iceandfire:cyclops"
-				icon: "iceandfire:cyclops_skull"
-				id: "2E7023B384FC15F2"
-				type: "kill"
-				value: 1L
+				advancement: "iceandfire:iceandfire/kill_cyclops"
+				criterion: ""
+				id: "21ED71216C869495"
+				type: "advancement"
 			}]
 			x: 30.5d
 			y: 3.0d
@@ -2021,6 +2018,26 @@
 							}
 						}
 					}
+					type: "item"
+				}
+				{
+					id: "7F336747B87F4915"
+					item: {
+						Count: 1
+						id: "minecraft:enchanted_book"
+						tag: {
+							StoredEnchantments: [{
+								id: "minecraft:mending"
+								lvl: 1s
+							}]
+						}
+					}
+					type: "item"
+				}
+				{
+					count: 4
+					id: "1B7276F3D80F4FE5"
+					item: "quark:smithing_template_rune"
 					type: "item"
 				}
 			]
@@ -2387,11 +2404,10 @@
 				}
 			]
 			tasks: [{
-				entity: "illageandspillage:spiritcaller"
-				icon: "tenebrus_baubles:angel_wings"
-				id: "22535D06863E30B9"
-				type: "kill"
-				value: 1L
+				advancement: "illageandspillage:kill_spiri"
+				criterion: ""
+				id: "224F8E5C329FCE6D"
+				type: "advancement"
 			}]
 			x: 33.5d
 			y: 1.5d

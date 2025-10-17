@@ -8,24 +8,6 @@
 	quest_links: [ ]
 	quests: [
 		{
-			icon: "minecraft:stone_bricks"
-			id: "447B126C09FAEDB1"
-			rewards: [{
-				id: "2D3A2FDF96F5C245"
-				item: "waystones:waystone"
-				type: "item"
-			}]
-			size: 3.0d
-			tasks: [{
-				icon: "minecraft:stone_bricks"
-				id: "5C8CF320F5F5786B"
-				structure: "minecraft:stronghold"
-				type: "structure"
-			}]
-			x: 0.0d
-			y: 0.0d
-		}
-		{
 			id: "2D910BBC1F2A0B24"
 			rewards: [{
 				id: "41594288F4F8C88B"
@@ -65,6 +47,11 @@
 					count: 200
 					id: "66AD22A37069D1BD"
 					item: "minecraft:dragon_breath"
+					type: "item"
+				}
+				{
+					id: "509053DAF97C6046"
+					item: "l2hostility:curse_of_envy"
 					type: "item"
 				}
 			]

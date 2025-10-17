@@ -101,6 +101,11 @@
 					type: "xp_levels"
 					xp_levels: 500
 				}
+				{
+					id: "7F730C0BF81E1F0C"
+					item: "l2hostility:curse_of_greed"
+					type: "item"
+				}
 			]
 			size: 3.0d
 			tasks: [{
@@ -1177,6 +1182,14 @@
 			y: 0.0d
 		}
 		{
+			dependencies: [
+				"74EB0770B7F55E83"
+				"4F8303B7539DA556"
+				"2D1E882F8F16EE2D"
+				"50BA5F6E0D229CB2"
+				"7A3C4A1E1754D370"
+				"17355692B8A44830"
+			]
 			description: ["&cDifficulty: ?&r"]
 			id: "3EDC1DC00604A23A"
 			rewards: [
@@ -1497,9 +1510,9 @@
 			]
 			size: 3.0d
 			tasks: [{
-				advancement: "cataclysm:kill_ender_golem"
+				advancement: "cataclysm:kill_ender_guardian"
 				criterion: ""
-				id: "75E9F6BC17652CA7"
+				id: "3D5454D9481B16B6"
 				type: "advancement"
 			}]
 			x: 0.0d
@@ -1676,6 +1689,12 @@
 			y: -12.0d
 		}
 		{
+			dependencies: [
+				"0DE57D577DBC76A6"
+				"3EDC1DC00604A23A"
+				"144011F4BA1F7BC7"
+			]
+			hide_dependency_lines: true
 			icon: {
 				Count: 1
 				id: "doom:doom_leggings"
@@ -1712,6 +1731,7 @@
 			y: 0.0d
 		}
 		{
+			dependencies: ["4AC63107DE1471B0"]
 			description: ["Bosses and Rises mod. Defeat the Knight in the Nether."]
 			id: "020B2A8C8719065F"
 			rewards: [
@@ -1741,6 +1761,12 @@
 					}
 					type: "item"
 				}
+				{
+					count: 5
+					id: "61D1A595DC5C9014"
+					item: "apotheosis:mythic_material"
+					type: "item"
+				}
 			]
 			size: 2.0d
 			tasks: [{
@@ -1753,6 +1779,7 @@
 			y: 5.0d
 		}
 		{
+			dependencies: ["4AC63107DE1471B0"]
 			description: ["Bosses and Rises mod. Defeat the Dragon on top of the tower."]
 			id: "3E954897ECB2A538"
 			rewards: [
@@ -1780,6 +1807,12 @@
 							}
 						}
 					}
+					type: "item"
+				}
+				{
+					count: 5
+					id: "2F5DE6561AF5B993"
+					item: "apotheosis:mythic_material"
 					type: "item"
 				}
 			]
@@ -1842,6 +1875,12 @@
 					}
 					type: "item"
 				}
+				{
+					count: 20
+					id: "2A2CCE498E161EE1"
+					item: "apotheosis:mythic_material"
+					type: "item"
+				}
 			]
 			size: 2.0d
 			tasks: [{
@@ -1883,6 +1922,12 @@
 							}
 						}
 					}
+					type: "item"
+				}
+				{
+					count: 20
+					id: "63A72CD93981D8C2"
+					item: "apotheosis:mythic_material"
 					type: "item"
 				}
 			]

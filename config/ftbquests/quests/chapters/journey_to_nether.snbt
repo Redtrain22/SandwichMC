@@ -198,6 +198,26 @@
 					}
 					type: "item"
 				}
+				{
+					id: "4DFF12C020870A31"
+					item: {
+						Count: 1
+						id: "minecraft:enchanted_book"
+						tag: {
+							StoredEnchantments: [{
+								id: "minecraft:mending"
+								lvl: 1s
+							}]
+						}
+					}
+					type: "item"
+				}
+				{
+					count: 5
+					id: "6E937268E62DC93F"
+					item: "quark:smithing_template_rune"
+					type: "item"
+				}
 			]
 			size: 3.0d
 			tasks: [{
@@ -1263,6 +1283,25 @@
 					item: "tenebrus_baubles:obsidian_skull"
 					type: "item"
 				}
+				{
+					id: "7851C1584D76B314"
+					item: "minecraft:netherite_block"
+					type: "item"
+				}
+				{
+					id: "0534B6AF0A76225F"
+					item: {
+						Count: 1
+						id: "minecraft:enchanted_book"
+						tag: {
+							StoredEnchantments: [{
+								id: "minecraft:mending"
+								lvl: 1s
+							}]
+						}
+					}
+					type: "item"
+				}
 			]
 			size: 3.0d
 			tasks: [{
@@ -1308,7 +1347,9 @@
 			y: 5.5d
 		}
 		{
+			dependencies: ["6DEABFB2930EBB4E"]
 			description: ["&9Milk go brr&r"]
+			hide_dependency_lines: true
 			icon: "graveyard:wither_skull_on_pike"
 			id: "25030A78B12A47E6"
 			rewards: [
@@ -1328,13 +1369,26 @@
 					item: "apotheosis:epic_material"
 					type: "item"
 				}
+				{
+					id: "4112AF97A5B2FE70"
+					item: {
+						Count: 1
+						id: "minecraft:enchanted_book"
+						tag: {
+							StoredEnchantments: [{
+								id: "minecraft:mending"
+								lvl: 1s
+							}]
+						}
+					}
+					type: "item"
+				}
 			]
 			size: 3.0d
 			tasks: [{
-				entity: "minecraft:wither"
-				id: "74EA3EF3D3CA6BEF"
-				type: "kill"
-				value: 1L
+				id: "453BE17E72128B1D"
+				item: "armageddon_mod:wither_relic"
+				type: "item"
 			}]
 			x: 0.0d
 			y: 25.5d
@@ -1392,6 +1446,20 @@
 							affix_data: {
 								sockets: 0
 							}
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "213675A9D04C0579"
+					item: {
+						Count: 1
+						id: "minecraft:enchanted_book"
+						tag: {
+							StoredEnchantments: [{
+								id: "minecraft:mending"
+								lvl: 1s
+							}]
 						}
 					}
 					type: "item"

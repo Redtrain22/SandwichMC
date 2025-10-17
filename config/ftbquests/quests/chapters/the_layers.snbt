@@ -136,6 +136,20 @@
 					type: "xp_levels"
 					xp_levels: 20
 				}
+				{
+					id: "56C223B4C29B89E4"
+					item: {
+						Count: 1
+						id: "minecraft:enchanted_book"
+						tag: {
+							StoredEnchantments: [{
+								id: "minecraft:mending"
+								lvl: 1s
+							}]
+						}
+					}
+					type: "item"
+				}
 			]
 			size: 2.0d
 			tasks: [{
@@ -323,6 +337,21 @@
 					type: "xp_levels"
 					xp_levels: 100
 				}
+				{
+					count: 4
+					id: "637DB511CF43CA82"
+					item: {
+						Count: 1
+						id: "minecraft:enchanted_book"
+						tag: {
+							StoredEnchantments: [{
+								id: "minecraft:mending"
+								lvl: 1s
+							}]
+						}
+					}
+					type: "item"
+				}
 			]
 			size: 4.0d
 			tasks: [{
@@ -508,6 +537,7 @@
 					type: "item"
 				}
 				{
+					count: 10
 					id: "10CE3583F9BE3C42"
 					item: "apotheosis:boss_summoner"
 					type: "item"
