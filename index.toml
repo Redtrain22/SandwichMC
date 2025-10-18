@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/Deep Void Config.toml"
-hash = "035cda6339a29fad0a6e5cc2617e5e2ed8954f6597b2ad211bfeb033a3541ba5"
+hash = "82d0d8849284f7b39ab8a791cc5b1266149a7f2a47c153005f32441e34659dc1"
 
 [[files]]
 file = "config/RazorTyrantModConfigs.toml"
@@ -18,7 +18,7 @@ hash = "778f504034cb71a687ba1c82c279a215b7c163e05e4ed490efdd9ccff993c4b7"
 
 [[files]]
 file = "config/armageddon_mod_config.toml"
-hash = "34621dc15a1bb4f5dd5014544a42ace9e8a17d47151d8aaf2819d4fee2261805"
+hash = "2132327502dee89cfbfa290b99e2e32092768fb6aec6c9c055615481172ceb86"
 
 [[files]]
 file = "config/badmobs-common.toml"
@@ -119,7 +119,7 @@ metafile = true
 
 [[files]]
 file = "config/skilltree-common.toml"
-hash = "ffe67fc6e997d0ec0b2f4b67509d211ac94af44cad919cfc0e26d3d343f42919"
+hash = "a0e7b32333b1a2155282ce1a3e33ba09cf5990c10e3caf78ad3256ab8d5120bd"
 
 [[files]]
 file = "config/torchesbecomesunlight-common.toml"
@@ -1346,6 +1346,11 @@ metafile = true
 [[files]]
 file = "mods/razor-tyrant-the-reign-of-terror.pw.toml"
 hash = "bbbae2e10470be8bcf75af7925f4f9cc00e66e172563371faf6d79bc2795da48"
+metafile = true
+
+[[files]]
+file = "mods/refined-storage-addons.pw.toml"
+hash = "3e32f49f3c57643bde66e53f023e9f83541d0a7e36a131ca06355324351cb041"
 metafile = true
 
 [[files]]

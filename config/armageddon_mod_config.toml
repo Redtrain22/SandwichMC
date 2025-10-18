@@ -39,7 +39,7 @@
 
 	[Hardmode.hardmode_damage_modifier]
 		#This number increases the damages of entities when entering hardmode troughout a multiplication. Default = 2.0 and don't forget the number and the dot
-		hardmode_damage_modifier = 2.0
+		hardmode_damage_modifier = 2.2
 
 ["Gapple Sickness"]
 
