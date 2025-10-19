@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/Deep Void Config.toml"
-hash = "0d39fd424edcd9ad05276fd83ac51af8b1f1ff4670904e399622cabecf66624b"
+hash = "82d0d8849284f7b39ab8a791cc5b1266149a7f2a47c153005f32441e34659dc1"
 
 [[files]]
 file = "config/RazorTyrantModConfigs.toml"
@@ -1346,6 +1346,11 @@ metafile = true
 [[files]]
 file = "mods/razor-tyrant-the-reign-of-terror.pw.toml"
 hash = "bbbae2e10470be8bcf75af7925f4f9cc00e66e172563371faf6d79bc2795da48"
+metafile = true
+
+[[files]]
+file = "mods/refined-storage-addons.pw.toml"
+hash = "3e32f49f3c57643bde66e53f023e9f83541d0a7e36a131ca06355324351cb041"
 metafile = true
 
 [[files]]

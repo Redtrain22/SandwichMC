@@ -10,7 +10,7 @@
 	#If the Deep Void should have fog or not
 	DeepVoidFog = true
 	#If blocks under specific biomes should generate plants on top of them to make the cave biome (this depends on random tick speed). If the server lags a lot, set this to true
-	StopActiveBlockGeneration = false
+	StopActiveBlockGeneration = true
 	#If the old structure with the hole to the void should generate in the overworld instead of the new version
 	OldHoleStructure = false
 	#At which Y level should the structure in the Overworld generate (this needs to be at the deepest layer where bedrock generates)
