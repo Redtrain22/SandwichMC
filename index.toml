@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/Deep Void Config.toml"
-hash = "82d0d8849284f7b39ab8a791cc5b1266149a7f2a47c153005f32441e34659dc1"
+hash = "0d39fd424edcd9ad05276fd83ac51af8b1f1ff4670904e399622cabecf66624b"
 
 [[files]]
 file = "config/RazorTyrantModConfigs.toml"
