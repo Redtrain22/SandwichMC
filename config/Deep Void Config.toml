@@ -55,3 +55,18 @@
 	DeepVoidTp = false
 	#Should players be able to mine Primordial Stone with the Shatterbone Pickaxe
 	AllowMiningPrimordialStone = true
+
+["Gameplay Changes"]
+	#When a player dies, they get sent to the Deep Void
+	Hell = false
+	#The player spawns in the Deep Void
+	EndlessAbyss = false
+	#Like Hell, but when the player dies in the Deep Void, they stay in the Deep Void
+	Purgatory = false
+	#If torches should be given to players that respawn in the Deep Void (through Hell or Purgatory)
+	GiveTorches = true
+
+["Critical Changes"]
+	#If true, the old structure containing the Weaver Of Souls will be overwritten by the new one (this WILL destroy anything around it)
+	OverwriteWithSepulcher = false
+	OverwriteWithTemple = false

@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/Deep Void Config.toml"
-hash = "82d0d8849284f7b39ab8a791cc5b1266149a7f2a47c153005f32441e34659dc1"
+hash = "857ab9098f84740c4c27c6ad57fce88bb98592c85d1ebd1b8841a48d6c001c78"
 
 [[files]]
 file = "config/RazorTyrantModConfigs.toml"
@@ -161,11 +161,6 @@ metafile = true
 [[files]]
 file = "mods/alexs-caves.pw.toml"
 hash = "538975fa938f7435a3c865d32262b8ecc08c47cb4eb3a24f6f3e29e4caf825d3"
-metafile = true
-
-[[files]]
-file = "mods/alexs-mobs.pw.toml"
-hash = "c107c014f7703badbf59958405f64b888a1b5a56e21d8092e204c851032c3a6e"
 metafile = true
 
 [[files]]
@@ -1466,11 +1461,6 @@ metafile = true
 [[files]]
 file = "mods/spartan-weaponry.pw.toml"
 hash = "704e14ffc45b931acee778ad65f15647034317e52a39d2c966b476e4bc9ea0e5"
-metafile = true
-
-[[files]]
-file = "mods/special-mobs.pw.toml"
-hash = "a5c08274934ce31d1318a6948933e8483ce4effe449254e9dcc13f621e7ffb75"
 metafile = true
 
 [[files]]
