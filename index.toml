@@ -9,6 +9,10 @@ file = "config/RazorTyrantModConfigs.toml"
 hash = "87db9b50fe5f775fb4041286df893a01f3881d665d34c7a5b1fcfb91b19e0913"
 
 [[files]]
+file = "config/ae2/common.json"
+hash = "7906b19c34a1319400df3e37522288fb5ff0e87498ac49dc0ea2daeda1ef34aa"
+
+[[files]]
 file = "config/apotheosis/adventure.cfg"
 hash = "b8f07d5bbd824e924ba5ba47b7c98fe8b351569073cde939b4dff1dd6de6cc20"
 
@@ -99,6 +103,10 @@ hash = "a4dcf9cc2e7f541fe73ee2f9780694cb8e9c7738a0a06e2a456453c3a47a8b9d"
 [[files]]
 file = "config/iceandfire-common.tmol"
 hash = "c439ba696cda91028796b66711ceb0b3f62d6234f9f0267418f5edd416458233"
+
+[[files]]
+file = "config/incontrol/spawn.json"
+hash = "f0db411e94d9a42f09a6f49f9a8104452588741c15ca6a554b26e85262784f4a"
 
 [[files]]
 file = "config/l2_configs/l2hostility-common.toml"
@@ -886,6 +894,11 @@ metafile = true
 [[files]]
 file = "mods/immersivemusicmod.pw.toml"
 hash = "956fa095865b2936239b0c221682c1acfe5d5f38b501394cc2839ddb1d1d9a8c"
+metafile = true
+
+[[files]]
+file = "mods/in-control.pw.toml"
+hash = "351c6d449ed1e22f60b3a3ff9c142b49b0cb393e54e5795ea61cd44914397a59"
 metafile = true
 
 [[files]]

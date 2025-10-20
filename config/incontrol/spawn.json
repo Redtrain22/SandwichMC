@@ -1,0 +1,15 @@
+[
+  {
+    "when": "onjoin",
+    "spawntype": ["mob_summoned", "spawn_egg"],
+    "result": "default"
+  },
+  {
+    "when": "onjoin",
+    "mincount": {
+      "amount": 15,
+      "perplayer": true
+    },
+    "result": "deny"
+  }
+]
