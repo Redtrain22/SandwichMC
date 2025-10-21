@@ -487,6 +487,11 @@ hash = "529cb6fcc5d520fd81a1e1f6f78acf5c6b3f5401952d3b672445e1a8240fb027"
 metafile = true
 
 [[files]]
+file = "mods/crafting-on-a-stick.pw.toml"
+hash = "33c56c189134e3f954091dc6144358344b1da51abb9e8c9432b61592d1448681"
+metafile = true
+
+[[files]]
 file = "mods/create-central-kitchen.pw.toml"
 hash = "4f1ef3bd32aae24ee58d0576aa108b3bdb8d29d78f81271a089c775f198d4dc0"
 metafile = true
@@ -1279,6 +1284,11 @@ metafile = true
 [[files]]
 file = "mods/pick-up-notifier.pw.toml"
 hash = "0fd5b27087ffe34d22dbdbdec6cae53f0a58b839ab8e4c423a5255f2b406e27b"
+metafile = true
+
+[[files]]
+file = "mods/pipez.pw.toml"
+hash = "36b5bf6dbe0178b0b46a31806653cfe9a811c5d1c133852a9a58ca1f7f8d9393"
 metafile = true
 
 [[files]]
