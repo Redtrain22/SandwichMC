@@ -352,11 +352,6 @@ hash = "fdcff7ca99cbb6acb4fed98039a3bbae1c6b3a9d61df94039d8e3c4c86424b55"
 metafile = true
 
 [[files]]
-file = "mods/beware-the-rain.pw.toml"
-hash = "6b20cb1dbc0538273fcb1f18031b64e176bc34bf0229948dfec32506c8e78a14"
-metafile = true
-
-[[files]]
 file = "mods/biggerstacks.pw.toml"
 hash = "933be281f0bbab0fbe546924d27c4a481a3021169b62a6c91251c53659e4891d"
 metafile = true
