@@ -18,7 +18,7 @@ hash = "b8f07d5bbd824e924ba5ba47b7c98fe8b351569073cde939b4dff1dd6de6cc20"
 
 [[files]]
 file = "config/apotheosis/enchantments.cfg"
-hash = "778f504034cb71a687ba1c82c279a215b7c163e05e4ed490efdd9ccff993c4b7"
+hash = "cf691d04a9e4abcd1da321708ec8d3e8e1264b2d4ab5fb7091435959a1edaec5"
 
 [[files]]
 file = "config/armageddon_mod_config.toml"
@@ -110,7 +110,7 @@ hash = "f0db411e94d9a42f09a6f49f9a8104452588741c15ca6a554b26e85262784f4a"
 
 [[files]]
 file = "config/l2_configs/l2hostility-common.toml"
-hash = "5f1dfd2e398712bd07c3444c9752d7c5820e03871a7f9dd6464a576be3c7c3c5"
+hash = "d6956f1a5dcfe343db0564ffbf7fed81446b59c454bf412890742f9f3b3699f1"
 
 [[files]]
 file = "config/mcdw/mcdw_stats_config.json5"
@@ -144,6 +144,11 @@ hash = "ec86bc5daeaf20e86bd077351fda362b6557e134c283e27f8f08eeb4619a56e2"
 [[files]]
 file = "mods/(mortius)-the-deep-void.pw.toml"
 hash = "fb180c46efba37e6c0e8c27cfe5ee8db3f29e9e97d40af5808a39341e8cd8ca3"
+metafile = true
+
+[[files]]
+file = "mods/aaa-particles.pw.toml"
+hash = "f8ac4e2ed73bed1f04238b29ae911da5c7190cf2d1f81bf35923b7f34b73c0b2"
 metafile = true
 
 [[files]]
@@ -262,6 +267,11 @@ hash = "0f7c6bd4ca02cd76697ebf50a910bfa71a6a2359de4560183cf77794960429b2"
 metafile = true
 
 [[files]]
+file = "mods/arphex.pw.toml"
+hash = "bf6fe0a36a80c67f54284b64b136dcd66e75db367277dab03981ae467bf39f80"
+metafile = true
+
+[[files]]
 file = "mods/artifacts.pw.toml"
 hash = "8c275bfba20fdbe766b00fa5bc5a713affb82554f411468838a001b21c00fced"
 metafile = true
@@ -339,6 +349,11 @@ metafile = true
 [[files]]
 file = "mods/better-ping-display.pw.toml"
 hash = "fdcff7ca99cbb6acb4fed98039a3bbae1c6b3a9d61df94039d8e3c4c86424b55"
+metafile = true
+
+[[files]]
+file = "mods/beware-the-rain.pw.toml"
+hash = "6b20cb1dbc0538273fcb1f18031b64e176bc34bf0229948dfec32506c8e78a14"
 metafile = true
 
 [[files]]
@@ -429,6 +444,11 @@ metafile = true
 [[files]]
 file = "mods/citadel.pw.toml"
 hash = "4191b1dc1a4a03fd2b489bcb030a819db122eefecd7d04d31973f2c4fa19db75"
+metafile = true
+
+[[files]]
+file = "mods/clockworklib.pw.toml"
+hash = "958a2307f72fffe8e65ef29e612a759eba1d7348f7db029d39e36ff2257f06cb"
 metafile = true
 
 [[files]]
@@ -584,6 +604,11 @@ metafile = true
 [[files]]
 file = "mods/data-anchor.pw.toml"
 hash = "0abffd30e8b2739c87cfd20d5652c28d2995b929a6bfd8d555acd71565bf11a2"
+metafile = true
+
+[[files]]
+file = "mods/dawn-of-the-flood.pw.toml"
+hash = "fc74037240607661dfcb2bdea4dfae62150239030daced35c5b35231dc9ecd3e"
 metafile = true
 
 [[files]]
@@ -794,6 +819,11 @@ metafile = true
 [[files]]
 file = "mods/friends-and-foes-forge.pw.toml"
 hash = "9b26443d8a0a52727dbea33487145e7f9ad495bfee7fc21a462c815a1f5fc563"
+metafile = true
+
+[[files]]
+file = "mods/from-the-fog.pw.toml"
+hash = "49dfc6e8737d45a945e5a91cfd19ec8e810eec40a0f8c16d19690633c440aca1"
 metafile = true
 
 [[files]]
@@ -1262,11 +1292,6 @@ hash = "9cf64722ecfc9f521522bce0da19afff460129f5a718892ce94e89c2765c82c9"
 metafile = true
 
 [[files]]
-file = "mods/paragliders.pw.toml"
-hash = "d1a4b77413bf8514fb0275683bf9451a3c6336799e86678f600ff9521795a94e"
-metafile = true
-
-[[files]]
 file = "mods/passive-skill-tree.pw.toml"
 hash = "b1b64fa46d74b4457d316d7eef6465f1280a224f86f28c4c8bf880e1dacfe9a8"
 metafile = true
@@ -1279,6 +1304,11 @@ metafile = true
 [[files]]
 file = "mods/pehkui.pw.toml"
 hash = "7c334196e474463949d42ea741afe7177f09572bdf50edf51fb7bd90a1093d5e"
+metafile = true
+
+[[files]]
+file = "mods/phayriosis-parasite-infection.pw.toml"
+hash = "ea64d2de0234ce3f9011194de9b936c339be4282bed76d4d04e24d5bdf6063e9"
 metafile = true
 
 [[files]]
@@ -1554,6 +1584,11 @@ metafile = true
 [[files]]
 file = "mods/the-graveyard-forge.pw.toml"
 hash = "d54e2a189320e39820fb2fb75caa2aa99a44393bbd36a9215ee534039f9d64d8"
+metafile = true
+
+[[files]]
+file = "mods/the-knocker.pw.toml"
+hash = "c8976c9b6bf39018977ee2c8c2340992d325f61677d3bf324fe98fb16f7b4a00"
 metafile = true
 
 [[files]]
