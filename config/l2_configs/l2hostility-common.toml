@@ -6,12 +6,12 @@ enableStructureSpecificDatapack = true
 [scaling]
 	#Health factor per level
 	#Range: 0.0 ~ 1000.0
-	healthFactor = 0.066
+	healthFactor = 0.060
 	#Use exponential health
 	exponentialHealth = false
 	#Damage factor per level
 	#Range: 0.0 ~ 1000.0
-	damageFactor = 0.0042
+	damageFactor = 0.0045
 	#Use exponential damage
 	exponentialDamage = false
 	#Experience drop factor per level
@@ -27,7 +27,7 @@ enableStructureSpecificDatapack = true
 	enchantmentFactor = 0.0
 	#Difficulty bonus per level visited
 	#Range: 0 ~ 1000
-	dimensionFactor = 5
+	dimensionFactor = 2
 	#Difficulty bonus per block from origin
 	#Range: 0.0 ~ 1000.0
 	distanceFactor = 0.005
@@ -53,7 +53,7 @@ enableStructureSpecificDatapack = true
 	allowExtraEnchantments = true
 	#Default dimension base difficulty for mod dimensions
 	#Range: 0 ~ 1000
-	defaultLevelBase = 20
+	defaultLevelBase = 50
 	#Default dimension difficulty variation for mod dimensions
 	#Range: 0.0 ~ 1000.0
 	defaultLevelVar = 16.0
@@ -93,7 +93,7 @@ enableStructureSpecificDatapack = true
 	maxMobLevel = 10000
 	#Difficulty increment takes this many kills of same level mob
 	#Range: 1 ~ 100000
-	killsPerLevel = 15
+	killsPerLevel = 10
 	#Decay in player difficulty on death
 	#Range: 0.0 ~ 2.0
 	playerDeathDecay = 0.5
@@ -105,19 +105,19 @@ enableStructureSpecificDatapack = true
 	deathDecayTraitCap = false
 	#Mobs spawned within this range will use lowest player level in range instead of nearest player's level to determine mob level
 	#Range: 0 ~ 128
-	newPlayerProtectRange = 30
+	newPlayerProtectRange = 40
 
 [orb_and_spawner]
 	#Allow to use hostility orb
-	allowHostilityOrb = true
+	allowHostilityOrb = false
 	#Give player hostility orbs when upleveling difficulty
-	enableHostilityOrbDrop = true
+	enableHostilityOrbDrop = false
 	#Radius for Hostility Orb to take effect.
 	#0 means 1x1x1 section, 1 means 3x3x3 sections, 2 means 5x5x5 sections
 	#Range: 0 ~ 10
 	orbRadius = 2
 	#Allow to use hostility spawner
-	allowHostilitySpawner = true
+	allowHostilitySpawner = false
 	#Number of mobs to spawn in Hostility Spawner
 	#Range: 1 ~ 64
 	hostilitySpawnCount = 16

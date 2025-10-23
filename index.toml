@@ -6,7 +6,7 @@ hash = "857ab9098f84740c4c27c6ad57fce88bb98592c85d1ebd1b8841a48d6c001c78"
 
 [[files]]
 file = "config/RazorTyrantModConfigs.toml"
-hash = "87db9b50fe5f775fb4041286df893a01f3881d665d34c7a5b1fcfb91b19e0913"
+hash = "0f39ee4c714da04c022f071cb4ec2713add4d80b1d01317fbec70db98bf75333"
 
 [[files]]
 file = "config/ae2/common.json"
@@ -110,7 +110,7 @@ hash = "f0db411e94d9a42f09a6f49f9a8104452588741c15ca6a554b26e85262784f4a"
 
 [[files]]
 file = "config/l2_configs/l2hostility-common.toml"
-hash = "d6956f1a5dcfe343db0564ffbf7fed81446b59c454bf412890742f9f3b3699f1"
+hash = "baf38d260b62462cc221b24a3564e65a1bcbd361038adeaabbd3637b4074813e"
 
 [[files]]
 file = "config/mcdw/mcdw_stats_config.json5"
@@ -127,7 +127,7 @@ metafile = true
 
 [[files]]
 file = "config/skilltree-common.toml"
-hash = "a0e7b32333b1a2155282ce1a3e33ba09cf5990c10e3caf78ad3256ab8d5120bd"
+hash = "e339d7af8815a8fee955291e424896703d95029b50b1bac4c59ffdef2db3cb46"
 
 [[files]]
 file = "config/torchesbecomesunlight-common.toml"
@@ -817,6 +817,11 @@ hash = "9b26443d8a0a52727dbea33487145e7f9ad495bfee7fc21a462c815a1f5fc563"
 metafile = true
 
 [[files]]
+file = "mods/from-the-cave.pw.toml"
+hash = "11b537f842788cc154f666980ecc44a2fa9d7c4f3b521163cf8ebab5e4d8c4e1"
+metafile = true
+
+[[files]]
 file = "mods/from-the-fog.pw.toml"
 hash = "49dfc6e8737d45a945e5a91cfd19ec8e810eec40a0f8c16d19690633c440aca1"
 metafile = true
@@ -1382,11 +1387,6 @@ hash = "4eb683644ee4e38e00b06df946b71ad8fedaa860fcabbd91ec6ceb71c65b8d81"
 metafile = true
 
 [[files]]
-file = "mods/quarry.pw.toml"
-hash = "c29d9a34870470695d0e348e82817a13f29abefcf3f3a643a9dac01c2dc5ef94"
-metafile = true
-
-[[files]]
 file = "mods/razor-tyrant-the-reign-of-terror.pw.toml"
 hash = "bbbae2e10470be8bcf75af7925f4f9cc00e66e172563371faf6d79bc2795da48"
 metafile = true
@@ -1444,6 +1444,11 @@ metafile = true
 [[files]]
 file = "mods/saturn.pw.toml"
 hash = "45646ed86d783d82cc2b804466d4aaf06a67e14766928f17134d02558179f3f0"
+metafile = true
+
+[[files]]
+file = "mods/scp-031-what-is-love.pw.toml"
+hash = "bebf8443eabe1518a3a78b46b9e57ae4637fb8d69dbe68d982afbcb35ad1df90"
 metafile = true
 
 [[files]]
@@ -1514,6 +1519,11 @@ metafile = true
 [[files]]
 file = "mods/species.pw.toml"
 hash = "62edccaa4927727a7aeec441579cb4c026cb24994c5044f3397062c405f4f7f4"
+metafile = true
+
+[[files]]
+file = "mods/starving-skeletons.pw.toml"
+hash = "82783212d4610b519060969ccde8730c9e2e020bc0a8f88ba781aaff9c1395ee"
 metafile = true
 
 [[files]]

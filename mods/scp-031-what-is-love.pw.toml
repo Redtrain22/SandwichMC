@@ -1,0 +1,13 @@
+name = "SCP-031, What is Love?"
+filename = "WhatIsLove-forge-1.19.2-1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2dc01b222296142aa38b04e9296368edd7f59cd3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6932700
+project-id = 1335568

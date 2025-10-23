@@ -1,0 +1,13 @@
+name = "SCP-2863, Starving Skeletons"
+filename = "StarvingSkeleton-forge-1.19.2-1.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "de72cfd77b86c81ed54342e6e0bf15409c284638"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6678285
+project-id = 1033376
