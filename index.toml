@@ -94,7 +94,7 @@ hash = "ae0f5c1baf1169a8324dcfb0b663c269f7e2223c6f2eedde9db0276d3297378f"
 
 [[files]]
 file = "config/hardcorerevival-common.toml"
-hash = "715a01814ab8bcc7a84b6f7a620a392368d42435cea61bdec289a86e27d5f25c"
+hash = "203252740f6430117802ec2a351a53eaa5452476060739122101d71726fca0e0"
 
 [[files]]
 file = "config/iceandfire-client.toml"
@@ -1758,6 +1758,16 @@ hash = "dcb678011adfb3c69ecb006538c0f2fb0ab14782cb6c28f3fb979b9e009e0f60"
 [[files]]
 file = "shaderpacks/complementary-unbound.pw.toml"
 hash = "31a556b016efbadaa2a84c88d1b79fd71d94ad4303d7e5c4a1874698ba3ea58e"
+metafile = true
+
+[[files]]
+file = "shaderpacks/hysteria-shaders.pw.toml"
+hash = "cea5341a59deb412e357ec5e2a6fed4c1afc452f570208147644271a8d3ff334"
+metafile = true
+
+[[files]]
+file = "shaderpacks/insanity-shader.pw.toml"
+hash = "e8263f4018e7c3cefc5c11416b96511b3269c9a553cad09ae5fdfb75f7fd18bb"
 metafile = true
 
 [[files]]
