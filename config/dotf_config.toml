@@ -22,7 +22,7 @@
 	["Mob Stuff"."Base Forms ( Human / Villager / Player )"]
 		#Default 25
 		#Range: 12.0 ~ 1.7976931348623157E308
-		"Sets Base Form's Max health" = 25.0
+		"Sets Base Form's Max health" = 12.0
 		#Default 7
 		#Range: 4.0 ~ 1.7976931348623157E308
 		"Sets Base Form's Damage" = 7.0
@@ -84,7 +84,7 @@
 	["Mob Stuff"."Sangheili Forms"]
 		#Default 65
 		#Range: 20.0 ~ 1.7976931348623157E308
-		"Sets Sangheili Form's Max health" = 15.0
+		"Sets Sangheili Form's Max health" = 18.0
 		#Default 15
 		#Range: 5.0 ~ 1.7976931348623157E308
 		"Sets Sangheili Form's Damage" = 15.0
@@ -111,7 +111,7 @@
 	["Mob Stuff"."Brute Forms"]
 		#Default 90
 		#Range: 35.0 ~ 1.7976931348623157E308
-		"Sets Brute Form's Max health" = 15.0
+		"Sets Brute Form's Max health" = 18.0
 		#Default 20
 		#Range: 10.0 ~ 1.7976931348623157E308
 		"Sets Brute Form's Damage" = 20.0
@@ -264,7 +264,7 @@
 	["Mob Stuff"."Juggernaut Forms"]
 		#Default 275
 		#Range: 125.0 ~ 1.7976931348623157E308
-		"Sets Juggernaut Form's Max health" = 150.0
+		"Sets Juggernaut Form's Max health" = 120.0
 		#Default 25
 		#Range: 8.0 ~ 1.7976931348623157E308
 		"Sets Juggernaut Form's Damage" = 25.0
@@ -280,7 +280,7 @@
 	["Mob Stuff"."Tyrant Forms"]
 		#Default 225
 		#Range: 100.0 ~ 1.7976931348623157E308
-		"Sets Tyrant Form's Max health" = 150.0
+		"Sets Tyrant Form's Max health" = 100.0
 		#Default 20
 		#Range: 7.0 ~ 1.7976931348623157E308
 		"Sets Tyrant Form's Damage" = 20.0
@@ -341,7 +341,7 @@
 	["Mob Stuff"."Flooded Creeper"]
 		#Default 30
 		#Range: 10.0 ~ 1.7976931348623157E308
-		"Sets Flooded Creeper's Max health" = 30.0
+		"Sets Flooded Creeper's Max health" = 15.0
 		#Default 7.0
 		#Range: 3.5 ~ 1.7976931348623157E308
 		"Sets Flooded Creeper's Damage" = 7.0

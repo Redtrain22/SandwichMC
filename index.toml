@@ -46,7 +46,7 @@ hash = "d38a606b74efa70b513b65d2c92c50276cf0669538b5107d6cca7e1ad01a80f8"
 
 [[files]]
 file = "config/dotf_config.toml"
-hash = "fe2c58468fde51316980ccba4651b4b0f29593fbe5d99b33cae76d11007dfc57"
+hash = "e5f3f002b46d07b0dfdd5f06da44a1e391cebc01226f2ed0ead3c2f410336dcf"
 
 [[files]]
 file = "config/enhancedai/common.toml"
@@ -744,16 +744,6 @@ metafile = true
 [[files]]
 file = "mods/enhanced-celestials.pw.toml"
 hash = "2d4f27e8f799e993464d54573d9ea949908146529fbfc25e7b930213edbe3d34"
-metafile = true
-
-[[files]]
-file = "mods/enigmatic-addons.pw.toml"
-hash = "752aca69d42f9bb7ad532e880f80537ba1c54a8d8d2fa49f076892e4894181d1"
-metafile = true
-
-[[files]]
-file = "mods/enigmatic-legacy.pw.toml"
-hash = "116022cb729c9c200f5df61b50942c794c1c3ac789da9d163ada556790554bec"
 metafile = true
 
 [[files]]
