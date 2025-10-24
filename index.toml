@@ -45,8 +45,8 @@ file = "config/combatroll/server.json5"
 hash = "d38a606b74efa70b513b65d2c92c50276cf0669538b5107d6cca7e1ad01a80f8"
 
 [[files]]
-file = "config/doft_config.toml"
-hash = "ce5b5d91db8ad3d706b96e318562d2af672865d458ae99bfa520ebd4d85ae296"
+file = "config/dotf_config.toml"
+hash = "fe2c58468fde51316980ccba4651b4b0f29593fbe5d99b33cae76d11007dfc57"
 
 [[files]]
 file = "config/enhancedai/common.toml"

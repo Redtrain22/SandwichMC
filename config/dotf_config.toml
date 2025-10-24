@@ -63,7 +63,7 @@
 	["Mob Stuff"."Marine Forms"]
 		#Default 35
 		#Range: 15.0 ~ 1.7976931348623157E308
-		"Sets Marine Form's Max health" = 35.0
+		"Sets Marine Form's Max health" = 15.0
 		#Default 12
 		#Range: 4.0 ~ 1.7976931348623157E308
 		"Sets Marine Form's Damage" = 12.0
@@ -84,7 +84,7 @@
 	["Mob Stuff"."Sangheili Forms"]
 		#Default 65
 		#Range: 20.0 ~ 1.7976931348623157E308
-		"Sets Sangheili Form's Max health" = 35.0
+		"Sets Sangheili Form's Max health" = 15.0
 		#Default 15
 		#Range: 5.0 ~ 1.7976931348623157E308
 		"Sets Sangheili Form's Damage" = 15.0
@@ -111,7 +111,7 @@
 	["Mob Stuff"."Brute Forms"]
 		#Default 90
 		#Range: 35.0 ~ 1.7976931348623157E308
-		"Sets Brute Form's Max health" = 35.0
+		"Sets Brute Form's Max health" = 15.0
 		#Default 20
 		#Range: 10.0 ~ 1.7976931348623157E308
 		"Sets Brute Form's Damage" = 20.0
@@ -136,7 +136,7 @@
 	["Mob Stuff"."Jackal Forms"]
 		#Default 30
 		#Range: 10.0 ~ 1.7976931348623157E308
-		"Sets Jackal Form's Max health" = 30.0
+		"Sets Jackal Form's Max health" = 15.0
 		#Default 10
 		#Range: 3.0 ~ 1.7976931348623157E308
 		"Sets Jackal Form's Damage" = 10.0
@@ -147,7 +147,7 @@
 		#Default true
 		"Should Jackal Forms break blocks?" = false
 		#Default true
-		"Should Jackal Forms use guns?" = true
+		"Should Jackal Forms use guns?" = false
 		#Default true
 		"Should Jackal Forms NOT despawn after they have seen a target for too long?" = true
 		#Default 7000
@@ -157,7 +157,7 @@
 	["Mob Stuff"."Carrier Forms"]
 		#Default 35
 		#Range: 10.0 ~ 1.7976931348623157E308
-		"Sets Carrier Form's Max health" = 35.0
+		"Sets Carrier Form's Max health" = 10.0
 		#Default 0
 		#Range: 0.0 ~ 1.7976931348623157E308
 		"Sets Carrier Form's Damage" = 0.0
@@ -206,7 +206,7 @@
 	["Mob Stuff"."Enderman Form"]
 		#Default 55
 		#Range: 15.0 ~ 1.7976931348623157E308
-		"Sets Enderman Form's Max health" = 25.0
+		"Sets Enderman Form's Max health" = 15.0
 		#Default 11
 		#Range: 3.0 ~ 1.7976931348623157E308
 		"Sets Enderman Form's Damage" = 6.0
@@ -226,7 +226,7 @@
 	["Mob Stuff"."Maw Form"]
 		#Default 75
 		#Range: 30.0 ~ 1.7976931348623157E308
-		"Sets Maw Form's Max health" = 50.0
+		"Sets Maw Form's Max health" = 20.0
 		#Default 20
 		#Range: 5.0 ~ 1.7976931348623157E308
 		"Sets Maw Form's Damage" = 20.0
@@ -239,7 +239,7 @@
 	["Mob Stuff"."Flooded Golems"]
 		#Default 120
 		#Range: 50.0 ~ 1.7976931348623157E308
-		"Sets Flooded Golem's Max health" = 50.0
+		"Sets Flooded Golem's Max health" = 20.0
 		#Default 25
 		#Range: 10.0 ~ 1.7976931348623157E308
 		"Sets Flooded Golem's Damage" = 25.0
@@ -374,7 +374,7 @@
 		#Default 300
 		"The intel number that defines how many more intel points need to be accumulated before a milestone is completed from the previous one" = 300
 		#Default true
-		"Should Proto Graveminds cause screen shakes when certain events fire it to do so?" = true
+		"Should Proto Graveminds cause screen shakes when certain events fire it to do so?" = false
 		#Default true
 		"Should Proto Graveminds have the ability to regenerate?" = true
 
