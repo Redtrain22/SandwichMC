@@ -18,7 +18,7 @@ hash = "b8f07d5bbd824e924ba5ba47b7c98fe8b351569073cde939b4dff1dd6de6cc20"
 
 [[files]]
 file = "config/apotheosis/enchantments.cfg"
-hash = "cf691d04a9e4abcd1da321708ec8d3e8e1264b2d4ab5fb7091435959a1edaec5"
+hash = "9dd338053e6ad16eb05aa77ccf0215ca7271d7a7b838b858f118f9bab02764a1"
 
 [[files]]
 file = "config/armageddon_mod_config.toml"
@@ -1448,7 +1448,7 @@ metafile = true
 
 [[files]]
 file = "mods/scp-031-what-is-love.pw.toml"
-hash = "bebf8443eabe1518a3a78b46b9e57ae4637fb8d69dbe68d982afbcb35ad1df90"
+hash = "27d17cae37cd138d1657d3ed37967542ee75aad70d6ce786c1557913b8e85ec1"
 metafile = true
 
 [[files]]
@@ -1523,7 +1523,7 @@ metafile = true
 
 [[files]]
 file = "mods/starving-skeletons.pw.toml"
-hash = "82783212d4610b519060969ccde8730c9e2e020bc0a8f88ba781aaff9c1395ee"
+hash = "90ae31663e2f515f6b41dde63d9021f53e906c79cb29abc4fb53d5d14dc0ac67"
 metafile = true
 
 [[files]]
