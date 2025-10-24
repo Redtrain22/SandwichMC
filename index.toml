@@ -807,6 +807,11 @@ hash = "4a73f04a8986129d79ea4f283a0a33ce51af17079b6efa23596af5bc685e1c1e"
 metafile = true
 
 [[files]]
+file = "mods/foolish.pw.toml"
+hash = "a5588a0b9b405f07f9bce40a3abafc3036e8b903b6c9b962578f2971d12d5d74"
+metafile = true
+
+[[files]]
 file = "mods/fragmentum.pw.toml"
 hash = "333f56dc6eef4e329a120146d4fe6ea194ec3abd012970f1ba044d6dbe0590c4"
 metafile = true
