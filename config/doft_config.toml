@@ -79,12 +79,12 @@
 		"Should Marine Forms NOT despawn after they have seen a target for too long?" = true
 		#Default 8000
 		"Sets Marine's time before it should STOP despawning when it has seen a target for too long" = 8000
-		"Guns that can be used by the marine forms" = ["mangler", "mk50_sidekick", "m6_magnum", "m90_shotgun", "needler", "m7_smg", "ma5b_rifle"]
+		"Guns that can be used by the marine forms" = ["mangler", "mk50_sidekick", "m6_magnum", "m90_shotgun", "m7_smg", "ma5b_rifle"]
 
 	["Mob Stuff"."Sangheili Forms"]
 		#Default 65
 		#Range: 20.0 ~ 1.7976931348623157E308
-		"Sets Sangheili Form's Max health" = 65.0
+		"Sets Sangheili Form's Max health" = 35.0
 		#Default 15
 		#Range: 5.0 ~ 1.7976931348623157E308
 		"Sets Sangheili Form's Damage" = 15.0
@@ -103,15 +103,15 @@
 		#Default true
 		"Should Sangheili Forms NOT despawn after they have seen a target for too long?" = true
 		#Default true
-		"Should Sangheili Forms glow in the dark? MAY BE OVERWRITTEN WHEN USING SHADERS" = true
+		"Should Sangheili Forms glow in the dark? MAY BE OVERWRITTEN WHEN USING SHADERS" = false
 		#Default 7500
 		"Sets Sangheili's time before it should STOP despawning when it has seen a target for too long" = 7500
-		"Guns that can be used by the sangheili forms" = ["mangler", "mk50_sidekick", "m6_magnum", "m90_shotgun", "needler", "m7_smg", "ma5b_rifle"]
+		"Guns that can be used by the sangheili forms" = ["mangler", "mk50_sidekick", "m6_magnum", "m90_shotgun", "m7_smg", "ma5b_rifle"]
 
 	["Mob Stuff"."Brute Forms"]
 		#Default 90
 		#Range: 35.0 ~ 1.7976931348623157E308
-		"Sets Brute Form's Max health" = 90.0
+		"Sets Brute Form's Max health" = 35.0
 		#Default 20
 		#Range: 10.0 ~ 1.7976931348623157E308
 		"Sets Brute Form's Damage" = 20.0
@@ -152,7 +152,7 @@
 		"Should Jackal Forms NOT despawn after they have seen a target for too long?" = true
 		#Default 7000
 		"Sets Jackal's time before it should STOP despawning when it has seen a target for too long" = 7000
-		"Guns that can be used by the jackal forms" = ["needler"]
+		"Guns that can be used by the jackal forms" = ["mangler"]
 
 	["Mob Stuff"."Carrier Forms"]
 		#Default 35
@@ -206,10 +206,10 @@
 	["Mob Stuff"."Enderman Form"]
 		#Default 55
 		#Range: 15.0 ~ 1.7976931348623157E308
-		"Sets Enderman Form's Max health" = 55.0
+		"Sets Enderman Form's Max health" = 25.0
 		#Default 11
 		#Range: 3.0 ~ 1.7976931348623157E308
-		"Sets Enderman Form's Damage" = 11.0
+		"Sets Enderman Form's Damage" = 6.0
 		#Default true
 		"Should Enderman Forms regenerate?" = true
 		#Default true
@@ -226,7 +226,7 @@
 	["Mob Stuff"."Maw Form"]
 		#Default 75
 		#Range: 30.0 ~ 1.7976931348623157E308
-		"Sets Maw Form's Max health" = 75.0
+		"Sets Maw Form's Max health" = 50.0
 		#Default 20
 		#Range: 5.0 ~ 1.7976931348623157E308
 		"Sets Maw Form's Damage" = 20.0
@@ -239,7 +239,7 @@
 	["Mob Stuff"."Flooded Golems"]
 		#Default 120
 		#Range: 50.0 ~ 1.7976931348623157E308
-		"Sets Flooded Golem's Max health" = 120.0
+		"Sets Flooded Golem's Max health" = 50.0
 		#Default 25
 		#Range: 10.0 ~ 1.7976931348623157E308
 		"Sets Flooded Golem's Damage" = 25.0
@@ -264,7 +264,7 @@
 	["Mob Stuff"."Juggernaut Forms"]
 		#Default 275
 		#Range: 125.0 ~ 1.7976931348623157E308
-		"Sets Juggernaut Form's Max health" = 275.0
+		"Sets Juggernaut Form's Max health" = 150.0
 		#Default 25
 		#Range: 8.0 ~ 1.7976931348623157E308
 		"Sets Juggernaut Form's Damage" = 25.0
@@ -280,7 +280,7 @@
 	["Mob Stuff"."Tyrant Forms"]
 		#Default 225
 		#Range: 100.0 ~ 1.7976931348623157E308
-		"Sets Tyrant Form's Max health" = 225.0
+		"Sets Tyrant Form's Max health" = 150.0
 		#Default 20
 		#Range: 7.0 ~ 1.7976931348623157E308
 		"Sets Tyrant Form's Damage" = 20.0
@@ -300,7 +300,7 @@
 	["Mob Stuff"."Tank Forms"]
 		#Default 125
 		#Range: 50.0 ~ 1.7976931348623157E308
-		"Sets Tank Form's Max health" = 125.0
+		"Sets Tank Form's Max health" = 100.0
 		#Default 20
 		#Range: 10.0 ~ 1.7976931348623157E308
 		"Sets Tank Form's Damage" = 20.0
