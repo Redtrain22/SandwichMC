@@ -6,10 +6,10 @@
 	#Default values: true
 	enableIncubatorSpawn = true
 	#List of dimension IDs where incubators should not spawn.
-	"Incubator Dimension Blacklist" = ["minecraft:the_nether", "minecraft:the_end"]
+	"Incubator Dimension Blacklist" = ["the_deep_void:deep_void", "minecraft:the_nether", "infinite_abyss:first_layer", "macabre:the_pit", "infinite_abyss:sixthlayer", "infinite_abyss:fourth_layer", "infinite_abyss:seventh_layer", "deeperdarker:otherside", "infinite_abyss:second_layer", "infinite_abyss:fifth_layer"]
 	#Minimum distance from a player's respawn point where incubators cannot spawn.
 	#Range: 0.0 ~ 10000.0
-	"spawnpoint do not spawn" = 300.0
+	"spawnpoint do not spawn" = 400.0
 	#Time (in ticks) after which the incubator will first emerge
 	#Default values: 1800 (20 seconds)
 	#Range: > 0
