@@ -46,7 +46,7 @@ hash = "d38a606b74efa70b513b65d2c92c50276cf0669538b5107d6cca7e1ad01a80f8"
 
 [[files]]
 file = "config/dotf_config.toml"
-hash = "73f07a78acb76401513b74345637c08c2bcce0d1de2813a02127e09167be4873"
+hash = "f7d45d0ca5a91a4d9473684667f26220db7a1011c4f5a52ece347543d437a6c0"
 
 [[files]]
 file = "config/enhancedai/common.toml"
@@ -899,11 +899,6 @@ metafile = true
 [[files]]
 file = "mods/illage-and-spillage-respillaged.pw.toml"
 hash = "f776acc7c92f1ad452babddd3de603a58e3ffa31cebf8d0ebdea7feba7340c95"
-metafile = true
-
-[[files]]
-file = "mods/illager-revolution.pw.toml"
-hash = "072080711b5672765485f7eb772b243b429fd39e32155675090efc46b3cd3d6b"
 metafile = true
 
 [[files]]

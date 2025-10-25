@@ -401,9 +401,9 @@
 		"Should Tremorsauruses (FROM ALEX'S CAVES) turn into tyrant forms?" = true
 		"Mobs that can turn into Human Forms" = ["minecraft:zombie", "spore:inf_human", "the_flesh_that_hates:flesh_human"]
 		"Mobs that can turn into Villager Forms" = ["minecraft:villager", "rotted:farmer", "guardvillagers:guard", "spore:inf_villager", "the_flesh_that_hates:flesh_villager"]
-		"Mobs that can turn into Pillager Forms" = ["minecraft:pillager", "spore:inf_pillager", "the_flesh_that_hates:flesh_pillager"]
+		"Mobs that can turn into Pillager Forms" = ["spore:inf_pillager", "the_flesh_that_hates:flesh_pillager"]
 		"Mobs that can turn into Vindicator Forms" = ["minecraft:vindicator", "spore:inf_vindicator", "the_flesh_that_hates:flesh_vindicator"]
-		"Mobs that can turn into Evoker Forms" = ["minecraft:evoker", "spore:inf_evoker"]
+		"Mobs that can turn into Evoker Forms" = [ "spore:inf_evoker"]
 		"Mobs that can turn into Enderman Forms" = ["minecraft:enderman"]
 		"Mobs that can turn into Flooded Golems" = ["minecraft:iron_golem"]
 		"Mobs that can turn into Tyrant Forms" = ["alexscaves:tremorsaurus"]
@@ -418,10 +418,10 @@
 
 	["Mob Stuff".Spawns]
 		#Default 120
-		MobCap = 20
+		MobCap = 30
 		#Default minecraft:is_overworld
 		"Dictates in what biome the flood forms spawn" = ["minecraft:is_overworld"]
-		"mob|weight|minimum|maximum" = ["dotf:pod_infector|6|4|6", "dotf:human_form|15|1|2", "dotf:player_form|11|1|1", "dotf:villager_form|13|1|2", "dotf:pillager_form|8|1|3", "dotf:vindicator_form|6|1|2", "dotf:carrier_form|12|1|2|", "dotf:sangheili_form|11|1|1|", "dotf:marine_form|20|1|3|", "dotf:enderman_form|5|1|1|", "dotf:maw_form|2|1|1|", "dotf:flood_tadpole|1|1|3|", "dotf:flooded_golem|3|1|1|", "dotf:juggernaut_form|5|1|1|", "dotf:tyrant_form|5|1|1", "dotf:bomber_form|3|1|1", "dotf:brute_form|9|1|1|", "dotf:flooded_creeper|4|1|1|", "dotf:grenadier_form|6|1|1|", "dotf:tank_form|18|1|1|", "dotf:jackal_form|3|1|3|"]
+		"mob|weight|minimum|maximum" = ["dotf:pod_infector|6|4|2", "dotf:human_form|15|1|2", "dotf:player_form|11|1|1", "dotf:villager_form|13|1|2", "dotf:pillager_form|8|1|3", "dotf:vindicator_form|6|1|2", "dotf:carrier_form|12|1|2|", "dotf:sangheili_form|11|1|1|", "dotf:marine_form|20|1|3|", "dotf:enderman_form|5|1|1|", "dotf:maw_form|2|1|1|", "dotf:flood_tadpole|1|1|3|", "dotf:flooded_golem|3|1|1|", "dotf:juggernaut_form|5|1|1|", "dotf:tyrant_form|5|1|1", "dotf:bomber_form|3|1|1", "dotf:brute_form|9|1|1|", "dotf:flooded_creeper|4|1|1|", "dotf:grenadier_form|6|1|1|", "dotf:tank_form|18|1|1|", "dotf:jackal_form|3|1|3|"]
 		"Mobs that spawn in laboratory type structures" = ["dotf:pod_infector|5|8|12", "dotf:marine_form|45|1|3", "dotf:sangheili_form|15|1|2"]
 
 	["Mob Stuff".Horde]
