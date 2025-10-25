@@ -10,7 +10,7 @@ hash = "0f39ee4c714da04c022f071cb4ec2713add4d80b1d01317fbec70db98bf75333"
 
 [[files]]
 file = "config/TFTH.toml"
-hash = "f0c9c9f2d337662d195461f3248203d65f4a65a5529901f1225b51f2ef49989a"
+hash = "f9b7221675457883e6354909c069b3bd5b373ce102200c1692c186f68f2ca8d3"
 
 [[files]]
 file = "config/ae2/common.json"
