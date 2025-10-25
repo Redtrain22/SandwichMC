@@ -147,11 +147,6 @@ hash = "fb180c46efba37e6c0e8c27cfe5ee8db3f29e9e97d40af5808a39341e8cd8ca3"
 metafile = true
 
 [[files]]
-file = "mods/aaa-particles.pw.toml"
-hash = "f8ac4e2ed73bed1f04238b29ae911da5c7190cf2d1f81bf35923b7f34b73c0b2"
-metafile = true
-
-[[files]]
 file = "mods/advanced-loot-info.pw.toml"
 hash = "9ff47173a2fe0120c72f6fbd3186b6ba41a696fa1e7cf11092489cf28c4bd619"
 metafile = true
@@ -442,11 +437,6 @@ hash = "4191b1dc1a4a03fd2b489bcb030a819db122eefecd7d04d31973f2c4fa19db75"
 metafile = true
 
 [[files]]
-file = "mods/clockworklib.pw.toml"
-hash = "958a2307f72fffe8e65ef29e612a759eba1d7348f7db029d39e36ff2257f06cb"
-metafile = true
-
-[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "5ac32407263c973bebc5aee61fe000d29d9879020fafb6631581396b64e55dfe"
 metafile = true
@@ -599,11 +589,6 @@ metafile = true
 [[files]]
 file = "mods/data-anchor.pw.toml"
 hash = "0abffd30e8b2739c87cfd20d5652c28d2995b929a6bfd8d555acd71565bf11a2"
-metafile = true
-
-[[files]]
-file = "mods/dawn-of-the-flood.pw.toml"
-hash = "fc74037240607661dfcb2bdea4dfae62150239030daced35c5b35231dc9ecd3e"
 metafile = true
 
 [[files]]
@@ -1559,6 +1544,11 @@ metafile = true
 [[files]]
 file = "mods/the-ceilands.pw.toml"
 hash = "741c840e1e82abd2a035508b7c580080181e75329c170a67e00ad26f630c4d63"
+metafile = true
+
+[[files]]
+file = "mods/the-flesh-that-hates.pw.toml"
+hash = "4ce2c62c813e65de9b648d0ae8575067b09c69045d6154afcd6139763e1860cb"
 metafile = true
 
 [[files]]
