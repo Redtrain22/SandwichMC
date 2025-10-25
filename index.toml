@@ -9,6 +9,10 @@ file = "config/RazorTyrantModConfigs.toml"
 hash = "0f39ee4c714da04c022f071cb4ec2713add4d80b1d01317fbec70db98bf75333"
 
 [[files]]
+file = "config/TFTH.toml"
+hash = "621938c58f29e12a073a5a47a7e9b8fbedc338e42898f933ce7f34e940e883d0"
+
+[[files]]
 file = "config/ae2/common.json"
 hash = "7906b19c34a1319400df3e37522288fb5ff0e87498ac49dc0ea2daeda1ef34aa"
 
@@ -26,7 +30,7 @@ hash = "2132327502dee89cfbfa290b99e2e32092768fb6aec6c9c055615481172ceb86"
 
 [[files]]
 file = "config/badmobs-common.toml"
-hash = "ca6dbab21bf5d63dceb75d047590a3927cc4b404b8be879c4dd9e71dbf6fc419"
+hash = "ed0cb58dbc964c6e1f4ee34f94239f6ba0426b5080571fb4c0925de87bb25a62"
 
 [[files]]
 file = "config/bettercombat/server.json.5"
@@ -34,7 +38,7 @@ hash = "4a5c8829e36568212498f5e5299c6a7439215bc88c61c3f868b5bba219066c1f"
 
 [[files]]
 file = "config/bettermobcombat/server.json5"
-hash = "223da2321d9f7f3a41f9318df0765ffac07f3702d95f15d9338011c93d706066"
+hash = "6206352252b03305a976901080e6564c7ab7b6ded956b0f50ddd9f75ecf322b0"
 
 [[files]]
 file = "config/breakingbedrock.properties"
@@ -43,10 +47,6 @@ hash = "4ee6cf105b2e03d60124445cdaf121369ba7029c7f865d0ac88040c13d2af76a"
 [[files]]
 file = "config/combatroll/server.json5"
 hash = "d38a606b74efa70b513b65d2c92c50276cf0669538b5107d6cca7e1ad01a80f8"
-
-[[files]]
-file = "config/dotf_config.toml"
-hash = "27e630d9e18825e0e6d6fbec557ae0c20e9998d940087fd18000103b0a19e450"
 
 [[files]]
 file = "config/enhancedai/common.toml"
