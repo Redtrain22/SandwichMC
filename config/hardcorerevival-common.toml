@@ -1,7 +1,7 @@
 #The time in ticks in which a player can still be rescued from death. 20 ticks are one second. Set to 0 to disable the timer.
 ticksUntilDeath = 10000
 #The time in ticks it takes to rescue a player. 20 ticks are one second.
-rescueActionTicks = 140
+rescueActionTicks = 120
 #The amount of health to respawn with when a player was rescued, out of 20.
 rescueRespawnHealth = 10
 #The food level to respawn with when a player was rescued, out of 20.

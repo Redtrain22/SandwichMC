@@ -79,7 +79,7 @@
 		"Should Marine Forms NOT despawn after they have seen a target for too long?" = true
 		#Default 8000
 		"Sets Marine's time before it should STOP despawning when it has seen a target for too long" = 8000
-		"Guns that can be used by the marine forms" = ["mangler", "mk50_sidekick", "m6_magnum", "m90_shotgun", "m7_smg", "ma5b_rifle"]
+		"Guns that can be used by the marine forms" = ["mangler", "mk50_sidekick", "m6_magnum", "m7_smg"]
 
 	["Mob Stuff"."Sangheili Forms"]
 		#Default 65
@@ -106,7 +106,7 @@
 		"Should Sangheili Forms glow in the dark? MAY BE OVERWRITTEN WHEN USING SHADERS" = false
 		#Default 7500
 		"Sets Sangheili's time before it should STOP despawning when it has seen a target for too long" = 7500
-		"Guns that can be used by the sangheili forms" = ["mangler", "mk50_sidekick", "m6_magnum", "m90_shotgun", "m7_smg", "ma5b_rifle"]
+		"Guns that can be used by the sangheili forms" = ["mangler", "mk50_sidekick", "m6_magnum", "m7_smg"]
 
 	["Mob Stuff"."Brute Forms"]
 		#Default 90
@@ -131,7 +131,7 @@
 		"Should Brute Forms NOT despawn after they have seen a target for too long?" = true
 		#Default 5000
 		"Sets Brute's time before it should STOP despawning when it has seen a target for too long" = 5000
-		"Guns that can be used by the brute forms" = ["mangler", "cqs48_shotgun", "brute_shot"]
+		"Guns that can be used by the brute forms" = ["mangler", "brute_shot"]
 
 	["Mob Stuff"."Jackal Forms"]
 		#Default 30
@@ -418,7 +418,7 @@
 
 	["Mob Stuff".Spawns]
 		#Default 120
-		MobCap = 100
+		MobCap = 20
 		#Default minecraft:is_overworld
 		"Dictates in what biome the flood forms spawn" = ["minecraft:is_overworld"]
 		"mob|weight|minimum|maximum" = ["dotf:pod_infector|6|4|6", "dotf:human_form|15|1|2", "dotf:player_form|11|1|1", "dotf:villager_form|13|1|2", "dotf:pillager_form|8|1|3", "dotf:vindicator_form|6|1|2", "dotf:carrier_form|12|1|2|", "dotf:sangheili_form|11|1|1|", "dotf:marine_form|20|1|3|", "dotf:enderman_form|5|1|1|", "dotf:maw_form|2|1|1|", "dotf:flood_tadpole|1|1|3|", "dotf:flooded_golem|3|1|1|", "dotf:juggernaut_form|5|1|1|", "dotf:tyrant_form|5|1|1", "dotf:bomber_form|3|1|1", "dotf:brute_form|9|1|1|", "dotf:flooded_creeper|4|1|1|", "dotf:grenadier_form|6|1|1|", "dotf:tank_form|18|1|1|", "dotf:jackal_form|3|1|3|"]
@@ -519,7 +519,7 @@
 	#Default 3000
 	"The rate in ticks for the general blightland block spreading, the bigger the number, the slower the biome will spread, should be capped at minimum 2000" = 3000
 	#Default 200
-	"The total area which the Flood or moreso the Proto Gravemind can infect for itself, BE AWARE that large numbers tend to create more lag" = 200
+	"The total area which the Flood or moreso the Proto Gravemind can infect for itself, BE AWARE that large numbers tend to create more lag" = 50
 	"Mods that can have ALL of their blocks infected" = ["the_flesh_that_hates", "spore", "fromanotherworld", "gigeresque", "prion", "sculk_horde"]
 	"List of blocks from other mods that can be infected and corrupted by the blightlands" = ["quark:sturdy_stone"]
 	"List of blocks that cannot be infected, use this option only if the blocks that can be infected by default are the victims" = ["minecraft:chest"]

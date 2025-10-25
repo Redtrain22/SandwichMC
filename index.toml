@@ -46,7 +46,7 @@ hash = "d38a606b74efa70b513b65d2c92c50276cf0669538b5107d6cca7e1ad01a80f8"
 
 [[files]]
 file = "config/dotf_config.toml"
-hash = "e5f3f002b46d07b0dfdd5f06da44a1e391cebc01226f2ed0ead3c2f410336dcf"
+hash = "73f07a78acb76401513b74345637c08c2bcce0d1de2813a02127e09167be4873"
 
 [[files]]
 file = "config/enhancedai/common.toml"
@@ -94,7 +94,7 @@ hash = "ae0f5c1baf1169a8324dcfb0b663c269f7e2223c6f2eedde9db0276d3297378f"
 
 [[files]]
 file = "config/hardcorerevival-common.toml"
-hash = "203252740f6430117802ec2a351a53eaa5452476060739122101d71726fca0e0"
+hash = "da6355b5992bdb79fb570f8836814bcb080abe83aaab1f77659cf6dff56b17b1"
 
 [[files]]
 file = "config/iceandfire-client.toml"
@@ -110,7 +110,7 @@ hash = "f0db411e94d9a42f09a6f49f9a8104452588741c15ca6a554b26e85262784f4a"
 
 [[files]]
 file = "config/l2_configs/l2hostility-common.toml"
-hash = "baf38d260b62462cc221b24a3564e65a1bcbd361038adeaabbd3637b4074813e"
+hash = "53bacf910ba45497707ee4dac4740d818ba9d8755cbe5097f459834c0d7f8af3"
 
 [[files]]
 file = "config/mcdw/mcdw_stats_config.json5"
@@ -797,11 +797,6 @@ hash = "4a73f04a8986129d79ea4f283a0a33ce51af17079b6efa23596af5bc685e1c1e"
 metafile = true
 
 [[files]]
-file = "mods/foolish.pw.toml"
-hash = "a5588a0b9b405f07f9bce40a3abafc3036e8b903b6c9b962578f2971d12d5d74"
-metafile = true
-
-[[files]]
 file = "mods/fragmentum.pw.toml"
 hash = "333f56dc6eef4e329a120146d4fe6ea194ec3abd012970f1ba044d6dbe0590c4"
 metafile = true
@@ -809,11 +804,6 @@ metafile = true
 [[files]]
 file = "mods/friends-and-foes-forge.pw.toml"
 hash = "9b26443d8a0a52727dbea33487145e7f9ad495bfee7fc21a462c815a1f5fc563"
-metafile = true
-
-[[files]]
-file = "mods/from-the-cave.pw.toml"
-hash = "11b537f842788cc154f666980ecc44a2fa9d7c4f3b521163cf8ebab5e4d8c4e1"
 metafile = true
 
 [[files]]
@@ -1154,11 +1144,6 @@ metafile = true
 [[files]]
 file = "mods/mokels-bossfight-kinora.pw.toml"
 hash = "9120f25eb6bf3598f51762ec5926055de9046162e62380757f3dd5924348ac5e"
-metafile = true
-
-[[files]]
-file = "mods/mokels-rpg.pw.toml"
-hash = "e56a7f175a077ac72cbeb4a2ed2e46cb9d8662b66be8c75f2cdf166e8fddd085"
 metafile = true
 
 [[files]]
