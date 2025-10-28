@@ -9,15 +9,15 @@
 	"Incubator Dimension Blacklist" = ["the_deep_void:deep_void", "minecraft:the_nether", "infinite_abyss:first_layer", "macabre:the_pit", "infinite_abyss:sixthlayer", "infinite_abyss:fourth_layer", "infinite_abyss:seventh_layer", "deeperdarker:otherside", "infinite_abyss:second_layer", "infinite_abyss:fifth_layer"]
 	#Minimum distance from a player's respawn point where incubators cannot spawn.
 	#Range: 0.0 ~ 10000.0
-	"spawnpoint do not spawn" = 200.0
+	"spawnpoint do not spawn" = 150.0
 	#Time (in ticks) after which the incubator will first emerge
 	#Default values: 1800 (20 seconds)
 	#Range: > 0
-	incubatorSleepTime = 54000
+	incubatorSleepTime = 5400
 	#Time after killing Incubator until next appearance
 	#Default values: 18000 (5 minutes)
 	#Range: > 1
-	ticksBeforeNextSpawn = 200000
+	ticksBeforeNextSpawn = 150000
 	#Minimum distance between incubators
 	#Default values: 2000
 	#Range: > 1

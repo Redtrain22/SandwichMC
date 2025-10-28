@@ -10,7 +10,7 @@ hash = "0f39ee4c714da04c022f071cb4ec2713add4d80b1d01317fbec70db98bf75333"
 
 [[files]]
 file = "config/TFTH.toml"
-hash = "ed7d68fa09ecddcb41b44cf5c6e271cad208a5ecc86eb83c64a58b0b7317154f"
+hash = "c79e20af222ad2f81b8c6ae0f7fb2ce876fccdd1df3d7b2c53da05c3f20eacce"
 
 [[files]]
 file = "config/ae2/common.json"
@@ -30,7 +30,7 @@ hash = "2132327502dee89cfbfa290b99e2e32092768fb6aec6c9c055615481172ceb86"
 
 [[files]]
 file = "config/badmobs-common.toml"
-hash = "ed0cb58dbc964c6e1f4ee34f94239f6ba0426b5080571fb4c0925de87bb25a62"
+hash = "05609a5f536fb1bdbf0765ea85903fa7b5a539c6ee782e98bb29b4d1b61c6bc6"
 
 [[files]]
 file = "config/bettercombat/server.json.5"
@@ -94,7 +94,7 @@ hash = "ae0f5c1baf1169a8324dcfb0b663c269f7e2223c6f2eedde9db0276d3297378f"
 
 [[files]]
 file = "config/hardcorerevival-common.toml"
-hash = "da6355b5992bdb79fb570f8836814bcb080abe83aaab1f77659cf6dff56b17b1"
+hash = "13c976256630387a2422321f7af727dc21d8f7ee3d34fd0cd7590d2783b32be6"
 
 [[files]]
 file = "config/iceandfire-client.toml"
@@ -792,6 +792,11 @@ hash = "9b26443d8a0a52727dbea33487145e7f9ad495bfee7fc21a462c815a1f5fc563"
 metafile = true
 
 [[files]]
+file = "mods/from-another-world.pw.toml"
+hash = "8eb1e6feed8797f4833ce7557f43985b153bd6f74213865e9f07419bd4477680"
+metafile = true
+
+[[files]]
 file = "mods/from-the-fog.pw.toml"
 hash = "49dfc6e8737d45a945e5a91cfd19ec8e810eec40a0f8c16d19690633c440aca1"
 metafile = true
@@ -799,6 +804,11 @@ metafile = true
 [[files]]
 file = "mods/from-the-shadow-reborn.pw.toml"
 hash = "12c6818d92bbceb56b3b01b0ef1db934676b79d86c17918aa13de0abea1a6aea"
+metafile = true
+
+[[files]]
+file = "mods/fromanotherlibrary.pw.toml"
+hash = "c8b58ed9e46894ef78724e80bd28b3f3a09cb889977be1942f06c8d358ac4f56"
 metafile = true
 
 [[files]]
