@@ -22448,6 +22448,8 @@
 		#Should the entity spawn via mob conversion? i.e. villager -> zombie
 		allowConversions = false
 
+[the_flesh_that_hates]
+
 	#Spawning options for the_flesh_that_hates:plaqueincubatorone
 	[the_flesh_that_hates.plaqueincubatorone]
 		#Should the entity be allowed to spawn normally?
@@ -22470,6 +22472,10 @@
 		#Should the entity spawn via mob conversion? i.e. villager -> zombie
 		allowConversions = false
 
+
+#Options for the phayriosisreborn mod.
+[phayriosisreborn]
+
 	#Spawning options for phayriosisreborn:horde
 	[phayriosisreborn.horde]
 		#Should the entity be allowed to spawn normally?
@@ -22480,3 +22486,4 @@
 		allowSpawnEggs = false
 		#Should the entity spawn via mob conversion? i.e. villager -> zombie
 		allowConversions = false
+

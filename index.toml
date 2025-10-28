@@ -30,7 +30,7 @@ hash = "2132327502dee89cfbfa290b99e2e32092768fb6aec6c9c055615481172ceb86"
 
 [[files]]
 file = "config/badmobs-common.toml"
-hash = "05609a5f536fb1bdbf0765ea85903fa7b5a539c6ee782e98bb29b4d1b61c6bc6"
+hash = "33c4971e8e0cce7840bc77751de7d2a65b87d097efd9e0fdbafa5563bba8e721"
 
 [[files]]
 file = "config/bettercombat/server.json.5"
@@ -293,7 +293,7 @@ metafile = true
 
 [[files]]
 file = "mods/azurelib.pw.toml"
-hash = "e844e4fb6051cacc5f808ed0159b8f85b00626b6ce98a5a01a49495a32c0095b"
+hash = "402150c47368f41f320eee0ade7cecaae3a2212a827bdab1cd941e011424c02e"
 metafile = true
 
 [[files]]
