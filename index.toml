@@ -127,7 +127,7 @@ metafile = true
 
 [[files]]
 file = "config/skilltree-common.toml"
-hash = "e339d7af8815a8fee955291e424896703d95029b50b1bac4c59ffdef2db3cb46"
+hash = "90c4c20883718c977bd094a6967080a83c339e0abe9c9dc6089880363141b856"
 
 [[files]]
 file = "config/torchesbecomesunlight-common.toml"
