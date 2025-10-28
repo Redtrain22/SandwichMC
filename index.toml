@@ -293,7 +293,7 @@ metafile = true
 
 [[files]]
 file = "mods/azurelib.pw.toml"
-hash = "402150c47368f41f320eee0ade7cecaae3a2212a827bdab1cd941e011424c02e"
+hash = "e844e4fb6051cacc5f808ed0159b8f85b00626b6ce98a5a01a49495a32c0095b"
 metafile = true
 
 [[files]]
@@ -792,6 +792,11 @@ hash = "9b26443d8a0a52727dbea33487145e7f9ad495bfee7fc21a462c815a1f5fc563"
 metafile = true
 
 [[files]]
+file = "mods/from-another-world.pw.toml"
+hash = "8eb1e6feed8797f4833ce7557f43985b153bd6f74213865e9f07419bd4477680"
+metafile = true
+
+[[files]]
 file = "mods/from-the-fog.pw.toml"
 hash = "49dfc6e8737d45a945e5a91cfd19ec8e810eec40a0f8c16d19690633c440aca1"
 metafile = true
@@ -799,6 +804,11 @@ metafile = true
 [[files]]
 file = "mods/from-the-shadow-reborn.pw.toml"
 hash = "12c6818d92bbceb56b3b01b0ef1db934676b79d86c17918aa13de0abea1a6aea"
+metafile = true
+
+[[files]]
+file = "mods/fromanotherlibrary.pw.toml"
+hash = "c8b58ed9e46894ef78724e80bd28b3f3a09cb889977be1942f06c8d358ac4f56"
 metafile = true
 
 [[files]]
@@ -914,11 +924,6 @@ metafile = true
 [[files]]
 file = "mods/infinity-with-mending.pw.toml"
 hash = "9654bdcecd5f7dc36e6f17f9d4546155502a5886cd3e880140ea1b94c865b61e"
-metafile = true
-
-[[files]]
-file = "mods/insomniogenesis-infection-neurological-torment.pw.toml"
-hash = "f3667afde134553aabf7ca88247b8e989ac6181d6a1858d69b070371582648de"
 metafile = true
 
 [[files]]
