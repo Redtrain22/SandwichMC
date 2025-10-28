@@ -11384,24 +11384,24 @@
 	#Spawning options for born_in_chaos_v1:krampus
 	[born_in_chaos_v1.krampus]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
+		allowNormalSpawning = false
 		#Should spawners be able to spawn the entity?
-		allowSpawners = true
+		allowSpawners = false
 		#Should spawn eggs be able to spawn the entity?
-		allowSpawnEggs = true
+		allowSpawnEggs = false
 		#Should the entity spawn via mob conversion? i.e. villager -> zombie
-		allowConversions = true
+		allowConversions = false
 
 	#Spawning options for born_in_chaos_v1:krampus_henchman
 	[born_in_chaos_v1.krampus_henchman]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
+		allowNormalSpawning = false
 		#Should spawners be able to spawn the entity?
-		allowSpawners = true
+		allowSpawners = false
 		#Should spawn eggs be able to spawn the entity?
-		allowSpawnEggs = true
+		allowSpawnEggs = false
 		#Should the entity spawn via mob conversion? i.e. villager -> zombie
-		allowConversions = true
+		allowConversions = false
 
 	#Spawning options for born_in_chaos_v1:missionary_raider
 	[born_in_chaos_v1.missionary_raider]
@@ -22487,3 +22487,15 @@
 		#Should the entity spawn via mob conversion? i.e. villager -> zombie
 		allowConversions = false
 
+#Options for the fromanotherworld mod.
+[fromanotherworld]
+#Spawning options for fromanotherworld:sculk_revealer
+	[fromanotherworld.sculk_revealer]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = false
+		#Should spawners be able to spawn the entity?
+		allowSpawners = false
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = false

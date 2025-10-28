@@ -26,11 +26,11 @@ hash = "9dd338053e6ad16eb05aa77ccf0215ca7271d7a7b838b858f118f9bab02764a1"
 
 [[files]]
 file = "config/armageddon_mod_config.toml"
-hash = "2132327502dee89cfbfa290b99e2e32092768fb6aec6c9c055615481172ceb86"
+hash = "3785b64c21559a0e1b175473093bc9cd79eb570e40dff6d1654c1bd1f7d22526"
 
 [[files]]
 file = "config/badmobs-common.toml"
-hash = "33c4971e8e0cce7840bc77751de7d2a65b87d097efd9e0fdbafa5563bba8e721"
+hash = "a59bd2c203cc8b11b2c2e047f046407388a131e12e72c73573fdc1b377e2df6d"
 
 [[files]]
 file = "config/bettercombat/server.json.5"
@@ -110,7 +110,7 @@ hash = "f0db411e94d9a42f09a6f49f9a8104452588741c15ca6a554b26e85262784f4a"
 
 [[files]]
 file = "config/l2_configs/l2hostility-common.toml"
-hash = "53bacf910ba45497707ee4dac4740d818ba9d8755cbe5097f459834c0d7f8af3"
+hash = "d290964e3095a3481bc41e39f176d464c40ca0cdf04877efcd3dc74864b3da34"
 
 [[files]]
 file = "config/mcdw/mcdw_stats_config.json5"
@@ -1162,6 +1162,11 @@ hash = "1dc6f2f77074310869d738fb76239c3bade60ed16f3349a488afa096947a0bc2"
 metafile = true
 
 [[files]]
+file = "mods/more-protectables.pw.toml"
+hash = "273ca8a2c440ddc1773cae8ad09353e0ba48eb5e5c2b7dc1bf59ecaea825f736"
+metafile = true
+
+[[files]]
 file = "mods/morechathistory-reforged.pw.toml"
 hash = "70ca9823975083919ef703805fc02dabe1170f398631ee12c4f4142964e0fa87"
 metafile = true
@@ -1429,6 +1434,11 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "35905f57cdb21a2aaa26345f2fabe3137ee2db6ee3bb2149cea206611b11ef69"
+metafile = true
+
+[[files]]
+file = "mods/security-craft.pw.toml"
+hash = "aa5e80eb4e5b208e4dac8ed127bad827612294fc4564ed52d898cb8069a0db8b"
 metafile = true
 
 [[files]]
