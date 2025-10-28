@@ -1417,6 +1417,20 @@
 					item: "apotheosis:epic_material"
 					type: "item"
 				}
+				{
+					id: "7CEB07C71648289D"
+					item: {
+						Count: 1
+						id: "minecraft:enchanted_book"
+						tag: {
+							StoredEnchantments: [{
+								id: "minecraft:mending"
+								lvl: 1s
+							}]
+						}
+					}
+					type: "item"
+				}
 			]
 			size: 2.0d
 			tasks: [{
@@ -1466,22 +1480,64 @@
 				}
 			]
 			size: 2.0d
-			tasks: [{
-				advancement: "minecraft:nether/netherite_armor"
-				criterion: ""
-				icon: {
-					Count: 1
-					id: "minecraft:netherite_helmet"
-					tag: {
-						Damage: 0
-						affix_data: {
-							sockets: 1
+			tasks: [
+				{
+					id: "4299290E662CEDDB"
+					item: {
+						Count: 1
+						id: "minecraft:netherite_helmet"
+						tag: {
+							Damage: 0
+							affix_data: {
+								sockets: 1
+							}
 						}
 					}
+					type: "item"
 				}
-				id: "0058C275D6602DCE"
-				type: "advancement"
-			}]
+				{
+					id: "13B23AEAAB371628"
+					item: {
+						Count: 1
+						id: "minecraft:netherite_chestplate"
+						tag: {
+							Damage: 0
+							affix_data: {
+								sockets: 1
+							}
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "68027D19BEAE058E"
+					item: {
+						Count: 1
+						id: "minecraft:netherite_leggings"
+						tag: {
+							Damage: 0
+							affix_data: {
+								sockets: 0
+							}
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "1584ABB53DC4CA3B"
+					item: {
+						Count: 1
+						id: "minecraft:netherite_boots"
+						tag: {
+							Damage: 0
+							affix_data: {
+								sockets: 1
+							}
+						}
+					}
+					type: "item"
+				}
+			]
 			x: 2.0d
 			y: 14.0d
 		}

@@ -509,7 +509,7 @@
 		}
 		{
 			description: ["&4WELCOME HELL MF. "]
-			icon: "terramity:artificial_lava_display"
+			icon: "arphex:spider_flat_egg"
 			id: "62AF42A1ECD427D2"
 			invisible: true
 			rewards: [
@@ -542,12 +542,16 @@
 					item: "apotheosis:boss_summoner"
 					type: "item"
 				}
+				{
+					id: "662D578384FD1B82"
+					item: "apotheosis:reforging_table"
+					type: "item"
+				}
 			]
 			size: 4.0d
 			tasks: [{
-				dimension: "doom:doom_hell"
-				icon: "terramity:artificial_lava_display"
-				id: "3113D569D9230460"
+				dimension: "arphex:the_crawling"
+				id: "5D432E1ECD994BCB"
 				type: "dimension"
 			}]
 			x: 0.0d

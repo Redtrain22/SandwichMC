@@ -11,12 +11,91 @@
 		{
 			description: ["Welcome to Sando's modpack! Here is where you start your journey! If you need any help, feel free to contact sando"]
 			id: "732D80D1F04C6144"
-			rewards: [{
-				count: 9
-				id: "5EE53BEC73D23E26"
-				item: "minecraft:iron_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					id: "3F73835B32A78EBF"
+					item: {
+						Count: 1
+						id: "tacz:modern_kinetic_gun"
+						tag: {
+							GunCurrentAmmoCount: 17
+							GunFireMode: "SEMI"
+							GunId: "daffas_arsenal:hk45_sup"
+							HasBulletInBarrel: 1b
+							display: {
+								Name: "{\"italic\":false,\"translate\":\"daffas_arsenal.gun.hk45_sup\"}"
+							}
+						}
+					}
+					type: "item"
+				}
+				{
+					count: 45
+					id: "4FFB6BD3DDFDB120"
+					item: {
+						Count: 1
+						id: "tacz:ammo"
+						tag: {
+							AmmoId: "tacz:45acp"
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "4E674DB0A4668B11"
+					item: {
+						Count: 1
+						id: "sophisticatedbackpacks:backpack"
+						tag: {
+							borderColor: 8439583
+							clothColor: 8439583
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5588611C6F4F8FFB"
+					item: {
+						Count: 1
+						id: "iceandfire:deathworm_white_helmet"
+						tag: {
+							Damage: 0
+							affix_data: {
+								sockets: 1
+							}
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "6061DE803F37696E"
+					item: {
+						Count: 1
+						id: "iceandfire:deathworm_white_chestplate"
+						tag: {
+							Damage: 0
+							affix_data: {
+								sockets: 1
+							}
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "639E9857749C8920"
+					item: {
+						Count: 1
+						id: "iceandfire:deathworm_white_leggings"
+						tag: {
+							Damage: 0
+							affix_data: {
+								sockets: 0
+							}
+						}
+					}
+					type: "item"
+				}
+			]
 			size: 5.0d
 			tasks: [{
 				advancement: "dungeonnowloading:story/root"
@@ -2524,6 +2603,7 @@
 			y: 2.0d
 		}
 		{
+			description: ["&4Banned Item"]
 			id: "1E8CC74602BFB643"
 			rewards: [
 				{
@@ -2545,11 +2625,18 @@
 					type: "item"
 				}
 			]
-			tasks: [{
-				id: "6BE3C9D57DCE20DD"
-				item: "apotheosis:simple_reforging_table"
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "6BE3C9D57DCE20DD"
+					item: "apotheosis:simple_reforging_table"
+					type: "item"
+				}
+				{
+					id: "5744C178566CDFB1"
+					item: "terramity:bedrock_black_matter_ore"
+					type: "item"
+				}
+			]
 			x: 12.5d
 			y: 0.0d
 		}
