@@ -626,7 +626,7 @@
 		{
 			id: "2C203ED58BD69212"
 			rewards: [{
-				count: 5
+				count: 2
 				id: "3D100C7F49C01E25"
 				item: "minecraft:netherite_block"
 				type: "item"
@@ -651,7 +651,7 @@
 		{
 			id: "40BF4C069B5F211A"
 			rewards: [{
-				count: 10
+				count: 4
 				id: "61062AA6B68DAA7E"
 				item: "minecraft:netherite_block"
 				type: "item"
@@ -1325,7 +1325,7 @@
 				entity: "minecraft:piglin_brute"
 				id: "77FC7E1F9D5E8597"
 				type: "kill"
-				value: 25L
+				value: 10L
 			}]
 			x: 1.0d
 			y: 5.5d
@@ -1341,7 +1341,7 @@
 				entity: "minecraft:piglin"
 				id: "481B2902AB4A97F3"
 				type: "kill"
-				value: 100L
+				value: 20L
 			}]
 			x: -1.0d
 			y: 5.5d

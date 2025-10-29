@@ -62,7 +62,7 @@ hash = "e57d8311aec9f524911ed1313cabf138bb7fa5a2d3ba985a00a2a267ff35ef78"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/end_game.snbt"
-hash = "c50270e79d91e86a06e3c207b20440673e2da2629de702ee845372b7e98a93a6"
+hash = "4f27b6f51ab35e58c81bb3a9136338bfa3de4bec672ec43e05db60fbafc1901f"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/journey.snbt"
@@ -70,15 +70,19 @@ hash = "4b02910bb1599738ef44a8e17469e5bdf3622d85f227f381d0a9d346cffb85c3"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/journey_to_nether.snbt"
-hash = "2e55b4cb739fccbe437dd01915acf30800ba83576c37817ecec755553169431d"
+hash = "d8ad464baa0d098ac8070a8ab1bd49361fcc6a423e173ff002d4e1ec4b20e6f4"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/the_deep_void.snbt"
+hash = "2b768114e89f17d1ecbc703e82a7e9554db42c1772ffd42eec3c51fd5b9cc325"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/the_end.snbt"
-hash = "7af7ecc53b467edb583132cff659394e3c6e1852d905c46c89b993c5ae129bde"
+hash = "0c654f28747870fe8a05c8609d56ae12a1d2cc504b24d46f092a598a1159ac7a"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/the_layers.snbt"
-hash = "a40640572a0884552e466115660720c12c6d058037c21374e5b070e6282204b2"
+hash = "b7ec09af64b6a453a219d7be19f3dba33f7bb07cf0236340ac0a312634fedec4"
 
 [[files]]
 file = "config/ftbquests/quests/data.snbt"

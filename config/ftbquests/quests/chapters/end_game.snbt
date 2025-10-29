@@ -5,7 +5,7 @@
 	group: ""
 	icon: "minecraft:bedrock"
 	id: "356265914773DBE5"
-	order_index: 4
+	order_index: 5
 	quest_links: [ ]
 	quests: [
 		{
@@ -1004,8 +1004,7 @@
 		{
 			dependencies: ["62AF42A1ECD427D2"]
 			description: ["&eMY EYES"]
-			hide_until_deps_complete: false
-			hide_until_deps_visible: false
+			hide_dependent_lines: true
 			id: "7A3C4A1E1754D370"
 			rewards: [
 				{
@@ -1053,20 +1052,36 @@
 				xp_levels: 100
 			}]
 			size: 1.5d
-			tasks: [{
-				id: "739F65D57BA63EAE"
-				item: {
-					Count: 1
-					id: "armageddon_mod:helionite_armor_helmet"
-					tag: {
-						Damage: 0
-						affix_data: {
-							sockets: 1
+			tasks: [
+				{
+					id: "739F65D57BA63EAE"
+					item: {
+						Count: 1
+						id: "armageddon_mod:helionite_armor_helmet"
+						tag: {
+							Damage: 0
+							affix_data: {
+								sockets: 1
+							}
 						}
 					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "0EC4A78D62A82C37"
+					item: {
+						Count: 1
+						id: "oreandmore:demonite_armor_armor_helmet"
+						tag: {
+							Damage: 0
+							affix_data: {
+								sockets: 1
+							}
+						}
+					}
+					type: "item"
+				}
+			]
 			x: 35.25d
 			y: -2.25d
 		}
@@ -1078,20 +1093,36 @@
 				xp_levels: 100
 			}]
 			size: 1.5d
-			tasks: [{
-				id: "1E0C39CD742D4B86"
-				item: {
-					Count: 1
-					id: "armageddon_mod:helionite_armor_chestplate"
-					tag: {
-						Damage: 0
-						affix_data: {
-							sockets: 1
+			tasks: [
+				{
+					id: "1E0C39CD742D4B86"
+					item: {
+						Count: 1
+						id: "armageddon_mod:helionite_armor_chestplate"
+						tag: {
+							Damage: 0
+							affix_data: {
+								sockets: 1
+							}
 						}
 					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "58858AC302961A3C"
+					item: {
+						Count: 1
+						id: "oreandmore:demonite_armor_armor_chestplate"
+						tag: {
+							Damage: 0
+							affix_data: {
+								sockets: 1
+							}
+						}
+					}
+					type: "item"
+				}
+			]
 			x: 35.25d
 			y: -0.75d
 		}
@@ -1103,20 +1134,36 @@
 				xp_levels: 100
 			}]
 			size: 1.5d
-			tasks: [{
-				id: "15E39AED966FF317"
-				item: {
-					Count: 1
-					id: "armageddon_mod:helionite_armor_leggings"
-					tag: {
-						Damage: 0
-						affix_data: {
-							sockets: 0
+			tasks: [
+				{
+					id: "15E39AED966FF317"
+					item: {
+						Count: 1
+						id: "armageddon_mod:helionite_armor_leggings"
+						tag: {
+							Damage: 0
+							affix_data: {
+								sockets: 0
+							}
 						}
 					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "150D6669E5D722E8"
+					item: {
+						Count: 1
+						id: "oreandmore:demonite_armor_armor_leggings"
+						tag: {
+							Damage: 0
+							affix_data: {
+								sockets: 0
+							}
+						}
+					}
+					type: "item"
+				}
+			]
 			x: 35.25d
 			y: 0.75d
 		}
@@ -1128,20 +1175,36 @@
 				xp_levels: 100
 			}]
 			size: 1.5d
-			tasks: [{
-				id: "50AE54A2ED8327D1"
-				item: {
-					Count: 1
-					id: "armageddon_mod:helionite_armor_boots"
-					tag: {
-						Damage: 0
-						affix_data: {
-							sockets: 1
+			tasks: [
+				{
+					id: "50AE54A2ED8327D1"
+					item: {
+						Count: 1
+						id: "armageddon_mod:helionite_armor_boots"
+						tag: {
+							Damage: 0
+							affix_data: {
+								sockets: 1
+							}
 						}
 					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "21AA5852AE089A23"
+					item: {
+						Count: 1
+						id: "oreandmore:demonite_armor_armor_boots"
+						tag: {
+							Damage: 0
+							affix_data: {
+								sockets: 1
+							}
+						}
+					}
+					type: "item"
+				}
+			]
 			x: 35.25d
 			y: 2.25d
 		}
@@ -1241,6 +1304,13 @@
 						}
 					}
 					type: "item"
+				}
+				{
+					command: "/curios add charm @p 1"
+					icon: "arphex:ascended_cube"
+					id: "14997517428C2396"
+					team_reward: false
+					type: "command"
 				}
 			]
 			size: 4.0d
@@ -1435,7 +1505,7 @@
 			]
 			size: 2.0d
 			tasks: [{
-				advancement: "cataclysm:kill_clawdian"
+				advancement: "cataclysm:kill_scylla"
 				criterion: ""
 				id: "10B61F4792B62370"
 				type: "advancement"
@@ -1974,6 +2044,191 @@
 			}]
 			x: 1.5d
 			y: 9.0d
+		}
+		{
+			dependencies: [
+				"7A3C4A1E1754D370"
+				"0DE57D577DBC76A6"
+				"629F878183353190"
+				"3EDC1DC00604A23A"
+				"144011F4BA1F7BC7"
+			]
+			description: ["&4DEFEAT THE &lTORMENTOR&r&4,&r &4&lDESTROYER OF WORLDS&r&r"]
+			hide_dependency_lines: true
+			icon: {
+				Count: 1
+				id: "doom:maykr_doom_helmet"
+				tag: {
+					Damage: 0
+					affix_data: {
+						sockets: 1
+					}
+				}
+			}
+			id: "7BDA90E8D123EE0A"
+			rewards: [
+				{
+					id: "6ECF1ED701C5DF89"
+					type: "xp_levels"
+					xp_levels: 50000
+				}
+				{
+					id: "0CC9FAE6BE794AEF"
+					item: {
+						Count: 1
+						id: "doom:maykr_doom_helmet"
+						tag: {
+							Damage: 0
+							affix_data: {
+								sockets: 1
+							}
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "61E98C2018F6E26F"
+					item: {
+						Count: 1
+						id: "doom:maykr_doom_chestplate"
+						tag: {
+							Damage: 0
+							affix_data: {
+								sockets: 1
+							}
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "340744F1F57C3C44"
+					item: {
+						Count: 1
+						id: "doom:maykr_doom_leggings"
+						tag: {
+							Damage: 0
+							affix_data: {
+								sockets: 0
+							}
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "73F9C86C66B3566C"
+					item: {
+						Count: 1
+						id: "doom:maykr_doom_boots"
+						tag: {
+							Damage: 0
+							affix_data: {
+								sockets: 1
+							}
+						}
+					}
+					type: "item"
+				}
+				{
+					count: 500
+					id: "779F075419513C00"
+					item: "apotheosis:mythic_material"
+					type: "item"
+				}
+				{
+					count: 1000
+					id: "0CBEA1CBA6B45724"
+					item: "apotheosis:gem_dust"
+					type: "item"
+				}
+				{
+					count: 5
+					id: "1A4F803F9AB408A1"
+					item: {
+						Count: 1
+						id: "apotheosis:gem"
+						tag: {
+							affix_data: {
+								rarity: "apotheosis:ancient"
+							}
+							gem: "apotheosis:core/warlord"
+						}
+					}
+					type: "item"
+				}
+				{
+					count: 5
+					id: "0EDC42E21F32F7FE"
+					item: {
+						Count: 1
+						id: "apotheosis:gem"
+						tag: {
+							affix_data: {
+								rarity: "apotheosis:ancient"
+							}
+							gem: "apotheosis:overworld/royalty"
+						}
+					}
+					type: "item"
+				}
+				{
+					count: 500
+					id: "306255CBB5A6033C"
+					item: "apotheosis:epic_material"
+					type: "item"
+				}
+				{
+					count: 500
+					id: "5C219739A28818C1"
+					item: "apotheosis:rare_material"
+					type: "item"
+				}
+				{
+					count: 500
+					id: "11B0FF4AC15A3F3F"
+					item: "apotheosis:uncommon_material"
+					type: "item"
+				}
+				{
+					count: 500
+					id: "7C8A7674DE2EFF72"
+					item: "apotheosis:sigil_of_enhancement"
+					type: "item"
+				}
+				{
+					count: 500
+					id: "78CE719624EC403D"
+					item: "apotheosis:sigil_of_rebirth"
+					type: "item"
+				}
+				{
+					count: 10
+					id: "2975783F0BD02C76"
+					item: {
+						Count: 1
+						id: "tacz:ammo_box"
+						tag: {
+							AllTypeCreative: 1b
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "37BDA3CDE2B23D01"
+					item: "l2hostility:curse_of_pride"
+					type: "item"
+				}
+			]
+			shape: "diamond"
+			size: 7.0d
+			subtitle: "TORMENTOR, DESTROYER OF WORLDS"
+			tasks: [{
+				advancement: "arphex:destroyer"
+				criterion: ""
+				id: "3539C13BBD242609"
+				type: "advancement"
+			}]
+			x: 7.0d
+			y: -7.0d
 		}
 	]
 	title: "End Game"

@@ -72,7 +72,7 @@
 				item: "waystones:waystone"
 				type: "item"
 			}]
-			size: 2.0d
+			size: 3.0d
 			tasks: [{
 				icon: {
 					Count: 1

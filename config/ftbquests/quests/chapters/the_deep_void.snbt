@@ -1,0 +1,453 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "the_deep_void"
+	group: ""
+	icon: "the_deep_void:infested_rotten_log"
+	id: "5A36C0FD6A4A9700"
+	order_index: 4
+	quest_links: [ ]
+	quests: [
+		{
+			description: ["&d00100010 01010111 01101000 01100101 01110100 01101000 01100101 01110010 00100000 01110111 01100101 00100000 01110111 01100001 01101110 01110100 01100101 01100100 00100000 01101001 01110100 00100000 01101111 01110010 00100000 01101110 01101111 01110100 00101100 00100000 01110111 01100101 00100111 01110110 01100101 00100000 01110011 01110100 01100101 01110000 01110000 01100101 01100100 00100000 01101001 01101110 01110100 01101111 00100000 01100001 00100000 01110111 01100001 01110010 00100000 01110111 01101001 01110100 01101000 00100000 01110100 01101000 01100101 00100000 01000011 01100001 01100010 01100001 01101100 00100000 01101111 01101110 00100000 01001101 01100001 01110010 01110011 00101110 00100000 01010011 01101111 00100000 01101100 01100101 01110100 00100111 01110011 00100000 01100111 01100101 01110100 00100000 01110100 01101111 00100000 01110100 01100001 01101011 01101001 01101110 01100111 00100000 01101111 01110101 01110100 00100000 01110100 01101000 01100101 01101001 01110010 00100000 01100011 01101111 01101101 01101101 01100001 01101110 01100100 00101100 00100000 01101111 01101110 01100101 00100000 01100010 01111001 00100000 01101111 01101110 01100101 00101110 00100000 01010110 01100001 01101100 01110101 01110011 00100000 01010100 01100001 01100001 01110101 01110010 01100011 00101110 00100000 01000110 01110010 01101111 01101101 00100000 01110111 01101000 01100001 01110100 00100000 01001001 00100000 01100011 01100001 01101110 00100000 01100111 01100001 01110100 01101000 01100101 01110010 00100000 01101000 01100101 00100000 01100011 01101111 01101101 01101101 01100001 01101110 01100100 01110011 00100000 01110100 01101000 01100101 00100000 01010011 01101001 01100101 01100111 01100101 00100000 01000100 01100001 01101110 01100011 01100101 01110010 01110011 00100000 01100110 01110010 01101111 01101101 00100000 01100001 01101110 00100000 01001001 01101101 01110000 01100101 01110010 01101001 01100001 01101100 00100000 01001100 01100001 01101110 01100100 00100000 01010100 01100001 01101110 01101011 00100000 01101111 01110101 01110100 01110011 01101001 01100100 01100101 00100000 01101111 01100110 00100000 01010010 01110101 01100010 01101001 01100011 01101111 01101110 00101110 00100000 01001000 01100101 00100111 01110011 00100000 01110111 01100101 01101100 01101100 00100000 01110000 01110010 01101111 01110100 01100101 01100011 01110100 01100101 01100100 00101100 00100000 01100010 01110101 01110100 00100000 01110111 01101001 01110100 01101000 00100000 01110100 01101000 01100101 00100000 01110010 01101001 01100111 01101000 01110100 00100000 01110100 01100101 01100001 01101101 00101100 00100000 01110111 01100101 00100000 01000010 01000101 01000111 01001001 01001110 00100000 01011001 01001111 01010101 01010010 00100000 01001010 01001111 01010101 01010010 01001110 01000101 01011001 00100000 01000010 01011001 00100000 01000111 01000101 01010100 01010100 01001001 01001110 01000111 00100000 01010100 01001000 01000101 00100000 01010010 01001001 01000111 01001000 01010100 00100000 01001101 01000001 01010100 01000101 01010010 01001001 01000001 01001100 01010011 00101110 00100000&r"]
+			icon: "the_deep_void:infested_rotten_log"
+			id: "2A734A8B542C5D8E"
+			rewards: [
+				{
+					count: 100
+					id: "0E35DFB7FA48A582"
+					item: "minecraft:torch"
+					type: "item"
+				}
+				{
+					id: "1793751F23FC453F"
+					item: "waystones:blackstone_waystone"
+					type: "item"
+				}
+			]
+			size: 6.5d
+			subtitle: "What does it mean?"
+			tasks: [{
+				dimension: "the_deep_void:deep_void"
+				id: "3304D6B1C4F41485"
+				type: "dimension"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			id: "45A63C3B4B27E380"
+			rewards: [{
+				id: "017A270DF6F40DED"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "2CCE8B0973FF5EB0"
+				item: "the_deep_void:sulfur"
+				type: "item"
+			}]
+			x: 3.5d
+			y: -1.0d
+		}
+		{
+			id: "0E7162DF6D6209A7"
+			rewards: [{
+				id: "4C02F165BACA8B8A"
+				type: "xp_levels"
+				xp_levels: 30
+			}]
+			tasks: [{
+				id: "56BD6CB477B7EF9D"
+				item: "the_deep_void:refined_onyx"
+				type: "item"
+			}]
+			x: 0.0d
+			y: -8.5d
+		}
+		{
+			id: "5FC42D61839FC1B9"
+			rewards: [{
+				id: "21B9C12F0A31FB70"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "32DC8DF296CF31A1"
+				item: "the_deep_void:desolate_soil"
+				type: "item"
+			}]
+			x: 3.5d
+			y: 0.0d
+		}
+		{
+			id: "059ABA091DF2ADE8"
+			rewards: [{
+				id: "4E5A9AD07102BC78"
+				type: "xp_levels"
+				xp_levels: 30
+			}]
+			tasks: [{
+				id: "50EB444D60D72951"
+				item: "the_deep_void:smithing_template_onyx"
+				type: "item"
+			}]
+			x: 0.0d
+			y: -7.5d
+		}
+		{
+			id: "2B0236807E68DA06"
+			rewards: [{
+				id: "036CF892E24E5605"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "01F0920A48C3844A"
+				item: "the_deep_void:cinnabar"
+				type: "item"
+			}]
+			x: 3.5d
+			y: -2.0d
+		}
+		{
+			id: "6AB7A69067A14460"
+			rewards: [{
+				id: "339E6AD6B9CB549D"
+				type: "xp_levels"
+				xp_levels: 30
+			}]
+			tasks: [{
+				id: "1B0E8479E641A82B"
+				item: {
+					Count: 1
+					id: "the_deep_void:bone_pickaxe"
+					tag: {
+						Damage: 0
+						affix_data: {
+							sockets: 0
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: -6.5d
+		}
+		{
+			description: ["&3dlt fB.eF linnD toerea oC w Ve.pt oeetiehu.awesy rp&r"]
+			id: "16663AB3E2C1FD81"
+			rewards: [{
+				id: "6DDC742FFB868E02"
+				type: "xp_levels"
+				xp_levels: 30
+			}]
+			size: 2.0d
+			tasks: [{
+				id: "7C67A8A8BABBDD00"
+				item: "the_deep_void:glutton_block"
+				type: "item"
+			}]
+			x: 0.0d
+			y: -4.0d
+		}
+		{
+			id: "25B661B3EE9F82BA"
+			rewards: [{
+				id: "2AC2F1DF43CAECD4"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "354A9D49DED84674"
+				item: "the_deep_void:onyx"
+				type: "item"
+			}]
+			x: 4.5d
+			y: -1.0d
+		}
+		{
+			id: "30B9B5179AFA89C2"
+			rewards: [{
+				id: "2800F0C1175FEB75"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "19411B850D41FCC6"
+				item: "the_deep_void:black_moss"
+				type: "item"
+			}]
+			x: 4.5d
+			y: -2.0d
+		}
+		{
+			id: "22984012F11C90DF"
+			rewards: [{
+				id: "56CE013796D1B593"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "73F4261515CFFBF5"
+				item: "the_deep_void:mourner_hide"
+				type: "item"
+			}]
+			x: 6.5d
+			y: -2.0d
+		}
+		{
+			id: "30E7D537B105741E"
+			rewards: [{
+				id: "233650A1BE6E9AFE"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "77E64FC30974CCB1"
+				item: "the_deep_void:rotten_bone"
+				type: "item"
+			}]
+			x: 4.5d
+			y: 0.0d
+		}
+		{
+			id: "50A5240AAE73B287"
+			rewards: [{
+				id: "7DCE09153D4399D4"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "5E66CF9B61D6418C"
+				item: "the_deep_void:grim_gem"
+				type: "item"
+			}]
+			x: 5.5d
+			y: -1.0d
+		}
+		{
+			id: "12EA779A7E5FF8C4"
+			rewards: [{
+				id: "7846E773E5987BFF"
+				type: "xp_levels"
+				xp_levels: 50
+			}]
+			size: 2.0d
+			tasks: [{
+				id: "62A1B296727682D1"
+				item: "the_deep_void:void_matter"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 13.0d
+		}
+		{
+			id: "0AA28FA07540A750"
+			rewards: [{
+				id: "437EFB4DE60E3C01"
+				type: "xp_levels"
+				xp_levels: 50
+			}]
+			size: 2.0d
+			tasks: [{
+				id: "29941D0BCEDBFF83"
+				item: "the_deep_void:onyx_needle"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 9.0d
+		}
+		{
+			id: "1EE50196BB17D3E0"
+			rewards: [{
+				id: "564DDE69934F2EF5"
+				type: "xp_levels"
+				xp_levels: 30
+			}]
+			tasks: [{
+				id: "34E6498E7DAEC181"
+				item: "the_deep_void:ancient_onyx"
+				type: "item"
+			}]
+			x: 0.0d
+			y: -5.5d
+		}
+		{
+			id: "1ACDC87B1EAA6C2C"
+			rewards: [{
+				id: "274D7C9BDA6A4443"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "6B70D88ED2CB6E8A"
+				item: "the_deep_void:flesh_chunk"
+				type: "item"
+			}]
+			x: 5.5d
+			y: 0.0d
+		}
+		{
+			id: "51F16D83B2D8010F"
+			rewards: [{
+				id: "347C89DF6118D47D"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "283E65FA554CED34"
+				item: "the_deep_void:lavendite"
+				type: "item"
+			}]
+			x: 6.5d
+			y: -1.0d
+		}
+		{
+			description: ["&0n .ciyulehd .or r oo?  dTa e eTMna.veesiyhkiudktefBet fa tghe ia u yt pa&r"]
+			id: "3CC9D7AC96F94B1F"
+			rewards: [{
+				id: "53130A44A71B4FA9"
+				type: "xp_levels"
+				xp_levels: 50
+			}]
+			size: 4.0d
+			tasks: [{
+				id: "48B1D7F1D630E2A7"
+				item: "the_deep_void:liquid_void_bucket"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 6.0d
+		}
+		{
+			description: ["&d01010100 01101000 01100101 00100000 01010101 01101100 01110100 01101001 01101101 01100001 01110100 01100101 00100000 01000111 01101111 01100001 01101100 00101110 00100000 01000111 01101111 01101111 01100100 00100000 01101100 01110101 01100011 01101011 00100000 01101111 01101110 00100000 01110100 01101000 01101001 01110011 00100000 01100001 01100100 01110110 01100101 01101110 01110100 01110101 01110010 01100101 00101110 00100000 01000100 01100101 01100011 01101001 01110000 01101000 01100101 01110010 00100000 01110100 01101000 01100101 00100000 01110111 01101111 01110010 01100100 01110011 00101110 00100000 01010111 01101000 01100001 01110100 00100000 01100100 01101111 00100000 01110100 01101000 01100101 01111001 00100000 01101101 01100101 01100001 01101110 00111111"]
+			id: "2074B359F89407C0"
+			rewards: [
+				{
+					id: "7E0AF8D0AF974332"
+					type: "xp_levels"
+					xp_levels: 10000
+				}
+				{
+					advancement: "arphex:voidlasher_killed"
+					criterion: ""
+					id: "1A97A0E99648A7A0"
+					type: "advancement"
+				}
+			]
+			size: 7.0d
+			tasks: [{
+				id: "5B000F3C4131374A"
+				item: {
+					Count: 1
+					id: "the_deep_void:reinforced_pickaxe"
+					tag: {
+						Damage: 0
+						affix_data: {
+							sockets: 0
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: 17.5d
+		}
+		{
+			icon: {
+				Count: 1
+				id: "the_deep_void:forgotten_token"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "74F1FAEB7FE61838"
+			rewards: [{
+				id: "1CC239B8CADFEF4D"
+				type: "xp_levels"
+				xp_levels: 50
+			}]
+			size: 2.0d
+			tasks: [{
+				entity: "graveyard:nightmare"
+				id: "38B25F3BE0461E4F"
+				type: "kill"
+				value: 1L
+			}]
+			x: 0.0d
+			y: 11.0d
+		}
+		{
+			id: "2D1FB935CC6B32E1"
+			rewards: [{
+				id: "127D6A527CFE3C57"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "5357B5B61D2C79C0"
+				item: "the_deep_void:refined_onyx"
+				type: "item"
+			}]
+			x: 6.5d
+			y: 0.0d
+		}
+		{
+			id: "7C2E98EF6289470C"
+			rewards: [{
+				id: "4303C8263A94E524"
+				type: "xp_levels"
+				xp_levels: 30
+			}]
+			tasks: [{
+				id: "373B0F888F9E66BA"
+				item: {
+					Count: 1
+					id: "the_deep_void:onyx_pickaxe"
+					tag: {
+						Damage: 0
+						affix_data: {
+							sockets: 0
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: -9.5d
+		}
+		{
+			id: "0DD74B762CE18AF8"
+			rewards: [{
+				id: "7ECA89465F4F5567"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "0B7E7E59B8BB68E3"
+				item: "the_deep_void:grim_shard"
+				type: "item"
+			}]
+			x: 5.5d
+			y: -2.0d
+		}
+		{
+			description: [
+				""
+				"{image:the_deep_void:textures/painting/i_am_you.png width:100 height:100 align:center}"
+			]
+			id: "5CB355F297D77688"
+			shape: "rsquare"
+			size: 8.0d
+			tasks: [{
+				id: "3DB14E3BFD240899"
+				item: "the_deep_void:primordial_stone"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 24.0d
+		}
+	]
+	title: "The Deep Void"
+}
