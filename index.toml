@@ -1571,11 +1571,6 @@ hash = "741c840e1e82abd2a035508b7c580080181e75329c170a67e00ad26f630c4d63"
 metafile = true
 
 [[files]]
-file = "mods/the-flesh-that-hates.pw.toml"
-hash = "4ce2c62c813e65de9b648d0ae8575067b09c69045d6154afcd6139763e1860cb"
-metafile = true
-
-[[files]]
 file = "mods/the-graveyard-forge.pw.toml"
 hash = "d54e2a189320e39820fb2fb75caa2aa99a44393bbd36a9215ee534039f9d64d8"
 metafile = true
