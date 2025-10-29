@@ -38,13 +38,13 @@
 	#Whether the ''Seek Light'' warning should appear when the Stalker is close or not (Happens only one time)
 	SeekLightWarning = true
 	#Whether light sources should be destroyed in the Deep Void or not
-	DestroyLightSources = true
+	DestroyLightSources = false
 	#How long the Void Blessing effect should last when entering the Deep Void (In ticks)
 	VoidBlessingTimer = 600.0
 	#Should players teleport to the Deep Void when falling in the void in any dimension
 	AllowOtherWorldTp = false
 	#Should Soul light sources not get destroyed
-	AllowSoulLight = false
+	AllowSoulLight = true
 	#If players should hallucinate below y=1 or not
 	PlayerHallucinates = true
 	#Should the Stalker be able to break certain blocks
