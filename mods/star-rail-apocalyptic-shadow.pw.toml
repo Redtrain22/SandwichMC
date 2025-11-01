@@ -1,0 +1,13 @@
+name = "Star Rail: Apocalyptic Shadow"
+filename = "sras-1.0.0-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "37fa33d84035332d2b93dc896c3e01e69e7d21e5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7160006
+project-id = 1374139

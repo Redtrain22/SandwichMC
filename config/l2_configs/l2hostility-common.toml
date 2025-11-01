@@ -96,7 +96,7 @@ enableStructureSpecificDatapack = true
 	killsPerLevel = 14
 	#Decay in player difficulty on death
 	#Range: 0.0 ~ 2.0
-	playerDeathDecay = 0.5
+	playerDeathDecay = 0.0
 	#Allow KeepInventory to keep difficulty as well
 	keepInventoryRuleKeepDifficulty = false
 	#On player death, clear dimension penalty
@@ -377,7 +377,7 @@ enableStructureSpecificDatapack = true
 	allow_tank = true
 	allow_speedy = true
 	allow_protection = true
-	allow_invisible = true
+	allow_invisible = false
 	allow_fiery = true
 	allow_regenerate = true
 	allow_adaptive = false

@@ -114,7 +114,7 @@ hash = "f0db411e94d9a42f09a6f49f9a8104452588741c15ca6a554b26e85262784f4a"
 
 [[files]]
 file = "config/l2_configs/l2hostility-common.toml"
-hash = "d290964e3095a3481bc41e39f176d464c40ca0cdf04877efcd3dc74864b3da34"
+hash = "a8f0e2c3ac35fd3762830e31b2064e7a94c41c4a586309a44c1f0f3e95287bcd"
 
 [[files]]
 file = "config/mcdw/mcdw_stats_config.json5"
@@ -1291,6 +1291,11 @@ hash = "ea64d2de0234ce3f9011194de9b936c339be4282bed76d4d04e24d5bdf6063e9"
 metafile = true
 
 [[files]]
+file = "mods/photon.pw.toml"
+hash = "a86d6fccb49605c1e70c50db2129c29da1841f103d3a5a2987595347d0a47ce8"
+metafile = true
+
+[[files]]
 file = "mods/pick-up-notifier.pw.toml"
 hash = "0fd5b27087ffe34d22dbdbdec6cae53f0a58b839ab8e4c423a5255f2b406e27b"
 metafile = true
@@ -1503,6 +1508,11 @@ metafile = true
 [[files]]
 file = "mods/species.pw.toml"
 hash = "62edccaa4927727a7aeec441579cb4c026cb24994c5044f3397062c405f4f7f4"
+metafile = true
+
+[[files]]
+file = "mods/star-rail-apocalyptic-shadow.pw.toml"
+hash = "27dbc7d6af92304bacafbbbea1819ffd602f23147232db08bcb8ac76a73b0457"
 metafile = true
 
 [[files]]
