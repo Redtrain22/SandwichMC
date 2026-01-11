@@ -1,6 +1,6 @@
 name = "Anabasis: Exo Ascension"
 filename = "exo_ascension-1.0.2.jar"
-side = "cilent"
+side = "client"
 
 [download]
 hash-format = "sha1"
