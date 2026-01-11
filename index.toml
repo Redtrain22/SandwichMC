@@ -33,6 +33,10 @@ file = "config/badmobs-common.toml"
 hash = "a59bd2c203cc8b11b2c2e047f046407388a131e12e72c73573fdc1b377e2df6d"
 
 [[files]]
+file = "config/better_balanced_shields-common.toml"
+hash = "d6fb594c574bff248c94dcca6ad86508836a357b547281608ecc0f9abb2f0b2b"
+
+[[files]]
 file = "config/bettercombat/server.json.5"
 hash = "4a5c8829e36568212498f5e5299c6a7439215bc88c61c3f868b5bba219066c1f"
 
@@ -151,6 +155,11 @@ hash = "fb180c46efba37e6c0e8c27cfe5ee8db3f29e9e97d40af5808a39341e8cd8ca3"
 metafile = true
 
 [[files]]
+file = "mods/aaa-particles.pw.toml"
+hash = "aeddebbcf923f3ea5dabb05f05163559fa5b39e038f30b971f8018d52fd4e5ed"
+metafile = true
+
+[[files]]
 file = "mods/advanced-loot-info.pw.toml"
 hash = "9ff47173a2fe0120c72f6fbd3186b6ba41a696fa1e7cf11092489cf28c4bd619"
 metafile = true
@@ -181,11 +190,6 @@ hash = "9c5aeffca7b7e9ee378daea0e1a8ccbb0089e0e88a9cee9a93139003c5d0aa1f"
 metafile = true
 
 [[files]]
-file = "mods/alshanexs-familiars.pw.toml"
-hash = "03943ca452a9eea4784afbf450f0761b09d948cffe1918e623b29db71e8f351a"
-metafile = true
-
-[[files]]
 file = "mods/amber.pw.toml"
 hash = "5232d0072c99f0d7605b0f19e6c0aa1b04cff3b2e2efb79a8c0d23a96c8cb598"
 metafile = true
@@ -198,6 +202,11 @@ metafile = true
 [[files]]
 file = "mods/ames-mobs.pw.toml"
 hash = "7a5213ccbe59dee272579a8b7c702f13db3325d71c71e14032cba3b8d1f0d1cb"
+metafile = true
+
+[[files]]
+file = "mods/anabasis-exo-ascension.pw.toml"
+hash = "10e15d5d0b3bb468161ce89e87e388abec7f4825e58e39c6c3982a87f5b6590c"
 metafile = true
 
 [[files]]
@@ -238,11 +247,6 @@ metafile = true
 [[files]]
 file = "mods/aquamirae.pw.toml"
 hash = "eccbbe63cad9d000fee620d560b07d5484432d042695b1aab63f916faae6ae53"
-metafile = true
-
-[[files]]
-file = "mods/arachnids.pw.toml"
-hash = "1fbfa6667f99b3397b311acf3b723a56154978436f09c93ea657218efdc25159"
 metafile = true
 
 [[files]]
@@ -336,6 +340,16 @@ hash = "45bfe44cb3208de7ce385b6a3e98251e7423c5aac8ebec9c13c752b75661d793"
 metafile = true
 
 [[files]]
+file = "mods/better-balanced-shields.pw.toml"
+hash = "008101338dad1563eb04701ab5abd4417fd263244800579d8c595525abf4134d"
+metafile = true
+
+[[files]]
+file = "mods/better-combat-particle.pw.toml"
+hash = "c60d9b88cfdcd6b7fa895ea8db1c4ce40f5d42de37fe755c5adf38a5b78f3274"
+metafile = true
+
+[[files]]
 file = "mods/better-combat.pw.toml"
 hash = "ab86c301b50308e58742faa6712c7dc034c0a109a0d4d1d9c21953a79aac3eb8"
 metafile = true
@@ -348,6 +362,11 @@ metafile = true
 [[files]]
 file = "mods/better-ping-display.pw.toml"
 hash = "fdcff7ca99cbb6acb4fed98039a3bbae1c6b3a9d61df94039d8e3c4c86424b55"
+metafile = true
+
+[[files]]
+file = "mods/better-snowy-biome.pw.toml"
+hash = "7cf9786b5b5671ca1a14f13a4bfbe9f2c3c4872ddcefe3961c58ff5f02e03721"
 metafile = true
 
 [[files]]
@@ -438,6 +457,11 @@ metafile = true
 [[files]]
 file = "mods/citadel.pw.toml"
 hash = "4191b1dc1a4a03fd2b489bcb030a819db122eefecd7d04d31973f2c4fa19db75"
+metafile = true
+
+[[files]]
+file = "mods/clanging-howl.pw.toml"
+hash = "071c65f6fefe821bd9fe9cab0a0eb57c42d976d88a24d6082cac9d58a4f5246c"
 metafile = true
 
 [[files]]
@@ -576,6 +600,11 @@ hash = "ae1d336ca6962291da5b7d3e6d8366769a60ce31e39288a6d58c81d2ff732d7b"
 metafile = true
 
 [[files]]
+file = "mods/dac-x-irons-spells.pw.toml"
+hash = "31ffa3919532be33f44799e12ed660dd36229ef3228c2f4b1b8da1a748f1d032"
+metafile = true
+
+[[files]]
 file = "mods/daffasarsenal.pw.toml"
 hash = "e71c3737a27f77cb1d8ea42ae912f57a32874cea91720a8c1a1568c6d5b06456"
 metafile = true
@@ -636,8 +665,8 @@ hash = "8ada3a1a3851ea38df64186f147e6d7f7bb8df519820fd3524a08436efaa4c3e"
 metafile = true
 
 [[files]]
-file = "mods/dungeon-now-loading.pw.toml"
-hash = "a5c0b0ac50786d555954388c25596998dbe5b947f870f1fd3187cb8057ca651e"
+file = "mods/dungeons-and-combat.pw.toml"
+hash = "9717c63d06741b9cdf8fd3ee630f3e6894b1d351ea520dec39e3bf744c1b1f9a"
 metafile = true
 
 [[files]]
@@ -776,6 +805,11 @@ hash = "bcdf0eb4ba4f7b5373a1bc736fd3722d95604bef8390492b2ff4f96676980d21"
 metafile = true
 
 [[files]]
+file = "mods/fathomless-crimson.pw.toml"
+hash = "98e0f305027ac519121036abbc6ae4e9a3af30dcd0c2eeb864c84e19fa0401d0"
+metafile = true
+
+[[files]]
 file = "mods/fdlib.pw.toml"
 hash = "44e8464ef91ddd193815170041601ce1dbc45df05e1c338ff59e0d90e51ef2b5"
 metafile = true
@@ -796,23 +830,8 @@ hash = "9b26443d8a0a52727dbea33487145e7f9ad495bfee7fc21a462c815a1f5fc563"
 metafile = true
 
 [[files]]
-file = "mods/from-another-world.pw.toml"
-hash = "8eb1e6feed8797f4833ce7557f43985b153bd6f74213865e9f07419bd4477680"
-metafile = true
-
-[[files]]
-file = "mods/from-the-fog.pw.toml"
-hash = "49dfc6e8737d45a945e5a91cfd19ec8e810eec40a0f8c16d19690633c440aca1"
-metafile = true
-
-[[files]]
 file = "mods/from-the-shadow-reborn.pw.toml"
 hash = "12c6818d92bbceb56b3b01b0ef1db934676b79d86c17918aa13de0abea1a6aea"
-metafile = true
-
-[[files]]
-file = "mods/fromanotherlibrary.pw.toml"
-hash = "c8b58ed9e46894ef78724e80bd28b3f3a09cb889977be1942f06c8d358ac4f56"
 metafile = true
 
 [[files]]
@@ -952,7 +971,7 @@ metafile = true
 
 [[files]]
 file = "mods/irons-spells-n-spellbooks.pw.toml"
-hash = "39ba03545d6f3a34fd0068c1078fb1b89531a521b3105061da0a35b35c65e02e"
+hash = "bdb7d8a87aabfe199cf87e5822cafb990d336a6233ba606c8b281d967c77054b"
 metafile = true
 
 [[files]]
@@ -1048,6 +1067,11 @@ metafile = true
 [[files]]
 file = "mods/liteminer.pw.toml"
 hash = "0ee95a619b2783042ec528848a3f16bfc878a436d07ede969b4518649b0aa2ec"
+metafile = true
+
+[[files]]
+file = "mods/lodestone.pw.toml"
+hash = "a484a0a768e886244dab01dd9793d979ca5d57b8327f9f4caa36a3031fc46d63"
 metafile = true
 
 [[files]]
@@ -1216,6 +1240,11 @@ hash = "2ad908dfab3108a72f855d7241855a4971a2ccd135e45b9c15d6b25f52285deb"
 metafile = true
 
 [[files]]
+file = "mods/nexus-layer.pw.toml"
+hash = "2fcedb78d6dcbe8bc1a050ba5f9b307f69139e1761c56564aed392d9d7c7e2dd"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "9a3c80bf6eee8234001d2a1602b3e123ac5706af051902e40f24abe317b86e50"
 metafile = true
@@ -1287,7 +1316,7 @@ metafile = true
 
 [[files]]
 file = "mods/phayriosis-parasite-infection.pw.toml"
-hash = "ea64d2de0234ce3f9011194de9b936c339be4282bed76d4d04e24d5bdf6063e9"
+hash = "b353dee78dfe969a36fef850d41df3f59c351998f2feacac25fc7eef43a1b1ce"
 metafile = true
 
 [[files]]
@@ -1371,6 +1400,11 @@ hash = "4eb683644ee4e38e00b06df946b71ad8fedaa860fcabbd91ec6ceb71c65b8d81"
 metafile = true
 
 [[files]]
+file = "mods/raxiores-of-raxiore.pw.toml"
+hash = "bbd7ed5fcbdb0e7a600bc9a63a4b0024822858695a7e8e38e5eefbc785f9b250"
+metafile = true
+
+[[files]]
 file = "mods/razor-tyrant-the-reign-of-terror.pw.toml"
 hash = "bbbae2e10470be8bcf75af7925f4f9cc00e66e172563371faf6d79bc2795da48"
 metafile = true
@@ -1416,6 +1450,11 @@ hash = "7947c49fdbd79eff117aeaed431118e2dd317efb035cc806d7992b198789a59e"
 metafile = true
 
 [[files]]
+file = "mods/roaring.pw.toml"
+hash = "d613ffd2ff787d8d47a3ad535053ee3fe160d508e10ad11e46cfbc73b2ee782c"
+metafile = true
+
+[[files]]
 file = "mods/royal-variations.pw.toml"
 hash = "aa7af41f4ccc6e5c1e77453c7fe0db60121fca72fc46e598b4808ab69515ddbd"
 metafile = true
@@ -1428,11 +1467,6 @@ metafile = true
 [[files]]
 file = "mods/saturn.pw.toml"
 hash = "45646ed86d783d82cc2b804466d4aaf06a67e14766928f17134d02558179f3f0"
-metafile = true
-
-[[files]]
-file = "mods/scp-031-what-is-love.pw.toml"
-hash = "27d17cae37cd138d1657d3ed37967542ee75aad70d6ce786c1557913b8e85ec1"
 metafile = true
 
 [[files]]
@@ -1512,12 +1546,7 @@ metafile = true
 
 [[files]]
 file = "mods/star-rail-apocalyptic-shadow.pw.toml"
-hash = "27dbc7d6af92304bacafbbbea1819ffd602f23147232db08bcb8ac76a73b0457"
-metafile = true
-
-[[files]]
-file = "mods/starving-skeletons.pw.toml"
-hash = "90ae31663e2f515f6b41dde63d9021f53e906c79cb29abc4fb53d5d14dc0ac67"
+hash = "6c8be1bf23f6ffa10821d8f1f08b8baae999f31fdc4226af23a31ac3578c9564"
 metafile = true
 
 [[files]]
@@ -1583,11 +1612,6 @@ metafile = true
 [[files]]
 file = "mods/the-graveyard-forge.pw.toml"
 hash = "d54e2a189320e39820fb2fb75caa2aa99a44393bbd36a9215ee534039f9d64d8"
-metafile = true
-
-[[files]]
-file = "mods/the-knocker.pw.toml"
-hash = "c8976c9b6bf39018977ee2c8c2340992d325f61677d3bf324fe98fb16f7b4a00"
 metafile = true
 
 [[files]]
@@ -1692,12 +1716,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "fefe9283ff180aa57bd9a3cc949d5feeb96def7c9338f58c3ffbc16c2c8c15e9"
+hash = "4e55e82da77fbaeda7c2456cb8df1b921810e069d97eee208de6c854f5f2fb8f"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "1d66979164bc233aa57d8a23d55d12f8dab242c12de1fbd63878a9c114fc0a1b"
+hash = "6b4f5e90062feb55ce8a380ed7970c5db841c8191e0823d6bacac61b0755ccf5"
 metafile = true
 
 [[files]]

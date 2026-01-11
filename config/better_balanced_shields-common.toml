@@ -1,0 +1,74 @@
+#You may notice none of these options have ranges, so changing things can get wacky if you don't stick to what the comments suggest. Have fun!
+#Potion stuff!
+#Whether to block potions, without REFLECTABLE_POTIONS too, this means the potion will just disappear when it hits a shield
+BLOCKABLE_POTIONS = true
+#Whether to reflect potions (implies BLOCKABLE_POTIONS)
+REFLECTABLE_POTIONS = true
+#Velocity multiplier to reflected potions
+#Positive numbers reflect away from you, recommend keeping the number at its default, or higher
+POTION_REFLECT_MULTIPLIER = 0.75
+#Minimum value of the dot product between the player's facing direction and the inverse of the projectile's normalized motion in order to count as a shield hit
+#In other words, -1 means you reflect arrows completely opposite which direction you're looking, 1 means you have to be looking the exact same direction
+#Values below -1 behave identically to -1, and values above 1 behave identically to 1
+#Note, this is the lower part of the range, ideally this should be less than 1
+#With the default POTION_DOT_MAXIMUM, think of this as bigger number = harder to block
+POTION_DOT_MINIMUM = 0.25
+#For the nerd stuff, check out POTION_DOT_MINIMUM
+#Note, this is the maximum part of the range, ideally this should just be 1
+POTION_DOT_MAXIMUM = 1.0
+#Damage dealt to shield when reflecting/blocking a potion
+POTION_SHIELD_DAMAGE = 2.0
+#Just multiply potion velocity, don't redirect to player's facing direction
+POTION_AUTOAIM = false
+#Disables this mod's logic for calculating and reflecting potions, overrides all the above potion settings
+VANILLA_POTIONS = false
+#Arrow stuff!
+#Whether to block arrows, without REFLECTABLE_ARROWS, this means the arrow will disappear when it hits a shield
+BLOCKABLE_ARROWS = true
+#Whether to reflect arrows (implies BLOCKABLE_ARROWS)
+REFLECTABLE_ARROWS = true
+#Velocity multiplier to reflected arrow
+#Positive numbers reflect away from you
+ARROW_REFLECT_MULTIPLIER = 0.25
+#See POTION_DOT_MINIMUM
+ARROW_DOT_MINIMUM = 0.125
+#See POTION_DOT_MAXIMUM
+ARROW_DOT_MAXIMUM = 1.0
+#Damage dealt to shield when reflecting/blocking an arrow
+ARROW_SHIELD_DAMAGE = 2.0
+#Just multiply arrow velocity, don't redirect to player's facing direction
+ARROW_AUTOAIM = false
+#Arrow reflect will crit or not, simple as that
+ARROW_REFLECT_CRITS = true
+#Disables this mod's logic for calculating and reflecting arrows, overrides all the above arrow settings
+VANILLA_ARROWS = false
+#Melee stuff!
+#Percentage (default of 0.75 = 75%) of damage taken if shield is up. If this number is negative, you are healed by the negated percentage.
+MELEE_DAMAGE_MULTIPLIER = 0.10
+#Percentage (default of 0.00 = 0%) of damage reflected (think thorns enchant) if shield is up. If this number is negative, the assailant is healed by the negated percentage.
+MELEE_DAMAGE_REFLECTION = 0.0
+#Whether or not MELEE_SHIELD_DAMAGE is a percentage of damage taken applied to a shield (true), or a constant (false)
+MELEE_SCALED_SHIELD_DAMAGE = true
+#Read above.
+#If it's true, damage before any modifiers is multiplied by this number and applied to the shield
+#If it's false, just this number is applied
+MELEE_SHIELD_DAMAGE = 0.5
+#Nullifies above melee settings
+VANILLA_MELEE = false
+#Minimum volume when this mod plays the SHIELD_BLOCK sound effect
+SHIELD_BLOCK_MIN_VOLUME = 1.0
+#Maximum volume when this mod plays the SHIELD_BLOCK sound effect
+SHIELD_BLOCK_MAX_VOLUME = 1.0
+#Minimum pitch when this mod plays the SHIELD_BLOCK sound effect
+SHIELD_BLOCK_MIN_PITCH = 0.8
+#Maximum pitch when this mod plays the SHIELD_BLOCK sound effect
+SHIELD_BLOCK_MAX_PITCH = 1.2
+#Minimum volume when this mod plays the SHIELD_BREAK sound effect
+SHIELD_BREAK_MIN_VOLUME = 1.0
+#Maximum volume when this mod plays the SHIELD_BREAK sound effect
+SHIELD_BREAK_MAX_VOLUME = 1.0
+#Minimum pitch when this mod plays the SHIELD_BREAK sound effect
+SHIELD_BREAK_MIN_PITCH = 0.8
+#Maximum pitch when this mod plays the SHIELD_BREAK sound effect
+SHIELD_BREAK_MAX_PITCH = 1.2
+

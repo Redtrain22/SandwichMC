@@ -1,0 +1,13 @@
+name = "Raxiores Of Raxiore"
+filename = "ror-0.59-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ea47feb8feab5f5b2d9ac9ed08fc30ff1865438b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7409314
+project-id = 1231016

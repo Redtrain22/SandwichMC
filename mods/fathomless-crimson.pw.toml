@@ -1,0 +1,13 @@
+name = "Fathomless Crimson (Tribute to Horror)"
+filename = "FathomlessCrimson-1.1.3bugfix.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7709f4ec9967e5b1068512c0f8a48d4b42658b28"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7386902
+project-id = 1370939

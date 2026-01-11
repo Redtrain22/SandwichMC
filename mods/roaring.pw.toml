@@ -1,0 +1,13 @@
+name = "ROARING"
+filename = "roaring-beta-0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/noogFnLJ/versions/SwJSyDXz/roaring-beta-0.3.jar"
+hash-format = "sha1"
+hash = "ff7667bfc51d14f8c315b8b8aee38f6376f34022"
+
+[update]
+[update.modrinth]
+mod-id = "noogFnLJ"
+version = "SwJSyDXz"

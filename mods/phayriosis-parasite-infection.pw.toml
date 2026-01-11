@@ -1,13 +1,13 @@
 name = "Phayriosis Parasite Infection"
-filename = "phayriosisreborn-0.0.0.5-forge-1.20.1.jar"
+filename = "phayriosisreborn-0.1.0.0-blossoming_bones-forge-1.20.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "f20493681a10945a021cab05bf513aaf24c9e10b"
+hash = "41c05c89f61131a92bc055c5140f409dc1ba5ee6"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7127293
+file-id = 7441416
 project-id = 1032144

@@ -1,0 +1,13 @@
+name = "Snowy Biomes: Enhanced"
+filename = "better-snowy-biome-v2.5.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qW8hUuD1/versions/nB4YTUrq/better-snowy-biome-v2.5.1.jar"
+hash-format = "sha1"
+hash = "d548b2237ef2f8384c3123929b207a0babbb7b81"
+
+[update]
+[update.modrinth]
+mod-id = "qW8hUuD1"
+version = "nB4YTUrq"

@@ -1,0 +1,13 @@
+name = "Better Balanced Shields"
+filename = "better_balanced_shields-0.1.1-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Lg2GWTTf/versions/KVl8Uksi/better_balanced_shields-0.1.1-1.20.1.jar"
+hash-format = "sha1"
+hash = "99cd0fd9aea145e4d6432d087a6a23e934f688c4"
+
+[update]
+[update.modrinth]
+mod-id = "Lg2GWTTf"
+version = "KVl8Uksi"
