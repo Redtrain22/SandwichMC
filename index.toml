@@ -590,11 +590,6 @@ hash = "ae1d336ca6962291da5b7d3e6d8366769a60ce31e39288a6d58c81d2ff732d7b"
 metafile = true
 
 [[files]]
-file = "mods/dac-x-irons-spells.pw.toml"
-hash = "31ffa3919532be33f44799e12ed660dd36229ef3228c2f4b1b8da1a748f1d032"
-metafile = true
-
-[[files]]
 file = "mods/daffasarsenal.pw.toml"
 hash = "e71c3737a27f77cb1d8ea42ae912f57a32874cea91720a8c1a1568c6d5b06456"
 metafile = true
@@ -652,11 +647,6 @@ metafile = true
 [[files]]
 file = "mods/dropped-buffs.pw.toml"
 hash = "8ada3a1a3851ea38df64186f147e6d7f7bb8df519820fd3524a08436efaa4c3e"
-metafile = true
-
-[[files]]
-file = "mods/dungeons-and-combat.pw.toml"
-hash = "9717c63d06741b9cdf8fd3ee630f3e6894b1d351ea520dec39e3bf744c1b1f9a"
 metafile = true
 
 [[files]]
