@@ -580,11 +580,6 @@ hash = "d7c9769290ca159f5d6bb81c385d2f308541a6f50b9ddc569c7044119d242fe8"
 metafile = true
 
 [[files]]
-file = "mods/crust.pw.toml"
-hash = "59ae0ef62e2074fc2e6c0e44a5ed830fefd568c4f1625d1ed1b6e25fde5a6d90"
-metafile = true
-
-[[files]]
 file = "mods/curios.pw.toml"
 hash = "c1fb4b35943ed603eaaa2999ec0faa3d22a5ea2a95f7ef1b0cd0eae83c945bae"
 metafile = true
