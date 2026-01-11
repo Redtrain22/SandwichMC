@@ -193,10 +193,10 @@
 			[server.mobs.pursuer.attribute_config]
 				#Regulate mob health by this value
 				#Range: 0.0 ~ 1.7976931348623157E308
-				"Health multiplier" = 25.0
+				"Health multiplier" = 50.0
 				#Regulate mob attack damage by this value
 				#Range: 0.0 ~ 1.7976931348623157E308
-				"Attack multiplier" = 1.0
+				"Attack multiplier" = 3.0
 
 			[server.mobs.pursuer.bossbar]
 				#Enable custom bossbar

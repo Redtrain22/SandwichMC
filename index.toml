@@ -139,7 +139,7 @@ hash = "90c4c20883718c977bd094a6967080a83c339e0abe9c9dc6089880363141b856"
 
 [[files]]
 file = "config/torchesbecomesunlight-common.toml"
-hash = "cff1a48601be31738d23e86a303cee5d12e02ac8133c953798187f3c1d45ec63"
+hash = "742cefb8d69b52bc7347f75b7daaf08d942ccb4d448baf3c99b777f6249188a1"
 
 [[files]]
 file = "config/voidscape-common.toml"
@@ -1447,11 +1447,6 @@ metafile = true
 [[files]]
 file = "mods/ribbits.pw.toml"
 hash = "7947c49fdbd79eff117aeaed431118e2dd317efb035cc806d7992b198789a59e"
-metafile = true
-
-[[files]]
-file = "mods/roaring.pw.toml"
-hash = "d613ffd2ff787d8d47a3ad535053ee3fe160d508e10ad11e46cfbc73b2ee782c"
 metafile = true
 
 [[files]]
