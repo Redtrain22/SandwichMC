@@ -341,7 +341,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-combat-particle.pw.toml"
-hash = "c60d9b88cfdcd6b7fa895ea8db1c4ce40f5d42de37fe755c5adf38a5b78f3274"
+hash = "1a4b268c4885e4826558221b9ba433495ae231c2ad00d3729afa06f802a764c6"
 metafile = true
 
 [[files]]
