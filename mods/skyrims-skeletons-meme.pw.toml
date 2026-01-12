@@ -1,0 +1,13 @@
+name = "Skyrims Skeleton Meme"
+filename = "skyrim_skeletons-1.0-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8AxP5l2l/versions/snfjpWQp/skyrim_skeletons-1.0-forge-1.20.1.jar"
+hash-format = "sha1"
+hash = "cc58d4e6df2247729d2d0c8cb3792961b3c2b692"
+
+[update]
+[update.modrinth]
+mod-id = "8AxP5l2l"
+version = "snfjpWQp"

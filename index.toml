@@ -1470,6 +1470,11 @@ hash = "0eb064f444e48a7721c35b9944260f0fb4bde63fb7f8ddc68a041cf7b281d8cd"
 metafile = true
 
 [[files]]
+file = "mods/skyrims-skeletons-meme.pw.toml"
+hash = "7db602f0cc992e7e4df8c1533a56b71e2d75e83b5ff6ebe200da14c45462dc10"
+metafile = true
+
+[[files]]
 file = "mods/smartbrainlib.pw.toml"
 hash = "640c3885bce6e23c6e86a2cd30d98b234c92194cf78344bd1810d39e35f3e487"
 metafile = true
