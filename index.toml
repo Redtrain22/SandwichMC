@@ -749,11 +749,6 @@ hash = "3bb7489e929b16c94210d4e28d9840c9d279193ace74a69234a250f0c429e9e4"
 metafile = true
 
 [[files]]
-file = "mods/elytra-trims.pw.toml"
-hash = "d16d26f06f5f365927d3f0f22078c7ccdba4dfa377bf5c1c1fdbb7408b99ee34"
-metafile = true
-
-[[files]]
 file = "mods/embeddium.pw.toml"
 hash = "2a4e32365b962f7857d6003af7abee398a92919a5b3ddcd2a51ab9359b80865a"
 metafile = true
