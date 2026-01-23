@@ -1,13 +1,13 @@
 name = "Threateningly mobs"
-filename = "threateningly_mobs-1.0.9.7-forge-1.20.1.jar"
+filename = "threateningly_mobs-1.0.9.82-forge-1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/qEr8xutG/versions/368FYtPu/threateningly_mobs-1.0.9.7-forge-1.20.1.jar"
+url = "https://cdn.modrinth.com/data/qEr8xutG/versions/yPcrIwoS/threateningly_mobs-1.0.9.82-forge-1.20.1.jar"
 hash-format = "sha1"
-hash = "e115c271d46f1ad662a34aaee4b7bef24088506b"
+hash = "6be0e365eaf670f3de484186271d7dfd8bf06fd8"
 
 [update]
 [update.modrinth]
 mod-id = "qEr8xutG"
-version = "368FYtPu"
+version = "yPcrIwoS"

@@ -1,0 +1,13 @@
+name = "BaublesReforked"
+filename = "baublesreforked-1.0.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/mPaA8Ndq/versions/GeT2kRgs/baublesreforked-1.0.7.jar"
+hash-format = "sha1"
+hash = "bafd3244636b350f42834dcade7d494952d0d4d4"
+
+[update]
+[update.modrinth]
+mod-id = "mPaA8Ndq"
+version = "GeT2kRgs"

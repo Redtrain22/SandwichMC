@@ -1,13 +1,13 @@
 name = "Bigger Stacks"
-filename = "biggerstacks-1.20.1-1.0.4-all.jar"
+filename = "biggerstacks-1.20.1-1.0.5-all.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/hcK0pdrI/versions/Lc1m0xqO/biggerstacks-1.20.1-1.0.4-all.jar"
+url = "https://cdn.modrinth.com/data/hcK0pdrI/versions/9nScqulu/biggerstacks-1.20.1-1.0.5-all.jar"
 hash-format = "sha1"
-hash = "48d6f1aa5797d742177894ddf6af2b347e3ae9c9"
+hash = "bf8ca6507acb411c191f49c1fef8d5e593ca4eff"
 
 [update]
 [update.modrinth]
 mod-id = "hcK0pdrI"
-version = "Lc1m0xqO"
+version = "9nScqulu"

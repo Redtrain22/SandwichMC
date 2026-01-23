@@ -3,11 +3,11 @@ filename = "true-ending-dragon-music-v1.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/ZltblCOt/versions/fAatoFaQ/true-ending-dragon-music-v1.zip"
+url = "https://cdn.modrinth.com/data/ZltblCOt/versions/uTOUpxTI/true-ending-dragon-music-v1.zip"
 hash-format = "sha1"
-hash = "06370ee1d14ae0be951c6eb7d7c394d4e92a2392"
+hash = "93aaaacdde99601ad519e1970255e52be8a09b0e"
 
 [update]
 [update.modrinth]
 mod-id = "ZltblCOt"
-version = "fAatoFaQ"
+version = "uTOUpxTI"

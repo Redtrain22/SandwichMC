@@ -1,0 +1,13 @@
+name = "Mebahel's Creatures - Draugr Invasion"
+filename = "mebahel-creatures-draugr-1.4.4-fabric-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/JGgAstX9/versions/NelkwDk2/mebahel-creatures-draugr-1.4.4-fabric-1.20.1.jar"
+hash-format = "sha1"
+hash = "450d277a77fcf127114bcadaa38c31ff55ef6846"
+
+[update]
+[update.modrinth]
+mod-id = "JGgAstX9"
+version = "NelkwDk2"

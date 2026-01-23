@@ -1,13 +1,13 @@
 name = "Beautiful Enchanted Books"
-filename = "Beautiful Enchanted Books - MC 1.20.X - 7.0.0.zip"
+filename = "Beautiful Enchanted Books - MC 1.20.1 - 8.0.0.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/VDTtLGSV/versions/fmLdcumy/Beautiful%20Enchanted%20Books%20-%20MC%201.20.X%20-%207.0.0.zip"
+url = "https://cdn.modrinth.com/data/VDTtLGSV/versions/DhwOwWZt/Beautiful%20Enchanted%20Books%20-%20MC%201.20.1%20-%208.0.0.zip"
 hash-format = "sha1"
-hash = "49d6b16e03c16a8f8858b55d486007ee37f5c1a9"
+hash = "d34dafb56d27ed30e386a6166cb4c378e82e2494"
 
 [update]
 [update.modrinth]
 mod-id = "VDTtLGSV"
-version = "fmLdcumy"
+version = "DhwOwWZt"

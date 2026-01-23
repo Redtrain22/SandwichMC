@@ -1,13 +1,13 @@
 name = "Pufferfish's Attributes"
-filename = "puffish_attributes-0.7.6-1.20-forge.jar"
+filename = "puffish_attributes-0.8.1-1.20-forge.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/FCFcFw09/versions/WfC6RmCz/puffish_attributes-0.7.6-1.20-forge.jar"
+url = "https://cdn.modrinth.com/data/FCFcFw09/versions/r8ewYEnK/puffish_attributes-0.8.1-1.20-forge.jar"
 hash-format = "sha1"
-hash = "225674326c50043f86606539e8d4cdc5521329ba"
+hash = "d1bd2858394d02f546ff2271b239d38a4777b153"
 
 [update]
 [update.modrinth]
 mod-id = "FCFcFw09"
-version = "WfC6RmCz"
+version = "r8ewYEnK"

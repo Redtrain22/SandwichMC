@@ -1,0 +1,13 @@
+name = "DarkSmelting"
+filename = "darksmelting-forge-1.20.1-1.0.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Cs83btto/versions/DdkyG1Xi/darksmelting-forge-1.20.1-1.0.5.jar"
+hash-format = "sha1"
+hash = "865151a419f4c190fe69a7de55c8c25800754703"
+
+[update]
+[update.modrinth]
+mod-id = "Cs83btto"
+version = "DdkyG1Xi"

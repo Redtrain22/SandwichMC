@@ -1,0 +1,13 @@
+name = "Ruins (Structure Spawning System)"
+filename = "ruins-1.20.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fdd5384f257c9029e01364e0d7d710f7baa401b3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6381266
+project-id = 227873

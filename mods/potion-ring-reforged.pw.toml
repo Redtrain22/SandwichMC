@@ -1,0 +1,13 @@
+name = "Potion Rings - Reforged"
+filename = "potionring-1.20.1-2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/VZywdkA8/versions/goYaz8hp/potionring-1.20.1-2.1.jar"
+hash-format = "sha1"
+hash = "69820964f2dba0a6451c391b4b76da7c149d3f86"
+
+[update]
+[update.modrinth]
+mod-id = "VZywdkA8"
+version = "goYaz8hp"

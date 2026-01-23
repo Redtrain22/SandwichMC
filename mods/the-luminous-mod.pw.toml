@@ -1,13 +1,13 @@
 name = "Luminous: Overworld"
-filename = "Luminous V1.5.2 - Forge 1.20.1.jar"
+filename = "Luminous Overworld V1.5.4 - Forge 1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/HT2F6lNL/versions/9AlwdRNc/Luminous%20V1.5.2%20-%20Forge%201.20.1.jar"
+url = "https://cdn.modrinth.com/data/HT2F6lNL/versions/HtIsrOA8/Luminous%20Overworld%20V1.5.4%20-%20Forge%201.20.1.jar"
 hash-format = "sha1"
-hash = "789627d635e35d7188f3a5963b87f6f454733250"
+hash = "8843c173040b76e5d6ca0ecdfec485f42746ce71"
 
 [update]
 [update.modrinth]
 mod-id = "HT2F6lNL"
-version = "9AlwdRNc"
+version = "HtIsrOA8"

@@ -1,0 +1,13 @@
+name = "Clearviews"
+filename = "clearview-1.20.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/TwYypE5e/versions/eL7Q5y8O/clearview-1.20.1.jar"
+hash-format = "sha1"
+hash = "1b976b3b4aceb0e0f1b90147226fb2581bcf5195"
+
+[update]
+[update.modrinth]
+mod-id = "TwYypE5e"
+version = "eL7Q5y8O"
