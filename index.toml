@@ -444,11 +444,6 @@ hash = "5bbab74e6fba3a7d62f0c4e9f14e3c2030a939ccac483d118cc3c951b4b37b4d"
 metafile = true
 
 [[files]]
-file = "mods/brassamberbattletowers.pw.toml"
-hash = "4d152e8643aa84c7d7f83f7d602068c06c0925678aa5e883a17481421d29dac6"
-metafile = true
-
-[[files]]
 file = "mods/breakingbedrock.pw.toml"
 hash = "7e85b10b60ae32920dd39efda3cc9ba6072038e01b75fb13a293484c17b3d9cc"
 metafile = true
