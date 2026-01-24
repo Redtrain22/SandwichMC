@@ -2,3 +2,4 @@
 .cpanel.yml
 
 *.disabled
+compose.yml
