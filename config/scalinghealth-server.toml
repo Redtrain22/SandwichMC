@@ -34,7 +34,7 @@
 	#Must be true for other debug settings to apply
 	masterSwitch = false
 	#Show some text in-game about player health, difficulty, and maybe other things.
-	showOverlay = true
+	showOverlay = false
 	#Log details of entity spawns, including effects of difficulty.
 	#This creates a lot of log spam, and will likely lag the game.
 	logEntitySpawns = false

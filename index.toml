@@ -70,11 +70,11 @@ hash = "9f49ef86e16455ab9264d713bc78960bd341fe514d890f30cab2a2131d6ec054"
 
 [[files]]
 file = "config/firstaid-client.toml"
-hash = "c1205845ac8359a4add1712d53d6dd49aea18bf1ba95222f1ce6203e765f3e9e"
+hash = "f2b849ef3b05d5b1b5650eab9bae5e05c673bb2c2448dcf376fe182a34ecc585"
 
 [[files]]
 file = "config/firstaid-server.toml"
-hash = "03b72fcaa78a9bde8e9f026179891f3baec24aee20c24a97fcdec008f6c8cebe"
+hash = "4c6ed8346d80394c2c8179072c15cf9e10dd29b958f9ebe335d6ac4b80c79a95"
 
 [[files]]
 file = "config/ftbquests/quests/chapter_groups.snbt"
@@ -118,7 +118,7 @@ hash = "ae0f5c1baf1169a8324dcfb0b663c269f7e2223c6f2eedde9db0276d3297378f"
 
 [[files]]
 file = "config/hardcorerevival-common.toml"
-hash = "13c976256630387a2422321f7af727dc21d8f7ee3d34fd0cd7590d2783b32be6"
+hash = "e55a3bfbf04243d0af4c4e25a9ee27e016d69943d2c82d3fb90c7d207b14b0f8"
 
 [[files]]
 file = "config/iceandfire-client.toml"
@@ -126,7 +126,7 @@ hash = "a4dcf9cc2e7f541fe73ee2f9780694cb8e9c7738a0a06e2a456453c3a47a8b9d"
 
 [[files]]
 file = "config/iceandfire-common.tmol"
-hash = "c439ba696cda91028796b66711ceb0b3f62d6234f9f0267418f5edd416458233"
+hash = "35dab808aba359166fe56044962124f6be610dc9482215883602a5128e83f570"
 
 [[files]]
 file = "config/incontrol/spawn.json"
@@ -155,7 +155,7 @@ metafile = true
 
 [[files]]
 file = "config/scalinghealth-server.toml"
-hash = "1b0f4be5a7f85bc17bf5dd0a60c78c716b7105844102a9e0e7e9b940b44e9466"
+hash = "a59660942156d7a826ce1e6bedb053b3aea3e30a7c296e4ff66c8901ac92a7d0"
 
 [[files]]
 file = "config/skilltree-common.toml"
@@ -371,11 +371,6 @@ metafile = true
 [[files]]
 file = "mods/better-balanced-shields.pw.toml"
 hash = "008101338dad1563eb04701ab5abd4417fd263244800579d8c595525abf4134d"
-metafile = true
-
-[[files]]
-file = "mods/better-combat-particle.pw.toml"
-hash = "c60d9b88cfdcd6b7fa895ea8db1c4ce40f5d42de37fe755c5adf38a5b78f3274"
 metafile = true
 
 [[files]]
@@ -960,7 +955,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersivemusicmod.pw.toml"
-hash = "9786f58d072c86236c0d41388f8c0c0384eba0041647bb333436e6eaa0b38ba0"
+hash = "88de2e7035176d3afb006d605a1d3431c2a5274d3b1b09b6f92fb32389e1f2b1"
 metafile = true
 
 [[files]]
@@ -1241,6 +1236,11 @@ metafile = true
 [[files]]
 file = "mods/mutant-monsters.pw.toml"
 hash = "2d79227a2a02a4ea1520d23ad988564017198c12d8a5965f6729556918924e64"
+metafile = true
+
+[[files]]
+file = "mods/myths-and-legends.pw.toml"
+hash = "825c67eb24548ad145282f003aabfd0df169bb485272157b707d665a02e199df"
 metafile = true
 
 [[files]]
