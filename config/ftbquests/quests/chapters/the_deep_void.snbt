@@ -5,7 +5,7 @@
 	group: ""
 	icon: "the_deep_void:infested_rotten_log"
 	id: "5A36C0FD6A4A9700"
-	order_index: 4
+	order_index: 5
 	quest_links: [ ]
 	quests: [
 		{

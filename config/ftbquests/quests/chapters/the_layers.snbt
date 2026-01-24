@@ -30,7 +30,7 @@
 			y: 53.5d
 		}
 	]
-	order_index: 1
+	order_index: 2
 	quest_links: [ ]
 	quests: [
 		{
@@ -544,6 +544,18 @@
 				{
 					id: "662D578384FD1B82"
 					item: "apotheosis:reforging_table"
+					type: "item"
+				}
+				{
+					count: 24
+					id: "3656582D8DD25C5F"
+					item: "minecraft:honeycomb"
+					type: "item"
+				}
+				{
+					count: 24
+					id: "76320EB860F38799"
+					item: "minecraft:honey_bottle"
 					type: "item"
 				}
 			]

@@ -1,0 +1,352 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "first_aid"
+	group: ""
+	icon: "scalinghealth:medkit"
+	id: "23192D2140FD2836"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			description: ["Press the H key in game to see how health works!"]
+			icon_scale: 2.0d
+			id: "564D0863552B758C"
+			rewards: [{
+				count: 15
+				id: "74A9C7E15E0174E5"
+				item: "firstaid:plaster"
+				type: "item"
+			}]
+			size: 2.0d
+			tasks: [{
+				advancement: "iceandfire:iceandfire/root"
+				criterion: ""
+				icon: "firstaid:plaster"
+				id: "1225BF70B61B6C7F"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			id: "1C15911957293F08"
+			rewards: [
+				{
+					count: 3
+					id: "6385E2DE8C180963"
+					item: "scalinghealth:medkit"
+					type: "item"
+				}
+				{
+					count: 10
+					id: "6596BAC21108BF0C"
+					item: "minecraft:white_wool"
+					type: "item"
+				}
+				{
+					count: 20
+					id: "120A77F390B4A4F1"
+					item: "minecraft:string"
+					type: "item"
+				}
+			]
+			tasks: [{
+				icon: "scalinghealth:medkit"
+				id: "373609B81B9EF994"
+				points: false
+				type: "xp"
+				value: 5L
+			}]
+			x: 2.5d
+			y: -1.0d
+		}
+		{
+			description: ["Submit 1 XP Level"]
+			id: "011D3CEC8D6B728F"
+			rewards: [
+				{
+					count: 10
+					id: "60DCC11A322597F2"
+					item: "firstaid:plaster"
+					type: "item"
+				}
+				{
+					count: 10
+					id: "21E33B566DAB8167"
+					item: "minecraft:white_wool"
+					type: "item"
+				}
+				{
+					count: 20
+					id: "41C913C82BF83161"
+					item: "minecraft:string"
+					type: "item"
+				}
+			]
+			tasks: [{
+				icon: "firstaid:plaster"
+				id: "484F65F7167A7415"
+				points: false
+				type: "xp"
+				value: 1L
+			}]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			id: "0453E52CA8E59F7C"
+			rewards: [
+				{
+					count: 10
+					id: "768CC4103685B32E"
+					item: "firstaid:bandage"
+					type: "item"
+				}
+				{
+					count: 10
+					id: "1B646B30C7DA2864"
+					item: "minecraft:white_wool"
+					type: "item"
+				}
+				{
+					count: 20
+					id: "05866B1768BD2F88"
+					item: "minecraft:string"
+					type: "item"
+				}
+			]
+			tasks: [{
+				icon: "firstaid:bandage"
+				id: "24C6D04F2616B070"
+				points: false
+				type: "xp"
+				value: 3L
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			id: "7B0BAF0AB9B3B9CA"
+			tasks: [{
+				id: "57B560647359B55C"
+				item: "confluence:band_of_regeneration"
+				type: "item"
+			}]
+			x: -3.5d
+			y: -2.0d
+		}
+		{
+			id: "077E82D4312E2340"
+			tasks: [{
+				id: "28A40FF814051C1D"
+				item: {
+					Count: 1
+					id: "potionring:ring_of_regeneration"
+					tag: {
+						affix_data: {
+							sockets: 1
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: -3.5d
+			y: -1.0d
+		}
+		{
+			id: "17BC36036CDFDEA8"
+			tasks: [{
+				id: "4F938C791758D859"
+				item: {
+					Count: 1
+					id: "apotheosis:gem"
+					tag: {
+						affix_data: {
+							rarity: "apotheosis:ancient"
+						}
+						gem: "apotheosis:the_nether/blood_lord"
+					}
+				}
+				type: "item"
+			}]
+			x: -2.5d
+			y: 0.0d
+		}
+		{
+			id: "75862BFC82BBB947"
+			tasks: [{
+				id: "1B090BFF4E1C4D27"
+				item: {
+					Count: 1
+					id: "apotheosis:gem"
+					tag: {
+						affix_data: {
+							rarity: "apotheosis:ancient"
+						}
+						gem: "apotheosis:core/guardian"
+					}
+				}
+				type: "item"
+			}]
+			x: -3.5d
+			y: 0.0d
+		}
+		{
+			id: "27C5EF72BFB57287"
+			tasks: [{
+				id: "74CAC79F33509D3B"
+				item: {
+					Count: 1
+					id: "terramity:ring_of_rejuvenation_plus"
+					tag: {
+						affix_data: {
+							sockets: 1
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: -2.5d
+			y: 1.0d
+		}
+		{
+			id: "7A4ED223B4812924"
+			tasks: [{
+				id: "1132FC7E00755EBB"
+				item: {
+					Count: 1
+					id: "terramity:ring_of_rejuvenation"
+					tag: {
+						affix_data: {
+							sockets: 1
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: -3.5d
+			y: 1.0d
+		}
+		{
+			id: "7B26FF4E52F31274"
+			tasks: [{
+				id: "5BC3020C364CC63E"
+				item: "artifacts:crystal_heart"
+				type: "item"
+			}]
+			x: -2.5d
+			y: 2.0d
+		}
+		{
+			id: "43230844F42229AC"
+			tasks: [{
+				id: "4129853FA4EFFD04"
+				item: "iceandfire_curios:dragon_heart"
+				type: "item"
+			}]
+			x: -2.5d
+			y: -2.0d
+		}
+		{
+			id: "6C9A73A1CCB704C6"
+			tasks: [{
+				id: "092D8261BA738F29"
+				item: {
+					Count: 1
+					id: "potionring:ring_of_resistance"
+					tag: {
+						affix_data: {
+							sockets: 1
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: -2.5d
+			y: -1.0d
+		}
+		{
+			id: "02A008F4FC0602D9"
+			tasks: [{
+				id: "0BD7EBDC9CB4ED07"
+				item: "terramity:crystal_heart"
+				type: "item"
+			}]
+			x: -3.5d
+			y: 2.0d
+		}
+		{
+			id: "0ABCE2FE5C7D4808"
+			tasks: [{
+				id: "1A11B566FE0DC917"
+				item: "scalinghealth:heart_crystal"
+				type: "item"
+			}]
+			x: -3.5d
+			y: -3.0d
+		}
+		{
+			id: "70C0759061F0C50A"
+			tasks: [{
+				id: "575E899E4897EB7E"
+				item: {
+					Count: 1
+					id: "potionring:ring_of_poison"
+					tag: {
+						affix_data: {
+							sockets: 1
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: -2.5d
+			y: -3.0d
+		}
+		{
+			id: "5F1B78F907C2E579"
+			tasks: [{
+				id: "2F764E84A3BCB0F8"
+				item: {
+					Count: 1
+					id: "terramity:poisonguard_pendant"
+					tag: {
+						affix_data: {
+							sockets: 1
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: -3.5d
+			y: -4.0d
+		}
+		{
+			id: "1E0F487E311D2C8D"
+			tasks: [{
+				id: "2F560F44AC15143F"
+				item: "terramity:die_of_revival"
+				type: "item"
+			}]
+			x: -2.5d
+			y: -4.0d
+		}
+		{
+			description: ["&aHere below is some examples of what can keep you alive! Take a look at what each one does. Recommended poison immunity and regeneration. "]
+			icon_scale: 2.0d
+			id: "3E6812AB67D1138A"
+			shape: "diamond"
+			size: 3.0d
+			tasks: [{
+				id: "0CDDF84A6A241611"
+				item: "createdeco:decal_down"
+				type: "item"
+			}]
+			title: "Click Me!"
+			x: -3.0d
+			y: -6.0d
+		}
+	]
+	title: "First Aid"
+}

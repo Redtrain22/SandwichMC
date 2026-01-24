@@ -13,35 +13,6 @@
 			id: "732D80D1F04C6144"
 			rewards: [
 				{
-					id: "3F73835B32A78EBF"
-					item: {
-						Count: 1
-						id: "tacz:modern_kinetic_gun"
-						tag: {
-							GunCurrentAmmoCount: 17
-							GunFireMode: "SEMI"
-							GunId: "daffas_arsenal:hk45_sup"
-							HasBulletInBarrel: 1b
-							display: {
-								Name: "{\"italic\":false,\"translate\":\"daffas_arsenal.gun.hk45_sup\"}"
-							}
-						}
-					}
-					type: "item"
-				}
-				{
-					count: 45
-					id: "4FFB6BD3DDFDB120"
-					item: {
-						Count: 1
-						id: "tacz:ammo"
-						tag: {
-							AmmoId: "tacz:45acp"
-						}
-					}
-					type: "item"
-				}
-				{
 					id: "4E674DB0A4668B11"
 					item: {
 						Count: 1
@@ -54,45 +25,9 @@
 					type: "item"
 				}
 				{
-					id: "5588611C6F4F8FFB"
-					item: {
-						Count: 1
-						id: "iceandfire:deathworm_white_helmet"
-						tag: {
-							Damage: 0
-							affix_data: {
-								sockets: 1
-							}
-						}
-					}
-					type: "item"
-				}
-				{
-					id: "6061DE803F37696E"
-					item: {
-						Count: 1
-						id: "iceandfire:deathworm_white_chestplate"
-						tag: {
-							Damage: 0
-							affix_data: {
-								sockets: 1
-							}
-						}
-					}
-					type: "item"
-				}
-				{
-					id: "639E9857749C8920"
-					item: {
-						Count: 1
-						id: "iceandfire:deathworm_white_leggings"
-						tag: {
-							Damage: 0
-							affix_data: {
-								sockets: 0
-							}
-						}
-					}
+					count: 5
+					id: "10432357BA8CE463"
+					item: "firstaid:bandage"
 					type: "item"
 				}
 			]
@@ -432,7 +367,7 @@
 				}
 			]
 			tasks: [{
-				entity: "specialmobs:zombie"
+				entity: "minecraft:zombie"
 				icon: "minecraft:zombie_head"
 				id: "4FAACA4A5E7AD458"
 				type: "kill"
@@ -466,7 +401,7 @@
 				}
 			]
 			tasks: [{
-				entity: "specialmobs:skeleton"
+				entity: "minecraft:skeleton"
 				icon: "minecraft:skeleton_skull"
 				id: "233DE0FF9DD5D6CA"
 				type: "kill"
@@ -497,7 +432,7 @@
 				}
 			]
 			tasks: [{
-				entity: "specialmobs:spider"
+				entity: "minecraft:spider"
 				id: "604653552840EFF7"
 				type: "kill"
 				value: 5L
@@ -552,7 +487,7 @@
 				}
 			]
 			tasks: [{
-				entity: "specialmobs:creeper"
+				entity: "minecraft:creeper"
 				id: "6D14B30A9AA00175"
 				type: "kill"
 				value: 5L
@@ -903,7 +838,7 @@
 				}
 			]
 			tasks: [{
-				entity: "specialmobs:zombie"
+				entity: "minecraft:zombie"
 				id: "2075CFC9411D68E1"
 				type: "kill"
 				value: 30L
@@ -928,7 +863,7 @@
 				}
 			]
 			tasks: [{
-				entity: "specialmobs:skeleton"
+				entity: "minecraft:skeleton"
 				icon: "minecraft:skeleton_spawn_egg"
 				id: "4694F98F14B5C5E6"
 				type: "kill"
@@ -979,7 +914,7 @@
 				}
 			]
 			tasks: [{
-				entity: "specialmobs:creeper"
+				entity: "minecraft:creeper"
 				id: "728CE96C6CDA03DC"
 				type: "kill"
 				value: 15L
@@ -1003,7 +938,7 @@
 				}
 			]
 			tasks: [{
-				entity: "specialmobs:enderman"
+				entity: "minecraft:enderman"
 				id: "4DF7881B990BB751"
 				type: "kill"
 				value: 5L
@@ -1268,7 +1203,7 @@
 				type: "item"
 			}]
 			tasks: [{
-				entity: "specialmobs:zombie"
+				entity: "minecraft:zombie"
 				id: "129C3E5119935C1F"
 				type: "kill"
 				value: 15L
@@ -1344,7 +1279,7 @@
 				type: "item"
 			}]
 			tasks: [{
-				entity: "specialmobs:creeper"
+				entity: "minecraft:creeper"
 				id: "1F21632EE2B06867"
 				type: "kill"
 				value: 10L
@@ -2603,7 +2538,7 @@
 			y: 2.0d
 		}
 		{
-			description: ["&4Banned Item"]
+			description: ["Reforge Table to reforge your armor!"]
 			id: "1E8CC74602BFB643"
 			rewards: [
 				{
@@ -2625,18 +2560,11 @@
 					type: "item"
 				}
 			]
-			tasks: [
-				{
-					id: "6BE3C9D57DCE20DD"
-					item: "apotheosis:simple_reforging_table"
-					type: "item"
-				}
-				{
-					id: "5744C178566CDFB1"
-					item: "terramity:bedrock_black_matter_ore"
-					type: "item"
-				}
-			]
+			tasks: [{
+				id: "6BE3C9D57DCE20DD"
+				item: "apotheosis:simple_reforging_table"
+				type: "item"
+			}]
 			x: 12.5d
 			y: 0.0d
 		}

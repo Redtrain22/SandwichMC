@@ -82,31 +82,35 @@ hash = "e57d8311aec9f524911ed1313cabf138bb7fa5a2d3ba985a00a2a267ff35ef78"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/end_game.snbt"
-hash = "4f27b6f51ab35e58c81bb3a9136338bfa3de4bec672ec43e05db60fbafc1901f"
+hash = "fd44eee8fda413adc65dbe96608c0d571d0df6b7bd31b8df410196539e0c2722"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/first_aid.snbt"
+hash = "620648569ecb0da97cffd7c7b7b0b525cfbe9c3f770c4ef70bcaa919bf6d2aa5"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/journey.snbt"
-hash = "4b02910bb1599738ef44a8e17469e5bdf3622d85f227f381d0a9d346cffb85c3"
+hash = "c6e0040ee61c457a82e03f0c9097540379a7111423bae54ea9a991266b6033a4"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/journey_to_nether.snbt"
-hash = "d8ad464baa0d098ac8070a8ab1bd49361fcc6a423e173ff002d4e1ec4b20e6f4"
+hash = "15444b6632ef8d74c85e43615a886741f6b86f18b562b93702de560ebe659d27"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/the_deep_void.snbt"
-hash = "2b768114e89f17d1ecbc703e82a7e9554db42c1772ffd42eec3c51fd5b9cc325"
+hash = "9b17f0a62a52119eef95ff9523d584949a2d108c9dea723f468d4cb2f7f16bf8"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/the_end.snbt"
-hash = "0c654f28747870fe8a05c8609d56ae12a1d2cc504b24d46f092a598a1159ac7a"
+hash = "901e7d913957330da755dc5509fe6cbeb8dadc61fa2216a8d19d14344e43c80d"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/the_layers.snbt"
-hash = "b7ec09af64b6a453a219d7be19f3dba33f7bb07cf0236340ac0a312634fedec4"
+hash = "c8ccea2463fdec94a59a54f786747d49107ca1079ed17643bafa534bcaaa8d4a"
 
 [[files]]
 file = "config/ftbquests/quests/data.snbt"
-hash = "530db8ec8cdd640ef7f6a68c30ae55de4ddbd7d27f3af27e5b43dc97c5b7cc12"
+hash = "0fef376c367cb165e7b886c03ada2a3d32abee8abce89b7bf351edd0d6e196aa"
 
 [[files]]
 file = "config/ftbquests/quests/reward_tables/final_reward.snbt"
