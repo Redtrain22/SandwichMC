@@ -70,7 +70,7 @@ hash = "9f49ef86e16455ab9264d713bc78960bd341fe514d890f30cab2a2131d6ec054"
 
 [[files]]
 file = "config/firstaid-client.toml"
-hash = "f2b849ef3b05d5b1b5650eab9bae5e05c673bb2c2448dcf376fe182a34ecc585"
+hash = "c1205845ac8359a4add1712d53d6dd49aea18bf1ba95222f1ce6203e765f3e9e"
 
 [[files]]
 file = "config/firstaid-server.toml"
@@ -118,7 +118,7 @@ hash = "ae0f5c1baf1169a8324dcfb0b663c269f7e2223c6f2eedde9db0276d3297378f"
 
 [[files]]
 file = "config/hardcorerevival-common.toml"
-hash = "e55a3bfbf04243d0af4c4e25a9ee27e016d69943d2c82d3fb90c7d207b14b0f8"
+hash = "7486d5124ef646d6faf6f7c9016134877147ed3c26c0f1877e3a4d0a47f86670"
 
 [[files]]
 file = "config/iceandfire-client.toml"
@@ -138,7 +138,7 @@ hash = "82983b9a231345ea4b186569d33af7fd2189782dfe5a66bd83358578714b98d0"
 
 [[files]]
 file = "config/l2_configs/l2hostility-common.toml"
-hash = "91a5c2a1faa3decca95b8e70bd6761d9fcb8141b584479651bfb89333d15fd6e"
+hash = "78cbc29de28adc2ff0bb503a18b54b4c13f800182063a374bc65a77ca9ea5791"
 
 [[files]]
 file = "config/mcdw/mcdw_stats_config.json5"
@@ -1319,13 +1319,8 @@ hash = "4e721a3949621080440a950b4aba930b91735455238b1ea4f01e25dba3e59c23"
 metafile = true
 
 [[files]]
-file = "mods/overflowing-bars.pw.toml"
-hash = "9cf64722ecfc9f521522bce0da19afff460129f5a718892ce94e89c2765c82c9"
-metafile = true
-
-[[files]]
 file = "mods/passive-skill-tree.pw.toml"
-hash = "e65d0d2a8b664e6f97f503cf3743b3ba0c5288eccb84f276507b7df80725b499"
+hash = "b1b64fa46d74b4457d316d7eef6465f1280a224f86f28c4c8bf880e1dacfe9a8"
 metafile = true
 
 [[files]]

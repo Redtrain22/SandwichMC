@@ -6,7 +6,7 @@ enableStructureSpecificDatapack = true
 [scaling]
 	#Health factor per level
 	#Range: 0.0 ~ 1000.0
-	healthFactor = 0.055
+	healthFactor = 0.037
 	#Use exponential health
 	exponentialHealth = false
 	#Damage factor per level
