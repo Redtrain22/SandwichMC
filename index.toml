@@ -61,6 +61,10 @@ file = "config/configurabledeath-server.toml"
 hash = "8d285255772eb053bac650ca9b7c5397b76784b074824f6abc3b28555cc77df7"
 
 [[files]]
+file = "config/curios-server.toml"
+hash = "80aba7b0f21329c716cdaabe3d19c7d6ec17dbc74d1a7086534e97a93a5c5c3d"
+
+[[files]]
 file = "config/enhancedai/common.toml"
 hash = "6680f68c27b6a8be7752b511d279c6c7f3ba41eb61bcf12e1a21d75bbac5fa01"
 
@@ -158,12 +162,20 @@ hash = "de516ef71d0eec66321e9e81a9170a3288acaa5d9147ace5f6c7856f2e198127"
 metafile = true
 
 [[files]]
+file = "config/scalinghealth-client.toml"
+hash = "331d934cf577993d250df0dc22e064e1b45c2f8484eda6ee8e14893e6927950a"
+
+[[files]]
 file = "config/scalinghealth-server.toml"
 hash = "a59660942156d7a826ce1e6bedb053b3aea3e30a7c296e4ff66c8901ac92a7d0"
 
 [[files]]
+file = "config/securitycraft-client.toml"
+hash = "80e7153793a3a4397a86eb4a699fe6d1af6422e1f709e8969ec8250e1163a146"
+
+[[files]]
 file = "config/skilltree-common.toml"
-hash = "197b82d41c5498fb7db7047493c132b45e0cb856c8b3a995b2ea07b47e335116"
+hash = "e59137fbe3b04f75ccabfbf608fa4fc732e1f93834c5b7459b39b0ced9792262"
 
 [[files]]
 file = "config/torchesbecomesunlight-common.toml"
