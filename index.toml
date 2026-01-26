@@ -495,6 +495,16 @@ hash = "4eb0933494f938aec18b8a2127defffe502645cbcc32cbc3cbf708a83329bdf2"
 metafile = true
 
 [[files]]
+file = "mods/chunk-activity-tracker.pw.toml"
+hash = "d14f8af916ae32583f71a8a243d97699391a81a564e9eb5426c1b547cb859400"
+metafile = true
+
+[[files]]
+file = "mods/chunkanimator.pw.toml"
+hash = "7cc175baf998eefc00bfee6ab087c3df4c7c4751ce23a72f63107b45b2c20ec5"
+metafile = true
+
+[[files]]
 file = "mods/citadel.pw.toml"
 hash = "582a3395721aa482c2a1079d80a78dd59d1a174180c84cea2fad5b9899895770"
 metafile = true
@@ -702,6 +712,11 @@ metafile = true
 [[files]]
 file = "mods/dis-enchanting-table.pw.toml"
 hash = "bdbdfad2c4b157fc18bc7a2eca92c7ce74406b32d55bea19f3510dc2da6b85a5"
+metafile = true
+
+[[files]]
+file = "mods/does-it-tick.pw.toml"
+hash = "34403fb0cfb1ba740c0409d5e9742fd05a963d287e509ced2d2d52b2cb123408"
 metafile = true
 
 [[files]]
@@ -1167,6 +1182,11 @@ metafile = true
 [[files]]
 file = "mods/mcv-biomes-o-plenty.pw.toml"
 hash = "544ae544d465261d36b08a5b26a38ecd5b88ad8e9ab2cf7fa498bddf1d6e488e"
+metafile = true
+
+[[files]]
+file = "mods/mebahels-creatures-baby-skeleton.pw.toml"
+hash = "8c4472adba2eab93ddf9f0b256e66a55b6e4a111fb65c5c1601732be8dedaff8"
 metafile = true
 
 [[files]]
@@ -1727,6 +1747,11 @@ metafile = true
 [[files]]
 file = "mods/travelersbackpack.pw.toml"
 hash = "0d235406b969b0355402d0c92820171774dba91d74012f95420f7131775190b9"
+metafile = true
+
+[[files]]
+file = "mods/txnilib.pw.toml"
+hash = "77c5bf0d72f21521fa00452124d4f59f535633aaee1785e4da470602dde454ab"
 metafile = true
 
 [[files]]

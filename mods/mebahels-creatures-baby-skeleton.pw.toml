@@ -1,0 +1,13 @@
+name = "Mebahel's Creatures - Baby Skeletons"
+filename = "mebahels-creatures-baby-skeleton-1.0.0-fabric-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/dDEWa5VQ/versions/JNsA9nDO/mebahels-creatures-baby-skeleton-1.0.0-fabric-1.20.1.jar"
+hash-format = "sha1"
+hash = "9f867101123642b1b7bbbed0e285bdfbca2fe6c5"
+
+[update]
+[update.modrinth]
+mod-id = "dDEWa5VQ"
+version = "JNsA9nDO"
