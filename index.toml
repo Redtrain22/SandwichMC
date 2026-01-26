@@ -500,11 +500,6 @@ hash = "d14f8af916ae32583f71a8a243d97699391a81a564e9eb5426c1b547cb859400"
 metafile = true
 
 [[files]]
-file = "mods/chunkanimator.pw.toml"
-hash = "7cc175baf998eefc00bfee6ab087c3df4c7c4751ce23a72f63107b45b2c20ec5"
-metafile = true
-
-[[files]]
 file = "mods/citadel.pw.toml"
 hash = "582a3395721aa482c2a1079d80a78dd59d1a174180c84cea2fad5b9899895770"
 metafile = true
